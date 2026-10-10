@@ -1,2798 +1,5 @@
 window.GOVVACANCY_LISTINGS = [
   {
-    "id": "dpsa-0fa17f0b3cd7a2d0",
-    "title": "ASSISTANT DIRECTOR: S/DIR: ECD CENTRES - CONDITIONAL GRANT (DATA QUALITY MANAGER E-CARES)",
-    "department": "Department of Education",
-    "province": "Mpumalanga",
-    "location": "Head Office, Mbombela",
-    "category": "Information Technology",
-    "salary": "R487 197 per annum",
-    "closingDate": "2026-10-08",
-    "publishedDate": "2026-09-11",
-    "circular": "Circular 33 of 2026",
-    "reference": "A6/118",
-    "summary": "Monitoring and improving accuracy, completeness and consistency of ECD \ndata in the Early Childhood Administration and Reporting System (eCares). \nSupporting district and provincial users with data entry, uploads, corrections \nand troubleshooting. Conducting data quality checks and implementing \nimprovement measures. Maintaining records of discrepancies, resolutions and \nreporting artefacts. Supporting the preparation of routine provincial and district \nreports. Conducting and supporting user training and capacity-building. \nPromoting the utilisation of dashboards and reports for planning and service \ndelivery. Supporting user access manageme",
-    "requirements": [
-      "A SAQA-recognised three-year post-matric qualification (NQF L6 or higher) in \nData Management, Information Systems, Statistics, Social Sciences, \nMonitoring and Evaluation or a related field. Five years’ experience in data \nmanagement, data quality assurance, monitoring or system support. \nExperience in the education sector data (e.g., EMIS) or ECD programmes is \nbeneficial. Knowledge of database management. Knowledge of business \nintelligence reporting. Strong proficiency in Microsoft Excel and data validation. \nStrong proficiency in Business Intelligence tools (e.g., Power BI, Tableau) is \na"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/33/r.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-33-of-2026/"
-  },
-  {
-    "id": "dpsa-1026e086d196c50f",
-    "title": "CHIEF DIRECTOR: HR MANAGEMENT",
-    "department": "Department of Education",
-    "province": "Mpumalanga",
-    "location": "Head Office, Mbombela",
-    "category": "Finance",
-    "salary": "R1 554 696 per annum",
-    "closingDate": "2026-10-08",
-    "publishedDate": "2026-09-11",
-    "circular": "Circular 33 of 2026",
-    "reference": "A6/107",
-    "summary": "Ensure the development, planning, implementation, monitoring, assessment \nand co-ordination of policy and systems for the rendering of human resource \nmanagement-, labour relations as well as human resource development \nservices. Manage HR planning and -provisioning, remuneration and -\nperformance matters. Manage labour relations, as well as matters related to \nincapacity, inefficiency and misconduct. Manage the rendering of human \nresource development services. Ensure compliance, implementation and \nmaintenance of national and provincial policy frameworks in the responsible \nareas of activity. Ensure mission effectiveness and operational eff",
-    "requirements": [
-      "An appropriate SAQA recognised Bachelors Degree or Advanced Diploma or \nequivalent qualification (NQF level 7) relevant to the specific field plus a \nminimum of 5 years experience at senior managerial level. Proven outstanding \nmanagerial and service delivery competency. In depth knowledge and \nunderstanding of the relevant policy frameworks including the Public Service \nAct and Regulations, the national and provincial HR and IT policy frameworks, \nPFMA and Financial Regulations, as well as the legislation and policies \ngoverning the provisioning, employment and conditions of service of \neduca"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/33/r.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-33-of-2026/"
-  },
-  {
-    "id": "dpsa-4ead51805529fcb1",
-    "title": "DEPUTY DIRECTOR-GENERAL: OFFICE OF THE CFO",
-    "department": "Department of Education",
-    "province": "Mpumalanga",
-    "location": "Head Office, Mbombela",
-    "category": "Finance",
-    "salary": "R1 885 710 per annum",
-    "closingDate": "2026-10-08",
-    "publishedDate": "2026-09-11",
-    "circular": "Circular 33 of 2026",
-    "reference": "A6/106",
-    "summary": "Develop, implement and maintain appropriate mechanisms to timeously \nrespond to the changing needs for financial information, the interpretation \nthereof and the rendering of technical advice to the Accounting Officer. Ensure \nthat the financial resources and assets of the Department are utilised \neffectively and economically to realize the objectives of the Strategic Plan. \nProvide technical advice to Line Managers to ensure the equitable allocation, \nmaintenance and utilization of resources in line with the strategic objectives of \nthe Department, legislative imperatives and good governance principles. \nEnsure compliance with the provisions",
-    "requirements": [
-      "An appropriate SAQA recognised Honors Degree or Post Graduate Diploma or \nequivalent qualification (NQF level 8) relevant to the specific field plus a \nminimum of 8 years experience at senior managerial level. Registration as CA \n(SA) would be an added advantage. Valid driver's license. Knowledge, skills, \ntraining and competencies required: Sound technical knowledge of GRAP \n(Generally Recognised Accounting Practices), which will encompass the \ntransition to the accrual basis of accounting, performance budgeting and the \nPublic Service Legislative Framework for Financial and Supply Chain \nMan"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/33/r.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-33-of-2026/"
-  },
-  {
-    "id": "dpsa-987b6f9d5b2a6b3b",
-    "title": "DEPUTY DIRECTOR: FINANCIAL SERVICES (INFRASTRUCTURE–DORA)",
-    "department": "Department of Education",
-    "province": "Mpumalanga",
-    "location": "Head Office, Mbombela",
-    "category": "Finance",
-    "salary": "R932 292 per annum",
-    "closingDate": "2026-10-08",
-    "publishedDate": "2026-09-11",
-    "circular": "Circular 33 of 2026",
-    "reference": "A6/110",
-    "summary": "Give direction to and coordinate all Financial Management functions for the \nChief Directorate including all financial issues and supply chain management \nissues pertaining to infrastructure projects/programmes. Extract, analyse and \nvalidate financial information for infrastructure projects/programmes. Provide \nfinancial administration services for all infrastructure Programmes and \nProjects. Prepare financial reports. Provide budget administration services. \nUpdate and maintain a document management system for all financial \ndocumentation.",
-    "requirements": [
-      "Appropriate degree (NQF 7) in Commerce or Accounting or Economics and \nfive (5) years’ relevant post-qualification (after completing qualification) \nexperience. Computer literate. Understanding financial management as \nimplemented in the Government and within the context of infrastructure \nbudgeting and spending. Valid driver’s license. Computer literacy. All \nshortlisted candidates, including the SMS, shall undertake two pre-entry \nassessments. One will be a practical exercise to determine a candidate’s \nsuitability based on the post’s technical and generic requirements and the other \nmust be"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/33/r.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-33-of-2026/"
-  },
-  {
-    "id": "dpsa-2f9f4d2ac154bbea",
-    "title": "DEPUTY DIRECTOR: S/DIR: ECD CENTRES - CONDITIONAL GRANT (PROV MANAGER E-CARES)",
-    "department": "Department of Education",
-    "province": "Mpumalanga",
-    "location": "Head Office, Mbombela",
-    "category": "Finance",
-    "salary": "R932 292 per annum",
-    "closingDate": "2026-10-08",
-    "publishedDate": "2026-09-11",
-    "circular": "Circular 33 of 2026",
-    "reference": "A6/116",
-    "summary": "Gather national business process reform plans and interpret them in line with \nprovincial requirements. Facilitates the adaptation of the national plans to \ndevelop integrated provincial implementation plans on ECD registration, \ninfrastructure support, subsidy management and quality assurance and \nsupport. Coordinates the development, execution and monitoring of provincial \nSilver/Gold registration and subsidy implementation plans across all districts. \nEnables and support execution of the Provincial Programme Management Unit \n(PPMU) governance structures and processes to ensure effective and efficient \nexecution of integrated provincial reg",
-    "requirements": [
-      "An undergraduate qualification (NQF 7) as recognised by SAQA in the relevant \nfield or equivalent qualification. Minimum of 5 years’ relevant experience in an \nECD environment. Valid driver's license. Knowledge of the key challenges in \nthe ECD sector and how these can be mediated to improve the quality of \nlearning outcomes in schools and to contribute to success in later life. \nKnowledge of the key business processes in the ECD sector, including \nregistration, subsidy management and reporting processes to accurately \ndiagnose execution strengths and weaknesses, identify key issues, and \ndeve"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/33/r.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-33-of-2026/"
-  },
-  {
-    "id": "dpsa-efb2b084c3443cf8",
-    "title": "DEPUTY DIRECTOR: S/DIR: ECD CENTRES - CONDITIONAL GRANT (SYSTEM MANAGER E-CARES)",
-    "department": "Department of Education",
-    "province": "Mpumalanga",
-    "location": "Head Office, Mbombela",
-    "category": "Information Technology",
-    "salary": "R932 292 per annum",
-    "closingDate": "2026-10-08",
-    "publishedDate": "2026-09-11",
-    "circular": "Circular 33 of 2026",
-    "reference": "A6/117",
-    "summary": "Provincial eCares system use and performance management. Leading \nprovincial support for system usage, performance and adoption. Monitoring \nuser compliance with system functionality and data workflows. Advocating \nsystem utilisation for decision-making. User support and access management. \nManaging first line helpdesk support for PED users. Managing user access, \nroles and permissions. Escalating issues promptly to national and service \nproviders. User training and capacity building, which entails conducting \nongoing training on: New releases; Functional improvements; Reporting and \ndashboards. Supporting districts and circuits to drive usag",
-    "requirements": [
-      "A SAQA recognised three-year post-matric qualification (NQF Level 7) in \nInformation Systems / ICT / Computer Science / Data or related field. 7 years’ \nrelevant experience in Systems Administration and user support. Valid driver's \nlicense. Knowledge of Cloud-based system operations. Knowledge of the \nprovincial EMIS environment and/ or ECD system landscape. Knowledge of \ndatabase management. Knowledge of business intelligence reporting. Skills \nshould include User Acceptance Testing (UAT) and training facilitation as well \nas data reporting and system usage monitoring. Strong analytical, dat"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/33/r.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-33-of-2026/"
-  },
-  {
-    "id": "dpsa-95f3f2a6e9ae0491",
-    "title": "DIRECTOR: INCLUSIVE EDUCATION AND EDUCATION SUPPORT REF NO: A6/108",
-    "department": "Department of Education",
-    "province": "Mpumalanga",
-    "location": "Head Office, Mbombela",
-    "category": "Finance",
-    "salary": "R1 317 384 per annum",
-    "closingDate": "2026-10-08",
-    "publishedDate": "2026-09-11",
-    "circular": "Circular 33 of 2026",
-    "reference": "A6/108",
-    "summary": "The Department of Education seeks to employ a dynamic leader as Director \nfor the Inclusive Education Directorate. The successful candidate will take \nresponsibility for the development and maintenance of policy, programmes and \nsystems for inclusive education. He or she will also be a member of the \nmanagement structure of the Department, and will be expected to contribute \nat that level. The Directorate is responsible for a range of functions, including: \nDevelopment, evaluation and maintenance of policy, programmes and systems \nfor; ordinary learners, learners with special learning needs and, psychological, \nguidance and social support pro",
-    "requirements": [
-      "An appropriate SAQA recognised Bachelors Degree or Advanced Diploma or \nequivalent qualification (NQF level 7) relevant to the specific field plus a \nminimum of 5 years experience at a middle/senior managerial level. \nKnowledge of and experience in high level planning and management. He or \nshe will provide strategic leadership in the Directorate. Knowledge of \ngovernment and departmental policies as well as proven ability to work as part \nof a team. Competencies: In depth knowledge and understanding of all \nlegislation related to the Public Service and the education sector. Distinct \ncompeten"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/33/r.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-33-of-2026/"
-  },
-  {
-    "id": "dpsa-a158aed2fab05278",
-    "title": "DIRECTOR: PUBLIC EXAMINATIONS",
-    "department": "Department of Education",
-    "province": "Mpumalanga",
-    "location": "Head Office, Mbombela",
-    "category": "Education",
-    "salary": "R1 317 384 per annum",
-    "closingDate": "2026-10-08",
-    "publishedDate": "2026-09-11",
-    "circular": "Circular 33 of 2026",
-    "reference": "A6/109",
-    "summary": "Manage the examination administration system including certification- and \nlogistical services. Manage the rendering of IT and data management support \nsystems and examination administrative support services. Manage and coordinate the development and editing of question papers. Manage production \nof question papers and manage the overseeing of marking processes of \ncontent- languages and technical subjects. Manage the rendering of \nexamination policy compliance and district co-ordination services. Identify and \nresolve examination irregularities. Manage GET and FET examinations as \nschool based assessments. Manage the rendering of general adm",
-    "requirements": [
-      "An appropriate SAQA recognised Bachelors Degree or Advanced Diploma or \nequivalent qualification (NQF level 7) relevant to the specific field plus a \nminimum of 5 years experience at a middle/senior managerial level. Valid \ndriver's license. Shortlisted candidates will be subjected to a relevant technical \nexercise. Please note: With effect from 1 April 2020, an individual may only \nqualify for appointment at SMS level provided that said official has successfully \ncompleted a Public Service Senior Management Leadership Programme and \nthat he/she can produce the required Pre-entry Certificate a"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/33/r.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-33-of-2026/"
-  },
-  {
-    "id": "dpsa-8a2b759f9d010929",
-    "title": "SENIOR ADMIN OFFICER: S/DIR: ECD CENTRES - CONDITIONAL GRANT (SUPPORT SYSTEMS E-CARES)",
-    "department": "Department of Education",
-    "province": "Mpumalanga",
-    "location": "Head Office, Mbombela",
-    "category": "Information Technology",
-    "salary": "R413 001 per annum",
-    "closingDate": "2026-10-08",
-    "publishedDate": "2026-09-11",
-    "circular": "Circular 33 of 2026",
-    "reference": "A6/119",
-    "summary": "Provide first-line support to district officials and ECD centres on eCares usage, \ndata capture, and troubleshooting. Provide technical support to users with data \ncollection, document uploads, enrolment updates, and system transactions. \nEscalate unresolved technical issues to provincial or national support \nstructures where required. Support continuous improvement of training \napproaches based on user feedback and district user needs. Promote a culture \nof data use, learning, and accountability within district ECD structures. Provide \ndata management and maintenance support to district users.",
-    "requirements": [
-      "Relevant post-school qualification in Information Systems, Education, Data \nAnalysis, Public Administration, or related field. Experience supporting system \nrollouts, training, or user support (preferably in education or ECD). Computer \nliteracy and confidence working with digital systems. Willingness to travel \nwithin the district and work directly with users on-site. Strong computer literacy \n(MS Office, online systems, data entry platforms). Practical experience using \ninformation systems or databases. Intermediate data analysis and reporting \nskills. Training facilitation and user support "
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/33/r.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-33-of-2026/"
-  },
-  {
-    "id": "dpsa-c50f507e61eadcdc",
-    "title": "ADMINISTRATION CLERK (ADMISSIONS FEES DEPARTMENT) (PATIENT ADMINISTRATION: INPATIENT AND OUTPATIENTS)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Groote Schuur Hospital, Observatory",
-    "category": "Finance",
-    "salary": "R237 453 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/314",
-    "summary": "In-patient and out-patient administration functions according to PGWC policies \nand procedures. Clinicom, Billing, Hectis and other PGWC system computer \nduties. Reception tasks. Responsible for handling and receiving public money. \nCash Collection and Banking of State Money. Admission, transfer and \ndischarge of patients as per PGWC Hospital Fees policies and procedures. \nDebiting of Charge Entries to invoices as per UPFS and PGWC billing \nprocedures. Attending to patient queries (verbal, written and telephonic). \nICD10 Coding. Covering for colleagues in areas.",
-    "requirements": [
-      "Minimum educational qualification: Senior Certificate (or equivalent) with \nMathematics and/or Accountancy as a passed subject and /or Senior \nCertificate with experience / competencies that focus on the Key Performance \nAreas (KRA’s) of the post. Experience: Appropriate experience in a Hospital \nFees environment. Inherent requirement of the job: Must be willing to work \nshifts. Competencies (knowledge/skills): Knowledge of the following: Hospital \nFees Memorandum 18, UPFS, HIS Clinicom, Finance Instructions. Strong \nsense of confidentiality. Ability to work under pressure. Ability to accept \n"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-af2db26dcf1ad55c",
-    "title": "ADMINISTRATION CLERK: ADMISSIONS",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Stellenbosch Hospital, Stellenbosch Sub-district",
-    "category": "Healthcare",
-    "salary": "R237 453 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/316",
-    "summary": "Effective registration of patient information on Clinicom. Handling of state \nmonies - responsible for sound cash management. Ensure all attendances / \nadmissions are captured including downtime. Medical records; open new \nfolders, record keeping, filing, drawing of folders, merging, culling, archiving \nand the disposal of patient folders. Ensure effective and efficient \nimplementation of all applicable policies, procedures and instructions. Ad-hoc \nadmin duties, handle telephone and over the counter enquiries professionally. \nSupport to supervisor and staff members.",
-    "requirements": [
-      "Minimum educational qualification: Senior Certificate (or equivalent) with \nmathematics and/or Accounting as a passed subject and/or Senior certificate \n(or equivalent) with experience/competencies that focus on the Key \nPerformance Areas (KRA’s)of the post. Experience: Appropriate experience in \nPatient Administration, Medical Records and Clinicom. Inherent requirements \nof the job: Willingness to work 12-hour shifts (which include night duty, \nweekends and public holidays) and overtime to meet operational requirements. \nComply with internal rotation schedules within the component. Competenci"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-6d176bb586902bdc",
-    "title": "ADMINISTRATION CLERK: INFORMATION MANAGEMENT",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Karl Bremer Hospital",
-    "category": "Healthcare",
-    "salary": "R237 453 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/311",
-    "summary": "Rendering of information administration to ensure data that is reliable, \nreproducible and documented to create an auditable trail, routine data \ncapturing & reporting (Sinjani & DHIS). Assist with data quality monitoring, \nverification and submission in prescribed format and according to the \nInformation Management Policy and assist in monitoring of data trends. \nParticipate in information related coordinating activities. Interaction with all \nlevels of staff regarding Information related matters to ensure an effective, \ntransparent process of data collection, collation, submission and presentation. \nSystems support - data quality, accuracy ",
-    "requirements": [
-      "Minimum educational qualification: Senior certificate (or equivalent). \nExperience: Appropriate experience in health information management. \nAppropriate experience and working knowledge of Health Information \nSystems, e.g. Sinjani, Clinicom, eCCR, DHIS, NHLS & Healthnet. Inherent \nrequirements \nof \nthe \njob: \nValid \ndriver’s \nlicence. \nCompetencies \n(knowledge/skills): \nGood \nnumerical \nand \norganisational \nskills, \ngood \ninterpersonal and conflict resolution skills. Knowledge with regards to HAST, \nHospital and Primary Health Care operational and management of data, \nknowledge of data flow t"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-cc8933ae99b44f9c",
-    "title": "ADMINISTRATION CLERK: INFORMATION MANAGEMENT",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Khayelitsha District Hospital, Khayelitsha/Eastern Sub-structure",
-    "category": "Healthcare",
-    "salary": "R237 453 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/313",
-    "summary": "To ensure correctness, accuracy and qualitative checking of data. The \ncapturing and the generating of hospital data reports. Effectively perform \nactivities on clinicom, ECCR, SPV, HECTIS and Sinjanie. Health information \nsystems (HIS) and ensuring security of data, compliant storage of all data and \nrecord information. To provide administrative and operational support role to \nthe unit and management.",
-    "requirements": [
-      "Minimum educational qualification: Senior Certificate (or equivalent). \nExperience: Appropriate information management experience in a health \nenvironment. Appropriate Clinicom experience, ECCR, SPV, HECTIS, and \nSinjanie. \nCompetencies \n(knowledge/skills): \nComputer \nLiteracy. \nGood \ninterpersonal and communication skills. Ability to accept accountability and \nresponsibility and to work independently and unsupervised."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-4ee2354201e58d8c",
-    "title": "ADMINISTRATION CLERK: INFORMATION MANAGEMENT",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Dr Abdurahman Community Day Centre",
-    "category": "Healthcare",
-    "salary": "R237 453 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/315",
-    "summary": "Data Collection, Collation, Capturing & Reporting. Perform administrative role \nas a member of the Information Management team. Office administration (filing \nprocess, telephone and letters etc). Assist with data management quality \nmonitoring. Interpret and analyse data trends. Participate in health information \nco-ordinating activities. Maintain data retrieval efficiency.",
-    "requirements": [
-      "Minimum educational qualification: Senior Certificate (or equivalent). \nExperience: \nAppropriate \nexperience \nin \nInformation \nManagement. \nCompetencies (knowledge/skills): Computer literacy (MS Word, Excel, \nPowerPoint and Access). Understand the Ditcom process. Knowledge and \nexperience in departmental systems, i.e. Health Information Systems, Sinjani \netc."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-3884e9c177d29e25",
-    "title": "ADMINISTRATION CLERK: INFORMATION MANAGEMENT",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Stellenbosch PHC, Stellenbosch Sub-district",
-    "category": "Healthcare",
-    "salary": "R237 453 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/320",
-    "summary": "Assist AO and SAO in all health statistics within the Sub-district. Responsible \nfor good quality data, PHC, HAST, CBS and Hospital. Assist Information \nmanagement in implementation of information systems, including DITCOM \nprocess and register. Responsible for computer, printer and consumables \nregisters. Assist all users with all system related queries and assist users with \nonline and telephonic helpdesk calls. Render a supportive function to primary \nhealth care facilities and hospital in Stellenbosch Sub-district, with regards to \ninformation management. Office administration with regards to filing process, \ntelephone and letters, office",
-    "requirements": [
-      "Minimum educational qualification: Senior Certificate (or equivalent). \nExperience: Appropriate relevant working experience in Information \nManagement and experience of Health Information Systems (Clinicom, \nPHCIS, Sinjani, Ideal Health Facility, SPV, EDRweb and BI), including \nmonitoring and evaluation of performance information and systems. Inherent \nrequirements of the job: Valid (Code B/EB) driver’s licence. Competencies \n(knowledge/skills): Good numerical, data analysis, presentation and training \nskills and leadership abilities. Good working knowledge. Computer skills in Ms \nOffice (i.e."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-6dca9de7797ea559",
-    "title": "ADMINISTRATION CLERK: INFORMATION MANAGEMENT (X2 POSTS)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Kensington CDC and Du Noon CHC",
-    "category": "Healthcare",
-    "salary": "R237 453 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/318",
-    "summary": "Perform administrative role as a member of the information management team \nand participation in health information co-ordinating activities. Collect, collate, \ncompile data, validate data, analyse data trends, ensuring proper data flow, \ndata quality monitoring and data reporting timeously. Conduct data spot checks \nand trends analysis for all datasets and follow up with issues identified. Attend \nto Ad Hoc Queries and Data Requests. Assist with all campaign data collection, \ncollation, capturing, and data quality. Conduct internal audits at Facility in line \nwith SOP’s and auditor general requirements and provide feedback to facility \nstaff",
-    "requirements": [
-      "Minimum educational qualification: National Senior Certificate (or equivalent). \nExperience: Appropriate practical experience in Information Management in a \nhealth environment. Competencies (knowledge/skills): Ability to communicate \neffectively (verbal and written). Knowledge of Department of Health policies, \nacts, legislation and circulars. Knowledge of Information management \nprocesses \nand \nprocedures/Standard \nOperating \nProcedures \n(SOP’s). \nKnowledge of Computer systems: SINJANI, Clinicom, PHCIS, Tier.net and \nEDR.web. Knowledge and understanding of HAST programme data tools. MS \nOffi"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-66ff1ee55cc6ca4c",
-    "title": "ADMINISTRATION CLERK: SUPPLY CHAIN MANAGEMENT",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "West Coast TB Complex (Sonstraal Hospital)",
-    "category": "Education",
-    "salary": "R237 453 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/317",
-    "summary": "Perform all Supply chain functions. Ensure proper filling of documentation \npertaining to receiving, issuing, and recording of transaction on the Supply \nChain Systems (LOGIS) and filing of source documents. Responsible to \nconduct regular stock count and prevent shortages and surpluses within area \nof responsibility. Responsible to prevent theft, damages and report any \ndiscrepancies to supervisor and senior management. Responsible to maintain \nminimum and maximum stock level to avoid stock shortages/ out- outs. Follow \nup on outstanding deliveries (orders) with the supplier. Ensure compliance to \nall relevant laws and prescripts related to ",
-    "requirements": [
-      "Minimum educational qualification: Senior Certificate (or equivalent) with \nmathematics and/or Accounting as a passed subject and/or Senior certificate \n(or equivalent) with experience/competencies that focus on the Key \nPerformance Areas (KRA’s)of the post. Experience: Appropriate experience in \nprocurement, asset management, warehousing and on Procurement \n(Electronic Procurement System). Inherent requirements of the job: Valid B/EB \ndriver’s licence. Physically fit and able to lift heavy items. Competencies \n(knowledge/skills): Knowledge and or practical experience of the LOGIS \nSystem, War"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-734b154d43ee5fd6",
-    "title": "ADMINISTRATION CLERK: SUPPLY CHAIN MANAGEMENT",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Head Office, Cape Town, (Bellville Engineering Workshop)",
-    "category": "Finance",
-    "salary": "R237 453 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/319",
-    "summary": "Demand and acquisition management of goods, services and infrastructure. \nAdvertising bids and sourcing quotation via EPS. Preparation of procurement \nbatches for the Quotation Committee. Adjudication of bids via EPS. Ensure that \nall transactions comply with legislative and prescripts requirements. Prepare \nand process all documentation for BAS payments. Update and record all \nProjects on the Engineering database. Assist with general ad hoc functions as \nand when required.",
-    "requirements": [
-      "Minimum educational qualification: Senior Certificate (or equivalent) with \nMathematics and/or Accounting as a passed subject and/or Senior Certificate \n(or equivalent) with experience/competencies that focuses on the Key \nPerformance Areas of the post. Experience: Appropriate experience in Supply \nChain Management. Competencies (knowledge/skills): Knowledge of SCM \nprocesses. Knowledge of Financial Management. Knowledge of Preferential \nProcurement Policy Framework Act (PPPF). Knowledge of Broad Black Based \nEconomic Empowerment (BBBEE). Knowledge of Construction Industry \nDevelopment Board ("
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-55d120197ecc619d",
-    "title": "ADMINISTRATION CLERK: SUPPORT",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Emergency Medical Services, (Central Karoo District) \n\n224",
-    "category": "Information Technology",
-    "salary": "R237 453 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/312",
-    "summary": "Render administrative support to the district manager and the rest of the \ndistrict. Efficient Office Management, filing and record keeping and sound \nadministrative skills. Diary management of the District Manager. Arranging of \nmeetings and minute taking. Compiling of documents needed for the meeting. \nEnsure effective and efficient control of equipment in component. Handling of \nall telephonic and email enquiries from internal and external stakeholders. \nCompiling and typing of submissions and letters. Assist with projects within the \ndepartment. Receiving of confidential documents and the distribution thereof. \nScreen necessary documents ",
-    "requirements": [
-      "Minimum educational qualification: A Matric (Grade 12) or equivalent \nqualification. Experience: Appropriate administrative experience in line with the \nduties. Inherent requirements of the job: Valid Code 8 or Code 10 Driver’s \nLicense. Excellent computer literacy in the MS Office package. Ability to travel \nbetween EMS districts and external stakeholders. Willingness to assist with \ndepartmental logistics and event planning. Competencies (knowledge/skills): \nGood interpersonal and organizational skills. Ability to function independently \nand within a team environment."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-ee258331ec434ead",
-    "title": "ADMINISTRATION INTERNS",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Administration",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/01",
-    "summary": "Bachelor’s Degree in Public Administration/Political Science/ International \nRelations/ Public Affairs or Management",
-    "requirements": [
-      "Bachelor’s Degree in Public Administration/Political Science/ International \nRelations/ Public Affairs or Management"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-9ca361c1b4c0ebec",
-    "title": "ADMINISTRATIVE CLERK: WORKSHOP",
-    "department": "Department of Public Works And Infrastructure",
-    "province": "National",
-    "location": "Pretoria Regional Office",
-    "category": "Finance",
-    "salary": "R237 453 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "2026/347",
-    "summary": "Provide administration of job cards: -Register and file new job cards. Make \nfollow up on outstanding job cards. Monitor the updating of information on job \ncard. Circulate information on job cards. Set queries and problems on job \ncards. Render general clerical support services: - Assist with the ordering of \nworkshop material and equipment. Record, organise, store, capture and \n\n90 \n\nretrieve correspondence and data. Update registers and statistics. Make \nphotocopies as required. Distribute documents/packages to various \nstakeholders as required. Administer client complaints and queries: -Maintain \nan active query register for the unit. Add",
-    "requirements": [
-      "A minimum of Senior Certificate/ Grade 12. No previous experience required. \nKnowledge: Works Control System (WCS); Basic Accounting System (BAS); \nPublic Finance Management Act (PFMA); Treasury Regulations; financial \nmanagement and administration; State budgetary systems business-, \naccounting- and financial systems. Logis. Skills: Numeracy; accounting; \norganising; interpersonal skills; diplomacy; ability to follow a pro-active and \ncreative problem-solving approach; communication computer literacy."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/m.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-908fecf7b418ef0a",
-    "title": "ADMINISTRATIVE OFFICER: CLEANING SERVICES",
-    "department": "Department of Public Works And Infrastructure",
-    "province": "National",
-    "location": "Pretoria Regional Office",
-    "category": "Healthcare",
-    "salary": "R338 106 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "2026/346",
-    "summary": "Facilitate the ordering and distribution of cleaning material and equipment: \nPrepare documentation for requisitions. Capture requests on LOGIS. \nRecommend the purchasing of cleaning materials and equipment. Verify the \npurchase and distribution of cleaning materials and equipment. Order cleaning \nmaterial and equipment from suppliers. Maintain supplies inventory by \nchecking stock to determine inventory level. Execute the supervision of \ncleaning services to maintain hygienic environment-: Administer cleaning \nschedules for clients. Administer requests from client departments. Monitor \nservices rendered by in house staff and private contract",
-    "requirements": [
-      "A minimum of three-year tertiary qualification (NQF Level 06) / National \nDiploma in Public Administration or related field. Relevant years of work \nexperience in the relevant fields. Knowledge Procurement and tender \nregulations; Occupational Health and Safety; Labour Relations Act; Public \nFinance Management Act. Skills: Numeracy Interpersonal and diplomacy skills; \nadvisory skills; supervisory skills; general administration and organisational \nskills; computer utilization; analytical thinking; problem solving skills; \ncommunication and report writing abilities."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/m.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-4372156b81d2e106",
-    "title": "ADMINISTRATIVE OFFICER: SUPPORT SERVICES",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Wesfleur Hospital",
-    "category": "Finance",
-    "salary": "R338 106 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/302",
-    "summary": "Effective and efficient supervision of the Support Services Sections (Drivers, \nPorters, transport, telecommunication, linen and laundry, catering, workshop, \ngrounds and security services). Responsible for Contract Management \n(Infection control, Grounds, Security Services). Responsible for administrative \nduties and render assistance to the supervisor and the facility. Ideal Hospital \nFramework, regulated norms & standards, etc.) at the Hospital. Support to the \nAssistant-Director: Support Services.",
-    "requirements": [
-      "Minimum educational qualification: Grade 12/Senior Certificate. Experience: \nAppropriate experience within a support services environment and contract \nmanagement. Inherent requirements of the job: Valid (Code B/EB) drivers’ \nlicence. Competencies (knowledge/skills): Knowledge of Human Resource, \nFleet Management, SCM procedures, Labour Relations policies and prescripts \nand Service Level Agreements in respect of Outsourced Services. Good \n\n218 \n\ncommunication skills, both verbal and written and computer skills (MS Office, \nExcel and Word). Ability to draft and implement standard operating pro"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-0dc1adcc933d6529",
-    "title": "AIR TRANSPORT INTERN",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Other",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/28",
-    "summary": "National Diploma/ Bachelor’s degree in Air Transport Management/ Transport \nManagement/ Transport Logistics/ Transport Economics/ Aeronautical Studies/ \nFlight Dispatch/ Aviation Management/ relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Air Transport Management/ Transport \nManagement/ Transport Logistics/ Transport Economics/ Aeronautical Studies/ \nFlight Dispatch/ Aviation Management/ relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-2183831c62fdf468",
-    "title": "ARTISAN ASSISTANT",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "George Regional Hospital",
-    "category": "Healthcare",
-    "salary": "R201 093 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/323",
-    "summary": "Perform minor maintenance and repairs to hospital buildings, infrastructure, \nfixtures, fittings and equipment. Assist with plumbing, carpentry, electrical, \npainting, glazing, mechanical and general building maintenance activities. \nAssist Artisans with repairs, installations, alterations, preventative maintenance \nand minor infrastructure improvement and refurbishment projects. Prepare \nwork areas, tools, equipment and materials and assist with dismantling, \ninstallation, assembly and movement of equipment and components.",
-    "requirements": [
-      "Minimum educational qualification: Grade 10 (or equivalent). Experience: \nAppropriate experience in general building maintenance, minor repairs and/or \nassisting Artisans with maintenance activities in a building, institutional or \nsimilar environment. Inherent requirements of the job: Valid Code B/EB/C1 \ndriver’s licence. Ability to perform heavy physical labour. Available to perform \nstandby and overtime duties. Competencies (knowledge/skills): Basic technical \nand maintenance knowledge. Ability to perform minor maintenance and repair \nwork and safely use hand and power tools. Knowledge of O"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-1e302e23f47a0b76",
-    "title": "ARTISAN PRODUCTION GRADE A TO C (BUILDING AND CIVILS)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Groote Schuur Hospital, Observatory",
-    "category": "Engineering",
-    "salary": "R253 341 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/309",
-    "summary": "Provide maintenance, repair, and installation services for buildings, civil \ninfrastructure, and related equipment under the control of the Building and Civil \nEngineering Division. Inspect, diagnose, and rectify faults within the scope of \nthe relevant trade. Assist with planning and execution of building maintenance \nprojects and minor capital works. Manage and monitor contractors and service \nproviders to ensure compliance with specifications, quality standards, and \nsafety requirements. Liaise with Engineering management, hospital \ndepartments, contractors, and suppliers regarding maintenance activities. \nEvaluate, investigate, and advise",
-    "requirements": [
-      "Minimum educational qualification: Appropriate Trade Test Certificate in \nBuilding and Civil Trade (e.g. Bricklaying or Tilling or Drywalling). Experience: \nGrade A: No experience required. Grade B: At least 18 years \nappropriate/recognizable experience in the area after obtaining the relevant \nTrade Test Certificate. Grade C: At least 34 years appropriate/recognizable \nexperience in the area after obtaining the relevant Trade Test Certificate. \nInherent requirements of the job: A valid vehicle driver’s license. Competencies \n(knowledge/skills): Sound knowledge of maintenance and repair of bui"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-9f38912d65a5d035",
-    "title": "ARTISAN PRODUCTION GRADE A TO C (PLUMBING)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Caledon Hospital, Theewaterskloof Sub-district \n\n223",
-    "category": "Healthcare",
-    "salary": "R253 341 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/310",
-    "summary": "Manage the workshop and its functions, and perform repairs, maintenance and \ninstallations for the different facilities and assist with managing all emergencies \nas per the emergency maintenance protocol. Compiling of minor specifications, \nattend site meetings and manage outsourced contractors. Responsible for the \nnecessary administrative functions of the workshop, compiling reports, \nmaintaining registers, and assist with the control of the workshop budget. \nExercise control over tools, equipment and materials, and ordering of tools and \nmaterials. Management of the performance and supervision of staff, implement \nthe disciplinary code whe",
-    "requirements": [
-      "Minimum educational qualification: Appropriate Trade Test Certificate \n(Plumbing). Experience: Grade A: No experience required. Grade B: At least \n18 years appropriate/recognisable experience in the area after obtaining the \nrelevant \nTrade \nTest \nCertificate. \nGrade \nC: \nAt \nleast \n34 \nyears \nappropriate/recognisable experience in the area after obtaining the relevant \nTrade Test Certificate. Inherent requirements of the job: Valid (Code B/EB/C1) \ndriver’s license. Must be prepared to work overtime and perform standby duties \nafter hours, including weekends and Public Holidays. Competencies \n"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-3c07c572e8fa002c",
-    "title": "ASSISTANT DIRECTOR UTILISATION AND CONTRACT ADMINISTRATION",
-    "department": "Department of Public Works And Infrastructure",
-    "province": "National",
-    "location": "Pretoria Regional Office",
-    "category": "Finance",
-    "salary": "R605 742 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "2026/340",
-    "summary": "Conduct physical verification to ensure that state owned properties are utilized \nefficiently and optimally. Verify property details and maintain the Property \nManagement Information System (PMIS). Keep track of developments in \nproperty management trends. Liaise with all relevant stakeholders and units to \nensure that property information is captured correctly and in good time. Ensure \nState properties are adequately secured to prevent illegal occupation and \nvandalism and take rectification action where necessary. Take measures \nagainst unlawful occupations. Identify and ensure properties to be cleared of \novergrown vegetation and to clear ",
-    "requirements": [
-      "A minimum of three-year tertiary qualification (NQF Level 06) / National \nDiploma in Real Estate Management Services, Property Management, Town \nand Regional Planning. Relevant years of experience in property management \nand Property Management Information System (PMIS). A valid driver’s license \nand must be prepared to travel. Knowledge of Government Immovable Asset \nManagement Act (GIAMA); Public Finance Management Act (PFMA), Broad-\nBased Black Economic Empowerment (BBBEE), Property Law, Treasury \nRegulation. Knowledge of the Property Management Information System \n(PMIS) and Geographic Inf"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/m.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-249ea5681d866108",
-    "title": "ASSISTANT DIRECTOR: ECD: DATA QUALITY ASSURANCE OFFICER",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Cape Town",
-    "category": "Information Technology",
-    "salary": "R487 197 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "327",
-    "summary": "The successful candidate will be responsible for monitoring and improving \naccuracy, completeness and consistency of ECD data in the Early childhood \nAdministration and Reporting System -eCares. Supporting district and \n\n192 \n\nprovincial users with data entry, uploads, corrections and troubleshooting. \nConducting data quality checks and implementing improvement measures. \nMaintaining records of discrepancies, resolutions and reporting artefacts. \nSupporting preparation of routine provincial and district reports. Conducting \nand supporting user training and capacity-building. Promoting the utilisation of \ndashboards and reports for planning an",
-    "requirements": [
-      "Applicants must have a SAQA-recognised three-year post-matric qualification \n(NQF6 or higher) in Data Management, Information Systems, Statistics, Social \nSciences, M&E or related field. A postgraduate qualification in a relevant field \nwill be an added advantage. 5 years' experience in data management, data \nquality assurance, monitoring or system support. Experience in the education \nsector data (e.g., EMIS) or ECD programmes is beneficial. Strong proficiency \nin: Microsoft Excel and data validation; Business Intelligence tools (e.g., Power \nBI, Tableau) advantageous; Basic database and repo"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-d34a711e585217d2",
-    "title": "ASSISTANT DIRECTOR: INTERNAL AUDIT",
-    "department": "Department of Public Works And Infrastructure",
-    "province": "National",
-    "location": "Mthatha Regional Office",
-    "category": "Information Technology",
-    "salary": "R487 197 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "2026/342",
-    "summary": "Conduct audit, risk management, internal control and governance processes; \nsupervise audit fieldwork and collect relevant, sufficient and useful audit \nevidence. Assess and evaluate audit evidence, ensure the development of \naudit working papers, ensure conclusions on audit findings, develop draft and \nfinal internal audit reports. Ensure the provision of administrative functions of \nInternal Audit component; ensure co-ordination in the administration of the \noffice and office management systems. Examine financial and operating \nrecords and reports through audit programmes, ensure that controls over \nrecord-keeping and reporting are adequate",
-    "requirements": [
-      "minimum of three-year tertiary qualification (NQF Level 06) / National Diploma \nin Auditing/Accounting. Internal Audit Technician (IAT)/Professional Internal \nAuditor (PIA). Practicing Internal Auditor with appropriate years of experience \nas a senior internal auditor /Internal auditor. Registration with the Institute for \nInternal Auditors. A valid driver’s license. Knowledge of Global Internal Audit \nStandards, National Treasury Regulations, Public Finance Management Act, \nInstitute of Internal Auditors Code of Ethics, phases of internal audit process, \nDepartmental business systems and proc"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/m.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-6ebb0b440f32959b",
-    "title": "ASSISTANT MANAGER NURSING (PRIMARY HEALTH CARE)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Overstrand Sub-district Office, Hermanus",
-    "category": "Healthcare",
-    "salary": "R785 568 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/277",
-    "summary": "General and operational management of the Sub-District PHC services as well \nas all related services linked to the PHC facilities and implementation of the \nprescribed package of services. Responsible for strategic and operational \nplanning, the implementation of operational plans as well as monitoring and \nevaluation. Responsible for internal and external governance including \ncollaboration with other sectors and stakeholders. Ensure sound Financial, \nSupply Chain Management and People Management practices. Ensure an \neffective Quality Assurance and Quality Management process. Manage Health \nStrategy and Support through good governance in In",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at least \n1 year diploma in Clinical Nursing Science: Health Assessment, Treatment and \nCare, accredited with the SANC (R48). OR A4 year Bachelor Degree in Nursing \n(R174) or equivalent qualification (R683 plus R1497 or R171 plus R1497) that \nallows registration with the South African Nursing Council ("
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-be56cbdbeacd6f66",
-    "title": "ASSISTANT MANAGER NURSING: GENERAL (NIGHT DUTY)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Helderberg Hospital",
-    "category": "Healthcare",
-    "salary": "R720 819 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/278",
-    "summary": "Overall coordination, implementation and monitoring of the strategic nursing \npractice objectives on night in the hospital. Effective management and \ncoordination of quality nursing care within set standards within legal and \nprofessional frameworks. Manage and facilitate both human resources and \nfinancial aspects related to the hospital. Management of information through \nthe collection and analysis of data, report writing and development and \nimplementation \nof \nrelevant \ninterventions. \nPolicy \ndevelopment \nand \nimplementation. Ensure that clinical nursing practice are rendered by the \nnursing team and promote quality of nursing care as d",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A 4 year Bachelor Degree in Nursing (R174) or equivalent \nqualification (R683 plus R1497 or R171 plus R1497) that allows registration \nwith the South African Nursing Council (SANC) as a Professional Nurse. \nRegistration with a professional council: Current registration with the SANC as \na \nProfessional \nNurse. \nExperience: \nA \nminimum \nof \n8 \nyears \nappro"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-81fe752628c82f17",
-    "title": "AUDIOLOGIST GRADE 1 TO 3",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Garden Route District Office",
-    "category": "Healthcare",
-    "salary": "R413 121 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/295",
-    "summary": "To provide Audiology services at facility level (hospitals and primary healthcare \nfacilities) and community level in the Garden Route District, inclusive of adult \nand paediatric patients. Assessment, diagnosis, and management of hearing \nand balance disorders. Conducting hearing evaluations, fitting and maintaining \nhearing aids, providing patient counselling and rehabilitation, implementing \nhearing conservation programmes, and collaborating with multidisciplinary \nhealthcare teams. Provide education and training to healthcare professionals, \ncommunity health workers and patients and plan audiology related health \nawareness activities acco",
-    "requirements": [
-      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) as an \nAudiologist or Speech Therapist and Audiologist. Registration with a \nprofessional council: Registration with the HPCSA as an Audiologist or Speech \nTherapist and Audiologist. Experience: Grade 1: None after registration with \nthe HPCSA in the relevant profession in Audiology or Speech Therapy and \nAudiology (where applicable in respect of RSA qualified employees). 1-year \nrelevant experience after registration with the HPCSA in Audiology or "
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-0b37a2b890d4e294",
-    "title": "AVIATION INDUSTRY DEVELOPMENT AND AIRFREIGHT INTERN REF NO: DOT/GRAD/2026/29 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Other",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/29",
-    "summary": "National Diploma/ Bachelor’s degree in Air Transport Management/ Transport \nManagement/ Transport Logistics/ Transport Economics/ Aeronautical Studies/ \nFlight Dispatch/ Aviation Management/ relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Air Transport Management/ Transport \nManagement/ Transport Logistics/ Transport Economics/ Aeronautical Studies/ \nFlight Dispatch/ Aviation Management/ relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-00a37548810cdcbb",
-    "title": "AVIATION MULTILATERAL AFFAIRS INTERN REF NO DOT/GRAD/2026/27 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Other",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/27",
-    "summary": "National Diploma/ Bachelor’s degree in Air Transport Management/ Transport \nManagement/ Transport Logistics/ Transport Economics/ Aeronautical Studies/ \nFlight Dispatch/ Aviation Management/ relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Air Transport Management/ Transport \nManagement/ Transport Logistics/ Transport Economics/ Aeronautical Studies/ \nFlight Dispatch/ Aviation Management/ relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-6e0b4872692f21df",
-    "title": "BLACK ECONOMIC EMPOWERMENT INTERN REF NO DOT/GRAD/2026/38 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Administration",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/38",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Management, Economics, \nBusiness Administration, Law, Logistics, or Transport and Logistics \nManagement.",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Management, Economics, \nBusiness Administration, Law, Logistics, or Transport and Logistics \nManagement."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-0204a6e90137b06d",
-    "title": "BOILER OPERATOR: WORKSHOP",
-    "department": "Department of Public Works And Infrastructure",
-    "province": "National",
-    "location": "Pretoria Regional Office",
-    "category": "Healthcare",
-    "salary": "R201 093 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "2026/349",
-    "summary": "Ensure correct usage and flow of chemicals-Request chemicals from stores as \nrequired. Test quality of water of softeners as well the returning flows of \ncondensate water. Fill chemical tank with required chemicals as prescribed. \nTop up salt in brine tank. Check working conditions of chemical pumps. Test \ntotal dissolve solids (TDS) and blow-down according to prescripts. Monitoring \nboiler pressure in accordance with demand Monitor the steam pressure \nconstantly. Check the correct temperature of hot well pumps. Adjust the stoker \nfor efficient steam delivery. Report all defects immediately. Monitoring the \nwater/fuel level in the boiler-Chec",
-    "requirements": [
-      "A minimum of Grade 10 and equivalent recognised national steam certificate. \nA minimum of one (1) year experience in the field will be an added advantage). \nKnowledge of Boiler Operation, Occupational Health and Safety Act, Operation \nof equipment, tools and materials. Knowledge of general built environment. \nOperation of machinery skills. Interpersonal skills. Basic literacy skills. \nTechnical skills. Motivational skills. Supervisory skills. Planning and organising \nskills. Accuracy. Effective communication skills. \n\n91"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/m.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-c4cf92e91ad62998",
-    "title": "BUSINESS INTELLIGENCE (DATABASE ADMINISTRATION) INTERN REF NO: DOT/GRAD/2026/06 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Information Technology",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/06",
-    "summary": "Grade 12, National Diploma/ Bachelor’s Degree in Information Technology / \nComputer Science / Informatics/ postgraduate qualification in Computer \nScience/Information Technology",
-    "requirements": [
-      "Grade 12, National Diploma/ Bachelor’s Degree in Information Technology / \nComputer Science / Informatics/ postgraduate qualification in Computer \nScience/Information Technology"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-d7d5324469b58680",
-    "title": "BUSINESS SYSTEMS (WEB DEVELOPMENT) INTERN: DOT/GRAD/2026/08 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Information Technology",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/08",
-    "summary": "Grade 12, National Diploma/ Bachelor’s Degree in Information Technology/ \nComputer Science/ Informatics/ postgraduate qualification in Computer \nScience/ Information Technology",
-    "requirements": [
-      "Grade 12, National Diploma/ Bachelor’s Degree in Information Technology/ \nComputer Science/ Informatics/ postgraduate qualification in Computer \nScience/ Information Technology"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-1fb6a4701aab1375",
-    "title": "CHANGE MANAGEMENT INTERN POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/14",
-    "summary": "National Diploma / Bachelor’s degree in Management Services / Operations \nManagement/ Industrial Engineering/ Industrial Psychology/ Human Resource \nManagement.",
-    "requirements": [
-      "National Diploma / Bachelor’s degree in Management Services / Operations \nManagement/ Industrial Engineering/ Industrial Psychology/ Human Resource \nManagement."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-b08f3423e487545b",
-    "title": "CHIEF DIRECTOR: DRIVING LICENCE CARD ACCOUNT HRM/2026/34",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria",
-    "category": "Information Technology",
-    "salary": "R1 554 696 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-11",
-    "circular": "Circular 33 of 2026",
-    "reference": "HRM/2026/34",
-    "summary": "Provide leadership and oversight in the production of driving licence cards. \nProvide strategic leadership for integrated production services to ensure \nalignment with organisational objectives, service delivery requirements, and \ncustomer expectations. Drive a high-performance culture focused on \noperational excellence, professionalism, continuous improvement, and people \ndevelopment. Lead and empower production teams to optimise planning, \nprioritisation, and responsiveness to changing production demands and \ndeadlines. Manage stakeholder alignment through effective engagement, \ncommunication, and reporting on production performance, risks,",
-    "requirements": [
-      "A qualification at NQF level 7 as recognised by SAQA in Operations \nManagement / Production Management / Industrial Engineering / Business \nManagement with 5 years relevant working experience at a senior \nmanagement level in a manufacturing or high-volume production environment. \nCertificate of Successful completion of the National School of Government's \nSenio Management Service Pre-Entry Programme. Knowledge And Skill: \nExtensive knowledge of production/manufacturing processes. Knowledge of \nPFMA, Treasury Regulations, and Supply Chain Framework. Deep \nunderstanding of smartcard technologies"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/33/k.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-33-of-2026/"
-  },
-  {
-    "id": "dpsa-791f212bc4c8517d",
-    "title": "CHIEF ENGINEER: MECHANICAL (GRADE A)",
-    "department": "Department of Public Works And Infrastructure",
-    "province": "National",
-    "location": "Gqeberha Regional Office",
-    "category": "Information Technology",
-    "salary": "R1 317 108 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "2026/338",
-    "summary": "Provide technical lead in proposal preparations, define technical resources \nrequirements for successful work execution, perform final review and approval \nor audits on new engineering designs according to design principles, set \nmaintenance standards specifications and service levels according to \norganisational objectives to ensure optimum operational availability. Compile \nrisk logs and manage significant risk and provide technical consulting services \nfor the operation on engineering related matters, Allocate, control, monitor \nexpenditure according to budget, check tender documentation for inviting \ntenders. Monitor the performance of an",
-    "requirements": [
-      "A minimum of Engineering degree (B Eng/ BSC (Eng) or relevant qualification. \nSix years post qualification experience. Compulsory registration with Relevant \ncouncil (ECSA) as a Professional Engineer. A valid driver's license. Knowledge \nof mechanical engineering best practices and aspects of the building and \nconstruction environment, extensive knowledge and experience in the \ndevelopment, implementation and oversight of recovery plans when projects \nare lagging. Knowledge of PFMA, OHSA Supply Chain Management, Contract \nManagement, good technical and innovative problem-solving abilities. \nCo"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/m.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-fa66154e7a061ad2",
-    "title": "CLEANER",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Murraysburg Hospital",
-    "category": "Healthcare",
-    "salary": "R144 024 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/327",
-    "summary": "General cleaning, housekeeping and maintenance (i.e. dust/sweep / polish / \nscrub / mop / clean windows / walls / equipment / machinery and refuse \nremoval). Ensure effective Waste Management, Linen Management, etc. \nEffective and efficient utilization and storage of cleaning materials and \nequipment. Provide optimal support to the supervisor and colleagues with \ngeneral housekeeping duties and services. Adhere to general hygienic and \nsafe environment in terms of standards and procedures.",
-    "requirements": [
-      "Minimum educational qualification: Basic literacy and numeracy. Experience: \nAppropriate experience in the field of domestic and health cleaning services. \nInherent requirements of the job: Physical able to lift and / or move heavy \nobjects and supplies. Ability to operate machinery and equipment. \nCompetencies (knowledge / skills): Good interpersonal skills. Knowledge of the \ncorrect methods of handling and disposal of refuse/waste products and to \nadhere to policies and cleaning procedures. Ability to operate machinery and \nequipment. Knowledge of legislation and policies of the Department o"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-2f708946df9243b9",
-    "title": "CLINICAL TECHNOLOGIST GRADE 1 TO 3 (CRITICAL CARE)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Tygerberg Hospital, Parow Valley",
-    "category": "Healthcare",
-    "salary": "R413 121 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/297",
-    "summary": "Effective provision of Clinical Technology Critical Care services in the clinical \nareas listed below. Work in an active clinical and training Critical Care / \nAnaesthetic units. Performing diagnostic and therapeutic procedures / tests. \nSetting up / performing calibration/ ensure ALL life support equipment are \nreadily available for use. Assist with difficult Intubations, Bronchoscopy, \nResuscitations, Cardiac Output Monitoring, IAP measurement. Actively \n\n215 \n\nparticipate in teaching and training of students and other healthcare workers. \nPromote Batho Pele principles to promote effective service delivery. Maintain \nand check equipment reg",
-    "requirements": [
-      "Minimum educational qualification: Appropriate qualification that allows for \nregistration with the Health Professions Council of South Africa (HPCSA) as a \nClinical Technologist in Critical Care. Registration with a professional council: \nRegistration with the HPCSA as Clinical Technologist: Critical Care. \nExperience: Grade 1: None after registration with the HPCSA as a Clinical \nTechnologist: Critical Care in respect of RSA qualified employees. 1-year \nrelevant experience after registration with the HPCSA as a Clinical \nTechnologist: Critical Care in respect of foreign qualified employees, "
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-83f7f5287bbfca59",
-    "title": "CONTROL SCIENTIFIC TECHNICIAN (GRADE A): WATER TESTING LABORATORY SUPERVISOR",
-    "department": "Department of Public Works And Infrastructure",
-    "province": "National",
-    "location": "Head Office (Pretoria)",
-    "category": "Healthcare",
-    "salary": "R573 552 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "2026/341",
-    "summary": "Manage and supervise the day-to-day operations of the Water Testing \nLaboratory. Manage and oversee water quality testing and analytical services. \nImplement and maintain laboratory quality management systems. Manage \nlaboratory equipment, chemicals, reagents and consumables. Ensure \nlaboratory health, safety and regulatory compliance. Manage laboratory data, \nrecords and technical reporting. Supervise, mentor and develop laboratory \npersonnel. Provide technical support and promote continuous improvement. \nManage and coordinate laboratory planning and technical governance. \nManage the procurement and availability of laboratory consumables, re",
-    "requirements": [
-      "A minimum of three-year tertiary qualification (NQF Level 06) / National \nDiploma in Water Care Science or relevant qualification. A minimum of 6 years’ \npost-qualification technical/scientific experience in water quality testing, water \nand wastewater treatment practices and technology. Compulsory registration \nwith SACNASP as a Certificated Natural Scientist. A valid driver’s licence. \nExperience in the supervision or management of a water quality testing \nlaboratory, including laboratory quality assurance and quality control, analytical \nmethods, water and wastewater sampling and testing, l"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/m.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-07eac5bb9d66dc92",
-    "title": "CORPORATE LEGAL INTERN",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Legal",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/04",
-    "summary": "Grade 12/ LLB/ BA Law/ Postgraduate degree in Law",
-    "requirements": [
-      "Grade 12/ LLB/ BA Law/ Postgraduate degree in Law"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-ddfe88b3785c2a96",
-    "title": "DEPUTY DIRECTOR ECD ADMINISTRATION AND REPORTING SYSTEMS MANAGER",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Cape Town",
-    "category": "Information Technology",
-    "salary": "R932 292 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "332",
-    "summary": "The successful candidate will be responsible for Provincial eCares System Use \n& Performance management. Lead provincial support for system usage, \nperformance and adoption; Monitor user compliance with system functionality \nand data workflows; Advocate system utilisation for decision-making. User \nSupport & Access Management; Manage 1st line helpdesk support for PED \nusers; Manage user access, roles and permissions; Escalate issues promptly \nto national and service providers. User Training & Capacity Building- Conduct \nongoing training on: New releases; Functional improvements; Reporting and \ndashboards. Support districts and circuits to dri",
-    "requirements": [
-      "Applicants must be in possession of a SAQA-recognised three-year postmatric qualification (NQF Level 7) in Information Systems / ICT / Computer \nScience / Data or related field. 6-7 years' relevant experience in Systems \nadministration and user support; User Acceptance Testing (UAT) and training \nfacilitation. Data reporting and system usage monitoring. Knowledge of: Cloudbased system operations; Provincial EMIS environment and/or ECD system \nlandscape. Strong analytical, data manipulation and reporting skills (Excel \nadvanced level). Ability to coordinate multi-level stakeholders (national, \n"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-0cea19300c0b9eda",
-    "title": "DEPUTY DIRECTOR-GENERAL: ROAD TRANSPORT HRM/2026/33",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria",
-    "category": "Finance",
-    "salary": "R1 885 710 - R2 124 237 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-11",
-    "circular": "Circular 33 of 2026",
-    "reference": "DOT/",
-    "summary": "Manage the coordination of the planning, development and implementation of \na sustainable reliable integrated road infrastructure network. Manage the \ncoordination of road infrastructure planning. Manage the development and \nimplementation of rural roads development strategy and programme. Manage \nthe development, implementation and promotion of the use of low-cost Non-\nMotorised Transport. Manage the road grants funding. Manage the \ndevelopment and implementation of road engineering standards. Manage the \nresearch, coordination of the development and updating of technical norms, \nstandards & guidelines and the best practice. Manage and ensur",
-    "requirements": [
-      "A qualification at (NQF 8) as recognised by SAQA in Civil Engineering / \nConstruction Studies with at least 8 years’ relevant experience at a senior \nmanagement level in the road infrastructure management and development \nfield. Certificate of Successful completion of the National School of \nGovernment’s Senior Management Service Pre-Entry Programme. Knowledge \nand Skill: A sound knowledge and experience in the development of the road \ninfrastructure standards and guidelines. Knowledge and understanding of the \nguidelines and specifications relevant to civil engineering in South Africa. \nExten"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/33/k.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-33-of-2026/"
-  },
-  {
-    "id": "dpsa-b151c7bb6212352f",
-    "title": "DEPUTY DIRECTOR-GENERAL: STATE-OWNED COMPANIES (SOC), GOVERNANCE ASSURANCE AND PERFORMANCE (GAP) HRM/2026/32",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria",
-    "category": "Finance",
-    "salary": "R1 885 710 – R2 124 237 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-11",
-    "circular": "Circular 33 of 2026",
-    "reference": "DOT/",
-    "summary": "Direct the development and facilitate the implementation of government's \noverarching SOC Policy Framework for the Transport complex. Direct and \ninitiate research projects to define the policy “gaps” affecting the optimal \nfunctioning of SOCs in the Transport Complex. Collaborate with SOCs, industry \nand research institutions in developing bridging strategies to enhance the \noperations of the SOCs in the complex. Lead consultation processes for the \nadoption of bridging strategies and policy instruments. Lead initiatives to \nfacilitate alignment of the policy at a technical level and regulatory regime \nfalling outside the mandate of the depa",
-    "requirements": [
-      "A qualification at NQF level 8 as recognised by SAQA in Transport Economics \n/ Finance / Accounting / Auditing / Law / Risk Management / Economics / \nBusiness Management / Administration / Public Management with at least 8 \nyears’ experience at a senior management level in an oversight of State-\nOwned Companies or Public Entities. Certificate of successful completion of \nthe National School of Government’s Senior Management Service Pre-Entry \n\n82 \n\nProgramme. Knowledge and skills: Knowledge of legislative and policy \nprescripts relevant to the Department and its SOEs. Sound Knowledge of \ncorpo"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/33/k.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-33-of-2026/"
-  },
-  {
-    "id": "dpsa-1f73d1310feb24f8",
-    "title": "DEPUTY DIRECTOR: ECD: OPERATIONS MANAGER",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Cape Town",
-    "category": "Information Technology",
-    "salary": "R932 292 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "335",
-    "summary": "The successful candidate will be responsible for coordinating the execution of \nnational ECD registration, subsidy and overall ECD business process \nimprovement plans at provincial and district levels. Adapting national plans for \nprovincial implementation and securing approvals from PED leadership. \nFacilitating training on registration processes, subsidy workflows and eCares \nsystem updates. Coordinating stakeholder engagements and ensuring \nalignment across key departments and sector partners. Supporting ELP \nimplementation and ensuring requirements are met to achieve minimum \ncompliance for subsidy fulfilment. Monitoring district delivery",
-    "requirements": [
-      "Applicants must have a SAQA-recognised three-year post-matric qualification \n(NQF Level 6 or higher) with Project Management as an added advantage. \nMinimum 5 years' experience in an operational delivery or implementation \nsupport role. Experience in ECD programme implementation, stakeholder \ncoordination and provincial support. Proven experience in planning and \ncoordinating multi-functional projects. Strong communication, facilitation and \nreporting skills. Ability to influence, negotiate and drive delivery across \nprovincial/district stakeholders. Ability to travel extensively and work beyo"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-a64e7a35f33ef972",
-    "title": "DEPUTY DIRECTOR: MANAGEMENT ACCOUNTING",
-    "department": "Department of Public Works And Infrastructure",
-    "province": "National",
-    "location": "Head Office (Pretoria)",
-    "category": "Finance",
-    "salary": "R932 292 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "2026/339",
-    "summary": "Ensure that budget and expenditure are managed in line with relevant \nlegislation, \nregulations, \nframeworks, \nand \ndepartmental \npolicies \nand \nprocedures. Monitor legislative and regulatory prescripts relating to public \nfinance management and accounting including the PFMA and Treasury \nRegulations to inform recommendations for amendment to financial policies \nand procedures where relevant and ensure compliance with National Treasury \nreporting requirements. Provide advice and guidance to budget managers on \nbudget planning, expenditure estimates and forecasting methods and tools. \nAnalyse and quality assure the financial information requir",
-    "requirements": [
-      "A minimum of three-year tertiary qualification (NQF Level 06) / National \nDiploma in Accounting or Cost & Management Accounting Financial Relevant \n\n84 \n\nyears of work experience in budgeting and financial management at a junior \nmanager or Assistant Director equivalent level. Knowledge: Working \nknowledge of estimating, budgeting, cash flow management and policy, \nprocedure and processes regarding budget management in the public service. \nIn-depth knowledge of BAS, LOGIS and Vulindlela and ability to prepare and \nconduct effective decision briefs and presentations. A thorough working \nknowled"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/m.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-c62ee6f7aa53ac1e",
-    "title": "EMPLOYEE HEALTH AND WELLNESS (SAFETY, HEALTH, ENVIRONMENT, RISK AND QUALITY MANAGEMENT) INTERN DOT/GRAD/2026/12 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Healthcare",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/12",
-    "summary": "National Diploma / Bachelor Degree in Safety Management / Environmental \nHealth/ Social Work / Psychology",
-    "requirements": [
-      "National Diploma / Bachelor Degree in Safety Management / Environmental \nHealth/ Social Work / Psychology"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-b22942673fab3e7d",
-    "title": "ENVIRONMENTAL COORDINATION INTERN",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Other",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/18",
-    "summary": "National Diploma / Bachelor’s Degree in Environmental Management / \nEnvironmental Science / Town Planning or a transport-related field.",
-    "requirements": [
-      "National Diploma / Bachelor’s Degree in Environmental Management / \nEnvironmental Science / Town Planning or a transport-related field."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-f37f654461b4de88",
-    "title": "FACILITIES MANAGEMENT INTERN",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Finance",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/17",
-    "summary": "National Diploma/ Bachelor degree in Public Administration / Management/ \nFinancial Management / Supply Chain Management.",
-    "requirements": [
-      "National Diploma/ Bachelor degree in Public Administration / Management/ \nFinancial Management / Supply Chain Management."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-17d556387cb4655f",
-    "title": "FINANCIAL ADMINISTRATION INTERN POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Finance",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/20",
-    "summary": "National Diploma, Advanced Diploma/ Bachelor’s Degree in Financial \nManagement/ Accounting/ Public Finance/ Cost and Management Accounting.",
-    "requirements": [
-      "National Diploma, Advanced Diploma/ Bachelor’s Degree in Financial \nManagement/ Accounting/ Public Finance/ Cost and Management Accounting."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-ee254b24e0a3d957",
-    "title": "FREIGHT LOGISTICS INTERN",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Other",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/37",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Management, Transport \nEconomics/ Logistics/ Transport & Logistics Management/ Data Analysis/ \nrelevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Management, Transport \nEconomics/ Logistics/ Transport & Logistics Management/ Data Analysis/ \nrelevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-e0e3d54629a43120",
-    "title": "GENERAL STORES ASSISTANT",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Caledon Hospital",
-    "category": "Information Technology",
-    "salary": "R144 024 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/326",
-    "summary": "Assist Warehouse Clerk with the handling of stock. Receive and issue goods. \nDeliver store stock to end-users. Rotate store stock (first in, first out). Perform \ncertain messenger duties within the hospital environment when required. Clean \nvarious stores and non-storage areas within the main stores. Assist in other \nStores when required. Assist Warehouse Clerk with the capturing of \nrequisitions and issue vouchers on the Logis system. Deal with written and or \ntelephonic queries or enquiries with regards to warehouse management \nmatters. Perform relief duties as well as support to supervisor as required.",
-    "requirements": [
-      "Minimum educational qualification: Basic literacy and numeracy skills. \nExperience: Appropriate experience in a Stores environment. Inherent \nrequirements of the job: Valid (Code B/EB) driver’s license. Willingness to \nrotate within Supply Chain Section and relieve colleagues. Physically able to \nhandle stock. Willing to work overtime on short notice. Competencies \n(knowledge/skills): \nGood \nverbal \nand \nwritten \ncommunication \nskills \n\n230 \n\n(written/verbal) Computer literacy in MS Office. Ability to work independently \nand as part of a team, ability to maintain confidentiality and problem-so"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-429abf52188a6ae2",
-    "title": "GENERAL WORKER STORES: SUPPLY CHAIN MANAGEMENT",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Lentegeur Hospital",
-    "category": "Education",
-    "salary": "R144 024 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/325",
-    "summary": "Answer the telephone & handle queries. Manage the Issue Vouchers, receive \n& issue goods. Driving around the Estate and delivering goods to end-users. \nClean various stores and non-store areas with the main stores. Assist in other \nstores when required. Rotate store stock (first in, first out). Assist the \nWarehouse Clerk with handling of stock.",
-    "requirements": [
-      "Minimum educational qualification: Basic numeracy & literacy. Experience: \nAppropriate experience in a Warehouse environment. Inherent requirements \nof the job: Valid driver's license (Code B/EB). Competencies (knowledge/skills): \nGood communication skills. Physically, mental fit and able to handle stock."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-5f375e4f752f1a03",
-    "title": "GEOGRAPHIC INFORMATION SYSTEMS INTERN REF NO DOT/GRAD/2026/15 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Other",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/15",
-    "summary": "National Diploma / Bachelor’s Degree in Geographic Information Systems / \nGeography / Cartography / Geomatics or a related field.",
-    "requirements": [
-      "National Diploma / Bachelor’s Degree in Geographic Information Systems / \nGeography / Cartography / Geomatics or a related field."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-00777984cbcc9969",
-    "title": "GOVERNANCE INTERN",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Finance",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/41",
-    "summary": "National Diploma/ Bachelor’s degree in Accounting/ Investment Management/ \nFinancial Management/ Financial Accounting/",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Accounting/ Investment Management/ \nFinancial Management/ Financial Accounting/"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-2ec576e905344c19",
-    "title": "HUMAN RESOURCE ADMINISTRATION INTERN REF NO DOT/GRAD/2026/11 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Human Resources",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/11",
-    "summary": "National Diploma, Advanced Diploma, Bachelor’s Degree in Human Resource \nManagement/ Industrial Psychology and relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma, Advanced Diploma, Bachelor’s Degree in Human Resource \nManagement/ Industrial Psychology and relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-d72417969e14656e",
-    "title": "HUMAN RESOURCE DEVELOPMENT AND PMDS INTERN DOT/GRAD/2026/19 (X4 POSTS)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Human Resources",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/19",
-    "summary": "National Diploma or Bachelor’s Degree in Human Resource Management, \nHuman Resource Development or Industrial Psychology.",
-    "requirements": [
-      "National Diploma or Bachelor’s Degree in Human Resource Management, \nHuman Resource Development or Industrial Psychology."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-db576ffd81ee5574",
-    "title": "HUMAN RESOURCE RECRUITMENT AND SELECTION INTERN DOT/GRAD/2026/10 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Human Resources",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/10",
-    "summary": "National Diploma, Advanced Diploma, Bachelor’s Degree in Human Resource \nManagement / Industrial Psychology and relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma, Advanced Diploma, Bachelor’s Degree in Human Resource \nManagement / Industrial Psychology and relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-1eca2d4684901726",
-    "title": "INTERNAL CONTROL AND COMPLIANCE INTERN REF NO DOT/GRAD/2026/02 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Finance",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/02",
-    "summary": "National Diploma / Bachelor’s degree in Financial Accounting / Accounting/ \nInternal Auditing",
-    "requirements": [
-      "National Diploma / Bachelor’s degree in Financial Accounting / Accounting/ \nInternal Auditing"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-d819d0431b1deb3b",
-    "title": "IT INFRASTRUCTURE INTERN",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Information Technology",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/07",
-    "summary": "Grade 12, National Diploma/ Bachelor’s Degree in Information Technology/ \nComputer Science/ Informatics/ postgraduate qualification in Computer \nScience/ Information Technology",
-    "requirements": [
-      "Grade 12, National Diploma/ Bachelor’s Degree in Information Technology/ \nComputer Science/ Informatics/ postgraduate qualification in Computer \nScience/ Information Technology"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-3aba7ebcc4175d87",
-    "title": "LABOUR RELATIONS INTERN",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Human Resources",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/09",
-    "summary": "National Diploma / Bachelor’s Degree in Human Resource Management, \nLabour Relations / Labour Law / Industrial Relations / relevant postgraduate \nqualifications",
-    "requirements": [
-      "National Diploma / Bachelor’s Degree in Human Resource Management, \nLabour Relations / Labour Law / Industrial Relations / relevant postgraduate \nqualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-eb7b4fcd97566bc3",
-    "title": "LIAISON OFFICER (QUALITY ASSURANCE)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "George Regional Hospital",
-    "category": "Healthcare",
-    "salary": "R338 106 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/301",
-    "summary": "Coordinate and maintain Client Quality: Complaints, Compliments and \nSuggestions function of the facility. Coordinate and maintain a Real-Time \nPatient Engagement process and the prevention and mitigation of risks. \nCoordinate Patient Experience and Related Surveys and feedback processes. \nSupport Information coordination functions. Perform Front Line Duties and \nRelief Support. Provide effective line management, supervision and people \nmanagement of staff reporting to the Liaison Officer.",
-    "requirements": [
-      "Minimum educational qualification: An appropriate national diploma (NQF 6) or \nequivalent in Public Relations Management or Public Administration or \nCommunications with competencies that focus on the Key Performance Areas \n(KRA’s) of the post. Experience: Appropriate experience in interpersonal \ncommunication in a health- or social service setting. Experience in \ndevelopment, coordination and implementation of quality improvement plans/ \ninitiatives/ activities to support better outcomes. Appropriate practical \napplication of MS Office (Word, Excel, PowerPoint and Outlook) in work \nactivities"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-8a5dbd9aee4a3b5d",
-    "title": "MARITIME INDUSTRY DEVELOPMENT INTERN REF NO DOT/GRAD/2026/26 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Other",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/26",
-    "summary": "National Diploma/ Bachelor’s degree in Maritime Studies/ Shipping and \nLogistics/ Transport Management/ Transport Logistics/ Transport Economics/ \nrelevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Maritime Studies/ Shipping and \nLogistics/ Transport Management/ Transport Logistics/ Transport Economics/ \nrelevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-ad910407ad059fc1",
-    "title": "MARITIME SECURITY INTERN",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Other",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/25",
-    "summary": "National Diploma/ Bachelor’s degree in Maritime Security Management/ \nMaritime Studies/ relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Maritime Security Management/ \nMaritime Studies/ relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-87e2e1fd65c5c088",
-    "title": "MEDICAL OFFICER GRADE 1 TO GRADE 3 (OBSTETRICS AND GYNAECOLOGY)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Mitchells Plain District Hospital",
-    "category": "Healthcare",
-    "salary": "R1 041 402 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/275",
-    "summary": "Clinical management of all non-acute and emergency O&G presentation to the \nemergency centres (labour ward and gynae EC). Operating independently \n(theatre cases include complicated caesarean sections, laparotomies for \nectopic pregnancies, evacuation of uterus, postpartum sterilizations). \nManaging critically ill patients including resuscitation. Management of early \npregnancy complications which needs a basic O&G ultrasound competency. \nSupervision and teaching of students, interns and midwives. Provide an \nefficient administration service regarding all clinical and non-clinical matters \nand medico-legal work. Provide guidance and leadershi",
-    "requirements": [
-      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) as \nMedical Practitioner. Registration with a professional council: Registration with \nthe HPCSA as Medical Practitioner. Experience: Grade 1: None after \nregistration as Medical Practitioner with the HPCSA in respect of SA qualified \nemployees. 1-year relevant experience after registration as Medical \nPractitioner with a recognised foreign Health Professional Council in respect of \nforeign qualified employees, of whom it is not required to perform "
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-b6a82dbc963b8c99",
-    "title": "MEDICAL SPECIALIST GRADE 1 TO 3 (GENERAL SURGERY) (SESSIONAL) (20 HOURS PER WEEK)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Karl Bremer Hospital, Northern/Tygerberg Sub-structure \n\n232",
-    "category": "Healthcare",
-    "salary": "R671",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/330",
-    "summary": "Provision of clinical service delivery at specialist level across the full spectrum \nof General Surgery services but with a focus on the endoscopy service. Duties \nin theatre may also be needed, performing surgical procedures. Consultant \nward rounds with senior decision making in respect of patient care, including \ndisposition decisions and oversight and input into OPD services. Clinical \nGovernance in respect of accurate medical record keeping, data / trend \nanalysis, contribution to Morbidity & Mortality meetings and management of \ncomplaints and use of existing digital platforms for referrals and patient related \ndocumentation. Teaching, ",
-    "requirements": [
-      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa as Medical \nSpecialist in General Surgery. Registration with a professional council: \nRegistration with the Health Professional Council of South Africa (HPCSA) as \na Medical Specialist in General Surgery. Experience: Grade 1: None after \nregistration with the HPCSA as a Medical Specialist in General Surgery. Grade \n2: A minimum of 5 years’ appropriate experience as Medical Specialist after \nregistration with the HPCSA (or a recognised foreign Health Profess"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-7169f78207ba7a4d",
-    "title": "MODELLING AND MACROECONOMIC ANALYSIS INTERN DOT/GRAD/2026/36 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Other",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/36",
-    "summary": "National Diploma/ Bachelor’s degree in Economics/ Econometrics/ Statistics/ \nTransport Economics/ relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Economics/ Econometrics/ Statistics/ \nTransport Economics/ relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-c95788ef0ff128b1",
-    "title": "NURSING ASSISTANT GRADE 1 TO 3 (FAMILY MEDICINE) (X3 POSTS)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "George Regional Hospital",
-    "category": "Healthcare",
-    "salary": "R181 230 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/324",
-    "summary": "Assist patients with activities of daily living (physical care). To provide \nelementary clinical nursing care. Effective utilization of physical and financial \nresources. Maintain professional growth/ ethical standards and selfdevelopment.",
-    "requirements": [
-      "Minimum educational qualification: Qualification that allows registration with \nthe SANC as a Nursing Assistant. Registration with a professional council: \nRegistration with the SANC as a Nursing Assistant. Experience: Grade 1: \nNone. Grade 2: A minimum of 10 years’ appropriate/recognisable experience \nin nursing after registration with the SANC as a Nursing Assistant. Grade 3: A \nminimum of 20 years appropriate/recognisable experience in nursing after \nregistration with the SANC as a Nursing Assistant. Inherent requirements of \nthe job: Will be required to work shifts, night duty, weekends, p"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-67657a694a0737a6",
-    "title": "OPERATIONAL MANAGER NURSING (PRIMARY HEALTH CARE)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Grabouw CHC, Theewaterskloof Sub-district",
-    "category": "Healthcare",
-    "salary": "R720 819 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/282",
-    "summary": "Responsible for the management and coordination of PHC services and \ndelivery of person-centered quality nursing care in accordance with the scope \nof practice and nursing standards at the Primary Health Care Facility, inclusive \nof COVID – 19 screening, testing and management. Plan to practice a holistic \nhealth service on a short-/medium-/long term basis including the provision of \neffective mobile Primary Health Care services attached to the fixed facility. \nManage \nPersonnel \nmatters \nincluding \nsupervision \nand \nperformance \nmanagement, the utilization and supervision of staff, finances and procuring as \nwell as implementing of policies,",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at least \n1 year Diploma in Clinical Nursing Science: Health Assessment, Treatment and \nCare, accredited with the SANC (R48) OR A 4-year bachelor’s degree in \nnursing (R174) or equivalent qualification (R683 plus R1497 or R171 plus \nR1497) that allows registration with the South African Nursing Council"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-0c4e06ec14e8959d",
-    "title": "OPERATIONAL MANAGER NURSING (PRIMARY HEALTH CARE) (X3 POSTS)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Diazville CDC, Hanna Coetzee CDC and Langebaan Clinic",
-    "category": "Healthcare",
-    "salary": "R720 819 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/280",
-    "summary": "The effective management and execution of relevant Curative Programmes \nwithin the scope of practice and to be an advocate for the patient to ensure the \nprovision of necessary health care. The effective management and execution \nof relevant woman and Child Health and TB/HIV/AIDS/STI within the scope of \npractice and to be an advocate for the patient to ensure the provision of \nnecessary health care. Effective management of support services which \nincludes Information management w.r.t data collection, verification, report \nwriting and submission of data, Human resources, i.e. supervision of staff, \ndevelopment and performance management, fina",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at least \n1 year accredited with the SANC in Diploma in Clinical Nursing Science: \nHealth, Treatment and Care, accredited with the SANC (R48). OR A 4-year \nbachelor’s degree in nursing (R174) or equivalent qualification (R683 plus \nR1497 R171 plus R1497) that allows registration with the South African "
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-4ef60a6369fd531a",
-    "title": "OPERATIONAL MANAGER NURSING (SPECIALTY OPERATING THEATRE)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Groote Schuur Hospital, Observatory",
-    "category": "Healthcare",
-    "salary": "R720 819 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/281",
-    "summary": "Provide innovative leadership in the allocated area to realise the strategic goals \nand objectives of the Nursing Division. Responsible for the co-ordination and \ndelivery of quality nursing care within the relevant department. Participate in \nformulation, monitoring and implementation of policies, guidelines, standards, \nprocedures and regulations pertaining to nursing care within the relevant \nDepartment. Provide effective support and management of human, material \nand financial resources, as well as Functional Business FBU management \nprinciples. Manage staff performance, training and personal development of \nself and subordinates includin",
-    "requirements": [
-      "Minimum \neducational \nQualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. A post-basic nursing qualification with a duration of at least 1 year \naccredited with SANC, in terms of R212 in Medical and Surgical Nursing \nScience: Operating Theatre OR A 4 year Bachelor Degree in Nursing (R174) \nor equivalent qualification (R171 plus R1497) plus that allows registration with \nthe South African Nursing Council (SANC) as a Professional Nurse. A "
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-895fa866829f06e3",
-    "title": "OPERATIONAL MANAGER NURSING (SPECIALTY: THEATRE AND CSSD)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Vredenburg Hospital, Saldanha Bay Sub-district",
-    "category": "Healthcare",
-    "salary": "R720 819 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/279",
-    "summary": "Manage, plan, co-ordinate and maintain an optimal, specialised nursing \nservice in an Operating theatre setting. Effective management and utilisation \nof human and financial resources to ensure optimal operational functions. \nInitiate and participate in training and research. Maintain professional \ngrowth/ethical standards and self-development. Provision of effective support \nto Head of Nursing Service.",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at least \n1 year accredited with the SANC in Perioperative Nursing. OR A 4-year \nBachelor Degree in Nursing (R174) or equivalent qualification (R683 plus \nR1497 or R171 plus R1497) that allows registration with the South African \nNursing Council (SANC) as a Professional Nurse. A post graduate diploma \n"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-d27deae35fed77e7",
-    "title": "ORAL HYGIENIST GRADE 1 TO 3 (SESSIONAL) (28 HOURS PER WEEK) (Contract Till 30 September 2027)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Oral Health Centre, Tygerberg/Mitchell’s Plain Platform",
-    "category": "Healthcare",
-    "salary": "R273",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/329",
-    "summary": "Engage in service provision to support the Dept of Health and Wellness and \nUniversity of the Western Cape public mission. Deliver oral health care through \nclinical, preventive, and health-promotion services. Collaborating with health \nprofessionals and communities and building professional networks. Provide \nexpert support, assistance/training to colleagues, community and patients. \nProvide oral health care to vulnerable patient groups, ie. Special needs \npatients. Administration duties relating to facility/patient admin within scope of \nOral Hygienist. Effective stock management.",
-    "requirements": [
-      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) as an \nOral Hygienist. Registration with a professional council: Registration with the \nHPCSA as an Oral Hygienist. Experience: Grade 1: None after registration with \nthe HPCSA as an Oral Hygienist in respect of RSA qualified employees. 1-year \nrelevant experience after registration with the HPCSA as an Oral Hygienist in \nrespect of foreign qualified employees, of whom it is not required to perform \nCommunity Service, as required in South Africa. Gr"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-9ae39e05c1a5f9b4",
-    "title": "ORGANISATIONAL DEVELOPMENT INTERN REF NO DOT/GRAD/2026/13 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/13",
-    "summary": "National Diploma / Bachelor’s degree in Management Services / Operations \nManagement/ Industrial Engineering/ Industrial Psychology.",
-    "requirements": [
-      "National Diploma / Bachelor’s degree in Management Services / Operations \nManagement/ Industrial Engineering/ Industrial Psychology."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-fc748e66c2541a2e",
-    "title": "PERSONAL ASSISTANT (INTER-GOVERNMENTAL RELATIONS) 2026/345",
-    "department": "Department of Public Works And Infrastructure",
-    "province": "National",
-    "location": "Head Office (Pretoria)",
-    "category": "Finance",
-    "salary": "R338 106 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "2026/345",
-    "summary": "The Personal Assistant will prioritise and schedule appointments, meetings \nand conferences and alert to appointments. In addition, the incumbent will: Act \nas a first point of contact, dealing with correspondence and phone calls. \nManaging diaries and organising meetings and appointments. Manage access \ncontrol to the manager/executive. Booking and arranging travel, transport and \naccommodation. Organising events and conferences. Reminding the \nmanager/executive of important tasks and deadlines. Typing, compiling and \npreparing reports, presentations and correspondence. Managing databases \nand filing systems. Implementing and maintaining pro",
-    "requirements": [
-      "A minimum of three-year tertiary qualification (NQF Level 06) / National \nDiploma in Secretarial, Public Management, Public Administration, Business \nManagement, Management, Office Support, Management Assistant or related \nas recognised by SAQA. In addition, the incumbent must have: Relevant years \nof experience in office administration, as a clerk, assistant officer or \nadministrative assistant. A valid driver's license. An understanding of policies \nand procedures, governance/secretarial protocol generally, document \nmanagement and archiving, planning, organising, and coordinating. Good \ncom"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/m.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-63de473cdc6821f0",
-    "title": "PHARMACIST ASSISTANT (POST BASIC) GRADE 1 TO 3",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Overberg District Office",
-    "category": "Healthcare",
-    "salary": "R275 340 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/308",
-    "summary": "Responsible for the effective control and provision of pharmaceutical products. \nResponsible for the accurate compounding and manipulation of medicines or \nscheduled substances. Responsible for the effective control and distribution of \n\n222 \n\npharmaceutical stock to areas within the facility for stock replacement. \nResponsible for data capturing, record keeping, statistics gathering, \ninformation provision and the daily running of the pharmacy department \nincluding dealing with queries on pharmacy matters. Responsible for \npreparation of prescriptions and assist with the dispensing of medication for \nindividual patient use under indirect sup",
-    "requirements": [
-      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the South African Pharmacy Council (SAPC) as a \nPharmacist’s Assistant (Post Basic) Institutional or Pharmacist’s Assistant \n(Post Basic). Registration with a professional council: Registration with the \nSAPC as Pharmacist’s Assistant (Post-Basic) or Pharmacist’s Assistant (Post-\nBasic) (Institutional). Experience: Grade 1: None after registration as with the \nSAPC as a Pharmacist Assistant (Post- Basic). Grade 2: A minimum of 5 years’ \nappropriate experience after registration as a Pharmacist Assistant"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-cf129e88d03cf8d3",
-    "title": "PHARMACIST GRADE 1 TO 3 (PRODUCTION)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "New Somerset Hospital",
-    "category": "Healthcare",
-    "salary": "R882 816 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/276",
-    "summary": "Perform relief duties to provide quality pharmaceutical care to patients by \nmonitoring work procedures, ensuring compliance to provincial code list and \nensuring clinical service delivery. Assist with ensuring quality of care of \npharmacy services by doing ward audits in areas where medicine is kept. \nAssist with medicine management by ensuring safe and reliable procurement, \nstorage, control and distribution of quality pharmaceuticals. Assist with \nmanaging pharmaceutical expenditure which includes monitoring, evaluation \nand analysis of expenditure trends and implement strategies to control \nexpenditure within financial prescripts. Assist ",
-    "requirements": [
-      "Minimum educational qualification: Basic qualification accredited with the \nSouth African Pharmacy Council (SAPC) that allows registration with the SAPC \nas a Pharmacist. Registration with a professional council: Registration with the \nSAPC as a Pharmacist. Experience: Grade 1: None after registration as \nPharmacist with the SAPC in respect of SA qualified employees. 1-year \nrelevant experience after registration as Pharmacist with a recognized foreign \nHealth Professional Council in respect of foreign qualified employees, of whom \nit is not required to perform Community Service as required in"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-52dac8cd33bb1f0d",
-    "title": "PHYSIOTHERAPIST GRADE 1 TO 3",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Kleinvlei CDC, Khayelitsha/Eastern Sub-structure",
-    "category": "Healthcare",
-    "salary": "R413 121 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/296",
-    "summary": "Assess, treat and manage patients within a Primary Health Care setting, \nincluding the Community Based Services program and COPC. Manage the \nMobility Assistive Devices (MAD) component of the primary health care facility. \nWork as part of the multi-disciplinary team of the primary health facility to meet \nthe rehabilitation needs of patient. Conduct Health Events planning \n(outreaches) and training. Assist in the clinical mentoring and supervision of \nundergraduate students. Be responsible for administration related to patient \ncare as well as departmental administration. Management of assets in \nallocated work area.",
-    "requirements": [
-      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) as a \nPhysiotherapist. Registration with a professional council: Registration with the \nHPCSA as a Physiotherapist. Experience: Grade 1: None after registration with \nthe HPCSA as Physiotherapist in respect of RSA-qualified employees. 1-year \nrelevant experience after registration with the HPCSA as Physiotherapist in \nrespect of foreign qualified employees, of whom it is not required to perform \nCommunity Service, as required in South Africa. Grade "
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-d853fb9901e7dab2",
-    "title": "PRIMARY HEALTH CARE MANAGER",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Drakenstein PHC, Drakenstein Sub-district",
-    "category": "Healthcare",
-    "salary": "R1 101 468 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/274",
-    "summary": "Provide strategic leadership, governance, operational management, quality \nassurance and oversight of Primary Health Care services within the Sub-\nDistrict, including clinic-based and community-based services, oral health \nservices, the implementation of the Community-Oriented Primary Care \napproach, burden of disease management, internal policy and procedure \ndevelopment, \nmonitoring \nand \nevaluation \nsystems, \nand \ncomplaints \nmanagement. Oversee the effective management of critical support services \non the Primary Health Care platform, including pharmacy services, information \nmanagement and data systems, infrastructure, equipment, cleanin",
-    "requirements": [
-      "Minimum educational qualification: A health-related qualification at NQF level \n7 that allows registration with the Health Professions Council of South Africa \n(HPCSA) or South African Nursing Council (SANC) or South African Pharmacy \nCouncil (SAPC). Experience: Appropriate management experience in an \nappropriate healthcare environment. Inherent requirements of the job: Valid \nDriver’s licence. Competencies (knowledge/skills): Sound knowledge of the \ndistrict health system. A firm grasp of the principles and practice of primary \nhealthcare in the South African context. Computer literacy. Abil"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-9069b3c3636c115b",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (GENERAL: CHRONIC WARD)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "ID Hospital (Malmesbury) West Coast TB Centre",
-    "category": "Healthcare",
-    "salary": "R337 359 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/303",
-    "summary": "Provision of optimal, holistic nursing care with set standards and within a \nprofessional/legal framework. Effective utilisation of resources. Maintain \nprofessional growth/ethical standards and self-development. Provision of \nSupport to Nursing Services. Participation in training and research. Provision \nof quality basic nursing patient centered care in a hospital setting.",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. OR - A 4 year Bachelor Degree in Nursing (R174) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. OR - A 3 year Diploma in Nursing (R171) that allows registration with \nthe South African Nursing Council (SANC) AS A General Nurse. Registration \nwith a professional council: Registration with the SANC as a Professional \n"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-654ec9d1a7541968",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY NURSING NEPHROLOGY)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "George Regional Hospital",
-    "category": "Healthcare",
-    "salary": "R495 423 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/284",
-    "summary": "Ensure quality patient care regarding the identification of nursing care needs, \nthe planning & implementation of nursing care plans and the education of \nnursing personnel. Render and supervise specialised mental health nursing \ncare and support clinical staff with operational functions in the unit. Utilize \nhuman, material and physical resources efficiently and effectively. Maintain & \npromote professional growth/ethical standards and development of self & \nothers. Display of core values of the Department of Health WCG in the \nexecution of duties.",
-    "requirements": [
-      "Minimum educational qualification: Basic R425 (i.e. diploma/degree in nursing) \nor equivalent qualification (R683) that allows registration with the South African \nNursing Council (SANC) as a Professional Nurse. A post-basic nursing \nqualification, with duration of at least 1 year, accredited with SANC in terms of \nR212 in Medical and Surgical Nursing Science: Nephrology or Medical and \nSurgical Nursing Science: Critical Care Nursing (Adult). OR A 4-year bachelor’s \ndegree in nursing (R174) or equivalent qualification (R171 plus R1497) that \nallows registration with the South African Nursing C"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-5dc5d1201058ee2f",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY NURSING PAEDIATRICS WARD AND PAEDIATRIC OPD)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "George Regional Hospital \n\n212",
-    "category": "Healthcare",
-    "salary": "R495 423 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/294",
-    "summary": "Ensure quality patient care regarding the identification of nursing care needs, \nthe planning & implementation of nursing care plans and the education of \nnursing personnel as a Professional Nurse in the Paediatric department. \nRender and supervise specialized clinical nursing care and support clinical staff \nwith surgical & medical procedures. Utilize human, material and physical \nresources efficiently and effectively. Maintain & promote professional \ngrowth/ethical standards and development of self & others. Display of core \nvalues of the Department of Health WCG in the execution of duties, while \npractising within the legislation, regulati",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at least \n1 year accredited with the SANC in Child Nursing Science (R212). OR A 4-year \nbachelor’s degree in nursing (R174) or equivalent qualification (R683 plus \nR1497 or R171 plus R1497) that allows registration with the South African \nNursing Council (SANC) as a Professional Nurse. A post graduate "
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-e758bf53a5fca3d2",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY: ADVANCED MIDWIFERY) (X2 POSTS)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Khayelitsha CHC and Macassar CDC",
-    "category": "Healthcare",
-    "salary": "R495 423 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/290",
-    "summary": "Responsible for the provision and implementation of comprehensive holistic \nnursing care and treatment to all pregnant clients. Assist with management of \npeople management services within the Department. Effective utilization of \nfinancial resources within the department. Ensure the promotion of Quality \nAssurance, Infection Control and Prevention &Occupational Health & Safety \nwithin the Department. Deliver a support service to the Operational Manager \nand ensure effective coordination of the Nursing Division after hours.",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at least \n1 year accredited with the SANC in Advanced Midwifery and Neonatal Nursing \n\n209 \n\nScience (R212) OR A 4 year Bachelor Degree in Nursing (R174) or equivalent \nqualification (R683 plus R1497 or R171 plus R1497) that allows registration \nwith the South African Nursing Council (SANC) as a Profession"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-5ea59e8a1393ec91",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY: ICU HIGH CARE & RENAL)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "George Regional Hospital",
-    "category": "Healthcare",
-    "salary": "R495 423 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/289",
-    "summary": "Use expert knowledge and skills to ensure quality appropriate adult and \npaediatric patient care are met and delivered by the nursing and clinical team \nincluding identification and prevention of risks. Participate in quality \nimprovement implementation by providing effective direction, supervision and \neducation of nursing personnel as a Professional Nurse in the Intensive/High \ncare unit, according to audits and appropriate data. Support the unit \nmanager/Operational manager in the co-ordination, organising and control \nover the activities, personnel, equipment, and stores in the unit to utilize \nhuman, material and physical resources effic",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. A post-basic nursing qualification with a duration of at least 1 year \naccredited with the SANC in Medical and Surgical Nursing Science: Critical \nCare Nursing: Child or Medical and Surgical Nursing Science: Critical Care \nNursing: General. OR 4-year bachelor’s degree in nursing (R174) or equivalent \nqualification (R171 plus R1497) that allows registration with the"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-45bbbdcd737219e8",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY: MATERNITY CLINICAL FACILITATOR)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "George Regional Hospital",
-    "category": "Healthcare",
-    "salary": "R495 423 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/288",
-    "summary": "Facilitate the development of learning opportunities for all nursing personnel. \nFacilitate the in-service training /updating of skills and competencies as well as \nthe orientation programme for nurses. Evaluate and assess the competencies \nand skills of nursing personnel and personal development. Ensure the \nappropriate placement and accompaniment of nursing personnel. Effective \nmanagement of resources.",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at least \n1 year accredited with the SANC in Advanced Midwifery and Neonatal Nursing \nScience (R212). OR A 4-year bachelor’s degree in nursing (R174) or equivalent \nqualification (R683 plus R1497 or R171 plus R1497) that allows registration \nwith the South African Nursing Council (SANC) as a Profession"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-3393658c88ba9336",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY: OBSTETRICS) (X1 POST)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "George Regional Hospital",
-    "category": "Healthcare",
-    "salary": "R495 423 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/285",
-    "summary": "To provide holistic, quality health care and education according to individual \nneeds of patients, family and the community. Effective utilization of Human and \nPhysical Resources. Support Operational Manager with staff supervisory \nfunction. Maintain professional growth/ethical standards and self- development \nof self and others. Display of core values of the Department of Health WCG in \nthe execution of duties.",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Council (SANC) as a Professional \nNurse. A post-basic nursing qualification with a duration of at least 1 year \naccredited with the SANC in Advanced Midwifery and Neonatal Nursing \nScience (R212) OR A 4-year bachelor’s degree in nursing (R174) or equivalent \nqualification (R683 plus R1497 or R171 plus R1497) that allows registration \nwith the South African Nursing Council (SANC) as a Professional Nurse."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-38c41181bbf833f0",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY: PAEDIATRICS WARD)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Metro TB Hospital Complex",
-    "category": "Healthcare",
-    "salary": "R495 423 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/286",
-    "summary": "Provide comprehensive specialized nursing care provided within a professional \n/ legal framework. Participate with the multi-disciplinary team to provide holistic \nhealth care, provide good documentation, care, planning and health education. \nTo support and participate in clinical practice development initiatives, \neducational activities, and research. Effective utilization of human and financial \nresources. Provide support services to Supervisor and Nursing division.",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \nDiploma/Degree in Nursing) or equivalent qualification (R683) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. A post-basic nursing qualification with a duration of at least 1 year \naccredited with the SANC, in Child Nursing Science. OR a 4-year Bachelor's \nDegree in Nursing (R174) or equivalent qualification (R171 plus R1497) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A postgraduate diploma (R635) accredited in Child \n"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-82c8e28bf17df202",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY: PSYCHIATRY)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Drakenstein Sub-district (PHC Support and Outreach)",
-    "category": "Healthcare",
-    "salary": "R495 423 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/287",
-    "summary": "Actively participate as a specialist nurse in the provision of acute and chronic \nmental health care to clients of all age groups at Health Care facilities in the \nSub-district. Make bio-psychosocial health assessments that are culturally \nsensitive. Design and implement treatment plans and critically evaluate \noutcomes. Promote and maintain mental health and manage the effects of \n\n207 \n\nmental illness through education, counselling and psycho-social rehabilitation. \nParticipate in the training and clinical supervision support of other health care \nproviders.",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R880) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at least \n1 year accredited with the SANC in Advanced Psychiatric Nursing Science \n(R212). OR A 4 year bachelor’s degree in nursing (R174) or equivalent \nqualification (R171 plus R1497) that allows registration with the South African \nNursing Council (SANC) as a Professional Nurse. A post graduate Dipl"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-fd06f779a67879c7",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY: THEATRE AND DAY WARD)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "George Regional Hospital",
-    "category": "Healthcare",
-    "salary": "R495 423 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/291",
-    "summary": "Ensure quality patient care regarding the identification of nursing care needs, \nthe planning and implementation of nursing care plans and the education of \nnursing personnel as a Professional Nurse in the Operating Theatre. Render \nand supervise specialized clinical nursing care and support clinical staff with \nsurgical and medical procedures. Utilize human, material and physical \nresources efficiently and effectively. Maintain and promote professional \ngrowth/ethical standards and development of self and others. Display of core \nvalues of the Department of Health WCG in the execution of duties.",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at least \n1 year accredited with the SANC in Medical and Surgical Nursing Science: \nOperating Theatre (R212). OR A 4-year bachelor’s degree in nursing (R174) or \nequivalent qualification (R683 plus R1497 or R171 plus R1497) that allows \nregistration with the South African Nursing Council (SANC) as a Pr"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-c3a26bc3b20335b5",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY: THEATRE AND DAY WARD) (X3 POSTS)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "New Somerset Hospital",
-    "category": "Healthcare",
-    "salary": "R495 423 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/293",
-    "summary": "Provide safe and comprehensive care delivered to patients in theatre. \nProvision of optimal, holistic specialised care with set standards within \nprofessional/legal framework. Ensure adherence to the principles of IPC \npractices in the theatre. Ensure accurate record keeping for statistical and legal \npurposes. Support and supervise students and subordinates in theatre. \nEffective utilization of resources.",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at least \n1 year accredited with the SANC in Medical and Surgical Nursing Science: \nOperating Theatre. OR A 4 year Bachelor Degree in Nursing (R174) or \nequivalent qualification (R683 plus R1497 or R171 plus R1497) that allows \nregistration with the South African Nursing Council (SANC) as a Professiona"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-e57baf08eb8819a0",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY: TRAUMA AND EMERGENCY AND OPD)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Stellenbosch Hospital",
-    "category": "Healthcare",
-    "salary": "R495 423 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/283",
-    "summary": "Ensure quality patient care regarding the identification of nursing needs, the \nplanning and implementation of nursing care plans as a Professional nurse in \nthe Trauma and Emergency department. Render and supervise specialized \nclinical nursing care and support clinical staff with medical and surgical \nprocedures. Utilize human, material and physical resources effectively and \nefficiently. Maintain and promote professional growth, ethical standards and the \ndevelopment of self and others. Display the core values of the Department of \nHealth and Wellness WCG in the execution of duties while practicing within \nlegislation, regulation and proto",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at least \n1 year accredited with the SANC in Medical and Surgical Nursing Science: \nCritical Care Nursing (General) or Medical Surgical Nursing Science: \nEmergency Nursing (R212). OR A 4-year bachelor’s degree in nursing (R174) \nor equivalent qualification (R683 plus R1497 or R171 plus R1497) that allo"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-aed42df22ed7dd02",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY: TRAUMA AND EMERGENCY)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Red Cross War Memorial Children’s Hospital, Rondebosch",
-    "category": "Healthcare",
-    "salary": "R495 423 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/292",
-    "summary": "Provide comprehensive specialized nursing care provided within a professional \n/ legal framework. Participate with the multi-disciplinary team to provide holistic \nhealth care, provide good documentation, care, planning and health education. \nTo support and participate in clinical practice development initiatives, \neducational activities, and research. Effective utilization of human and financial \nresources. Provide support services to Supervisor and Nursing division.",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. A post-basic nursing qualification with a duration of at least 1 year \naccredited with the SANC in Medical and Surgical Nursing Science: Critical \nCare Nursing: General/Child or Medical and Surgical Nursing Science: Critical \nCare Nursing: Trauma and Emergency or 4-year Bachelor Degree in Nursing \n(R174) or equivalent qualification (R171 plus R1497) that allows reg"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-3e6f6ae4b12bc6e0",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 3 (GENERAL NURSING)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Murraysburg Hospital, Beaufort West Sub-District",
-    "category": "Healthcare",
-    "salary": "R337 359 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/305",
-    "summary": "Provide direction and supervision for the implementation of the nursing plan \n(clinical practice or patient care). Implement standards, practices, criteria, and \nindicators for quality nursing (quality of practice). Practice nursing and health \ncare in accordance with the laws and regulations relevant to nursing and health \ncare. Maintain constructive working relationship with nursing and other \nstakeholders. Utilize human, material, and physical resources efficiently and \neffectively. Participate in training, development and research within the nursing \ndepartment. Provision of support to nursing services.",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. OR A 4 year Bachelor Degree in Nursing (R174) or \nequivalent qualification (R683 plus R1497 or R171 plus R1497) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. Registration with a professional council: Registration with SANC as a \nProfessional Nurse. Experience: Grade 1: None Grade 2: A minimum of 10 \nyear"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-e0b33d919a20fcdb",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 3 (GENERAL WARD) (X2 POSTS)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Wesfleur Hospital",
-    "category": "Healthcare",
-    "salary": "R337 359 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/307",
-    "summary": "Provide \noptimal, \nholistic \nnursing \ncare \nwithin \nset \nstandards \nand \nprofessional/legal framework. Assist with management of people management \nservices within the Department and compliance with professional, legal, and \nethical regulations governing nursing practice. Effective utilization of financial \nand physical resources within the department. Ensure the promotion of Quality \nAssurance, Infection Control and Prevention & Occupational Health & Safety \nwithin the Department. Deliver a support service to the Operational Manager, \nwhilst maintaining professional growth and ethical standards and selfdevelopment.",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. OR A 4-year bachelor’s degree in nursing (R174) or \nequivalent qualification (R683 plus R1497 or R171 plus R1497) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. Registration with a professional council: Registration with SANC as a \nProfessional Nurse. Experience: Grade 1: None. Grade 2: A Minimum of 10 \ny"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-691c409efc67f375",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 3 (GENERAL: GIT, SURGERY RELIEF, ENT & PLASTIC) (X3 POSTS)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Groote Schuur Hospital, Observatory",
-    "category": "Healthcare",
-    "salary": "R337 359 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/306",
-    "summary": "Provision of quality nursing care within set standards. Effective human \nresource utilization and development. Effective Monitoring of Financial \nResources. Initiate and participate in research and data collection.",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. Or A 4 year bachelor’s degree in nursing (R174) that allows registration \nwith the South African Nursing Council (SANC) as a Professional Nurse or A 3 \nyear Diploma in Nursing (R171) that allows registration with the South African \nNursing Council (SANC) AS A General Nurse. Registration with a professional \ncouncil: Registration with the SANC as Professional Nurse "
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-846a9e8bf356de58",
-    "title": "PROFESSIONAL NURSE GRADE 1 TO 3 (GENERAL: PHC)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Drakenstein Sub-district, (PHC Support & Outreach) \n\n219",
-    "category": "Healthcare",
-    "salary": "R337 359 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/304",
-    "summary": "Provision of Primary Health Care in accordance with the guidelines and \nprotocols of the Western Cape. Maintain accurate clinical records, statistics \nregisters, and referral records. Effective utilization of Resources/Stock within \nthe limited budget constraints. Participation in Community events and initiating \nawareness with regards to health-related issues. Maintain and participate in \ninter-professional and multi-disciplinary teamwork but able to work \nindependently. Supervise and mentor lower categories of staff and improving \nquality of health services. Maintain professional growth/ethical standards and \nself-development.",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse OR 4 year Bachelor Degree in Nursing (R174) or \nequivalent qualification (R683 plus R1497 or R171 plus R1497) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. Registration with a professional council: Registration with the SANC as \nProfessional Nurs. Experience: Grade 1: None Grade 2: A minimum of 10 \nyears "
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-271ce4a7e18c66fa",
-    "title": "PUBLIC ENTITY FINANCE INTERN POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Finance",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/39",
-    "summary": "National Diploma/ Bachelor’s degree in Financial Management/ Public \nFinance/Economics/ Accounting/ relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Financial Management/ Public \nFinance/Economics/ Accounting/ relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-42ee0e477104cbed",
-    "title": "PUBLIC TRANSPORT IN MUNICIPALITY AND PROVINCES TOWN PLANNING LIMPOPO REF. NO. GRAD/2027/1 (X2 POSTS)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/150",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-fd64ae503cc9cbee",
-    "title": "PUBLIC TRANSPORT NETWORK DEVELOPMENT INTERN DOT/GRAD/2026/30 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Other",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/30",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Management/ Transport \nEconomics/ Transport and Logistics/",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Management/ Transport \nEconomics/ Transport and Logistics/"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-cbc901031ec4574c",
-    "title": "PUBLIC TRANSPORT NETWORK DEVELOPMENT INTERN DOT/GRAD/2026/31 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Other",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/31",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Management/ Transport \nEconomics/ Transport and Logistics/",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Management/ Transport \nEconomics/ Transport and Logistics/"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-8329997aac2b0245",
-    "title": "RAIL INFRASTRUCTURE AND INDUSTRY DEVELOPMENT INTERN REF NO: DOT/GRAD/2026/32 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/32",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Management/ Transport \nEconomics/ Transport and Logistics/",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Management/ Transport \nEconomics/ Transport and Logistics/"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-a49e1697303a15c9",
-    "title": "RAIL POLICY AND STRATEGIC DEVELOPMENT INTERN DOT/GRAD/2026/35 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/35",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Management/ Transport \nEconomics/ Transport and Logistics/ Engineering/ Town & Regional Planning \nrelevant Postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Management/ Transport \nEconomics/ Transport and Logistics/ Engineering/ Town & Regional Planning \nrelevant Postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-11adf223c67a62e6",
-    "title": "RAIL SAFETY REGULATION INTERN POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/34",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Management/ Transport \nEconomics/ Transport and Logistics/ Engineering/ Law/LLB/ relevant \nPostgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Management/ Transport \nEconomics/ Transport and Logistics/ Engineering/ Law/LLB/ relevant \nPostgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-ce1ecf18984d0cee",
-    "title": "RAIL SERVICE DELIVERY INTERN: RAIL OPERATIONS DOT/GRAD/2026/33 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/33",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Management/ Transport \nEconomics/ Engineering/ Transport and Logistics/ relevant Postgraduate \nqualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Management/ Transport \nEconomics/ Engineering/ Transport and Logistics/ relevant Postgraduate \nqualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-a2e085d03f5f8cfa",
-    "title": "ROAD ACCIDENT AND INCIDENT INVESTIGATION INTERN DOT/GRAD/2026/24 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/24",
-    "summary": "National Diploma/ Bachelor’s Degree in Civil Engineering/ Mechanical \nEngineering/ Road Crash Investigation.",
-    "requirements": [
-      "National Diploma/ Bachelor’s Degree in Civil Engineering/ Mechanical \nEngineering/ Road Crash Investigation."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-64457a42f5a86842",
-    "title": "ROAD SAFETY INTERN",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/23",
-    "summary": "National Diploma/ Bachelor’s Degree in Road Traffic Safety Management/ \nTraffic Policing/ Civil Engineering/ Transport Management/ Transport Planning/ \nData Analytics/ relevant postgraduate qualifications.",
-    "requirements": [
-      "National Diploma/ Bachelor’s Degree in Road Traffic Safety Management/ \nTraffic Policing/ Civil Engineering/ Transport Management/ Transport Planning/ \nData Analytics/ relevant postgraduate qualifications."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-471392f046edec54",
-    "title": "ROAD TRANSPORT RESEARCH, POLICY, STANDARDS AND GUIDELINES INTERN",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/22",
-    "summary": "A National Diploma in Civil Engineering.",
-    "requirements": [
-      "A National Diploma in Civil Engineering."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-fbcda0dacd6fcf1a",
-    "title": "SENIOR ADMINISTRATIVE OFFICER: ECD",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Cape Town",
-    "category": "Information Technology",
-    "salary": "R413 001 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "326",
-    "summary": "The successful candidate will be responsible for supporting the effective rollout, \nadoption, and day-to-day use of the eCares system across districts and ECD \nservice providers. Key responsibilities include Providing first-line user support \nto district officials and ECD centres on system usage, data capture, document \nuploads, enrolment updates, and troubleshooting. Delivering hands-on training \nand coaching to users to strengthen system adoption and improve data quality. \nSupporting data management, verification, and maintenance, ensuring \naccurate and timely submission of ECD information. Conducting basic data \nanalysis and reporting to s",
-    "requirements": [
-      "Applicants must be in possession of a relevant post-school qualification in \nInformation Systems, Education, Data Analysis, Public Administration, or a \nrelated field. The successful candidate must demonstrate strong computer \nliteracy, including proficiency in MS Office, online systems, and data entry \nplatforms, as well as practical experience using information systems or \ndatabases. Candidates should have experience in system rollout support, \ntraining facilitation, or user support, preferably within the education or Early \nChildhood Development (ECD) sector. Intermediate data analysis and "
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-02b471f234785767",
-    "title": "SENIOR ADMINISTRATIVE OFFICER: ECD",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Cape Town",
-    "category": "Information Technology",
-    "salary": "R413 001 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "333",
-    "summary": "The successful candidate will be responsible for supporting the effective rollout, \nadoption, and day-to-day use of the eCares system across districts and ECD \nservice providers. Key responsibilities include Providing first-line user support \nto district officials and ECD centres on system usage, data capture, document \nuploads, enrolment updates, and troubleshooting. Delivering hands-on training \nand coaching to users to strengthen system adoption and improve data quality. \nSupporting data management, verification, and maintenance, ensuring \naccurate and timely submission of ECD information. Conducting basic data \nanalysis and reporting to s",
-    "requirements": [
-      "Applicants must be in possession of a relevant post-school qualification in \nInformation Systems, Education, Data Analysis, Public Administration, or a \n\n193 \n\nrelated field. The successful candidate must demonstrate strong computer \nliteracy, including proficiency in MS Office, online systems, and data entry \nplatforms, as well as practical experience using information systems or \ndatabases. Candidates should have experience in system rollout support, \ntraining facilitation, or user support, preferably within the education or Early \nChildhood Development (ECD) sector. Intermediate data analys"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-d35e1b9736d86ec7",
-    "title": "SENIOR ADMINISTRATIVE OFFICER: FINANCE & SUPPLY CHAIN MANAGEMENT",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Caledon Hospital",
-    "category": "Finance",
-    "salary": "R413 001 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/299",
-    "summary": "Responsible for overall management for all Finance and Supply Chain \nManagement functions and ensure the effective and efficient application of \nprocurement policies and processes. Responsible for Inventory control, \nWarehouse Management and Asset Management processes. Accurate and \ntimeous preparation of reports and assist with the compilation of the Annual \nand Interim Financial statements. Clearing Asset and Liabilities accounts \nSupervise Patient Administration, Medical Records, and Hospital Fees \nDepartments. Ensure sound labour practices are executed and implemented.",
-    "requirements": [
-      "Minimum \neducational \nqualification: \nAppropriate \n3-year \nNational \nDiploma/Degree. Experience: Appropriate experience in Finance, Revenue, \nPatient Administration and Supply Chain Management. Appropriate experience \nin budget and expenditure control and the management of Asset and Liability \nAccounts. Appropriate Supervisory experience. Inherent requirements of the \n\n216 \n\njob: Valid (Code B/EB) driver’s license. Willingness to rotate within the Finance \nand Supply Chain Sections when required. Willingness to work after-hours \nwhen required. Competencies (knowledge/skills): Extensive knowled"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-3eef076b2acc2f9f",
-    "title": "SENIOR ADMINISTRATIVE OFFICER: HUMAN RESOURCES AND LABOUR RELATIONS (HUMAN RESOURCE MANAGEMENT)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Alexandra Hospital",
-    "category": "Education",
-    "salary": "R413 001 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/298",
-    "summary": "Render sound labour relations practices at institutional level. Administer \ngrievance and disciplinary cases and maintain a database to generate monthly \nreports for labour relations. Render a service to the Institutional Management \nand Labor Committee (IMLC). Consult and advise management and Line \nmanagement on all labour relations policies, procedures and interventions. \nManage and supervise the general staff office including the development of \nHuman Resource Officials on all aspects (SPMS, Discipline, training of staff). \nAdhere and correct application to all transversal personnel practices, policies \nand procedures. including all emplo",
-    "requirements": [
-      "Minimum educational qualification: Appropriate 3-year National Diploma or \nDegree. \nExperience: \nAppropriate \nexperience \nin \nHuman \nResource \nAdministration/Labour and PERSAL. Appropriate supervisory experience. \nInherent requirements of the job: Valid Driver’s license. Competencies \n(knowledge/skills): Knowledge and implementation of Labor Relations \nstandards and prescripts. Understanding of relevant legislation pertaining to \nLabor Relations. Sound practice, knowledge and experience of the PERSAL \nsystem. Knowledge of the Public Service Act and resolution, various OSD’s, \nHuman Resource Po"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-2c809b2eab502ba4",
-    "title": "SENIOR INTERNAL AUDITOR",
-    "department": "Department of Public Works And Infrastructure",
-    "province": "National",
-    "location": "Pretoria Regional Office",
-    "category": "Information Technology",
-    "salary": "R413 001 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "2026/343",
-    "summary": "Provide inputs in the development Internal Audit Strategic Plans. Identify and \nanalyse critical risks from the Department’s Risk Management plan that \nrequires Internal Audit Activity focus and the controls put in place to mitigate \nthem. Establish risk-based plans to determine the priorities of the IAA \nconsistent with the organisation’s goals. Align the operational plan to the overall \nobjectives of the organisation. Provide inputs in the development of Internal \nAudit Operational plan. Determine focus areas for IA activities. Determine IA \nscope in relation to the scheduled assignments. Allocate resources to planned \naudit assignments. Es",
-    "requirements": [
-      "A minimum of three-year tertiary qualification (NQF Level 06)/ National Diploma \nin Internal Auditing/Accounting. Relevant years of experience in the field in \nAuditing. Registration with the Institute for Internal Auditors. Security \nclearance. Knowledge of IAA Charter. IAA Methodology. IAA Standards. \nStandards for Professional Practice of Internal Auditing. Treasury Regulations. \nPublic Finance Management Act. Institute of Internal Auditors Code of Ethics. \nPossession of an Internal Audit technician (IAT) and or Professional Internal \nAudit Technician (PIAT) qualification will be an added a"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/m.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-5c089714679b242d",
-    "title": "SENIOR PERSONNEL PRACTITIONER: RECRUITMENT & PLANNING REF NO: 2026/344",
-    "department": "Department of Public Works And Infrastructure",
-    "province": "National",
-    "location": "Pretoria Regional Office \n\n88",
-    "category": "Information Technology",
-    "salary": "R413 001 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "2026/344",
-    "summary": "Facilitate and implement advertising process. Receive and implement staff \nrequisitions forms and motivation for posts to be advertised. Facilitate the \ndrafting of advertisements. Implementation of recruitment and selection \nprocesses. Keep records of application. Sorting of received applications. \nEnsure development of applicant’s profiles. Facilitate the invitation of \nshortlisted applicants. Represent Human Resources during shortlisting and \ninterviews of shortlisted applicants. Communicate with successful applicants. \nVerify results, certificates and qualifications. Facilitate the compilation of \nappointment letters. Facilitate personal ",
-    "requirements": [
-      "A minimum of three-year tertiary qualification (NQF Level 06)/ National Diploma \nin Human Resource Management or related field of study. Appropriate years of \nworking experience in Human Resource Recruitment. A valid driver’s license. \nKnowledge: Standards, practices, processes and procedures related to HR \nRecruitment. Structure and functioning of the Department, Public Service Act \nand Regulations. Employment Equity Act. Knowledge of PERSAL. Basic \nCondition Act. Public Finance Management Act. Codes of Remuneration. \nConflict Management. Project Management. Skills: Numeracy. Interpersonal \na"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/m.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-1e6cef9a466a3919",
-    "title": "SOCIAL WORKER GRADE 1 TO 4 (X2 POSTS)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Mental Health Roving Team (ACT) (KESS) and Nomzamo CDC, Khayelitsha/ \nEastern Sub-structure",
-    "category": "Healthcare",
-    "salary": "R338 208 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/300",
-    "summary": "Provision of comprehensive, client centered clinical social work services in the \nPrimary HealthCare facility and NPOS environment, with regards to care, \nsupport and protection of vulnerable individuals, groups, families and \ncommunities, to ensure safe discharge plans. Conduct assessments aimed at \nidentifying conditions in individuals, groups, families and communities that \njustify relevant interventions. Convene and Conduct Psychosocial groups. \nDeliver an accountable service through the application of Social Work \nadministrative processes. Effective networking with the multi-disciplinary team \nas well as relevant external role players. K",
-    "requirements": [
-      "Minimum educational qualification: Appropriate qualification as a Social Worker \nthat allows for registration with the South African Council for Social Service \nProfessionals (SACSSP). Registration with a professional council: Registration \nwith the South African Council for Social Service Professions (SACSSP) as \nSocial Worker. Experience: Grade 1: No experience Grade 2: A minimum of \n10 years appropriate experience in Social Work after registration as a Social \nWorker with the South African Council for Social Service Professions. Grade \n3: A minimum of 20 years appropriate experience in Soci"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-9d4048627f4acc67",
-    "title": "SOCIAL WORKER: SOCIAL SERVICES PROFESSIONAL: ECD: 328",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Cape Town",
-    "category": "Education",
-    "salary": "R338 208 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "328",
-    "summary": "The successful candidate will be responsible for providing administrative and \ncompliance support across the Registration, Infrastructure Support, and ECD \nSubsidy business processes. Processing, organising, and tracking centre-level \ndocumentation required for registration and funding. Uploading and managing \ndigital records of ECD programmes on DBE-approved platforms. Monitoring \napplication progress and flagging incomplete or incorrect submission of \napplication documentation. Preparing district reports and data updates, \nincluding evidence for site visit readiness. Liaising with district officials, ECD \ncentres, and field staff to coordin",
-    "requirements": [
-      "Applicants must be in possession of an appropriate Certificate or bachelor’s \ndegree in social Auxiliary Work/ Social Work. Registration with the South \nAfrican Council for Social Service Profession as a Social Worker/ Social \nAuxiliary Worker. A minimum of 2 years' experience in Social Work/ Social \nAuxiliary Work. Knowledge of early child development, the policies and \nlegislation regulating ECD, age-appropriate stimulation and play-based \nlearning, ECD registration requirement and the ECD subsidy process. Strong \nadministrative and compliance skills are required, particularly in record keep"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-edfaacaf7b23ef44",
-    "title": "SOCIAL WORKER: SOCIAL SERVICES PROFESSIONAL: ECD: 329",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Cape Town",
-    "category": "Education",
-    "salary": "R338 208 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "329",
-    "summary": "The successful candidate will be responsible for providing administrative and \ncompliance support across the Registration, Infrastructure Support, and ECD \nSubsidy business processes. Processing, organising, and tracking centre-level \ndocumentation required for registration and funding. Uploading and managing \ndigital records of ECD programmes on DBE-approved platforms. Monitoring \napplication progress and flagging incomplete or incorrect submission of \napplication documentation. Preparing district reports and data updates, \nincluding evidence for site visit readiness. Liaising with district officials, ECD \ncentres, and field staff to coordin",
-    "requirements": [
-      "Applicants must be in possession of an appropriate Certificate or bachelor’s \ndegree in social Auxiliary Work/ Social Work. Registration with the South \nAfrican Council for Social Service Profession as a Social Worker/ Social \nAuxiliary Worker. A minimum of 2 years' experience in Social Work/ Social \nAuxiliary Work. Knowledge of early child development, the policies and \nlegislation regulating ECD, age-appropriate stimulation and play-based \nlearning, ECD registration requirement and the ECD subsidy process. Strong \nadministrative and compliance skills are required, particularly in record keep"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-578e688d84292547",
-    "title": "SOCIAL WORKER: SOCIAL SERVICES PROFESSIONAL: ECD: 330",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Cape Town",
-    "category": "Education",
-    "salary": "R338 208 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "330",
-    "summary": "The successful candidate will be responsible for providing administrative and \ncompliance support across the Registration, Infrastructure Support, and ECD \nSubsidy business processes. Processing, organising, and tracking centre-level \ndocumentation required for registration and funding. Uploading and managing \ndigital records of ECD programmes on DBE-approved platforms. Monitoring \napplication progress and flagging incomplete or incorrect submission of \napplication documentation. Preparing district reports and data updates, \nincluding evidence for site visit readiness. Liaising with district officials, ECD \ncentres, and field staff to coordin",
-    "requirements": [
-      "Applicants must be in possession of an appropriate Certificate or bachelor’s \ndegree in social Auxiliary Work/ Social Work. Registration with the South \nAfrican Council for Social Service Profession as a Social Worker/ Social \nAuxiliary Worker. A minimum of 2 years' experience in Social Work/ Social \nAuxiliary Work. Knowledge of early child development, the policies and \nlegislation regulating ECD, age-appropriate stimulation and play-based \nlearning, ECD registration requirement and the ECD subsidy process. Strong \nadministrative and compliance skills are required, particularly in record keep"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-b332383ff7036e6d",
-    "title": "SOCIAL WORKER: SOCIAL SERVICES PROFESSIONAL: ECD: 331",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Cape Town",
-    "category": "Education",
-    "salary": "R338 208 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "331",
-    "summary": "The successful candidate will be responsible for providing administrative and \ncompliance support across the Registration, Infrastructure Support, and ECD \nSubsidy business processes. Processing, organising, and tracking centre-level \ndocumentation required for registration and funding. Uploading and managing \ndigital records of ECD programmes on DBE-approved platforms. Monitoring \napplication progress and flagging incomplete or incorrect submission of \napplication documentation. Preparing district reports and data updates, \nincluding evidence for site visit readiness. Liaising with district officials, ECD \ncentres, and field staff to coordin",
-    "requirements": [
-      "Applicants must be in possession of an appropriate Certificate or bachelor’s \ndegree in social Auxiliary Work/ Social Work. Registration with the South \nAfrican Council for Social Service Profession as a Social Worker/ Social \nAuxiliary Worker. A minimum of 2 years' experience in Social Work/ Social \nAuxiliary Work. Knowledge of early child development, the policies and \nlegislation regulating ECD, age-appropriate stimulation and play-based \nlearning, ECD registration requirement and the ECD subsidy process. Strong \nadministrative and compliance skills are required, particularly in record keep"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-70eff481bc5b2c79",
-    "title": "SOCIAL WORKER: SOCIAL SERVICES PROFESSIONAL: ECD: 334",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Cape Town",
-    "category": "Education",
-    "salary": "R338 208 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "334",
-    "summary": "The successful candidate will be responsible for providing administrative and \ncompliance support across the Registration, Infrastructure Support, and ECD \nSubsidy business processes. Processing, organising, and tracking centre-level \ndocumentation required for registration and funding. Uploading and managing \ndigital records of ECD programmes on DBE-approved platforms. Monitoring \napplication progress and flagging incomplete or incorrect submission of \napplication documentation. Preparing district reports and data updates, \n\n196 \n\nincluding evidence for site visit readiness. Liaising with district officials, ECD \ncentres, and field staff to ",
-    "requirements": [
-      "Applicants must be in possession of an appropriate Certificate or bachelor’s \ndegree in social Auxiliary Work/ Social Work. Registration with the South \nAfrican Council for Social Service Profession as a Social Worker/ Social \nAuxiliary Worker. A minimum of 2 years' experience in Social Work/ Social \nAuxiliary Work. Knowledge of early child development, the policies and \nlegislation regulating ECD, age-appropriate stimulation and play-based \nlearning, ECD registration requirement and the ECD subsidy process. Strong \nadministrative and compliance skills are required, particularly in record keep"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-b87f4d777750700f",
-    "title": "SOCIAL WORKER: SOCIAL SERVICES PROFESSIONAL: ECD: 336",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Cape Town",
-    "category": "Education",
-    "salary": "R338 208 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "336",
-    "summary": "The successful candidate will be responsible for providing administrative and \ncompliance support across the Registration, Infrastructure Support, and ECD \nSubsidy business processes. Processing, organising, and tracking centre-level \ndocumentation required for registration and funding. Uploading and managing \ndigital records of ECD programmes on DBE-approved platforms. Monitoring \napplication progress and flagging incomplete or incorrect submission of \napplication documentation. Preparing district reports and data updates, \nincluding evidence for site visit readiness. Liaising with district officials, ECD \ncentres, and field staff to coordin",
-    "requirements": [
-      "Applicants must be in possession of an appropriate Certificate or bachelor’s \ndegree in social Auxiliary Work/ Social Work. Registration with the South \nAfrican Council for Social Service Profession as a Social Worker/ Social \nAuxiliary Worker. A minimum of 2 years' experience in Social Work/ Social \nAuxiliary Work. Knowledge of early child development, the policies and \nlegislation regulating ECD, age-appropriate stimulation and play-based \nlearning, ECD registration requirement and the ECD subsidy process. Strong \nadministrative and compliance skills are required, particularly in record keep"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-511767e21a26baac",
-    "title": "STAFF NURSE GRADE 1 TO 3 (FEMALE PRE DISCHARGE WARD 3)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Valkenberg Hospital",
-    "category": "Healthcare",
-    "salary": "R229 440 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/321",
-    "summary": "Provide basic clinical nursing care. Development and implementation of basic \npatient care plans. Effective utilization of resources. Maintain professional \ngrowth/ethical standards and self-development.",
-    "requirements": [
-      "Minimum educational qualification: Qualification that allows registration with \nthe South African Nursing Council (SANC) as a Staff Nurse. Registration with \na professional council: Registration with the SANC as a Staff Nurse. \nExperience: Grade 1: None. Grade 2: A minimum of 10 years \nappropriate/recognizable experience in nursing after registration with the \nSANC \nas \na \nStaff \nNurse. \nGrade \n3: A \nminimum \nof \n20 \nyears \nappropriate/recognizable experience in nursing after registration with the \nSANC as a Staff Nurse. Inherent requirements of the job: Willingness to work \novertime, nightshi"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-cea092f51996b472",
-    "title": "STAFF NURSE GRADE 1 TO 3 (PAEDS GROUND AND PAEDS OPD)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "George Regional Hospital",
-    "category": "Healthcare",
-    "salary": "R229 440 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/322",
-    "summary": "Development and implementation of basic patient care. Provide basic clinical \nnursing care. Effective utilization of physical and financial resources. Maintain \nprofessional growth/ethical standards and self-development.",
-    "requirements": [
-      "Minimum educational qualification: Qualification that allows registration with \nthe SANC as a Staff Nurse. Registration with a professional council: \nRegistration with the SANC as Staff Nurse. Experience: Grade 1: None. Grade \n2: A minimum of 10 years’ appropriate/recognisable experience in nursing after \nregistration with the SANC as Staff Nurse. Grade 3: A minimum of 20 years \nappropriate/recognisable experience in nursing after registration with the \nSANC as Staff Nurse. Inherent requirements of the job: Will be required to work \nshifts, night duty, weekends, public holidays as well as over"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-b7782915b1c62cd4",
-    "title": "STRATEGIC PLANNING & MONITORING AND CLUSTER COORDINATORS INTERN",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Administration",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/113",
-    "summary": "Degree/ National Diploma in Public Management/ Administration/ Strategic \nPlanning/ Management/ Monitoring and Evaluation",
-    "requirements": [
-      "Degree/ National Diploma in Public Management/ Administration/ Strategic \nPlanning/ Management/ Monitoring and Evaluation"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-904ca7943f87da7a",
-    "title": "SUPERVISOR: CLEANING SERVICES",
-    "department": "Department of Public Works And Infrastructure",
-    "province": "National",
-    "location": "Pretoria Regional Office",
-    "category": "Healthcare",
-    "salary": "R201 093 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "2026/348",
-    "summary": "Manage and control equipment and materials: identify resource requirements \nand special operational needs. monitor the condition and availability of \nequipment. Ensure replacement or repair of faulty/outdated equipment. \nSupervise the provisioning of housekeeping, cleaning, safeguarding & \nmaintenance services: -Ensure cleanliness, tidiness, hygiene and safety of all \nareas allocated for cleaning. Perform administration functions associated to \nhousekeeping & cleaning services. Identify hazards in the buildings/offices \nrelated to fire and electricity. Perform physical inspection of cleaned areas-: \nEnsure the removal of refuse in the offices",
-    "requirements": [
-      "A minimum of Grade 9/ ABET level 4. (A minimum of two years relevant \ncleaning service environment experience will be used as an added advantage). \nBasic knowledge of cleaning, Office Administration, Operating cleaning \nequipment, Occupational health and safety, Personnel practices and Labour \nRelations Act. Skills: Effective communication skills, numeracy, observation \nabilities, ability to work with consultants, professionals and staff at various \nlevels, relationship management, interpersonal and diplomacy skills, analytical \nthinking, problem solving skills, decision making skills, conflic"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/m.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-90cf6062b1187082",
-    "title": "SUPERVISOR: GROUNDS SERVICES",
-    "department": "Department of Public Works And Infrastructure",
-    "province": "National",
-    "location": "Pretoria Regional Office",
-    "category": "Healthcare",
-    "salary": "R201 093 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "2026/350",
-    "summary": "Manage and control equipment and materials-: Identify resource requirements \nand special operational needs. Monitor the condition and availability of \nequipment. Ensure the maintenance/servicing of equipment and other outdoor \nmaintenance tasks-: Prepare, implement and monitor maintenance schedules. \nEnsure that weeds and grass on bedding are removed. Supervise the \nfertilization of soil on flower beds. Perform physical inspection of worked \nground areas-: Ensure the removal of garden rubbish/refuse around buildings. \nEnsure the inspection of logistics and physical environment to ensure clean \nmaintained environment adherence to OHS. Perform ",
-    "requirements": [
-      "A minimum of ABET level 4/ Grade 9. Relevant experience of horticultural \npractices and clerical services will be an added advantage). Knowledge of \nGarden maintenance practices; Office Administration. Operating horticultural \nequipment; Occupational health and safety; Personnel practices. Labour \nRelations Act. Effective communication skills. Good communication, leadership \nand organizational skills. A valid driver’s license."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/m.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-7ac2876d0e6d6379",
-    "title": "SUPPLY CHAIN MANAGEMENT INTERN POSTS)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Other",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/21",
-    "summary": "National Diploma/ Bachelor’s Degree in Supply Chain Management/ Logistics/ \nProcurement Management/ Supply Chain Management and Logistics/ relevant \npostgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s Degree in Supply Chain Management/ Logistics/ \nProcurement Management/ Supply Chain Management and Logistics/ relevant \npostgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-4cd0b9f0ae3ab7c4",
-    "title": "TOWN PLANNING EASTERN CAPE REF. NO. 2027/2 (X2 POSTS)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/151",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-2cf24192a1109f83",
-    "title": "TOWN PLANNING FREE STATE REF. NO. GRAD 2027/8 (X2 POSTS)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office) \n\n117",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/157",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-a02f4d6091ff2c99",
-    "title": "TOWN PLANNING GAUTENG REF. NO. GRAD 2027/3 (X2 POSTS)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/152",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-da9412909af9890c",
-    "title": "TOWN PLANNING KWAZULU-NATAL",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "GRAD",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-ff4618c4e229b615",
-    "title": "TOWN PLANNING MPUMALANGA (REF. NO. GRAD 2027/6 (X2 POSTS)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/155",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-390ee9c9e23bfb69",
-    "title": "TOWN PLANNING NORTH WEST (REF. GRAD 2027/7 (X2 POSTS)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/156",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-ef611e6b435dcab1",
-    "title": "TOWN PLANNING NORTHERN CAPE REF. NO. GRAD 2027/5 (X2 POSTS)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/154",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-9192768dd508f836",
-    "title": "TOWN PLANNING WESTERN CAPE",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Engineering",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "GRAD2027/4",
-    "summary": "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications",
-    "requirements": [
-      "National Diploma/ Bachelor’s degree in Transport Economics/ Transport \nPlanning/ Transport Engineering/Civil Engineering/ Town and Regional \nPlanning/ relevant postgraduate qualifications"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-246f4d118a099c2b",
-    "title": "TRADESMAN AID BUILDING (CARPENTRY)",
-    "department": "Department of Western Cape",
-    "province": "Western Cape",
-    "location": "Head Office, Cape Town",
-    "category": "Healthcare",
-    "salary": "R144 024 per annum",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "34/328",
-    "summary": "Carry out minor maintenance tasks. Assist with the installation of plant, \nequipment and alterations. Ensure that tools and material are available when \nneeded. Ensure areas in workshop /s and working environment is clear of \nobstructions and cleaned daily. Assist the Artisans in the execution of their \nduties as per Breakdown below. Control over tools and materials. Mainly \nCarpentry Plumbing, Painting and Building trades related duties. Maintenance \nand repairs by painting, glazing, skimming installations of Drywalls, ceilings \nand spray- painting of equipment at Hospital buildings. Repairs and Service of \ninfrastructure equipment at Facili",
-    "requirements": [
-      "Minimum educational qualification: Grade 10 (or equivalent). Experience: \nAppropriate basic Workshop experience. Appropriate experience within the \nrespective fields below. Inherent requirements of the job: Willingness to travel \nthroughout the Western Cape Province. Physically fit to do manual labour. \nCompetencies (knowledge/skills): Ability to handle tools. Good interpersonal \nskills. Good communication skills. Sound Knowledge of mainly in Building \nrelated trades, like: (Carpentry, Plumbing, Painting and Building). Basic sound \nknowledge of the SANS 10 - 400 Building Regulation. Be convers"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/x.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-5dd32605a158ed95",
-    "title": "TRAVEL SERVICES INTERN",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "Pretoria (Head Office)",
-    "category": "Finance",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/GRAD/2026/16",
-    "summary": "National Diploma / Bachelor’s Degree in Public Administration / Public \nManagement, Procurement, Supply Chain Management, Finance or Tourism.",
-    "requirements": [
-      "National Diploma / Bachelor’s Degree in Public Administration / Public \nManagement, Procurement, Supply Chain Management, Finance or Tourism."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-1aef17dc971fa05e",
-    "title": "WORK INTEGRATED LEARNING ADMINISTRATION REF NO DOT/WIL/2026/1 (X4 POSTS)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "National",
-    "category": "Administration",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/WIL/2026/1",
-    "summary": "N6 Certificate in Office Administration/ Public Management/ Administration/ \nPublic Administration/ Business Management.",
-    "requirements": [
-      "N6 Certificate in Office Administration/ Public Management/ Administration/ \nPublic Administration/ Business Management."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-7c6e2ffe552f1600",
-    "title": "WORK INTEGRATED LEARNING TRAINEE FINANCIAL ADMINISTRATION",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "National",
-    "category": "Finance",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/WIL/2026/4",
-    "summary": "N6 Certificate in Financial Administration/ Financial Management.",
-    "requirements": [
-      "N6 Certificate in Financial Administration/ Financial Management."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-2471722d12a5acfd",
-    "title": "WORK INTEGRATED LEARNING TRAINEE HUMAN RESOURCE MANAGEMENT AND DEVELOPMENT POSTS)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "National",
-    "category": "Human Resources",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/WIL/2026/2",
-    "summary": "N6 Certificate in Human Resource Management/ Personnel Management",
-    "requirements": [
-      "N6 Certificate in Human Resource Management/ Personnel Management"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-404086a23dd45e10",
-    "title": "WORK INTEGRATED LEARNING TRAINEE: ADMINISTRATION DOT/WIL/2026/5 (X2 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "National",
-    "category": "Finance",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/WIL/2026/5",
-    "summary": "N6 Certificate in Financial Administration/ Financial Management.",
-    "requirements": [
-      "N6 Certificate in Financial Administration/ Financial Management."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-c743d97e3b532300",
-    "title": "WORK INTEGRATED LEARNING TRAINEE: LEGAL SERVICES DOT/WIL/2026/3 (X1 POST)",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "National",
-    "category": "Legal",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/WIL/2026/3",
-    "summary": "N6 Certificate in Legal Services or Legal Practice.",
-    "requirements": [
-      "N6 Certificate in Legal Services or Legal Practice."
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
-    "id": "dpsa-60ac41635917e30f",
-    "title": "WORK INTEGRATED LEARNING TRAINEE: MARITIME TRANSPORT ADMINISTRATIVE SUPPORT",
-    "department": "Department of Transport",
-    "province": "National",
-    "location": "National",
-    "category": "Administration",
-    "salary": "See official advertisement",
-    "closingDate": "2026-10-09",
-    "publishedDate": "2026-09-18",
-    "circular": "Circular 34 of 2026",
-    "reference": "DOT/WIL/2026/6",
-    "summary": "N6 Certificate in Public Management/ Public Administration/ Business \nManagement",
-    "requirements": [
-      "N6 Certificate in Public Management/ Public Administration/ Business \nManagement"
-    ],
-    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/34/q.pdf",
-    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-34-of-2026/"
-  },
-  {
     "id": "dpsa-30685bc01daf6eb0",
     "title": "ADMINISTRATION CLERK",
     "department": "Department of Mineral And Petroleum Resources",
@@ -10258,5 +7465,7320 @@ window.GOVVACANCY_LISTINGS = [
     ],
     "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/35/v.pdf",
     "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-35-of-2026/"
+  },
+  {
+    "id": "dpsa-c40839eebfd83c7e",
+    "title": "ACADEMIC HEAD OF DEPARTMENT - MENTAL HEALTH NURSING REF NO: REFS/056716 (X1 POST)",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Gauteng College of Nursing (Bonalesedi Campus)",
+    "category": "Healthcare",
+    "salary": "R741 783 – R871 860 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/056716",
+    "summary": "Coordinate and manage the provision of education and training to student \nnurses. Manage clinical learning exposure to learners between Campus and \nclinical areas. Develop and ensure implementation of quality assurance \nprogrammes. Orientate, supervise, and appraise staff members in the \nacademic department. Participate in the presentation of academic \nprogrammes theory and clinical practice. Supervise the marking and \nmoderation of the theoretical and practical examinations. Provide academic \nsupport to students. Develop, review, and evaluate the curriculum of academic \nprogrammes. Perform research relevant to nursing education. Collaborate ",
+    "requirements": [
+      "Matric/Grade12 certificate or equivalent. A Basic qualification accredited with \nthe South Africa Nursing Council in terms of Government Notice R.425 (i.e. \ndiploma/degree) or equivalent qualification that allows registration with SANC \nas a Professional Nurse and Psychiatric Nursing. Bachelor's Degree/Diploma \nin Nursing Education. A Post Basic or Postgraduate qualification in Psychiatric \nNursing or Mental Health Nursing. Master’s degree in nursing/public health. \nAssessor and Moderator registered with SANC. Current registration with \nSANC. A minimum of 9 years appropriate/recognizable exper"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-0b1707a1a1698f6f",
+    "title": "ACCOUNTING CLERK",
+    "department": "Office of the Chief Justice",
+    "province": "National",
+    "location": "Eastern Cape Division of The High Court: Makhanda",
+    "category": "Finance",
+    "salary": "R237 453 – R279 708 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/144/OCJ",
+    "summary": "Prepare VA26 to book accommodation, car hire, shuttle service and flights for \nwitnesses as well as temporary officials, receive S & T Claims, cellphone and \ndata re-imbursement claims for Judges and officials as well as temporary \nofficials. Filing, retrieve and safeguard finance payment batches, custodian of \nthe petty cash and assigned a duty of paying ordinary witnesses, expert \nwitnesses and psychologists. Process payments for service provides of Goods \nand services within the prescribed turnaround time.",
+    "requirements": [
+      "Applicants should be in possession of a Grade 12 certificate. No experience \nrequired. Knowledge and skills: Knowledge and sound understanding of the \nPFMA, Treasury Regulations, BAS, PPPFA guidelines and other related \nprescripts. Skilled in computer literacy. (MS Word, PowerPoint, Excel and \nOutlook), accuracy, attention to detail, communication, administration and \norganisation skills. Along with the following attributes: ability to work under \npressure independently, self-motivated and meet deadlines."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/l.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-c0a6ae1d9124c456",
+    "title": "ADMIN CLERK",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Bayworld Museum (Gqeberha)",
+    "category": "Administration",
+    "salary": "R237 453 – R279 708 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Facilitate receipt of goods and services. Receive, check and record the goods \nand invoice received from supplier. Compare goods received with requisition \nforms. Endorse signature on receipt of goods. Record goods received. Keep \ngoods in a correct and safe place. Facilitate storage, issuing and distributing \nstores item/inventory. Enter goods in a correct bin allocation. Update bin cards \nand item records. Keep and maintain the asset register of the museum. Assist \nin the Administration of the Museum fleet. Liaise with the end user for collection \nof goods received. Issue and facilitate signing of goods receipt voucher by the \nend user. Fac",
+    "requirements": [
+      "National Senior Certificate plus a Diploma (NQF Level 6) or Degree (NQF Level \n7) as recognised by SAQA in Supply Chain Management/ Public Management/ \nPublic Administration/Inventory Management/Stores/Logistics Management. \nExposure in the field will be an added advantage. Knowledge of registry duties, \npractices as well as the ability to capture data, and operate computer will also \nbe an added advantage. Working knowledge and understanding of the \nlegislative framework governing the Public Service. Knowledge of storage and \nretrieval procedures in terms of the working environment. Good writ"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-c97bf3e1184ea755",
+    "title": "ADMIN CLERK SUPERVISOR: LOGISTICS AND STORES MANAGEMENT",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (Qonce)",
+    "category": "Information Technology",
+    "salary": "R338 106 – R398 277 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Management of Logistics and Stores in accordance with departmental policies \nand applicable prescripts. Management of Inventory and stock control. \nManagement of receipt, storage and distribution of goods. Provide sound \nlogistic Administration. Ensure compliance with internal controls. Render \nproper record and information management. Responsible for monitoring, \nreporting \nand \nreconciliation. \nRender \neffective \nasset \nand \nresource \nmanagement, supervision of staff, as well as stakeholder and service delivery \nsupport. Provide general administration for the stores and warehouse \nmanagement unit.",
+    "requirements": [
+      "National Senior Certificate Plus National Diploma (NQF Level 6) or B. Degree \n(NQF \nlevel \n7 \nas \nrecognized \nby \nSAQA) \nin \nSupply \nChain \nManagement/Logistics/Purchasing Management/ Financial Management \n/Public Management/Purchasing Management, Financial Management with at \nleast 1 - 2 years relevant experience within a Supply Chain Management \nenvironment, logistics, stores, Provisioning Administration. Knowledge of \nPFMA, Treasury Regulations, PPPFA, Treasury Circulars, and instruction \nnotes relating to SCM Management. Computer literacy. Knowledge of \ntransversal systems BAS and LOGIS (L"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-98774d595ad51414",
+    "title": "ADMINISTRATION CLERK: ADMISSIONS",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Hermanus CDC, Overstrand Sub-district",
+    "category": "Healthcare",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/369",
+    "summary": "Admission of patients including correct patient assessment and accurate \ndata/information capturing. Ensure correct management of patient folders at \nreception area and schedule appointments (new, follow-up and operations) on \nthe system. Recordkeeping, compile new, retrieve, file, trace lost and manage \nduplicates and old folders as well as maintain a record system and archive. \nAccurate collection, safekeeping and deposit of state money. Deal with written \nand or telephonic queries or enquiries with regards to patient admission \nmatters. Perform relief duties as well as support to supervisor as required. \n\n293",
+    "requirements": [
+      "Minimum educational qualification: Senior Certificate (or equivalent). \nExperience: Appropriate patient administrative experience in a health/patient \nenvironment. Appropriate Clinicom/PHCIS experience. Inherent requirements \nof the job: A valid (code B/EB/C1) driver’s license. Willingness to work overtime \nif operational requirements so demand. Good interpersonal skills. \nCompetencies (knowledge/skills): Good communication skills. Computer \nliteracy in MS Office. Good interpersonal and communication skills, ability to \nwork independently, and as part of a team, ability to maintain confidentia"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-59b5c95d28ef0f40",
+    "title": "ADMINISTRATION CLERK: FINANCE/ADMIN",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Northern/Tygerberg Sub-Structure Office",
+    "category": "Finance",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/367",
+    "summary": "Control, verify, capture journals and report Assets and Liability accounts. \nCompile and capture payments on BAS. Control, verify and follow up on debt \naccounts according to prescripts. Handle and replenishment of Petty Cash. \nEnsure effective and efficient compliance with sundry payment regulations. \nReconciliation of supplier’s statements and recordkeeping of documentation. \nAssist in monthly IFS and AFS reporting. \n\n292",
+    "requirements": [
+      "Minimum educational qualification: Senior Certificate (or Equivalent) with \nMatric and/or Accountancy as a passed subject and/ or Senior Certificate (or \nequivalent) with experience/competencies that focuses on the Key \nPerformance Areas (KRA’s) of the post.” Experience: Appropriate experience \nin a Finance environment and BAS. Inherent requirements of the job: Valid \n(Code B/EB) drivers’ license. Willingness to work overtime. Competencies \n(knowledge/skills): Ability to work independently, yet as part of a team. \nComputer skills in (MS Office: Word and Excel). Knowledge of PFMA, Finance \nInst"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1f13aa72b00f88c8",
+    "title": "ADMINISTRATION CLERK: HOUSING PROPERTY MANAGEMENT REF NO: DHS07/09/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "OR Tambo Region (Mthatha)",
+    "category": "Administration",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DHS07/09/2026",
+    "summary": "Render general clerical support services (Line function). Record, organise, \nstore, capture and retrieve correspondence and data. Update registers and \nstatistics. Handle routine enquiries. Make photocopies and receive \ncorrespondence. Distribute documents/packages to various stakeholders as \nrequired. Keep and maintain the filing system for the component. Type letters \nand/or other correspondence when required. Keep and maintain the incoming \nand outgoing document register of the component. Provide supply chain \nclerical support services within the component. Liaise with internal and external \nstakeholders in relation to procurement of goods",
+    "requirements": [
+      "National Senior Certificate/ NQF level 4 with no work experience. Must have \ngood communication skills (verbal and written), job knowledge, interpersonal \nrelations and ability to work in a team. Computer literate and the ability of \nplanning and organisation."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f074820ef29015b0",
+    "title": "ADMINISTRATION CLERK: HOUSING SUBSIDY SYSTEMS DHS06/09/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (East London)",
+    "category": "Administration",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DHS06/09/2026",
+    "summary": "Render general clerical support services to the Human Settlements Subsidy \nSystems unit. Record, organise, store, capture and retrieve correspondence \n\n110 \n\nand data. Update registers and statistics. Handle routine enquiries. Make \nphotocopies and receive correspondence. Distribute documents/packages to \nvarious stakeholders as required. Keep and maintain the filing system for the \ncomponent. Type letters and/or other correspondence when required. Keep \nand maintain the incoming and outgoing document register of the component. \nProvide supply chain clerical support services within the component. Liaise \nwith internal and external stakeholder",
+    "requirements": [
+      "National Senior Certificate/NQF level 4 with no work experience. Must have \ngood communication skills (verbal and written), job knowledge, interpersonal \nrelations and ability to work in a team. Computer literate and the ability of \nplanning and organisation."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f69f519857362fcb",
+    "title": "ADMINISTRATION CLERK: MANAGEMENT SUPPORT SERVICES REF NO: HR4/4/1/95",
+    "department": "Department of Employment And Labour",
+    "province": "National",
+    "location": "Labour Centre: Mthatha",
+    "category": "Information Technology",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "HR4/4/1/95",
+    "summary": "To render Supply Chain Management function in a Labour Centre daily. Provide \na Finance and Office Management service to Labour Centre daily. Render \nHuman Resource Management. Responsible for training and performance \nactivities in a Labour Centre daily. Responsible for records administration in a \nLabour Centre daily.",
+    "requirements": [
+      "Grade 12/ Senior Certificate. No experience required. Knowledge: Batho Pele \nPrinciples, Departmental policies and procedures, Treasury Regulations. \nSkills: Verbal and written communication, Interpersonal relations, Problem \nsolving, Communication, Conflict Management, Coordination, Computer \nliteracy."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/d.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-e45f21f8e8c878c5",
+    "title": "ADMINISTRATION CLERK: PES",
+    "department": "Department of Employment And Labour",
+    "province": "National",
+    "location": "Provincial Office KwaZulu-Natal",
+    "category": "Human Resources",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "HR4/4/7/5",
+    "summary": "Liaise with identified stakeholder’s relations for acquisition of placement \nopportunity. Avail information for coordination of International Cross-Border \nLabour Migration functions. Support the coordination of the registration and \ncertification of Private Employment Agencies. Coordinate large (Provincial) \nopportunities from key stakeholders.",
+    "requirements": [
+      "Grade 12 / Matriculation/ Senior Certificate. Knowledge: Relevant ILO \nConventions, Human Resource Management, Batho Pele. Skills: Planning and \norganising, Verbal and written communication, Analytical, Computer Literacy, \nPresentation, Interpersonal, Report writing, and Innovative."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/d.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-5405faa106bc555e",
+    "title": "ADMINISTRATION CLERK: SUPPLY CHAIN MANAGEMENT",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "District Six CDC",
+    "category": "Healthcare",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/366",
+    "summary": "Issue and receive stock (physically and on LOGIS) and ensuring the \nsafekeeping of stock. Update stock and perform regular spot checks of stock \nitems, and regular stock takes. File all relevant documentation and ensure \naudit compliance and record keeping. Follow up on outstanding orders with \nsuppliers and Hub Hospital. Assist with all general tasks within the SCM and \nFinance department. Perform the duties of procurement of goods/services and \nasset management. Ensure that the FIFO principle is maintained in the stores. \nHandle queries in all aspects within the SCM department.",
+    "requirements": [
+      "Minimum educational qualification: Senior Certificate (or equivalent) with \nMathematics and/or Accountancy as a passed subject or Senior Certificate (or \nequivalent) with experience/competencies that focuses on the Key \nPerformance Areas (KPA's) of the post. Experience: Appropriate experience in \ninventory and stores management, or supply chain management, and asset \nmanagement administration. Appropriate experience working in a healthcare \nor clinical setting. Inherent requirements of the job: Valid Driver’s License. \nWillingness to lift heavy boxes and assets. Competencies (knowledge/skills)"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-2e65d8146b3c5fe0",
+    "title": "ADMINISTRATION CLERK: SUPPORT",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Stellenbosch Sub-district (PHC)",
+    "category": "Healthcare",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/368",
+    "summary": "Provide comprehensive secretarial and executive support to Family \nPhysicians and the multidisciplinary medical team. Coordinate diaries, \nmeetings, leave administration, HR documentation and office administration. \nProvide clinical administrative support, including patient bookings, referrals, \nmedico-legal documentation, HealthNet coordination and communication with \npatients and families. Oversee office communication processes, including \ntelephone systems, call routing, message management and escalation of \nurgent matters. Coordinate operational administrative functions, including \naccess control, overnight-room oversight, office supplies",
+    "requirements": [
+      "Minimum educational qualification: Senior Certificate (or equivalent). \nCompetencies (knowledge/skills): Knowledge of Public Service administrative \nprocedures and office management. Knowledge of patient administration, \nreferral pathways and medico-legal documentation. Knowledge of records \nmanagement and confidentiality principles. Excellent organizational, planning \nand time management skills. Excellent written and verbal communication \nskills, including minute-taking. Computer literacy in Microsoft Word, Excel, \nPowerPoint and Teams. Ability to work independently and under pressure \nwhile "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-2971f9fa0aae7b8c",
+    "title": "ADMINISTRATION CLERK: SUPPORT (LINEN MANAGEMENT)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Head Office, Cape Town (Laundry Services: Tygerberg Laundry)",
+    "category": "Finance",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/365",
+    "summary": "Linen Audits – Conduct regular linen audits at hospitals and health institutions \nwith-in the Western Cape Province. Administrative Function – compile linen \nshortage and surplus reports Update linen inventories of facilities Provisioning \nadministration – Assist with ordering and control of linen stocks and other office \nrelated requirements/materials. Contact functions – Liaise with the laundries \nand institutions to ensure effective linen control.",
+    "requirements": [
+      "Minimum educational qualification: Senior Certificate (or equivalent). \nExperience: Appropriate experience in general office administration functions. \n\n291 \n\nAppropriate experience in the accurate counting and auditing. Inherent \nrequirement of the job: Valid EB drivers’ license. Willingness travelling away \nfrom home. Willingness to work long hours when required. Competencies \n(knowledge/skills): Good communication skills."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-9c0f634bd15b1b38",
+    "title": "ADMINISTRATION CLERK: SUPPORT SERVICES (RECEPTION)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Head Office, Cape Town (Tygerberg Central Laundry Services)",
+    "category": "Education",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/364",
+    "summary": "To render an effective professional Reception and administrative support \nservice to the Central Laundry Services. Manage communication and \ncorrespondence efficiently. Effectively and efficiently capturing all Laundry \nrelated statistics and database maintenance. Assist with enquiries and provide \nsupport.",
+    "requirements": [
+      "Minimum educational qualification: Senior Certificate (or equivalent). \nExperience: Appropriate experience in general office administration functions. \nAppropriate experience in managing a switchboard and reception area. \nCompetencies (knowledge/skills): Computer literacy in MS Word and Excel. \nGood written and communication skills. Ability to work under pressure and to \nmeet deadlines. Knowledge of the Western Cape Government policies and \nguidelines and Control Policy."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-9b97be3e31e3a70d",
+    "title": "ADMINISTRATION CLERK: WARDS",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Victoria Hospital",
+    "category": "Education",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/370",
+    "summary": "Effective and efficient patient administration through liaison with clients, record \nkeeping, documentation, filing, and telephone enquiries. Effective and efficient \npatient administration including checking that all follow-up bookings for all \noutpatients on Clinicom system has been booked. Attendances and disposals \nare dealt with daily. Capturing of ICD10 codes. Ensure that all fees and \nadministrative related documents are signed, ensuring availability of folders \nand necessary documents for admission. Effective handling of material \nresources, assets. Perform admin duties in wards/sections. Ensure all patient \nprocesses and activities r",
+    "requirements": [
+      "Minimum educational qualification: Senior Certificate (or equivalent). \nExperience: Appropriate experience in Microsoft Office and Clinicom \ninformation management system. Appropriate experience in a hospital \nenvironment. Inherent requirements of the job: Perform relief duties as \nrequired. Competencies (knowledge/skills): Good verbal, written and \ninterpersonal communication skills. Practical computer skills (MS Word, \nOutlook and Excel). Maintain and exercise confidentiality of patient’s \ninformation. Good interpersonal relations, organisational skills, and customer \ncare."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-c79d7d4525a24472",
+    "title": "ADMINISTRATION OFFICER",
+    "department": "Office of the Chief Justice",
+    "province": "National",
+    "location": "Supreme Court of Appeal: Bloemfontein",
+    "category": "Finance",
+    "salary": "R338 106 – R398 277 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/143/OCJ",
+    "summary": "Record, organise, store, capture and retrieve correspondence and data, \nupdate registers and statistics, handle routine enquiries, distribute \ndocuments/packages to various stakeholders as required, keep and maintain \nthe filing system for the component, type basic letters and/or other \ncorrespondence when required, keep and maintain the incoming and outgoing \nregister of the component, authorise payments, receipts and confirm deposits \non the BAS system, verify transactions on the BAS system, identify loss within \nthe office and report to the provincial office i.e. fruitless and wasteful \nexpenditure, unauthorised expenditure and irregular e",
+    "requirements": [
+      "Applicants should be in possession of National Diploma in Business \nAdministration/ Public Administration or Public Management qualification at \nNQF level six (6) as recognised by SAQA. A minimum of two (2) years’ \nexperience including internship and learnership. A valid drivers’ license will \nserve as added advantage. Knowledge and skills: Departmental codes and \npolicies, prescripts, PFMA, Public Service Regulation, Public Service Act and \n\n63 \n\nBatho Pele Principles. Skilled in Communication (verbal and written, computer \nliteracy, problem solving, analytical skills, Human Resources Managem"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/l.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-690038d951408f03",
+    "title": "ADMINISTRATION OFFICER: DEMAND MANAGEMENT (SCM) 2026/354",
+    "department": "Department of Public Works And Infrastructure",
+    "province": "National",
+    "location": "Cape Town Regional Office",
+    "category": "Information Technology",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/354",
+    "summary": "Provide admin support in the research and needs analysis for the Department. \nProvide guidance to End-Users/Project Managers on testing the markets. Lead \nthe process of alignment of budgets with department objectives and Annual \nPerformance Plans. Consolidation of Procurement Plans and report monthly \nto Head Office. Assist in the consultation with relevant stakeholders to \ndetermine challenges, opportunities and risks. Identify the frequency of needs \nand analyse the identified needs in line with the supply chain strategy and \ncollect data commodity analysis and checking for alternatives. Provide support \nin the determination and developmen",
+    "requirements": [
+      "A minimum of three-year tertiary qualification (NQF level 06)/ National Diploma \nin Supply Chain Management/ Procurement/ Public Management/ Public \nAdministration or related. Relevant years of experience in Supply Chain \n\n67 \n\nManagement within Acquisition Management. Valid Driver’s Licence. \nKnowledge Of: Thorough knowledge and understanding of government \nprocurement systems and relevant legislation; Supply chain management; \nManagement of databases; PFMA; PPPFA; Supply Chain policies and \nprocedures; Treasury Regulations and BBBEE Acts; Monitoring and evaluation \ntheory and methodology; Mo"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/m.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-89730bc72b3ccb48",
+    "title": "ADMINISTRATION OFFICER: SUPPORT SERVICES IES HR4/4/7/94",
+    "department": "Department of Employment And Labour",
+    "province": "National",
+    "location": "Provincial Office: Mpumalanga",
+    "category": "Healthcare",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "HR4/4/7/94",
+    "summary": "Perform all registration pertaining to statutory services (BCEA, COIDA, UI, \nOHS, EEA, LRA). Conduct Labour Centre audits to check if the necessary tools \nof trade are in place with a view to improving IES systems and processes. \nCollect, compile and consolidate IES statistical reports and submit to the \nsupervisor. Coordinate and monitor local and Provincial Blitz Inspections. \nPrepare an enforcement document for the Labour Court, Public Protector and \nMagistrate's Court.",
+    "requirements": [
+      "Three (3) years relevant tertiary qualification in Labour Relations/ Human \nResources Management/ Public/ Business Management/ Administration. One \n(1) year of functional experience in Inspection/ Administration Services. A valid \ndriver’s licence. Knowledge: Departmental Policies and procedures. Skills \nDevelopment Act. Labour Relations Act. Basic Conditions of Employment Act. \nPublic Service Regulations. SDLA. Occupational Health and Safety Act. \nCOIDA. Unemployment Insurance Act. UI Contributions Act. Employment \n\n18 \n\nEquity Act. Skills: Planning and organising. Computer Literacy. Interper"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/d.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-62a847bfcc370f29",
+    "title": "ADMINISTRATIVE ASSISTANT",
+    "department": "Department of Traditional Affairs",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Administration",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/21",
+    "summary": "The successful candidate will perform the following duties: Develop and \nmanage an efficient filing system and flow of documents for the Commission: \nReceive and distribute documents to members of the Commission on Khoi-San \nmatters. Record documents in the appropriate registers. File and manage the \npaperwork of the Commission. Establish effective document tracking systems. \nProvide secretarial support services to the Commission: Co-ordinate and \nprepare documentation for the Commission’s meetings/ workshops/public \nhearing and outreaches. Compile agenda, attendance registers, minutes and \nreports. Draft memoranda and any other correspondenc",
+    "requirements": [
+      "A Grade 12 Certificate or equivalent qualification plus a certificate in Office \nManagement/Secretarial Studies with at least one (1) year experience in office \nmanagement and administration. A post-Matric qualification will serve as an \nadded advantage. Core competencies: Client orientation and customer focus. \nCommunication (written & verbal). Honesty and integrity. Planning and \norganising. Telephone etiquette. Computer literacy. Technical Competencies: \nOffice management and administration, secretarial functions and general \nadministration."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/o.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1b9bd36bb47fd31b",
+    "title": "ADMINISTRATIVE ASSISTANT: RECRUITMENT AND SELECTION REF NO: DOT/HRM/2026/37 (X2 POSTS)",
+    "department": "Department of Transport",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Human Resources",
+    "salary": "R280 278 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DOT/HRM/2026/37",
+    "summary": "Capture applications from job applicants; Sort job applications alphabetically, \ncapture all applications from job applicants, compile executive summary of all \napplications, maintain a database for the applications, Arrange and coordinate \nshort listing; Arrange for a suitable date for short listing, invite all stakeholders, \npanel members including organized labour to the short listing, scribe during \nshort listing meeting, compile submission for short listing, approvals, conduct \nreference checks for the shortlisted candidates, Arrange and conduct \ninterviews, Arrange date and venue for the interviews, invite shortlisted \ncandidates to the",
+    "requirements": [
+      "A qualification at NQF level 6 in Human Resource Management / Human \nResource Development/ Public Management / Administration / Industrial \nPsychology with no working experience. Knowledge and skills: Exposure to the \nPublic Service Act, Public Service Regulations, Basic Conditions of \nEmployment Act, Labour Relations Act, Employment Equity Act, Exposure to \n\n76 \n\nthe Recruitment and Selection policy and prescripts, Exposure to Human \nResource Practices and Procedures, problem solving, project management, \ninterpersonal relationship, policy analysis and development, computer literacy \nand co-o"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/p.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-6e63fb914b67f35b",
+    "title": "ADMINISTRATIVE CLERK PRODUCTION: ORGANISATIONAL DESIGN AND SERVICE EXCELLENCE",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (East London)",
+    "category": "Administration",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DHS10/09/2026",
+    "summary": "Provide clerical support to the unit. Draft routine memoranda, letters, \nsubmissions and administrative reports. Maintain registers, filling systems and \nadministrative records for the unit. Photocopy, scan, print and distribute \ndocuments as required. Follow up on outstanding documents and provide \nfeedback to the supervisor. Render records and information management \nsupport services to the unit. Open, update and maintain physical and electronic \nfiles in line with records management requirements. Capture and update \ninformation relating to structures, job descriptions, job evaluation and service \n\n112 \n\nexcellence activities. Maintain data",
+    "requirements": [
+      "National Senior Certificate, NQF level 4 with no experience. Knowledge of \noffice administration procedures and record management, confidentiality and \nhandling of official information. Good communication skills (written and verbal) \nand computer literate. Ability to work in a team and with collaborations, \nattention to detail, time management and customer care."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-77fe25a4308d728f",
+    "title": "ADMINISTRATIVE CLERK: SUPERVISOR: PATIENT ADMINISTRATION",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "ST Chads CHC",
+    "category": "Finance",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "STC04/2026",
+    "summary": "Conduct employee’s performance review and compile report. Supervise staff \nand ensure proper implementation of EPMDS. Ensure implementation of UPFS \nthrough proper assessment of patient. Develop implement and maintain patient \nadministration systems and services for the CHC/Hospital to ensure quality \nstandards are met. Assist with the collection and verification of patient related \n\n187 \n\ninformation /statistics and the development of reports in support of accurate \nand timeous management reporting processes. Supervise and control the \nsafekeeping of patient records and patient valuable. Develop, implement and \nmonitor measures designated to",
+    "requirements": [
+      "Standard 10/ Grade 12. 3-5 years’ experience in patient administration \ncomponent. Knowledge, Skills, Training And Competencies Required. \nExtensive knowledge and experience in patient administration procedures. \nSound knowledge of Public Finance Management Act, Treasury instruction, \nUPFS and handling of money. Supervisory and leadership skills. Organizing, \nplanning and problem-solving skills. Interpersonal skills. Computer literacy."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-4b2bf466ed5f0a90",
+    "title": "ADMINISTRATIVE OFFICER DEMAND MANAGEMENT REF NO DEE2026/023",
+    "department": "Department of Electricity And Energy",
+    "province": "National",
+    "location": "Head Office, Pretoria",
+    "category": "Finance",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DEE2026/023",
+    "summary": "Assist line Manager with demand planning (end user specifications). \nProcessing of requests for goods and services. Market research and \ndevelopment of sourcing strategy. Bid specification Committee secretariat for \nrequests below the value of R500k.",
+    "requirements": [
+      "An appropriate National Diploma in Procurement Management/Supply Chain \nManagement/Logistics and Business Management at NQF Level 6 recognised \nby the South African Qualifications Authority (SAQA), PLUS 1year experience \nas an Administration Clerk in Supply Chain management. Knowledge of: Public \nFinance Management Act (PFMA), Treasury Regulations, PPPFA, Supply \nChain Management Framework, LOGIS Skills: Computer literacy, Financial, \nGood Verbal and written communications, ability to communicate at different \nlevels. Thinking Demands: Problem Solving, Creativity, Ability to negotiate, \nReport"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/c.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-dfcd250523a77032",
+    "title": "ADMINISTRATIVE OFFICER: FINANCE",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Southern Western Sub-structure Office",
+    "category": "Finance",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/351",
+    "summary": "Identify and correct erroneous expenditure and address a need for training \nif/when required. Timeous clearance of Asset and Liabilities accounts. \nEffective monitoring of Transfer payments and support to NPO finance and \nProgramme staff. Ensure effective and efficient compliance with sundry \npayment regulations. Provide documented information pertaining to budget \nrelated matters on request from the ASD & SAO.",
+    "requirements": [
+      "Minimum educational qualification: Senior Certificate (or equivalent) with \nMathematics and/or Accountancy as a passed subject and/or Senior \nCertificate (or Equivalent) with experience/competencies that focuses on the \nKey Performance Areas (KRA’s) of the post. Experience: Appropriate \nrecognizable experience. Inherent requirements of the job: Valid code B/EB \ndriver’s \nlicense. \nWillingness \nto \nwork \novertime. \nCompetencies \n(knowledge/skills): The ability to interpret and apply financial policies, \nprocedures and prescripts. Extensive knowledge of financial management in \nthe public servic"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f90184bbc9698d97",
+    "title": "ADMINISTRATIVE OFFICER: LABOUR RELATIONS MANAGEMENT REF NO: 2026/355",
+    "department": "Department of Public Works And Infrastructure",
+    "province": "National",
+    "location": "Head Office (Pretoria) \nREGUIREMENTS \n: \nA minimum of three-year tertiary qualification (NQF Level 06) / National \nDiplo",
+    "category": "Human Resources",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/355",
+    "summary": "Provide effective management of documents, Receive, register and allocate \nreference number to the received correspondence. Scrutinise routine \nsubmissions/ reports and make notes and/or recommendations for the \nmanager. Make follow up on referred correspondence/submission. Dispatch all \ncorrespondences. Renders administrative support services. Ensure the \nsafekeeping of all documentation in the office in line with relevant legislation \nand policies. Obtains inputs, collates and compiles reports, e.g. progress \nreports, monthly reports and management reports. Collect, analyse and collate \ninformation requested by the manager. Ensure that trav",
+    "requirements": [
+      "See the official advertisement."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/m.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-80421fe24efd061c",
+    "title": "ADMINISTRATIVE OFFICER: LOSSES & CLAIMS",
+    "department": "Department of Agriculture (Doa)",
+    "province": "National",
+    "location": "Gauteng (Pretoria)",
+    "category": "Finance",
+    "salary": "R338 107 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/3/1/93/2026",
+    "summary": "Administration of losses and claims. Conduct compliance review of losses and \nclaims invoices. Conduct investigations of losses and claim by liaising with \ndifferent stakeholders. Compile and /or review memos to Legal Services to \nobtain a legal opinion. Ensure that legal opinions are implemented. Maintain \nand update registers for losses and claims. Provide input in the review of \npolicies and Standard Operating Procedures. Conduct awareness within the \n\n6 \n\ndepartment on losses and claims. Monthly and quarterly reporting. Clearing of \nsuspense account. Compile journals to clear the Damage Vehicle Suspense \nAccount. Prepare reconciliation of",
+    "requirements": [
+      "Applicants must be in possession of a Grade 12 Certificate and National \nDiploma in Public Administration / Public Management / Business \nAdministration / Business Management /Public Finance / Financial Accounting \n/ Financial Management. Minimum of 1 year experience in losses and claims \nadministration. Job related knowledge: Public Service Regulation, Financial \nprocedures, Treasury Regulations, Basic Accounting System (BAS). Job \nrelated skills: Computer literacy, interpersonal skills, organising and planning \nskills, communication skills (written and verbal), analytical skills, problem \nso"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/a.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f017c7adf56f432f",
+    "title": "ARCHITECTURAL TECHNOLOGIST: INFRASTRUCTURE DELIVERY FOR HEALTH FACILITIES",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (Bhisho)",
+    "category": "Healthcare",
+    "salary": "R471 720 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DPWI",
+    "summary": "Manage technological advisory services: Plan technical support to architects \nand associate professionals in site surveying, preparing measured drawings of \nexisting buildings, collecting practical information relating to the proposed \nproject, and preparing presentation drawings and models of the design. \nManage and lead the design process, landscape design and presentation, and \npreparation of working drawings that will serve as legal instruction to the \n\n117 \n\nbuilding contractor to ensure that the building is built according to the working \ndrawings and other legal documents. Ensure the adherence and promotion of \nsafety standards in line",
+    "requirements": [
+      "National Senior Certificate, Bachelor of Technology in Architecture (B Tech) or \nrelevant qualification with three (3) years post-qualification Architectural \nTechnologist experience required. A valid driver’s license. Compulsory \nregistration with SACAP as an Architectural Technologist. Competencies: \nProject Management, Problem Solving and analysis, Decision making, Team \nleadership, Creativity, Change management, financial management, Customer \nfocus and responsiveness, Communication, Computer skills, Planning and \norganizing, and People management."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-aab1b21865ef94d9",
+    "title": "ARTISAN ASSISTANT (TECHNICAL SERVICES)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "West Coast TB Centre (Based at Sonstraal Hospital, Malmesbury)",
+    "category": "Healthcare",
+    "salary": "R201 093 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/375",
+    "summary": "Carry out ad-hoc maintenance and repair requests, perform or arrange \npreventative maintenance on plant and equipment, follow emergency \nmaintenance protocols, at the hospital and health facilities within the subdistrict under supervision of the Artisan. Carry out daily checks on generator, \noxygen, and other machinery, adhere to the maintenance schedule for all \nfacilities, and do regular facility inspections. Provide specifications under the \nsupervision of the Artisan for service provider jobs, attend site meetings and \nmanage contractors. Ensure an organised neat workshop, efficient and \neffective management and control of stock, tools, e",
+    "requirements": [
+      "Minimum Educational qualification: Grade 10 (or equivalent). Experience: \nAppropriate experience in at least one of these fields: repairs and maintenance \nof hospital equipment, infrastructure, painting, air-conditioning, refrigeration, \nplumbing, electrical, carpentry. Inherent requirements of the job: Valid (Code \nB/EB/C) driver’s license. Physically fit to perform duties, work at heights and \nin confined spaces. Must be prepared to work overtime and perform standby \nduties after hours, including weekends and Public Holidays. Competencies \n(knowledge/skills): Adherence to the Occupational He"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-faebc675738c1795",
+    "title": "ARTISAN ASSISTANT (TECHNICAL SERVICES)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Swartland Hospital, Swartland Sub-district",
+    "category": "Healthcare",
+    "salary": "R201 093 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/376",
+    "summary": "Assist Artisan with an effective and efficient maintenance and technical \nsupport service to the institutions. Assist the Artisan with the maintenance of \ninstallations, machinery, equipment as well as the workshop and garden tools. \nRender a support function in the workshop as well as standby duties. Maintain \nprofessional growth / ethical and self-development.",
+    "requirements": [
+      "Minimum educational qualification: Grade 10 or equivalent. Experience: \nAppropriate experience in at least one of these fields: welding, painting, \ncarpentry, and plumbing with general electrical knowledge. Inherent \nrequirements of the job: Valid (Code B/EB) driver’s license. Willingness to work \novertime and to perform standby duties, including weekends and public \nholidays. Physically fit to handle heavy equipment and objects. Must be able \nto work on heights i.e. on ladders and scaffolding. Competencies \n(knowledge/skills): Adherence to the Occupational Health and Safety Act 1993 \nand its "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-e5e008c2aaa966ac",
+    "title": "ARTISAN GRADE A-C",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "District Office, ZF Mgcawu District",
+    "category": "Legal",
+    "salary": "R253 341 - R345 342 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NCDOH",
+    "summary": "To render technical design, production, operation and maintenance services. \nInspect equipment and/or facilities for technical faults. Repair equipment and \nfacilities according to standards. Test repair equipment and/or facilities against \nspecifications. Service equipment and/or facilities against specifications. \nService equipment and/or facilities according to schedule. Quality assure \nserviced and maintained equipment .and/or facilities. Perform administrative \nand related functions. Compile and submit reports. Provide inputs to the \noperational plan. Keep and maintain job record/register. Supervise and mentor \nstaff. Maintain expertise ",
+    "requirements": [
+      "Grade 12/Senior Certificate. A valid Driver's License. The incumbent must be \nin possession of a prescribed level of qualification as determined by the \nrelevant trade and meet the relevant statutory requirements by successful \ncompletion of a recognised trade test. Appropriate trade test certificate in the \nfollowing identified fields; building environment, mechanical environment, \nprinting environment, electrical environment, electrical environment, industrial \nenvironment and textile environment. Competencies Technical - Technical \nanalysis knowledge, computer aided technical applications, "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-c2ecc011ebbded85",
+    "title": "ARTISAN PRODUCTION: PLUMBER",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "ST Chads CHC",
+    "category": "Healthcare",
+    "salary": "R253 341 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "STC03/2026",
+    "summary": "Installation, repairs and maintenance of high pressure and low-pressure \ngeysers. Installation and repairs to toilets, urinals and other ablutions facilities \nsuch as shower and baths etc. installation and repairs to water and sewerage \nreticulation system. Clear blocked drains, gutters, down pipes, wastewater \nlines and branch lines. Take and record water supply readings daily. \nMaintenance on fire hose main supply, fire hose and fire hydrants. Daily \nreporting of faults, job progress and daily completion of job progress and daily \ncompletion of job card/ time sheets as per auditor’s instruction. Be prepared to \nvisit primary health care cli",
+    "requirements": [
+      "Standard 10/ Grade 12 certificate. Appropriate Trade Test Certificate in \nterms of section 13(9)(2)(h) of the Manpower Act of 1981 as amended. \nValid Driver’s License. A minimum of 0-2 years’ experience as a \nPlumber in an appropriate field. Knowledge, Skills, Training and \nCompetencies Required. Knowledge of Occupational Health and Safety and \nsafety standards. Knowledge of basic maintenance and repair of broken pipes. \nKnowledge of safety systems of work. Ability to work independently. Ability to \nwork under pressure. Good communication skills (both verbal and written). \nKnowledge of Batho P"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ca46e604a24fe33b",
+    "title": "ASSISTANT DIRECTOR ACQUISITION MANAGEMENT REF NO MPDOH/OCT/26/1643",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "Provincial Office, Mbombela (Nelspruit)",
+    "category": "Healthcare",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "MPDOH/OCT/26/1643",
+    "summary": "To coordinate, review, undertake and implement the supply chain acquisition \nmanagement framework and policies through the execution of the bidding \nprocess, compilation of a list of service providers, according to the prescribed \nprocurement methodologies. Coordinate (synergise) review and execute the \nbidding process. Coordinate, review and compile the list of prospective \nprovider for quotations. Coordinate review and source quotations from \ndatabase according to the thresh values determined by the National Treasury. \nSupervise employees to ensure an effective acquisition management service \nand undertake all administrative functions requi",
+    "requirements": [
+      "Senior Certificate / Grade 12 plus Diploma / Degree (NQF Level 6/7) in \nFinance, Accounting Management, Financial Management, Cost and \nManagement Accounting, Public Management / Administration as recognized \nby SAQA. A minimum of three (3) years relevant experience in supply chain \nmanagement, acquisition Management, Financial Management at supervisory \n/ management (Level 7/8). Knowledge of the Public Finance Management Act \n(PFMA), Treasury Regulations, Revenue Management policies, National \nHealth Act, and relevant departmental prescripts. Knowledge of BAS, PEIS and \n\n230 \n\nother relevant "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-6630f0fffac24b16",
+    "title": "ASSISTANT DIRECTOR CONTRACT MANAGEMENT REF NO REFS/056728",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Johannesburg",
+    "category": "Finance",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/056728",
+    "summary": "Demonstrate experience in a contract management or equivalent role in a \nprocurement environment. Good working knowledge of contract management \nprocesses and techniques including the implementation of the contract life \ncycle. High level of interpersonal skills, including the ability to liaise effectively \nwith a range of stakeholders to resolve queries. Ensure compliant contract \nadministrative activities daily. Maintain performance records for reporting and \ngovernance purposes. Analyse the evaluation reports and develop a tool for \nreporting on non-compliant service providers. Monitor contract performance \nand compliance with the contract",
+    "requirements": [
+      "Matric plus Degree in Supply Chain / Logistics / Purchasing / Public \nManagement or equivalent in a related field. Minimum of 3- 5 years’ Admin \nOfficer level experience in Contract Management/ SCM environment. \nPossession of a valid driver’s License. People management and leadership \nskills. Attention to detail. Communication skills. Problem solving skills. \nAnalytical skills. Time Management skills. Ability to perform under pressure. \nKnowledge, understanding and application of relevant applicable acts, \nTreasury Regulations and Instruction Notes in relation to SCM. Computer \nLiteracy."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-e84bd62773eb3570",
+    "title": "ASSISTANT DIRECTOR FINANCIAL PLANNING REF NO DSD17/08/2026HO",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Head Office",
+    "category": "Finance",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD17/08/2026HO",
+    "summary": "Coordinate the implementation of financial strategic planning. Compile monthly \nmanagement accounts. Provide support in conducting medium- and long-term \nfinancial planning in line with mid-term expenditure framework (MTEF) \nprocesses. Provide in year and annual reporting, Provide financial and \noperational information. Provide advice and guidance and input to policy. \nManage resources of the Division.",
+    "requirements": [
+      "Qualifications: Bachelor’s Degree (NQF Level 7) in Financial Management or \nAccounting. A valid driver’s license. A minimum of 3 - 5 years’ administrative \nexperience in Financial Management environment. Knowledge: Constitutional \nof the Republic of South Africa, Basic Accounting System, Financial handbook, \nPublic Finance Management Act, Treasury Regulations, Public Service \nRegulations, Public Service Act, Human Resources, Procurement Directives, \nEmployee Performance Management and Development System. Skills: \nCommunication, Report writing, Computer Literacy, Interpersonal relations, \nProbl"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-9e8ad098c4ef5770",
+    "title": "ASSISTANT DIRECTOR: ACQUISITION MANAGEMENT (SCM) 2026/353",
+    "department": "Department of Public Works And Infrastructure",
+    "province": "National",
+    "location": "Cape Town Regional Office \n\n66",
+    "category": "Finance",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/353",
+    "summary": "Manage the development of the Procurement Plan. Facilitate the approval of \nProcurement Plan. Communicate the Procurement Plan. Monitor that goods \nand services is rendered according to the Procurement Plan. Monitor the \nprocurement of goods and services in line with the Procurement Plan. Advice \non the performance of procurement in line with the plan. Manage the \nacquisition of goods and services. Provide and implement supply chain \nmanagement policy, strategies and processes. Manage the acquisition of \ngoods and service as per the transversal contract and participation contract. \nProvide and consolidate requests for invitation of quotation.",
+    "requirements": [
+      "A minimum of three-year tertiary qualification (NQF Level 06) in Supply Chain \nManagement/ Procurement/ or in the relevant field. Relevant years of \nexperience in Supply Chain Management environment with appropriate \nworking experience at supervisory Level. A valid driver’s license. Computer \nskills in Microsoft Office Applications. Extensive knowledge and working \nexperience in Public Sector procurement process, rules and regulations: \nPFMA, PPPFA, BBBEE, CIDB, Treasury Regulations Relevant and Supply \nChain Management prescripts. Skills: Good verbal and written communication \nskills; Basic n"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/m.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-fd62cd96645a15f0",
+    "title": "ASSISTANT DIRECTOR: CLIMATE CHANGE MANAGEMENT DEE2026/020 (X2 POSTS)",
+    "department": "Department of Electricity And Energy",
+    "province": "National",
+    "location": "Head Office, Pretoria",
+    "category": "Information Technology",
+    "salary": "R605 742 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DEE2026/020",
+    "summary": "Coordinate \nthe \ndevelopment \nand \nimplementation \nof \nEnvironmental \nmanagement plan and climate change policies, environmental management \nsystem to monitor compliance with environmental management plans and \npolicies, including the Green House Gas emissions. Provide support and \nadvice on mitigation interventions that support low carbon development in the \nenergy sectors including Carbon Budgets. Represent the Department in \nexternal policy settings, nationally and internationally on climate change and \nenvironmental compliance. Provide analytical support for policy briefs related \nto renewable energy, energy efficiency and climate change ",
+    "requirements": [
+      "An appropriate Bachelor of Science Degree in Natural Sciences or \nEnvironmental Sciences at NQF Level 7 recognised by the South African \nQualification Authority (SAQA), Plus 3-4 years’ experience in energy and \nspecialization in environment, energy or sustainable development. Knowledge \nof: All relevant national policies on climate change mitigation and adaptation, \nenergy and environment. Environmental conventions and protocols. \nKnowledge on processes of environmental conventions, including the \nratification on environmental treaties by South Africa. National legislation and \nActs on climate"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/c.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-91e752bca8b41611",
+    "title": "ASSISTANT DIRECTOR: COMMUNITY DEVELOPMENT: INSTITUTIONAL CAPACITY BUILDING AND SUPPORT FOR NPO REF NO DSD09/08/2026ZULULAND",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Zululand District",
+    "category": "Finance",
+    "salary": "R626 454 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD09/08/2026ZULULAND",
+    "summary": "Coordinate the identification, facilitation and implementation of integrated \ndevelopment interventions in partnership with other relevant stakeholders \nthrough the efficient, effective and economical utilization of resources by the \nservice delivery areas; Coordinate and manage an Institutional Capacity \nBuilding services delivery areas to ensure that and efficient and effective \ncommunity development service is delivered through the proper utilization of \nhuman, financial and physical resources; Keep up to date with new \ndevelopments in the Institutional Capacity Building and management fields to \nenhance service delivery, Plan and ensure t",
+    "requirements": [
+      "Qualifications: \nBachelor’s \nDegree \n(NQF \nLevel \n7) \nin \nCommunity \nDevelopment/Development Studies/ Social Science. A minimum of 8 years’ \nexperience in Community Development after obtaining the required \nqualification. Knowledge: - Constitution for the Republic of South Africa, Public \nService Act, Public Service Regulations, Labour Relations Acts, Research \nMethodology, Public Finance Management Act, Treasury Regulations, National \nDevelopment Plan, Provincial Growth and Development Plan, Knowledge of \nlegislation for local government, Knowledge of Integrated Development \nPlanning, Knowled"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-629a39e2abc76070",
+    "title": "ASSISTANT DIRECTOR: CORPORATE SERVICES",
+    "department": "Department of Independent Police Investigative Directorate",
+    "province": "National",
+    "location": "Kimberly (Northern Cape)",
+    "category": "Finance",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "Q9/2026/53",
+    "summary": "Manage Financial Administration support services. Request and analyse \nExpenditure Control C reports. Submitting S&T claims to Finance for \nprocessing. Checking and submitting overtime claims to Finance for \nprocessing. Submitting petty cash reconciliations to National Office. Submitting \npayroll to Finance. Checking and validating of invoices, certifying of invoices \nfor services received (e.g. GRV) Provide motivation of the variance between \nexpenditure and cash-flow. Provide budget breakdown and cash-flow. Compile \nand submit funds shifts requests to cover negatives and unforeseen \nexpenditure. Manage Human Resource Administration Service:",
+    "requirements": [
+      "An NQF level 7 in Public Management / Administration / Financial Management \nQualification or Relevant as recognised by SAQA, 3 to 5 years’ supervision \nexperience in the finance and human resource environment, A valid driver’s \nlicence. Knowledge: Human Resource Management Policies, Human \nResource System and Procedures, Performance Management, Knowledge of \nProject Management, Public Services Act, Regulations and Resolutions, \nRecruitment and Selection Strategies, Code of Remuneration, Extensive \nknowledge of legislation regulating Human Resource Management (HRM). \nExtensive knowledge of reg"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/i.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ae2accb265c1dad9",
+    "title": "ASSISTANT DIRECTOR: DEMAND & ACQUISITION MANAGEMENT – (BID ADMINISTRATION)",
+    "department": "Department of Small Business Development",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Finance",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ASD",
+    "summary": "Supervise employees to ensure an effective demand and acquisition \nmanagement service and undertake all administrative functions required with \nregard to financial and HR administration. Coordinate (synergise), review, \nresearch, analyse and plan the procurement needs of the department. \nCoordinate review, collect and collate information for the annual procurement \nplan. Supervise and compile tender/quotation specifications as required. \nDevelop, implement and maintain supplier database. Coordinate (synergise), \nreview and execute the bidding process. Coordinate, review and compile the \nlist of prospective providers for quotations and source ",
+    "requirements": [
+      "A Bachelor’s Degree (NQF7) in Supply Chain Management / Procurement / \nFinancial Accounting / Financial Management / Contract Management / \nPurchasing Management or equivalent/related as recognised by SAQA. A \npostgraduate degree in the above-mentioned will be an added advantage. 3 \nyears related experience in supply chain management (demand and \nacquisition and bid administration) environment on supervisory level. Jobrelated knowledge: SCM legislation, policies and procedures, PFMA, Treasury \nRegulations and PPPFA, Demand and acquisition management processes, \nBid administration and competiti"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/n.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-4f17fed93811e8a1",
+    "title": "ASSISTANT DIRECTOR: DEMAND AND ACQUISITION MANAGEMENT",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Johannesburg",
+    "category": "Finance",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/056674",
+    "summary": "Perform the functional operation of Demand and Acquisition Management. \nDesign and develop demand and acquisition management policies processes \nand procedures. Compile the procurement plan. Facilitate the execution of the \nprocurement plan. Setting up the Bid Evaluation, Bid Adjudication and Bid \nSpecification Committees and render a secretariat service to the relevant \ncommittees including the bid adjudication committee. Oversee the appointment \nof bid committee members. Compilation of bid documents and advertisements. \nFacilitate publishing of bid documents. Receipt (closing and opening) of bid \ndocuments. Ensure safekeeping and access to ",
+    "requirements": [
+      "A Matric plus an undergraduate qualification, Degree/National Diploma (NQF \nlevel 6/7) as recognised by SAQA in Supply Chain Management. A minimum \nof 3 - 5 years’ relevant experience within Supply Chain Management \nenvironment at Admin Officer level. The candidate should have knowledge of \nall the Public Service prescripts applicable to the role as well as the \nDepartment’s mandate. Knowledge of performance management frameworks \napplicable in the Public Service and proven strategies in performance \nimprovement. Competencies: Strategic capability and Leadership, People \nManagement and empower"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3fef2c028ee3a892",
+    "title": "ASSISTANT DIRECTOR: DESKTOP SUPPORT",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "Kimberley",
+    "category": "Information Technology",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "AD/DS/2026",
+    "summary": "Responsible for assisting in planning of ICT desktop support for the \nDepartment. Ensuring data integrity and computer maintenance. Configure \ncomputer hardware and software. Configure network devices and email \naccounts for all users in the Department. IT equipment maintenance and \ndisposal by following prescribed procedure. Assist with specification of ICT \nequipment. Attend relevant meetings and development opportunities. Develop, \nimplement and monitor related risks, IT-related policies and procedures. \nRelevant Public Service Regulations. Supervising the ICT Infrastructure team, \nproviding direction and developing staff to ensure team me",
+    "requirements": [
+      "Applicants should be in possession of a National Diploma (NQF level 6) in \nInformation Technology/Computer Science-related qualification. Three (3) \nyears’ proven experience at supervisory level in Information Communication \nTechnology support. Specialist training with desktop and network support is \nessential. Experience in Microsoft Systems and Server administration including \nActive Directory Users and Computers, Group Policy Management, Desktop \nVirtualisation Administration, and associated software. Good computer skills \n(including Excel, Word, PowerPoint and Outlook). A valid driver’s li"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-8e7943bddc27d441",
+    "title": "ASSISTANT DIRECTOR: HR PLANNING AND EMPLOYMENT EQUITY REF NO: REFS/ 056798",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Johannesburg (Head Office) \nREQUIRMENTS \n: \nNational Diploma (NQF Level 6)/Bachelor’s Degree (NQF Level 7) in Human \nRes",
+    "category": "Other",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/",
+    "summary": "Implement human resource planning strategies and processes. Coordinate \nand facilitate achievement of Employment Equity Targets. Coordinate HR \nInformation \nand \ncompile \nreports. \nFacilitate \nthe \ndevelopment \nand \nimplementation of MTEF HR Plan. Facilitate the development and \nimplementation of the EE Plan. Supervise the maintenance of the HR \ninformation system. Manage and monitor the HR information system and \nrecruitment strategy. Manage Resources (Human, Equipment, Assets).",
+    "requirements": [
+      "See the official advertisement."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3602ba29fc05e2b0",
+    "title": "ASSISTANT DIRECTOR: HRA, HR PLANNING AND SYSTEMS AD/HRA, PLANNING & SYSTEMS/2026",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "Kimberley",
+    "category": "Information Technology",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "AD/HRA",
+    "summary": "The successful candidate will be responsible for, amongst others, the following \nkey responsibilities: Coordinate and monitor the implementation of Human \nResource administration practices, recruitment and appointment processes \nacross provincial departments; Monitor departmental compliance with \napplicable HR legislation, regulations, policies, circulars, determinations, \ndirectives and recruitment and selection prescripts; Analyse departmental HR \nadministration, recruitment, vacancy and compliance information to identify \ntrends, risks, gaps and areas of non-compliance; Provide recruitment and \nselection support in relation to the appointm",
+    "requirements": [
+      "Applicants should be in possession of a National Diploma (NQF level 6) in \nHuman Resource Management or Public Administration/Management \nqualification. Three (3) years’ proven experience at supervisory level in Human \nResource Management. Computer literacy (MS Word, Excel, PowerPoint, \nOutlook). A valid driver’s licence. Skills: Database and HR Systems \nManagement, Research and analytical skills, Numerical and statistical skills, \nInformation management skills, Communications skills (written and verbal), \n\n244 \n\nInterpersonal relations, Client service orientation, Problem solving skills, \nCon"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ce91ee055200143e",
+    "title": "ASSISTANT DIRECTOR: HUMAN RESOURCE MANAGEMENT DSRAC 02/09/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Nelson Mandela (Gqeberha)",
+    "category": "Information Technology",
+    "salary": "R487 197 – R 584 370 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Facilitate and monitor Human Resource Management and Personnel Conduct: \nattend and convene Human Resource meetings. Coordinate recruitment, \nselection and appointment process. Develop and implement recruitment and \nselection plans in line with approved workforce plans. Champion the \nadvertising, screening, shortlisting, interviewing, and appointments of \nemployees. Ensure compliance with relevant legislation, policies, and \nrecruitment procedures. Provide support to the selection committees during \nrecruitment and selection processes and technical support on recruitment \nmatters. Monitor vacancy rates and recruitment turnaround times. Prepar",
+    "requirements": [
+      "National Senior Certificate Plus National Diploma (NQF L6) or preferably a B \nDegree (NQF L7) as recognised by SAQA in Human Resource Management / \nPersonnel Management /Public Administration / Public Management / \nBusiness Management / Industrial Psychology. Minimum of three (3) years’ \nfunctional experience as Senior Personnel Practitioner Level (7/8) in Human \nResource Management. Extensive knowledge of the PERSAL and Pension \nCase Management systems. Human Resource Management Methodology, \nPrinciples and Strategies. COIDA, DPSA Directives, Customer Service \nprinciples (Batho Pele Principle"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-b4e6c1e037a3985b",
+    "title": "ASSISTANT DIRECTOR: ICT SECURITY",
+    "department": "Department of Independent Police Investigative Directorate",
+    "province": "National",
+    "location": "National Office",
+    "category": "Information Technology",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "Q9/2026/49",
+    "summary": "Coordinate ICT Security operations: Administer and monitor firewall activities, \nprovide monthly and quarterly reports, Monitor ICT security compliance with \ndepartmental policies, procedures and prescripts, Monitor the Demilitarized \nZone (DMZ) on the network and generate reports. Administer and monitor user \nactivity on the network and reporting any violations. Protect data and system \nintegrity: Conduct network penetration and detection/prevention tests and \nsubmit monthly reports. Conduct back-ups testing for integrity and restore \npurposes. Verify that all systems and equipment on the Disaster Recovery (DR) \nsite are updated in line with",
+    "requirements": [
+      "An NQF level 7 qualification in ICT as recognized by SAQA or related field. 3-\n5 years’ working experience in ICT security environment. Knowledge \nRequirements: Knowledge and understanding of government regulations / \nprescripts / policies. Knowledge and understanding of departmental policies \nrelating to ICT. Knowledge of Firewall systems. Knowledge on network \n\n39 \n\nmonitoring tools. Knowledge and understanding of DMZ Zone. Knowledge of \nICT Security audit including server room compliance standards, Knowledge of \nHacking/penetration test. Knowledge of different software systems and \ncomponen"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/i.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-7bacc25cf7d514e6",
+    "title": "ASSISTANT DIRECTOR: INCOME & EXPENDITURE CONTROL REFS/056648 (X2 POSTS)",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Johannesburg",
+    "category": "Information Technology",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/056648",
+    "summary": "Monitor and implement the verification of grant claims and invoices relating to \noperational / Goods and Services. Monitor if the Financial Authorization form is \nsigned by relevant official and check if the name of the entity on the FA it \n\n153 \n\ncorresponds with the invoice attached. Monitor whether the contact, claim form, \nHSS for, claim progress payment and document check list are attached. \nMonitor if the total amount on the FA, HSS form and claim. Facilitate the \npayment of claims and invoices Ensure that all the documents are attached as \nper procurements regulations, quotation regulations, quotation, invoices, \nappointment letter and",
+    "requirements": [
+      "A Matric plus a National Diploma/ Degree in Finance/Cost & Management \nAccounting / B Com Accounting or any relevant qualification at NQF Level 6/7 \nas recognised by SAQA. A minimum of 3-5 years relevant experience at Admin \nOfficer level within financial administration or management accounting \nenvironment. Possession of a valid driver’s license. The candidate should have \nknowledge of Public Financial Management Act, Knowledge of Treasury \nRegulations, Knowledge of Division of Revenue Act; BAS & SAP System. \nPlanning, organising and execution; knowledge management; strategic \nmanagement and "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-671c8ec2c684337f",
+    "title": "ASSISTANT DIRECTOR: INFORMATION TECHNOLOGY SECURITY REF NO: DEE2026/021",
+    "department": "Department of Electricity And Energy",
+    "province": "National",
+    "location": "Head Office, Pretoria",
+    "category": "Information Technology",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DEE2026/021",
+    "summary": "Provide inputs on the development and reviewing of ICT security policies, \nprocedures and guidelines in line with ICT governance and States Security \nAgency. Enforce compliance of ICT security control measures within the \nDepartment. Assist with the administration of ICT contracts and service legal \nagreements. Install latest security patches, firmware and updates within the \nDepartment. Provide inputs on implementation of ICT disaster recovery. Assist \nwith ICT Security investigation and implement the corrective actions and tools. \nProvide managerial activities.",
+    "requirements": [
+      "An appropriate National Diploma in Information Technology Management, \nComputer Sciences, Computer Systems Engineering at NQF Level 6 \nrecognised by the South African Qualification Authority (SAQA), PLUS 3 years’ \nexperience network technical/ scientific experience and extensive experience \nin IT Software. Knowledge of: Information security standards and guidelines. \nKnowledge of Public Service information security directives. Cybersecurity Act, \nPublic Service Act (PSA), Public Service Regulations (PSR), Public Finance \nManagement Act (PFMA) Skills: Excellent managerial, communication and \nin"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/c.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-32c0037171be068e",
+    "title": "ASSISTANT DIRECTOR: INTERNAL AUDIT",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (East London)",
+    "category": "Finance",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DHS04/09/2026",
+    "summary": "Facilitate the audit planning process. Identify Internal Audits planned to be \nconducted using the Internal Audit Plan. Request relevant Auditors for the \nrelevant Audit assignments. Organise team briefing meetings. Create audit file \non teammate. Conduct preliminary survey. Prepare memorandum for draft \naudit planning. Conduct pre-engagement meeting with clients. Guide and \nreview Internal Auditors on preparation of systems descriptions, risk matrix and \naudit programme. Facilitate the execution of audit programme. Review the \ndesign of working paper. Monitor the day-to-day execution and completed \nworking papers. Review exception standard r",
+    "requirements": [
+      "National Senior Certificate, National Diploma (NQF level 6) B/ Degree (NQF \nlevel 7) in Risk Management/ Internal Auditing/ BCom Accounting/ BCOMPT \nas recognised by SAQA with 3 years supervisory level experience in the field. \nCompulsory registration with the Institute of Internal Auditors South Africa. \nKnowledge of Public Sector governance and legislation. Knowledge of \ndepartmental policies and operational procedures, internal auditing principles, \nmethodologies and practices, risk management principles and frameworks, \nfinancial management and accounting principles, performance informatio"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-28f6fdd0d40494fd",
+    "title": "ASSISTANT DIRECTOR: INTERNAL AUDIT & QUALITY MANAGEMENT SYSTEM",
+    "department": "Department of Higher Education And Training",
+    "province": "National",
+    "location": "Central Office",
+    "category": "Information Technology",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "TNC/CO/26",
+    "summary": "Prepare audit notification letters in line with the approved Annual Audit Plan. \nConduct preliminary surveys to gain an understanding of systems, processes, \nand controls. Prepare Audit Planning Memoranda (APMs). Perform risk \nassessments and develop risk-based audit programmes. Identity control \nweaknesses and areas of improvement. Prepare and maintain quality audit \nfiles in compliance with Global Internal Audit Standards. Conduct audits in \naccordance with approved audit programmes and methodologies. Evaluate the \nadequacy and effectiveness of internal controls. Compliance and maintenance \nof the ISO 9001 standards. Assess safeguarding of ",
+    "requirements": [
+      "National Diploma in Internal Auditing/Degree (NQF Level 6) in Internal Auditing. \nA post graduate qualification in internal auditing, forensic auditing or a relevant \npostgraduate qualification will be an added advantage. Registered member of \nthe institute of Internal Auditors South Africa (IIASA). Certified Internal Auditor \nor Professional Internal Auditor designations or relevant professional \ndesignations will be an added advantage. Minimum 5 years’ relevant \nexperience in an internal auditing environment. Minimum 3 years’ relevant \nsupervisory experience in internal auditing environment."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/h.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-2624f7266d5755ea",
+    "title": "ASSISTANT DIRECTOR: LABOUR RELATIONS",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Chief Directorate: People Management",
+    "category": "Information Technology",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/342",
+    "summary": "Manage and coordinate all administrative and logistical functions relating to \nthe PHSDSBC, CCPWC forums, other collective bargaining structures and all \nrelevant task teams, and committees emanating from it. Represent the \nemployer at all relevant bargaining council’s, chambers and meetings. \nMonitoring and evaluation of Institutional Management and Labour \nCommittees (IMLC’s) within the Department of Health and Wellness. Draft and \npresent reports to management relating to all collective bargaining matters. \nManage and co-ordinate any industrial action within the Department. \nManagement of discipline and grievances when required. Represent ",
+    "requirements": [
+      "Minimum educational qualification: An appropriate National Diploma (NQF 6) \nor equivalent in Human Resource Management or Labour Law or Labour \nRelations. Experience: Appropriate experience in Labour Relations, with \nspecific reference to the collective bargaining sector, in the Public or Private \nSector. Inherent requirement of the job: Valid Code (B/EB) driver’s license and \nwillingness to travel. Competencies (knowledge/skills): Excellent verbal and \nwritten communication skills. Strong interpersonal, planning, organising skills \nand conflict management skills. Ability to think analytically"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-c7c36f464ff8ddde",
+    "title": "ASSISTANT DIRECTOR: PROVINCIAL PLANNING AND REPORTING REF NO: DSD16/08/2026HO",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Head Office \n\n200",
+    "category": "Finance",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD16/08/2026HO",
+    "summary": "Coordinate the development and implementation of medium-term, planning \nframeworks, guidelines and tools; Coordinate the alignment of annual \ndepartmental plans with and progress reports with Social Development Sectorspecific priorities and policy directives; Coordinate the alignment of annual \ndepartmental plans and progress reports with KZN Provincial Priorities and \npolicy directives; Provide advice, guidance and input to policy; Manage \nresources of the Division",
+    "requirements": [
+      "Qualifications: National Diploma (NQF Level 6) in Management/ Public \nAdministration/ Public Management/ Business Management / Strategic \nManagement. A valid driver’s license. A minimum of 3 years experience in the \nfield of strategy planning or policy coordination or monitoring and evaluation or \nadministration. Knowledge: The Constitution for the Republic of South Africa, \nPublic Finance Management Act, Public Service Act & Regulations, Labour \nRelations Act and relevant regulations, Intergovernmental Relations \nFramework Act, \nRevised \nFramework \nfor \nStrategic \nPlans, \nNational \nDevelopmen"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-06b3c71a52c44fc0",
+    "title": "ASSISTANT DIRECTOR: SKILLS DEVELOPMENT 03/09/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office– (Qonce)",
+    "category": "Finance",
+    "salary": "R487 197 – R584 370 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Coordinate the development and submission of the workplace skills plan \n(WSP) and annual training report (ATR). Conduct skills gap analysis and \ntraining assessment across the organization. Align skills development plans \nwith strategic objectives and workforce plans. Facilitate consolidation of inputs \nfrom business units to inform training priorities. Administer integration of skills \ndevelopment initiatives into departmental plans and budgets. Monitor progress \nagainst planned training interventions and recommend adjustments where \nnecessary. Manage and implement skills development initiatives. Coordinate \nartisans’ development programs. C",
+    "requirements": [
+      "National Senior Certificate plus a National Diploma (NQF L6) or preferably a B \nDegree (NQF L7) in Human Resource Management/ Human Resource \nDevelopment/ Training and Development/ Public Administration/ Public \nManagement qualification as recognised by SAQA. A minimum of three (3) \nyears’ experience in Skills Development and Training coordination, of which \nthree (3) years should be at a supervisory level (SL 7 / 8). Skills Development \nFacilitator certificate and Train the Trainer certificate will serve as an added \nadvantage. Knowledge and skills: Good interpretation and knowledge of the \nN"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-6976f9f0d824df97",
+    "title": "ASSISTANT DIRECTOR: SUPPLY CHAIN MANAGEMENT (ACQUISITION MANAGEMENT)",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (Qonce)",
+    "category": "Information Technology",
+    "salary": "R487 197 – R584 370 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Monitor the implementation of demand and acquisition processes: Coordinate \nthe invitation, evaluation and adjudication of quotations. Investigate the \navailability of the required source in the market. Assess the needs of the end \nusers. Compile Demand Management Plan and Procurement Plan. Promote \nand ensure compliance with the Broad-Based Black Economic Empowerment \nAct (BBBEE) and the Preferential Procurement Policy Framework Act, 2000 \n(Act 5 of 2000) (PPPFA) in the Department. Ensure that optimal sourcing \nstrategies and techniques are used. Establish and maintain a database of \nsuppliers when obtaining quotations. Co-ordinate and facil",
+    "requirements": [
+      "National Senior Certificate, plus a National Diploma (NQF L6) or preferably a \nB Degree (NQF L7) as recognized by SAQA) in Supply Chain Management / \nProcurement Management / Logistics Management / Purchasing Management \n\n124 \n\n// Financial Management / Accounting. A minimum of three (3) years’ \nexperience in Supply Chain management environment, particularly in \nacquisition/procurement at a supervisory level (SL 7 / 8). A good understanding \nof the Public Service Supply Chain Management Framework, PFMA and \nTreasury \nRegulations, \nPPPFA, \nSCM/Acquisition \nManagement. \nGood \nknowledge of financ"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-fddb46561ccca47e",
+    "title": "ASSISTANT DIRECTOR: TRAINING & CAPACITY 04/09/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (Qonce) \n\n123",
+    "category": "Finance",
+    "salary": "R487 197 – R584 370 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Coordinate and facilitate training programmes for employees. Manage the \ndevelopment, review the training & development policies, frameworks and \nguidelines. Monitor consolidation of the departmental training needs. Verify \nalignment with departmental priorities and skills plans. Develop and maintain \nannual training schedules. Liaise and engage with training providers. Oversee \ntraining sessions to ensure quality and adherence to agreed standards. Align \nhuman resource development training programs with strategic objectives. \nMaintain training records and reporting. Facilitate and lead skills audits. \nDevelop a detailed skills audit plan and",
+    "requirements": [
+      "National Senior Certificate plus a National Diploma (NQF L6) or preferably a B \nDegree (NQF L7) in Human Resource Management/ Human Resource \nDevelopment/ Training and Development/ Public Administration/ Public \nManagement qualification as recognised by SAQA. A minimum of three (3) \nyears’ experience in Skills Development and Training coordination, of which \nthree (3) years should be at a supervisory level (SL 7 / 8). Skills Development \nFacilitator certificate and Train the Trainer certificate will serve as an added \nadvantage. Knowledge and skills: Good interpretation and knowledge of the \nN"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-97d6525f0327a94f",
+    "title": "ASSISTANT MANAGER NURSING (NIGHT DUTY) 24/2026 (X1 POST)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Dr Pixley Ka Isaka Seme Memorial Hospital",
+    "category": "Healthcare",
+    "salary": "R720 819 – R846 282 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DPKISMH",
+    "summary": "Ensure adequate coverage and supervision of staff in all units to allow provision \nof quality patient care in an efficient and cost effective manner. Facilitate and \nstrengthen implementation of health care services delivery policies, \nprocedures, clinical guidelines, and protocols, plans, and strategies aimed \nachieving service excellence. Promote implementation of Batho Pele \nprinciples, rights charter and acceptance professional/clinical-ethical standards \nwithin the applicable legal framework. Participate and ensure implementation \nof norms and standards, National Health Priorities & quality improvement \ninitiatives including national pri",
+    "requirements": [
+      "Grade 12/Senior Certificate or equivalent. Degree/Diploma in General Nursing \nScience, Midwifery and Psychiatry – Current South African Nursing Council \nreceipt - licence to practice (2026/2027). A minimum of 8 years \nappropriate/recognizable experience after registration with SANC as a \nProfessional Nurse. - At least three (3) years of the period above must be a \nsupervisory experience. Knowledge, Skills, Training and Competence \nRequired: Knowledge and insight in Nursing processes, procedures and other \nrelevant Public Service Acts, legislations - Knowledge of Health Care Service \ndelivery. "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-01d46ea28b7c1ce2",
+    "title": "ASSISTANT MANAGER: PHARMACEUTICAL SERVICES",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Medicine Management, Laboratory and Blood Service Support",
+    "category": "Healthcare",
+    "salary": "R1 317 108 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/313",
+    "summary": "Leading and stewarding for health and Wellbeing. Cultivating a System for \nEthical and Just Decision-Making. Cultivating a System for Collaborative \nPolicy Making. Cultivating a System for People-Centred Care.",
+    "requirements": [
+      "Minimum educational qualification: Basic qualification accredited with the \nSouth African Pharmacy Council (SAPC) that allows registration with the \nSAPC as a Pharmacist. Registration with a professional council: Registration \nwith the South African Pharmacy Council (SAPC) as a Pharmacist. \nExperience: A minimum of 3 years appropriate experience after registration as \na Pharmacist with the SAPC. Inherent requirement of the job: Valid Driver’s \nlicense. Willingness to travel. Competencies (knowledge/skills): Excellent \nwritten and communication skills. Leadership and managerial skills. High lev"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-229e14c9d9ebc260",
+    "title": "AUDIT AND RISK COMMITTEE CHAIRPERSON REF NO DWYPD/ARC/01/2026",
+    "department": "Department of Women, Youth And Persons With Disabilities",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Finance",
+    "salary": "See official advertisement",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DWYPD/ARC/01/2026",
+    "summary": "The successful candidate will, amongst others: Provide effective leadership to \nthe Audit and Risk Committee. Ensure that the Committee effectively \ndischarges its responsibilities in accordance with its approved Charter and \napplicable legislation and prescripts. Facilitate effective oversight of financial \nreporting, performance information, risk management, internal controls and \ngovernance processes. Oversee Internal Audit function to ensure its \neffectiveness and independence. Facilitate the monitoring the implementation \nof recommendations arising from internal and external audit processes. \nFacilitate effective communication and engage",
+    "requirements": [
+      "Applicant must be in possession of a Grade 12 certificate, appropriate post \ngraduate qualification (NQF level 8) as recognised by SAQA in Law, \nAccounting, Auditing, Risk Management, Business Management, Law, Public \nAdministration or relevant qualifications; A minimum of five (5) years’ \nexperience in serving on and/or chairing an Audit and Risk Committee, Board, \nCommittee or similar governance/oversight structure; Membership of a \nrecognised professional body such as the South African Institute of Chartered \nAccountants (SAICA), Institute of Internal Auditors South Africa (IIA SA), Legal \n"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/r.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-2954b8a694ba20f3",
+    "title": "CARE WORKER",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "KwaBadala Residential Care: King Cetshwayo District",
+    "category": "Administration",
+    "salary": "R191 694 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD28/08/2026KWABADALA",
+    "summary": "Receive service users to the care facility after admission; Ensure that service \nusers receive medical services; Assist with the implementation of planned \nactivities, developmental and therapeutic programmes; Engage in basic life \nspace work to promote the development and care of service users, Perform \nadministrative work relevant to the job.",
+    "requirements": [
+      "Qualifications: Grade 12. Knowledge: Public Service Act, Public Service \nRegulations, Batho-Pele principles, Developmental programmes, Clerical/ \nAdministrative procedures, Knowledge of the rules and procedures of centre. \nSkills: - Communication, Problem Solving, Interpersonal relations, Organizing, \nCounselling, Computer literacy, Numeracy, Language."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-b36ed90f0af574ea",
+    "title": "CHIEF ACCOUNTING CLERK",
+    "department": "Department of Small Business Development",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Finance",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "CAC",
+    "summary": "Supervise and render financial accounting transactions but not limited to: \nReceive and allocate invoices and incentive claims (payment). Review and \nverify accounting entries, invoices/incentive claims, receipts, and payment \ndocuments (internal control). Verify processing of payments. Supervise and \nensure proper filing and safeguarding of accounting documents. Supervise and \nmonitor collection and management of cash. Ensure timely processing of \nsupplier payments and departmental revenue pay over. Supervise and perform \nbookkeeping support services. Ensure timely processing of supplier payments \nand departmental revenue pay over. Verify ca",
+    "requirements": [
+      "National Diploma (NQF 6) in Financial Accounting qualification as recognised \nby SAQA. A Bachelor’s Degree (NQF 7) in Financial Accounting / Accounting \nScience or related relevant qualification as recognised by SAQA would be \nconsidered an added advantage. Minimum of 3 years’ experience in Financial \nAccounting. 3 years' working knowledge of transversal systems applicable to \nthe Public Service. Knowledge and understanding of accounting principles and \nfinancial procedures. Basic knowledge and insight of the Public Service \nfinancial legislations and procedures such as the PFMA, Treasury Regu"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/n.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-5fbf1ab1915369d6",
+    "title": "CHIEF CONSTRUCTION PROJECT MANAGER PRODUCTION GRADE A",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Amathole Region (East London)",
+    "category": "Information Technology",
+    "salary": "R1 317 108 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DHS01/09/2026",
+    "summary": "Manage Project Initiation and Feasibility processes. Conduct project needs \nanalysis through the review of municipal Integrated Development Plans, \nSpatial Development Frameworks, feasibility requirements and project costing. \nCompile and facilitate project funding requests and obtain the necessary \napprovals. Coordinate the appointment of Professional Service Providers \n(PSPs), including the development of procurement strategies, Terms of \nReference, and liaison with Supply Chain Management processes. Facilitate \nproject inception processes, including stakeholder engagement, contract \nfinalisation, service level agreement, and commencement m",
+    "requirements": [
+      "Matric/ National Senior Certificate/ NQF level 4, NQF level 7 in Built \nenvironment as recognised by SAQA with six (06) years’ experience as a \nregistered Professional Construction Project Manager with SACPCMP. \nCompulsory registration with the SACPCMP as a Professional Construction \nProject Manager on appointment. Knowledge of Human Settlements policies \nand legislative frameworks. Built environment standards, CIDP regulations, \nfinancial and contract management, stakeholder and community engagement. \nGood communication skills, project management skills, presentation skills, \nreport writing s"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-d2b5a0c00c4ffdfc",
+    "title": "CHIEF DIRECTOR: LEGAL AND LEGISLATIVE SERVICES DHET02/10/2026",
+    "department": "Department of Higher Education And Training",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Finance",
+    "salary": "R1 554 696 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DHET02/10/2026",
+    "summary": "To manage the provision of legal and legislative services. Provide legal and \nlegislative services for Education Institution. Provide legal and legislative \nservices to skills development. Provide legal support to corporative services \nand planning and policy development. Render legal support for university \ninstitutions, technical vocational education and training institution. Provide \nstrategic direction for the functioning of the Chief Directorate. Promulgate \ninternal management directives and procedures for the Chief Directorate. \nPresent and obtain approval for the strategic business plan of the Chief \nDirectorate. Define goals and obje",
+    "requirements": [
+      "An appropriate Undergraduate Qualification LLB degree (NQF Level 7) as \nrecognised by SAQA. A minimum of five (5) years’ relevant experience at the \nSenior Managerial level in Law environment. Successful completion of the \nNyukela Public Service SMS Pre-entry Programmed as endorsed by NSG. \nStrong knowledge and understanding of Public Service Regulation, Public \nService Act, TVET College operation and Governance, White Paper on PSET \nand South Africa post-school education and training landscape particularly its \nlegislative framework, policies and regulations as well as legislation applicable "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/h.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-339786978654aee4",
+    "title": "CHIEF EDUCATION THERAPIST – SPEECH AND LANGUAGE THERAPIST (LSPID)",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "JOE Gqabi District Office",
+    "category": "Healthcare",
+    "salary": "R598 260 – R664 410 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DOE11/08/2026",
+    "summary": "Transversal Outreach: Provide itinerant therapeutic support to designated \nSpecial Care Centres and Special Schools/Resource Centres for learners with \nLSPID/ Mainstream schools and High level of support Units catering for \nlearners with severe to profound needs. Support the rollout of the Learning \nProgramme for LSPID through screening, specialized assessment, and \ntailored communication intervention. Function as a key member of the Districtbased Support Team (DBST), collaborating with Psychologists, Occupational \nTherapists, Physiotherapists, and Special Needs Teachers. Train and mentor \ncaregivers, parents, and school staff on the implemen",
+    "requirements": [
+      "An appropriate recognized qualification that allows for registration with the \nHealth Professions Council of South Africa (HPCSA) as a Speech and \nLanguage Therapist. Current, valid registration with the HPCSA in Independent \nPractice. A minimum of 3 years appropriate experience post-registration with \nthe HPCSA as a Speech and Language Therapist. Driver’s License: A valid \ndriver’s license is mandatory as the role requires extensive travel within the \nDistrict. Advanced proficiency in MS Office (Word, Excel, PowerPoint) for grant \nmonitoring and data reporting. Knowledge and skills: In-depth "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-0cf726c76b878434",
+    "title": "CHIEF ENGINEER GRADE A REF NO ECHEALTH/APL/CENG/FTH/01/10/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Buffalo City Metro, Frere Tertiary Hospital",
+    "category": "Healthcare",
+    "salary": "R1 137 108 – R 1 505 797 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ECHEALTH/APL/CENG/FTH/01/10/2026",
+    "summary": "Statutory Compliance: Formally accept the written GMR 2.1 appointment to \noversee all machinery maintenance and safety requirements as per the OHS \nAct regulations and standards. Engineering Governance: Enforce occupational \nhealth and safety standards, lead incident investigations, conduct safety risk \naudits, and liaise with the Department of Employment and Labour inspectors. \nMaintenance & Asset Management: Develop, manage, and audit preventive, \ncorrective, and predictive engineering maintenance systems to maximize plant \nand equipment uptime. Budgetary & Project Control: Control Capex and \noperational budgets, manage site services, maint",
+    "requirements": [
+      "National Senior Certificate, Degree in Mechanical Engineering (B Eng/BSC \n(Eng) or relevant qualification. Six (6) years post qualification experience \nrequired as a registered professional Engineer. Compulsory registration with \nECSA as Professional Engineer. Statutory Certification: Valid Government \nCertificate of Competency (GCC Factories) is highly mandatory for plants \nexceeding 3000 kW / 10000 kVA. Competencies: Programme and project \nmanagement, Engineering design and analysis knowledge, Research and \ndevelopment, Computer-aided engineering applications. Knowledge of legal \n\n101 \n\ncomp"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3954250d6a7fe6e6",
+    "title": "CHIEF ENGINEER GRADE A REF NO ECHEALTH/ARP/NTSG/CENG/NMAH/01/10/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "OR Tambo District, Nelson Mandela Academic Hospital",
+    "category": "Healthcare",
+    "salary": "R1 137 108 – R1 505 797 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ECHEALTH/ARP/NTSG/CENG/NMAH/01/10/2026",
+    "summary": "Statutory Compliance: Formally accept the written GMR 2.1 appointment to \noversee all machinery maintenance and safety requirements as per the OHS \nAct regulations and standards. Engineering Governance: Enforce occupational \nhealth and safety standards, lead incident investigations, conduct safety risk \naudits, and liaise with the Department of Employment and Labour inspectors. \nMaintenance & Asset Management: Develop, manage, and audit preventive, \ncorrective, and predictive engineering maintenance systems to maximise plant \nand equipment uptime. Budgetary & Project Control: Control Capex and \noperational budgets, manage site services, maint",
+    "requirements": [
+      "National Senior Certificate, Degree in Mechanical Engineering (B Eng/BSC \n(Eng) or relevant qualification. Six (6) years post qualification experience \nrequired as a registered professional Engineer. Compulsory registration with \nECSA as Professional Engineer. Statutory Certification: Valid Government \nCertificate of Competency (GCC Factories) is highly mandatory for plants \nexceeding 3000 kW / 10000 kVA. Competencies: Programme and project \nmanagement, Engineering design and analysis knowledge, Research and \ndevelopment, Computer-aided engineering applications. Knowledge of legal \ncompliance,"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-61dbe256169c77a6",
+    "title": "CHIEF EXECUTIVE OFFICER",
+    "department": "Department of Health",
+    "province": "North West",
+    "location": "Joe Morolong Memorial Hospital (Vryburg) \n\n \nWitrand Hospital – (Potchefstroom)",
+    "category": "Healthcare",
+    "salary": "R1 317 384 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "01/2026/01",
+    "summary": "Responsible for overall management of the Hospital. Provide strategic \nleadership. Manage the provision of quality and integrated health services, \nClinical and corporate governance. Ensure proper management in the \nfollowing areas: Nursing and Clinical Management, Financial Management \n(including Revenue), Supply Chain Management, Internal Control & Risk \nManagement, Human Resource Management, Communication as well as \nQuality Assurance. Manage related conditional grants and funding for special \nhealth projects. Ensure accreditation and licensing of various units wherever \npracticable. Ensure quality patient care. Effectively manage hospital",
+    "requirements": [
+      "Bachelor’s Degree in Health Sciences (NQF Level 7) as recognised by SAQA. \nA Post-Graduate Diploma in Management will be an added advantage. Five (5) \nyears of experience at a Middle/Senior Management level in the Health Sector. \nPre-entry Certificate for the Senior Management Services (SMS) as endorsed \n\n247 \n\nby the National School of Government, submitted prior to appointment. A valid \ndriver’s license. Computer literacy. Sound understanding of hospital services \nand broader health service delivery issues, District Health System, Human \nResource, Finance, Supply Chain Management, Public Hea"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/z.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-aa3fa0a4ed5c8443",
+    "title": "CHIEF FINANCIAL OFFICER",
+    "department": "Department of Land Reform And Rural Development",
+    "province": "National",
+    "location": "Gauteng (Pretoria)",
+    "category": "Finance",
+    "salary": "R1 885 710 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/2/1/2026/275",
+    "summary": "Manage and render supply chain management services. Manage demand \nmanagement plan and acquisition services. Manage logistics, assets and \ncontract management. Ensure that internal procedures and control measures \nare in place. Provide advice and contribute towards the financial aspects of the \nstrategic planning process of the Department. Compile delegations of authority \nin respect of financial and procurement matters. Provide inputs into the \nformulation of the medium-term objectives, policies, and strategies in support \nof the strategic and operational plans of the Department. Monitor and oversee \nthe collection of revenue by the Departme",
+    "requirements": [
+      "Minimum requirements: Applicants must be in a possession of Grade 12 \nCertificate and minimum qualification at NQF Level 8 in Financial Management \nincluding Accounting / Business Administration / Commerce / Supply Chain \nManagement / Public Finance as recognised by South African Qualification \nAuthority (SAQA) and a Nyukela certificate (Pre-entry Certificate to the SMS) \nsubmitted prior to appointment. Minimum of 8 years’ experience in a senior \nmanagerial position. Must demonstrate high level of competency in financial \nadministration, financial accounting and supply chain management. A vali"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/k.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-56eb7d335a2d8a32",
+    "title": "CHIEF LAND CLAIMS COMMISSIONER",
+    "department": "Department of Land Reform And Rural Development",
+    "province": "National",
+    "location": "Gauteng (Pretoria)",
+    "category": "Information Technology",
+    "salary": "R1 885 710 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/1/1/1/2026/274",
+    "summary": "Provides strategic leadership and guidance for the provision of Restitution \nservices in the following areas: Provide strategic leadership and direction as \nwell as implement the functions of the Commission are described in the \nRestitution of Land Rights Act No. 22 of 1994. Provide access to rights in land, \nincluding land ownership and sustainable development. Serve as the Head of \nthe Commission on Restitution of Land Rights and the Branch Restitution. \nAdvise the Executive Authority on policy development and implementation. \nInterface with broader processes around land reform at the national level. \nInterface with the Director-General: La",
+    "requirements": [
+      "Minimum requirements: Applicants must be in a possession of a Grade 12 \nCertificate and Honours Degree / Advanced Diploma in Social Sciences / \nEconomics / Natural Sciences / Law or Development Studies (NQF Level 8) \nand a Nyukela certificate (Pre-entry Certificate to the SMS) submitted prior to \nappointment. Minimum of 8 years of experience at senior managerial level in \nLand Reform / Restitution Environment. Demonstrated leadership in a large \ncomplex organisation. A valid driver’s licence. Job related knowledge: \nUnderstanding of key priorities of government, as well as the Comprehensive \nR"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/k.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-d63244e6f8e3739f",
+    "title": "CHIEF NETWORK CONTROLLER",
+    "department": "Department of Land Reform And Rural Development",
+    "province": "National",
+    "location": "Limpopo (Polokwane)",
+    "category": "Information Technology",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/1/1/1/2026/267",
+    "summary": "Provide IT user support to clients (office). Resolve IT support calls, queries or \nissues as they arise. Log IT support calls on Information Technology Service \nManagement (ITSM). Render IT security. Ensure a secure environment by \ninstallation and uploading antivirus software. Ensure that users log on to the \nworkstation using passwords. Install and update Anti-virus software to all \nworkstations. Identify IT requirements. Advise clients on IT equipment \nprocurement. Inspect all the switches and network points. Ensure that all ICT \nrelated work is done according to agreed standard and quality. Verify the \nwarranty of ICT equipment before all",
+    "requirements": [
+      "Minimum requirements: Applicants must be in possession of a Grade 12 \nCertificate and National Diploma in Computer Sciences / Information \nTechnology or related equivalent qualifications (NQF Level 6). Minimum of 2 \nyears relevant experience in Information Technology (IT) Support. Experience \nwith hardware and software. Experience in network support. Experience in IT \ntechnical support. Appropriate network management experience. A valid \ndriver’s licence. Job related knowledge: Technical aspects of Information and \nCommunications Technology (ICT) goods and services. Information \nTechnology Act"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/k.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f0ebdc10ebfd5bf4",
+    "title": "CHIEF ORAL HYGIENIST GRADE 1",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Oral Health Centre, Tygerberg/Mitchell’s Plain Platform",
+    "category": "Healthcare",
+    "salary": "R598 260 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/326",
+    "summary": "(key result areas/outputs): Provide comprehensive oral hygiene assessment, \ndiagnosis, preventive and therapeutic treatment within the Scope of Practice. \nDeliver oral health promotion and disease prevention programmes. Participate \nin community-based oral health services and outreach initiatives. Deliver \nundergraduate and postgraduate theoretical, clinical and community-based \nteaching. Provide effective clinical supervision and mentorship. Conduct and \n\n264 \n\ncontribute to clinical, public health and oral health research. Contribute to \neffective departmental, faculty and institutional leadership and governance. \nCoordinate designated acad",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) as \nan Oral Hygienist. Registration with a professional council: Registration with \nthe HPCSA as an Oral Hygienist. Inherent requirements of the job: Valid \ndriver’s license (Code B/EB). Experience: A minimum of 3 years appropriate \nexperience in the relevant profession after registration with the HPCSA as an \nOral Hygienist. Competencies (knowledge/skills): Good Computer literacy (MS \nWord, Excel and Outlook). Good interpersonal skills and perform "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-4f5efedfb8841351",
+    "title": "CHILD & YOUTH CARE TEAM LEADER REF NO DSD24/08/2026KHANYANI",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Khanyani CYCC: Amajuba District",
+    "category": "Other",
+    "salary": "R211 899 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD24/08/2026KHANYANI",
+    "summary": "Perform team leader duties. Undertake inspection and report on incidents and \nproblems identified. Perform administrative work relevant to the job. Provide \ncare as the need arises.",
+    "requirements": [
+      "Qualifications: National Diploma (NQF Level 6) in Child and Youth Care \nDevelopment. Registration with the South African Council for Social Services \nProfessions as a Child and Youth Care Worker, Only shortlisted candidates will \nsubmit proof of Current Registration with the South African Council for Social \nServices Professions as a Child and Youth Care Worker. A minimum of 7 years’ \nexperience in Child and Youth Care work. Knowledge: Public Service Act, \nPublic Service Regulations, Batho-Pele principles, The Children’s Act, Child \nCare Act, Children rights principles, Standard operation proc"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-46f67fbd5118a64e",
+    "title": "CHILD & YOUTH CARE WORKER (X4 POSTS)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Excelsior \nCYCC \n(eThekwini \nNorth \nDistrict: \nRef \nNo: \nDSD26/08/2026EXCELSIOR (X2 Posts) \n\n \nUmlazi CYCC eThekwini Sou",
+    "category": "Administration",
+    "salary": "R191 694 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD26/08/2026EXCELSIOR",
+    "summary": "Receive children and youth to the care facility after admission, Ensure that \nchildren/youth receive medical services, Assist with the implementation of \nplanned activities development and therapeutic programmes, Engage in basic \nlife space work to promote the development and care of children and youth, \nPerform administrative work relevant to the job.",
+    "requirements": [
+      "Qualifications: National Diploma (NQF Level 6) in Child and Youth Care \nDevelopment. Registration with the South African Council for Social Services \nProfessions as a Child and Youth Care Worker, Only shortlisted candidates will \nsubmit proof of Current Registration with the South African Council for Social \nServices Professions as a Child and Youth Care Worker. Knowledge: Public \nService Act, Public Service Regulations, Batho-Pele principles, Developmental \nprogrammes, Clerical/ Administrative procedures, Knowledge of the rules and \nprocedures of centre. Skills: - Communication, Problem Solvi"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-b93ef3680bcbfe51",
+    "title": "CLEANER",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Bayworld Museum",
+    "category": "Other",
+    "salary": "R144 024– R169 656 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Provisioning of cleaning services. Cleaning offices corridors, elevators, and \nboardrooms by: Dusting and waxing office furniture. Sweeping, scrubbing, and \nwaxing of floors. Vacuuming and shampooing floors. Cleaning walls, windows, \nand doors. Emptying and cleaning of dirt bins. Collect and removing of waste \npapers. Freshen the office areas. Clean general kitchens by: Cleaning of bins. \nWash and keep stock of kitchen utensils. Cleaning the rest rooms by: Refilling \nhand wash liquid soap. Replace toilet papers, hand towels and refreshers. \nEmpty and wash waste bins. Keep and maintain cleaning materials and \nequipment. Report broken cleaning ",
+    "requirements": [
+      "Grade 8 certificate or ABET level 4 or NQF leve1 - 3 with no experience. One \n(1) year experience as a cleaner will be an added advantage. Good \ninterpersonal skills. Good verbal communication skills. Self – motivated. \nExposure in the field will be an added advantage."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-d68001f276355428",
+    "title": "CLEANER: ADMIN SUPPORT SERVICES",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Amathole Region (East London)",
+    "category": "Healthcare",
+    "salary": "R144 024 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DHS14/09/2026",
+    "summary": "Provide cleaning services to office corridors, offices, elevators and \nboardrooms. Dust and wax office furniture. Sweep, scrub and wax floors. \nVacuum and shampoo floors. Clean walls, windows and doors. Empty and \nclean bins. Collect and remove waste papers. Freshen office areas. Provide \ngeneral kitchen cleaning services. Clean basins. Clean cupboards. Wash and \nkeep stock of kitchen utensils. Sweep and mop the floor. Empty and clean bins. \nClean eating utensils for all employees in the district office. Provide cleaning \n\n114 \n\nservices to ablution facilities. Refill handwash liquid soap. Replace toilet \npapers, hand towels and refreshers. E",
+    "requirements": [
+      "ABET level 4 with no experience. Knowledge of cleaning methods and \nprocedures as well as the safe handling of cleaning material and equipment, \nhygiene, waste management and sanitation practices. Ability to identify and \nreport health and safety hazards. Time management and ability to follow \ninstruction accurately."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-a7e21983309b5245",
+    "title": "CLINICAL MANAGER",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "OR Tambo District, Nessie Knight Hospital",
+    "category": "Healthcare",
+    "salary": "R1 479 723 – R1 640 055 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ECHEALTH/CM/APL/NKH/01/10/2026",
+    "summary": "Management of clinical services in the entire hospital in accordance with the \ndepartmental standards, including after hours as delegated. Participate and \naccountable for assisting in leading and managing the hospital clinical services. \nMaintain accurate health records in accordance with legal ethical \nconsiderations. Train and guide staff and health associated professionals in \nmorbidity and mortality reviews. Attend and participate in continuous medical \neducation. Participate in quality improvement programs. Ensure that cost \neffective services delivery is maintained within the respective department. \nAttend to administrative matters as ",
+    "requirements": [
+      "Appropriate qualification that allows registration with the HPCSA as Medical \nPractitioner. Registration with HPCSA as Medical Practitioner. A minimum of 3 \nyears appropriate experience as a medical officer after registration with the \nHPCSA as Medical Practitioner. Knowledge of relevant legislation such as \nNational Health Act, Mental Health Act, Public Finance Management Act \n(PFMA)), Public Service Act and related regulations and policies. \nCompetencies: Strategic capability and leadership, Program and Project \nManagement, \nFinancial \nManagement, \nChange \nManagement, \nPeople \nManagement and"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-cee561b2ca473b1f",
+    "title": "CLINICAL MANAGER",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "OR Tambo District, Dr Malizo Mpehle Hospital",
+    "category": "Healthcare",
+    "salary": "R1 479 723 – R1 640 055 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ECHEALTH/CM/APL/DRMMH/01/10/2026",
+    "summary": "Management of clinical services in the entire hospital in accordance with the \ndepartmental standards, including after hours as delegated. Participate and \naccountable for assisting in leading and managing the hospital clinical services. \nMaintain accurate health records in accordance with legal ethical \nconsiderations. Train and guide staff and health associated professionals in \nmorbidity and mortality reviews. Attend and participate in continuous medical \neducation. Participate in quality improvement programs. Ensure that cost \neffective services delivery is maintained within the respective department. \nAttend to administrative matters as ",
+    "requirements": [
+      "Appropriate qualification that allows registration with the HPCSA as Medical \nPractitioner. Registration with HPCSA as Medical Practitioner. A minimum of 3 \nyears appropriate experience as a medical officer after registration with the \n\n95 \n\nHPCSA as Medical Practitioner. Knowledge of relevant legislation such as \nNational Health Act, Mental Health Act, Public Finance Management Act \n(PFMA)), Public Service Act and related regulations and policies. \nCompetencies: Strategic capability and leadership, Program and Project \nManagement, \nFinancial \nManagement, \nChange \nManagement, \nPeople \nManageme"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-28a7c6a937d4b3a8",
+    "title": "CLINICAL MANAGER",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "OR Tambo District, Zithulele Hospital",
+    "category": "Healthcare",
+    "salary": "R1 479 723 – R1 640 055 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ECHEALTH/CM/APL/ZITH/01/10/2026",
+    "summary": "Management of clinical services in the entire hospital in accordance with the \ndepartmental standards, including after hours as delegated. Participate and \naccountable for assisting in leading and managing the hospital clinical services. \nMaintain accurate health records in accordance with legal ethical \nconsiderations. Train and guide staff and health associated professionals in \nmorbidity and mortality reviews. Attend and participate in continuous medical \neducation. Participate in quality improvement programs. Ensure that cost \neffective services delivery is maintained within the respective department. \nAttend to administrative matters as ",
+    "requirements": [
+      "Appropriate qualification that allows registration with the HPCSA as Medical \nPractitioner. Registration with HPCSA as Medical Practitioner. A minimum of 3 \nyears appropriate experience as a medical officer after registration with the \nHPCSA as Medical Practitioner. Knowledge of relevant legislation such as \nNational Health Act, Mental Health Act, Public Finance Management Act \n(PFMA), Public Service Act and related regulations and policies. \nCompetencies: Strategic capability and leadership, Program and Project \nManagement, \nFinancial \nManagement, \nChange \nManagement, \nPeople \nManagement and "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-02771fe14e82a51e",
+    "title": "CLINICAL MANAGER",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "OR Tambo District, Bambisana Hospital",
+    "category": "Healthcare",
+    "salary": "R1 479 723 – R1 640 055 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ECHEALTH/CM/APL/BAMH/01/10/2026",
+    "summary": "Management of clinical services in the entire hospital in accordance with the \ndepartmental standards, including after hours as delegated. Participate and \naccountable for assisting in leading and managing the hospital clinical services. \nMaintain accurate health records in accordance with legal ethical \nconsiderations. Train and guide staff and health associated professionals in \nmorbidity and mortality reviews. Attend and participate in continuous medical \neducation. Participate in quality improvement programs. Ensure that cost \neffective services delivery is maintained within the respective department. \nAttend to administrative matters as ",
+    "requirements": [
+      "Appropriate qualification that allows registration with the HPCSA as Medical \nPractitioner. Registration with HPCSA as Medical Practitioner. A minimum of 3 \nyears appropriate experience as a medical officer after registration with the \nHPCSA as Medical Practitioner. Knowledge of relevant legislation such as \nNational Health Act, Mental Health Act, Public Finance Management Act \n(PFMA), Public Service Act and related regulations and policies. \nCompetencies: Strategic capability and leadership, Program and Project \nManagement, \nFinancial \nManagement, \nChange \nManagement, \nPeople \nManagement and "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-6683ee4fdd64540e",
+    "title": "CLINICAL MANAGER",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Buffalo City Metro, Nkqubela TB Hospital",
+    "category": "Healthcare",
+    "salary": "R1 479 723 – R1 640 055 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ECHEALTH/CM/APL/NKQTBH/01/10/2026",
+    "summary": "Management of clinical services in the entire hospital in accordance with the \ndepartmental standards, including after hours as delegated. Participate and \naccountable for assisting in leading and managing the hospital clinical services. \nMaintain accurate health records in accordance with legal ethical \nconsiderations. Train and guide staff and health associated professionals in \nmorbidity and mortality reviews. Attend and participate in continuous medical \neducation. Participate in quality improvement programs. Ensure that cost \neffective services delivery is maintained within the respective department. \nAttend to administrative matters as ",
+    "requirements": [
+      "Appropriate qualification that allows registration with the HPCSA as Medical \nPractitioner. Registration with HPCSA as Medical Practitioner. A minimum of 3 \nyears appropriate experience as a medical officer after registration with the \nHPCSA as Medical Practitioner. Knowledge of relevant legislation such as \nNational Health Act, Mental Health Act, Public Finance Management Act \n(PFMA)), Public Service Act and related regulations and policies. \nCompetencies: Strategic capability and leadership, Program and Project \nManagement, \nFinancial \nManagement, \nChange \nManagement, \nPeople \nManagement and"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-e3cdaf98de515acc",
+    "title": "CLINICAL MANAGER",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "OR Tambo District, Isilimela Hospital",
+    "category": "Healthcare",
+    "salary": "R1 479 723 – R1 640 055 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ECHEALTH/CM/APL/ISL/01/10/2026",
+    "summary": "Management of clinical services in the entire hospital in accordance with the \ndepartmental standards, including after hours as delegated. Participate and \naccountable for assisting in leading and managing the hospital clinical services. \n\n98 \n\nMaintain accurate health records in accordance with legal ethical \nconsiderations. Train and guide staff and health associated professionals in \nmorbidity and mortality reviews. Attend and participate in continuous medical \neducation. Participate in quality improvement programs. Ensure that cost \neffective services delivery is maintained within the respective department. \nAttend to administrative matte",
+    "requirements": [
+      "Appropriate qualification that allows registration with the HPCSA as Medical \nPractitioner. Registration with HPCSA as Medical Practitioner. A minimum of 3 \nyears appropriate experience as a medical officer after registration with the \nHPCSA as Medical Practitioner. Knowledge of relevant legislation such as \nNational Health Act, Mental Health Act, Public Finance Management Act \n(PFMA)), Public Service Act and related regulations and policies. \nCompetencies: Strategic capability and leadership, Program and Project \nManagement, \nFinancial \nManagement, \nChange \nManagement, \nPeople \nManagement and"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f6d3b26d98c8f6e3",
+    "title": "CLINICAL MANAGER",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Alfred Nzo District, Sipetu Hospital",
+    "category": "Healthcare",
+    "salary": "R1 479 723 – R1 640 055 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ECHEALTH/CM/APL/SIPH/01/10/2026",
+    "summary": "Provide medicine related information to clinical staff as may be required. \nUndertake on-going care individuals’ patients to allow for continuity of care. \nMaintain accurate health records in accordance with legal ethical \nconsiderations. Train and guide staff and health associated professionals in \nmorbidity and mortality reviews. Attend and participate in continuous medical \neducation. Participate in quality improvement programs. Ensure that cost \neffective services delivery is maintained within the respective department. \nAttend to administrative matters as required. To plan, direct coordinate and \nmanage the efficient and effective delive",
+    "requirements": [
+      "Appropriate qualification that allows registration with the HPCSA as Medical \nPractitioner. Registration with HPCSA as Medical Practitioner. A minimum of 3 \nyears appropriate experience as a medical officer after registration with the \nHPCSA as Medical Practitioner. Knowledge of relevant legislation such as \nNational Health Act, Mental Health Act, Public Finance Management Act \n(PFMA), Public Service Act and related regulations and policies. \nCompetencies: Strategic capability and leadership, Program and Project \nManagement, \nFinancial \nManagement, \nChange \nManagement, \nPeople \nManagement and "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-7c2b9d978ff2b60f",
+    "title": "CLINICAL MANAGER",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Alfred Nzo District, Greenville Hospital",
+    "category": "Healthcare",
+    "salary": "R1 479 723 – R1 640 055 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ECHEALTH/CM/APL/MTAH/01/10/2026",
+    "summary": "Provide medicine related information to clinical staff as may be required. \nUndertake on-going care individuals’ patients to allow for continuity of care. \nMaintain accurate health records in accordance with legal ethical \nconsiderations. Train and guide staff and health associated professionals in \nmorbidity and mortality reviews. Attend and participate in continuous medical \neducation. Participate in quality improvement programs. Ensure that cost \neffective services delivery is maintained within the respective department. \nAttend to administrative matters as required. To plan, direct coordinate and \nmanage the efficient and effective delive",
+    "requirements": [
+      "Appropriate qualification that allows registration with the HPCSA as Medical \nPractitioner. Registration with HPCSA as Medical Practitioner. A minimum of 3 \nyears appropriate experience as a medical officer after registration with the \nHPCSA as Medical Practitioner. Knowledge of relevant legislation such as \nNational Health Act, Mental Health Act, Public Finance Management Act \n(PFMA), Public Service Act and related regulations and policies. \nCompetencies: Strategic capability and leadership, Program and Project \nManagement, \nFinancial \nManagement, \nChange \nManagement, \nPeople \nManagement and "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-7c5051c4904b0292",
+    "title": "CLINICAL MANAGER",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Joe Gqabi District, Maclear Hospital",
+    "category": "Healthcare",
+    "salary": "R1 479 723 – R1 640 055 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ECHEALTH/CM/APL/MACH/01/10/2026",
+    "summary": "Provide medicine related information to clinical staff as may be required. \nUndertake on-going care individuals’ patients to allow for continuity of care. \nMaintain accurate health records in accordance with legal ethical \nconsiderations. Train and guide staff and health associated professionals in \nmorbidity and mortality reviews. Attend and participate in continuous medical \neducation. Participate in quality improvement programs. Ensure that cost \neffective services delivery is maintained within the respective department. \nAttend to administrative matters as required. To plan, direct coordinate and \nmanage the efficient and effective delive",
+    "requirements": [
+      "Appropriate qualification that allows registration with the HPCSA as Medical \nPractitioner. Registration with HPCSA as Medical Practitioner. A minimum of 3 \nyears appropriate experience as a medical officer after registration with the \nHPCSA as Medical Practitioner. Knowledge of relevant legislation such as \nNational Health Act, Mental Health Act, Public Finance Management Act \n(PFMA), Public Service Act and related regulations and policies. \nCompetencies: Strategic capability and leadership, Program and Project \nManagement, \nFinancial \nManagement, \nChange \nManagement, \nPeople \nManagement and "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-33aac39fe5daf02c",
+    "title": "CLINICAL NURSE PRACTITIONER GRADE 1 AND 2 (PRIMARY HEALTH CARE) (X3 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Saxon Sea CDC (X2 Posts) \n\n \nProtea Park CDC (X1 Post)",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/332",
+    "summary": "Effective execution and assist with the management of relevant Curative \nProgrammes within the scope of practice and to be an advocate for the patient \nto ensure the provision of necessary health care. Effective execution and \nassist with the management of relevant Child Health within the scope of \npractice and to be an advocate for the patient to ensure the provision of \nnecessary health care. Effective execution and assist with the management of \nrelevant Woman’s Health Services within the scope of practice and to be an \nadvocate for the patient to ensure the provision of necessary health care. \nEffective execution and assist with the manag",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e., \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council as a Professional \nNurse. A post-basic qualification, with a duration of at least a 1-year diploma, \nin Clinical Nursing Science: Health Assessment, Treatment and Care, \naccredited with the SANC (R 48) OR a 4-year Bachelor's Degree in Nursing \n(R174) or equivalent qualification (R683 plus R1497 or R171 plus R1497) that \nallows registration with the South African Nursing Council as a Pro"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-d5910f1231c8fc58",
+    "title": "CLINICAL NURSE PRACTITIONER GRADE 1 TO 2 (PRIMARY HEALTH CARE) (X2 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Delft CHC (X1 Post) \n\n \nFisantekraal CDC (X1 Post)",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/333",
+    "summary": "Treatment of patients on Primary Health Care level with regards to Curative \nServices, Communicable Diseases, Mental Health and Chronic Diseases \nwithin the scope of practice. Render effective child and school health services, \nincluding the integration of nutritional services, within the scope of practice. \nRender effective Women’s Health including Antenatal services within the \nscope of practice. Assist with management and execution of all relevant HAST \nProgrammes (TB, STI and HIV/AIDS). Work as part of the multi-disciplinary \nteam to ensure quality, promotive, preventive and curative Primary Health \nCare delivery. To be an advocate for pa",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e., \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council as a Professional \nNurse. A post-basic qualification, with a duration of at least a 1-year diploma, \nin Clinical Nursing Science: Health Assessment, Treatment and Care, \naccredited with the SANC (R 48) OR a 4-year bachelor's degree in nursing \n(R174) OR equivalent qualification (R683 plus R1497 or R171 plus R1497) \nthat allows registration with the South African Nursing Council as a \nPr"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3492b5bf2206697c",
+    "title": "CLINICAL NURSE PRACTITIONER GRADE 1 TO 2 (PRIMARY HEALTH CARE) (X2 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Kwanokuthula CDC, Knysna/Bitou Sub District",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/340",
+    "summary": "Assist with the management of the Burden of disease according to the \ncomprehensive health programmes. Quality of service Plan and implement \nHealth Promotion and Prevention activities in facility and Community. Link to \nthe community structures and NPO’s. Collect data and submit reports. Provide \nPHC services to the surrounding communities. Assist with the managing of \nHuman Resources, Finance, SCM, Strategy and Health support, Infrastructure \nand equipment management.",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at \nleast 1 year diploma in Clinical Nursing Science: Health Assessment, \nTreatment and Care, accredited with the SANC (R48). OR A 4 year Bachelor \nDegree in Nursing (R174) or equivalent qualification (R171 plus R1497) that \nallows registration with the South African Nursing Council (SANC) as a \nProfes"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f4474dcf585dfd96",
+    "title": "CLINICAL NURSE PRACTITIONER-PRIMARY HEALTH CARE NCDOH 82/2026 (X2 POSTS)",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "Lutzburg Clinic, ZF Mgcawu District",
+    "category": "Healthcare",
+    "salary": "R495 423 – R558 093",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NCDOH",
+    "summary": "Provision of quality comprehensive community health care, Provision of \nadministrative services, Provision of educational services, Provision of clinical \nservices, Usage of equipment and machinery, Research responsibility.",
+    "requirements": [
+      "Basic R425 qualification (i.e. diploma/degree in nursing) or equivalent \nqualification that allows registration with the SANC as a Professional Nurse. A \npost-basic nursing qualification, with a duration of at least 1 year, accredited \nwith the SANC in one of the specialties referred to in the glossary of terms. \nRegistration with the SANC as Professional Nurse. A post-basic nursing \nqualification, with a duration of at least 1 year, accredited with the SANC in one \nof the specialties: Clinical Nursing Science, Health Assessment and Treatment \n(PHC), Experience: Grade 1: A minimum of 4 years’’"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-53d47f3745817903",
+    "title": "CLINICAL PROGRAMME COORDINATOR COMPREHENSIVE HEALTH PROGRAMMES/SERVICES (X2 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Southern Western Sub-structure",
+    "category": "Healthcare",
+    "salary": "R571 161 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/328",
+    "summary": "Effective planning, co-ordination, and \nImplementation of integrated \nComprehensive Health Programmes/Services, including Maternal, Women, \nChild, Adolescent Health, Nutrition, School Health, HIV/AIDS/STI/TB/VMMC \nServices, mental health and chronic disease services. Provide co-ordination \nand service implementation support for the management of notifiable medical \nconditions, disease surveillance, and outbreak response in line with policies \nand \nguidelines. \nProvide \nclinical \ngovernance \nsupport, \nsupport \nthe \nimplementation of policies and guidelines. Provide technical and service \nimplementation support for community-based and wellness ",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. OR A 4 year Bachelor Degree in Nursing (R174) or \nequivalent qualification (R683 plus R1497 or R171 plus R1497) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. Registration with a professional council: Registration with the SANC as \nProfessional Nurse. Experience: A minimum of seven (7) years appropriate /"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3241a83a3c7730b7",
+    "title": "CLINICAL PROGRAMME COORDINATOR: COMPREHENSIVE HEALTH SERVICES (X2 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Grabouw CHC (X1 Post) \n\n \nTheewaterskloof Sub-district (X1 Post)",
+    "category": "Healthcare",
+    "salary": "R571 161 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/327",
+    "summary": "Ensure implementation, coordination, governance, monitoring and evaluation \nof the Sub-District District Chronic, rehabilitation, eyecare, mental health, \nHAST and Community Based services and strategies. Support the \nimplementation of Mental health, rehab, eye care, chronic health, infectious \ndiseases and HIV/AIDS/STI/TB services, establish linkages with integrated \nmanagement of conditions and life stages Support the internal and external \ninterface strengthening with the focus on the COPC Model. Monitor and \nevaluate programme goals and targets including the collection, validation and \ninterpretation of statistical data. Involvement in tr",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. OR A 4-year bachelor’s degree in nursing (R174) or \nequivalent qualification (R683 plus R1497 or R171 plus R1497) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. (This dispensation is only applicable for posts of Clinical Programme \nCoordinator where it is an inherent requirement of the post, incumbent to "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-593d16bc2d1f8875",
+    "title": "CLINICAL TECHNOLOGIST GRADE 1 TO 3 (PULMONOLOGY)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Tygerberg Hospital, Parow Valley",
+    "category": "Healthcare",
+    "salary": "R413 121 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/343",
+    "summary": "Perform all diagnostic procedures in Pulmonology and Critical Care. Optimal \nPatient Care in Pulmonology able to do following investigations, Spirometry, \nPlethysmography, Gas Distribution, Exercise Testing, Compliance, NIOX, \nProvocation. Optimal Patient Care in Critical Care able to help with ventilation \nand haemodynamic monitoring. Training in Pulmonology according to \nATS/ERS guidelines, Spirometry, Plethysmography, Gas Distribution, \nExercise Testing, Compliance, NIOX, Provocation. Research with GCP.",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows for \nregistration with the Health Professions Council of South Africa (HPCSA) as a \nClinical Technologist in Pulmonology. Registration with a professional council: \nRegistration with the HPCSA as Clinical Technologist: Pulmonology. \nExperience: Grade 1: None after registration with the HPCSA as a Clinical \nTechnologist: Pulmonology in respect of RSA qualified employees. 1-year \nrelevant experience after registration with the HPCSA as a Clinical \nTechnologist: Pulmonology in respect of foreign qualified employees, of whom "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-d4a84c01afc22134",
+    "title": "COMMUNITY DEVELOPMENT SUPERVISOR REF NO DSD15/08/2026MADADENI",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Madadeni Service Office: Amajuba District",
+    "category": "Finance",
+    "salary": "R471 330 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD15/08/2026MADADENI",
+    "summary": "Supervise the identification, facilitation and implementation of integrated \ncommunity development interventions in partnership with the community and \nother relevant stakeholders and to assist employees engaged in this function \nby resolving problems; Supervise and support community development \npractitioners to ensure that there are communication and co-ordination with all \nrelevant role players, internal and external (e.g. in Departments/Provinces, \nNGO’s, local community structures and faith-based organizations) to facilitate \nintersectional collaboration, integrated planning and the establishment of \npartnerships to ensure sustainability",
+    "requirements": [
+      "Qualifications: \nBachelor’s \nDegree \n(NQF \nLevel \n7) \nin \nCommunity \nDevelopment/Development Studies/Social Science, A valid driver’s license. A \nminimum of 7 years recognizable experience in Community Development after \nobtaining the required qualification. Knowledge: Constitution of the Republic of \nSouth Africa, Public Service Act, Public Service Regulations , Public Finance \nManagement Act, Treasury Regulations , Basic Conditions of Employment Act, \nBatho-Pele principles ,Knowledge and understanding of human behaviour and \nsocial system and legislation to assist with interventions at the p"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-5457d7d3d1a27ff0",
+    "title": "CONSTRUCTION PROJECT MANAGER GRADE A REF NO DHS03/09/2026 (X2 POSTS)",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Chris Hani Region (Queenstown)",
+    "category": "Information Technology",
+    "salary": "R914 517 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DHS03/09/2026",
+    "summary": "Co-ordinate the project initiation stage. Open the project file. Provide input \nduring the development of the procurement strategy. Provide input in the \ndevelopment of the Terms of Reference (T.O.R). Prepare Professional Service \nProvider’s (PSP) payment certificate for the feasibility report. Co-ordinate the \nproject planning and design stage. Organise meetings with the appointed PSP \nand district/local municipalities to communicate and agree on the requirements. \nPrepare the submission payment certificate for Supply Chain Management \n(SCM) returnable schedules. Provide input during the development of Service \nLevel Agreement (SLA). Organis",
+    "requirements": [
+      "National Senior Certificate, National Higher Diploma (Built environment field) \nwith a minimum of four (4) years’ and six months certified experience or a \nBTech (Built environment field) with a minimum of four (4) years’ certified \nmanagerial experience or Honours Degree in any Built Environment with a \nminimum of 3 years’ experience. Compulsory registration with the SACPCMP \nas a Professional Construction Project Manager on appointment. Knowledge \nof Human Settlements policies and legislative frameworks. Built environment \n\n108 \n\nstandards, CIDP regulations, financial and contract management"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ba277fa964233fa7",
+    "title": "CONTROL ARCHITECTURAL TECHNOLOGIST INFRASTRUCTURE DELIVERY FOR HEALTH FACILITIES",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Bhisho",
+    "category": "Healthcare",
+    "salary": "R958 776 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DPWI",
+    "summary": "Manage technological advisory services: Plan technical support to architects \nand associate professionals in site surveying, preparing measured drawings of \nexisting buildings, collecting practical information relating to the proposed \nproject, and preparing presentation drawings and models of the design. \nManage and lead the design process, landscape design and presentation, and \npreparation of working drawings that will serve as legal instruction to the \nbuilding contractor to ensure that the building is built according to the working \ndrawings and other legal documents. Ensure the adherence and promotion of \nsafety standards in line with s",
+    "requirements": [
+      "National Senior Certificate, Bachelor of Technology in Architecture (B Tech) or \nrelevant qualification with six (6) years of post-qualification Architectural \nTechnologist experience required. A valid driver’s license. Compulsory \nregistration with SACAP as an Architectural Technologist. Competencies: \nProject Management, Problem solving and analysis, Decision making, Team \nleadership, Creativity, Change management, financial management, Customer \nfocus and responsiveness, Communication, Computer skills, Planning and \norganizing, and People management."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-a170976b6b580b90",
+    "title": "CONTROL ENGINEERING TECHNICIAN GRADE A REF NO ECHEALTH/CENGTEC/APL/FTH01/10/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Buffalo City Metro, Frere Tertiary Hospital",
+    "category": "Healthcare",
+    "salary": "R573 552 – R656 298 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ECHEALTH/CENGTEC/APL/FTH01/10/2026",
+    "summary": "Manage technical services, Manage technical services and support in \nconjunction with Engineers, Technologists and associates in field, workshop \nand technical office activities. Ensure the promotion of safety in line with \nstatutory and regulatory requirements. Evaluate existing technical manuals, \nstandard drawings and procedures to incorporate new technology and ensure \nquality assurance of technical designs with specifications and authorise/make \nrecommendations for approval by the relevant authority. Handle multiple \nprojects and multi-disciplinary consulting and contracting teams. Manage \nadministrative and related functions. Provide in",
+    "requirements": [
+      "National Senior Certificate, National Diploma in Electrical Engineering or \nrelevant qualification. Six (6) years post qualification technical experience, \nCompulsory registration with ECSA as a professional engineering technician, \nValid driver’s license. Proven performance in engineering management is \nessential. Project management, Technical design and analysis knowledge. \nResearch and development. Computer-aided engineering applications (PLC). \nKnowledge of legal compliance. Technical report writing. Technical consulting, \nan initiative-taker who is flexible and adaptable to a changing wor"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-74abefe7c6de5896",
+    "title": "CONTROL ENGINEERING TECHNOLOGIST INFRASTRUCTURE DELIVERY FOR EDUCATION FACILITIES",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Bhisho",
+    "category": "Information Technology",
+    "salary": "R958 776 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DPWI",
+    "summary": "Engineering design and analysis effectiveness: Perform final review and \napprovals or audits on new engineering designs according to design principles \nor theory; co-ordinate design efforts and integration across disciplines to \nensure seamless integration with current technology; pioneering of new \nengineering services and management methods. Maintain engineering \noperational effectiveness: Manage the execution of maintenance strategy \nthrough the provision of appropriate structures, systems and resources; set \nengineering maintenance standards, specifications and service levels \naccording to organisational objectives to ensure optimum opera",
+    "requirements": [
+      "National Senior Certificate, Bachelor of Technology in Engineering (B Tech), or \na relevant qualification, with six (6) years’ post-qualification Engineering \nTechnologist experience required. A valid driver's license. Compulsory \nregistration with ECSA as an Engineering Technologist. Knowledge And Skills: \nStrategic capability and leadership, problem-solving and analysis, decisionmaking. Team leadership, Creativity, Financial management, Customer focus \nand responsiveness, Communication, Computer skills, People management, \nPlanning and organizing, Conflict management, Negotiation skills, and"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-d16216b52732713d",
+    "title": "CULTURAL OFFICER: SOKAPASA ARTS CENTRE 15/09/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Amathole District – (Ku Gompo City)",
+    "category": "Information Technology",
+    "salary": "R338 106 – R398 277 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Assist in the drafting of the Art center business plan. Coordinate Arts and \nCulture Provincial Programmes. Organise logistics and attend meetings. \nOrganise festival equipment for artists. Facilitate and implement art centre \nprograms. Craft roster for activities. Organise arts centre structures. Consult \nwith relevant stakeholders. Identify beneficiaries. Coordinate approval of \nsubmissions. Facilitate access of the art centre. Market the institution to the \ncommunities. Monitor day to day operations of the art centre. Responsible for \nart centre material. Develop database for artists. Provide institutional support. \nMaintain working relati",
+    "requirements": [
+      "National Senior Certificate plus a National Diploma (NQF Level 6) or B. Degree \n(NQF Level 7) in Arts and Culture/ Performing Arts/ Visual Arts/ Fine Arts/ Craft \n\n130 \n\nDesign as recognized by SAQA with 1 to 2 years’ relevant experience in an \nArts & Culture environment. Extensive high-level knowledge of arts and culture \nand interpretation of policies. Excellent knowledge about cultural programs. \nPeople \nmanagement \nand \nempowerment. \nFinancial \nand \nknowledge \nmanagement. Client orientation. Further knowledge of Local authorities, \nDepartmental management and officials, General public/comm"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-fc30b9d13e551119",
+    "title": "DATA CAPTURER",
+    "department": "Department of Traditional Affairs",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Other",
+    "salary": "R201 093 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/22",
+    "summary": "The successful candidate will perform the following duties: Capture data from \navailable records into required formats e.g databases, tables, spreadsheet. \nMaintain data quality. Verify, query missing data and errors observed during \ndata entry. Review and validate all data from the records. Ensure data backups. \nUpdate registers and statistics. Keep and maintain records and files. Ensure \nrecords and files are properly sorted and secured. Provide secretarial and \nadministrative support to the Commission.",
+    "requirements": [
+      "A Grade 12 Certificate or equivalent qualification at NQF level 4 with at least \none (1) year experience in data capturing and/or data management. \nKnowledge and experience in MS EXCEL and ACCESS. Ability to capture data \nand collect statistics. A post-Matric qualification will serve as an added \nadvantage. Core competencies: Job knowledge. Interpersonal relations. \nFlexibility. Teamwork. Communication (verbal and written). Technical \nCompetencies: Advanced computer literacy. Typing proficiency. Report writing. \nPlanning and organising."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/o.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-80348eb993cf1d31",
+    "title": "DENTAL SPECIALIST GRADE 1 TO 3 (PROSTHODONTICS) (5/8TH) (X2 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Oral Health Centre, Tygerberg/Mitchells Plain",
+    "category": "Healthcare",
+    "salary": "R872 205",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/322",
+    "summary": "Related HR and Administrative support to the Prosthodontic Department. \nParticipate in operational research activities as directed in a team or selfinitiated research. Rendering of prosthodontic services on the MPOHC and \nTBOHC platforms. Clinical education and training of students (undergraduate \nand postgraduate).",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) as \nDental Specialist in Prosthodontics. Registration with a professional council: \nRegistration with the HPCSA as Dental Specialist in Prosthodontics. \nExperience: Grade 1: None after registration with the HPCSA as Dental \nSpecialist in Prosthodontics. Grade 2: A minimum of 5 years appropriate \n\n261 \n\nexperience as Dental Specialist after registration with the HPCSA (or a \nrecognised foreign Health Professional Council in respect of a foreign quali"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3c13a5e2c49b02e6",
+    "title": "DEPUTY DIRECTOR",
+    "department": "Department of Community Safety, Roads And Transport",
+    "province": "Free State",
+    "location": "EMIS Sub-Directorate: Bloemfontein (supporting ECD)",
+    "category": "Information Technology",
+    "salary": "R932 292 - R1 098 195",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PS17/2026/01",
+    "summary": "The successful candidate will be responsible for Provincial eCares System Use \n& Performance management. Lead provincial support for system usage, \nperformance and adoption; Monitor user compliance with system functionality \nand data workflows; Advocate system utilisation for decision-making. User \nSupport & Access Management; Manage 1st line helpdesk support for PED \nusers; Manage user access, roles and permissions; Escalate issues promptly \nto national and service providers. User Training & Capacity Building- Conduct \nongoing training on: New releases; Functional improvements; Reporting and \ndashboards. Support districts and circuits to dri",
+    "requirements": [
+      "Applicants must be in possession of a SAQA-recognised three-year postmatric qualification (NQF Level 7) in Education (B.Ed. / PGCE) or a SAQArecognised three-year post-matric qualification (NQF Level 7) in Information \nSystems / ICT / Computer Science / Data or related field. 5 years Management \nExperience. 6-7 Years’ relevant experience in Systems administration and user \nsupport; User Acceptance Testing (UAT) and training facilitation. Data reporting \nand system usage monitoring. Knowledge of: Cloud-based system operations; \nProvincial EMIS environment and/or ECD system landscape. Strong ana"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/t.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-80c01f22c0191778",
+    "title": "DEPUTY DIRECTOR DEPARTMENTAL INFORMATION SECURITY OFFICER",
+    "department": "Office of the Chief Justice",
+    "province": "National",
+    "location": "National Office: Midrand",
+    "category": "Information Technology",
+    "salary": "R932 292 – R1 098 195 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/138/OCJ",
+    "summary": "Define, operate and monitor a system for information security management \nincluding the development and implementation of the information security \nprogramme: Assess the current information security status, identify and \nanalyse gaps, liaise with business units regarding ICT Risks and Security \nmatters, oversee information security projects and conduct research on \ntechnology and risks. Develop and coordinate the information security risks \ntreatment plan: Conduct information security risk assessment, coordinate \nmanagement information risk activities and liaise with business units. Monitor \nand review the information security management prog",
+    "requirements": [
+      "Applicants should be in possession of a National Diploma in Information \nTechnology related or equivalent qualification in Information Security at NQF \nLevel six (6) with 360 Credits) as recognised by SAQA. A minimum of four (4) \nyears’ experience in IT Systems Security and ICT Governance of which three \n(3) years’ should be at Assistant Director / Junior Management level. CISSP or \nCISM or CASP or SABSA Certificates or Equivalent Certification and driver’s \nlicense will serve as an added advantage. Knowledge and skills: Knowledge of \nIT Security Policy Development and administration, working "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/l.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-4eb390d89d4a508b",
+    "title": "DEPUTY DIRECTOR FINANCIAL MANAGEMENT REF NO 3/1/1/1/2026/277",
+    "department": "Department of Land Reform And Rural Development",
+    "province": "National",
+    "location": "Gauteng (Pretoria)",
+    "category": "Finance",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/1/1/1/2026/277",
+    "summary": "Provide effective financial management support. Coordinate the preparation \nand implementation of the annual budget and operational plans. Monitor \nbudget performance and expenditure trends against approved allocations. \nEnsure effective allocation and utilisation of financial resources. Provide \nfinancial advice and support to management to facilitate informed decisionmaking. Monitor compliance with financial policies, procedures, and applicable \nlegislation. Provide effective financial planning, monitoring and reporting. \nMonitor budget implementation progress and identify all variances against \napproved budget. Analyse financial performanc",
+    "requirements": [
+      "Minimum requirements: Applicants must be in a possession of Grade 12 \nCertificate and a Degree or National Diploma (NQF Level 6) in Financial \nAccounting / Management Accounting / Financial Management or related \nequivalent qualification. Minimum of three (3) years’ experience at a junior / \n\n50 \n\nmiddle management level in financial management. A valid driver’s licence. Job \nrelated knowledge: Public Finance Management Act (PFMA). Treasury \nRegulations, and related financial legislation. Government budgeting \nprocesses and Medium-Term Expenditure Framework (MTEF). Financial \nmanagement princi"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/k.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-23cfa08111c0b35c",
+    "title": "DEPUTY DIRECTOR PERFORMANCE MONITORING DATA MANAGEMENT SYSTEM",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "Kimberley",
+    "category": "Information Technology",
+    "salary": "R1 101 468 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DD/PMDMS/2026",
+    "summary": "The successful candidate will be responsible for, amongst others, the following \nkey functions: To manage and coordinate provincial performance data for \nreporting and performance analysis on national and provincial priorities, \nthrough integrated monitoring data management systems, Management of, \nand contributing to, the development of an integrated monitoring and \nevaluation assessment on performance reports of departments; Coordination \nand monitoring of the implementation of the Annual Performance Plans; \nMonitor the submission of quarterly performance reports by all provincial \ndepartments in accordance with the regulated timeframes. En",
+    "requirements": [
+      "Applicants should be in possession of a 3-year tertiary qualification in Public \nAdministration, Development Planning, Monitoring and Evaluation. Post \nGraduate Degree will serve as an added advantage. 5- years Practical \nExperience in Monitoring and Evaluation and Planning. 3 years Assistant \nManagement experience. Knowledge in Financial Management, Human Re \nsource Management, Government Planning Frameworks, Government \nMonitoring and Evaluation Frameworks, Policy Development, Planning and coordination, Data base management, Computer Literacy – advanced, \nCompilation of management reports, R"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-408580b4c60da265",
+    "title": "DEPUTY DIRECTOR RISK MANAGEMENT AND INTEGRITY MANAGEMENT",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (East London)",
+    "category": "Finance",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DHS02/09/2026",
+    "summary": "Manage the review of Risk Management Framework and Implementation plan. \nObtain, analyse and identify gaps that are in the policy, strategy and charter. \nCirculate, analyse and identify gaps that are in the policy and strategy for \ncomments from Top Management and Risk Management Committee \nmembers. Submit inputs of the Risk Management framework to the risk \nmanagement committee for discussion. Forward the framework to the Head of \nDepartment for approval. Obtain Risk Strategy and operational plan. Identify \nrisk management activities and calendar date. Recommend approval of the risk \nimplementation plan to the Accounting Officer. Facilitate ",
+    "requirements": [
+      "National Senior Certificate, an undergraduate qualification (NQF level 7) in \nPublic Management/ Business Administration/ Public Administration/ Bachelor \nof Administration/ Risk Management/ Internal Auditing/ Accounting/ Financial \nManagement/ BCom/ Economics as recognised by SAQA with 3 years’ \nexperience at Assistant Director level in the field. Compulsory registration with \nInstitute of Risk Management South Africa. Knowledge of Public Sector \ngovernance and legislation, risk management frameworks, internal control \nassurance systems, financial management and budgeting, ethics, integrity a"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-54d18719296d1547",
+    "title": "DEPUTY DIRECTOR TRANSPORT MANAGEMENT REF NO REFS/056672",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Johannesburg",
+    "category": "Information Technology",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/056672",
+    "summary": "Manage, develop, review and maintain transport policies and procedures. \nManage transport contracts for the department. Ensure that users of \ndepartmental transport comply with standing instructions. Manage the \nprovision of fleet management services. Provide monthly fuel usage report, \nlogbook report and applications report. Attending of Provincial Transport Forum \nmeetings and Transport Committee Meeting. Coordination of payments of log \nsheets. Combat misuse of state vehicles; Manage transport budget and vehicle \naccident cases. Approve trip authorization forms. Liaise with car dealers and \nmerchants regarding the GG and subsidized vehicle",
+    "requirements": [
+      "A Matric plus an undergraduate qualification (NQF level 7) as recognized by \nSAQA in Transport Management/Logistic Management or any relevant \nqualification. A minimum of 3-5 years relevant experience at Assistant Director \nlevel within logistic or transport environment. Possession of a valid driver’s \nlicense. The candidate should have knowledge of all the Public Service \nprescripts applicable to the role as well as the Department’s mandate. \nKnowledge of Public Financial Management Act; Treasury Regulations; BAS \nsystem; SAP and PERSAL systems and managing logistics programmes. \nPlanning, or"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-667ca16a7f32e220",
+    "title": "DEPUTY DIRECTOR: ADMINISTRATION",
+    "department": "Department of Traditional Affairs",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Administration",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/20",
+    "summary": "The successful candidate will perform the following duties: Support the \nSecretary of the Commission on the provision of secretariat and administrative \nsupport services of the Commission; Provide support to the Secretary of the \nCommission in respect of financial management within the Commission \nSecretariat and performance of the Commission’s statutory functions; Provide \nsupport to the Secretary of the Commission in respect of effective CKSM \nrecords and database management and operations of the Commission; \nSupervise support staff within the Commission.",
+    "requirements": [
+      "Degree in Law or Public Administration or Social or Business Management \nScience or Public Policy or relevant qualification on NQF level 7 with at least 5 \nyears’ experience at Assistant Director/Junior Management level plus relevant \nexperience in office administration. A valid driver’s licence. Generic \ncompetencies: Planning and organising; Coordination, Problem solving & \ndecision \nmaking; \nProject \nManagement; \nPeople \nManagement \nand \nEmpowerment; Client Orientation and Customer Focus; Team Leadership; \nCommunication (Verbal and written). Technical competencies: Knowledge of \nPublic Serv"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/o.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-5ec302394f95ac42",
+    "title": "DEPUTY DIRECTOR: ADMINISTRATIVE SUPPORT AND CO-ORDINATION",
+    "department": "Department of Community Safety, Roads And Transport",
+    "province": "Free State",
+    "location": "Bloemfontein",
+    "category": "Administration",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "FSPT",
+    "summary": "Manage the administrative and coordination activities within the office of the \nexecutive authority, including but not limited to, developing, implementing and \nmaintaining systems to monitor and manage the flow of documents to, from \nand within the office of the executive authority, managing the procurement and \nmaintenance of equipment and administering the budget in the office of the \nexecutive authority, managing logistical support, developing and maintaining a \nfiling system and managing the registry for the office of the executive authority. \nLiaise with internal and external role-players with regard to matters relating to \nthe portfoli",
+    "requirements": [
+      "An appropriate Diploma or Degree (NQF level 6) qualification in Public \nAdministration/Business Administration or equivalent qualification. A minimum \nof three (3) years’ relevant experience in an administration/support \nenvironment below middle management (Assistant Director) / middle \nmanagement level. Broad knowledge and understanding of the functional \nareas covered by the executive authority’s portfolio. Proven management \ncompetencies. Working knowledge of the political and parliamentary processes \nin South Africa. Computer literacy. Valid driver’s license."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/t.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3a94d613f25411ab",
+    "title": "DEPUTY DIRECTOR: AUXILIARY SERVICES",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Head Office",
+    "category": "Healthcare",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD08/08/2026HO",
+    "summary": "Manage the provision of records and information management services; \nDevelop and implement records and information Classification System in line \nwith the Provisions of National Records Services & Archives Act; Implement \nsystematic disposal programme for Departmental records; Manage digital \ntransformation in records and information management; Manage the provision \nof the office and auxiliary services; Manage the provision of fleet management; \nDevelop policies and strategies aimed at improving service delivery; Manage \nResources of the Sub- Directorate.",
+    "requirements": [
+      "Qualifications: National Diploma (NQF Level 6) in Public Management, Public \nAdministration, Business / Operations Management, Facilities Management \nand Logistics Management. A minimum of 3 years' experience at junior \nmanagement level managing multiple operational support functions including \nauxiliary services, facilities/operations, logistics, fleet and transport, records \nand information, public-sector administration and/or government operational \nsupport services. A valid driver’s license. Knowledge: Public Sector \nGovernance and Financial Management (the Constitution of the Republic of "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1373f7c01231863b",
+    "title": "DEPUTY DIRECTOR: CONTRACT MANAGEMENT",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Johannesburg",
+    "category": "Finance",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/056727",
+    "summary": "Manage, analyse and determine actions to ensure proper contract \nadministration. Evaluate applications for variations, amendments and \ncancelations and develop proposals for approval. Maintain proper relationship \nwith suppliers within the code of ethics to ensure delivery of goods/services. \nManage the coordination, review and monitoring of contract compliance. \nIdentify and implement a risk management plan for the directorate. Drive SAP \nAutomation and Effective System Management for Contract Administration. \nLead the implementation, optimisation and automation of SAP processes \nwithin Contract Management. Oversee integration of contract ma",
+    "requirements": [
+      "Matric plus an undergraduate qualification (NQF level 7) as recognized by \nSAQA in Supply Chain / Logistics / Purchasing / Public Administration or \nequivalent in a related field. Minimum of 3 - 5 years’ relevant experience at \nAssistant Director level in contract management / SCM environment. \nPossession of a valid driver’s License. People management and leadership \nskills. Attention to detail. Communication skills. Problem solving skills. \nAnalytical skills. Time Management skills. Ability to perform under pressure. \nStrategic leadership and policy development experience. Advanced knowledge "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-2e3c329a989f766c",
+    "title": "DEPUTY DIRECTOR: DEMAND AND ACQUISITION MANAGEMENT REF NO: REFS/056670",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Johannesburg",
+    "category": "Finance",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/056670",
+    "summary": "Manage the functional operation of Demand and Acquisition Management. \nManage, design and develop demand and acquisition management policies \nprocesses and procedures. Compile procurement plan and obtain approval. \nSetting up the Bid Evaluation, Bid Adjudication and Bid Specification \nCommittees and render SCM advisory services to the relevant committees. \nOversee \nthe \nappointment \nof \nbid \ncommittee \nmembers. \nCompile \ntender/quotation specifications as required. Oversee the bidding process. \n\n151 \n\nManage compilation of bid documents and advertisements. Manage publishing \nof bid documents. Manage the receipt (closing and opening) of bid do",
+    "requirements": [
+      "A Matric plus an undergraduate qualification (NQF level 7) as recognized by \nSAQA in Supply Chain Management. A minimum of 3–5-year experience at \nAssistant Director level within SCM environment. The candidate should have \nknowledge of all the Public Service prescripts applicable to the role as well as \nthe Department’s mandate. Knowledge of performance management \nframeworks applicable in the Public Service and proven strategies in \nperformance \nimprovement. \nCompetencies: \nStrategic \ncapability \nand \nLeadership, People Management and empowerment, Programme and Project \nManagement, Financial "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-8ca0e88140228a70",
+    "title": "DEPUTY DIRECTOR: HUMAN RESOURCE ADMINISTRATION REFS/056801",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Johannesburg (Head Office)",
+    "category": "Healthcare",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/056801",
+    "summary": "Develop, implement and review human resource administration policies, \nstrategies, and procedures. Manage recruitment and selection services. \nManage basic conditions of employment. Manage human resource registry. \nManage resources (Human/Equipment/Assets).",
+    "requirements": [
+      "National Diploma (NQF Level 6) / Bachelor’s Degree (NQF Level 7) in Human \nResource Management/Industrial Psychology. 3-5 years’ experience at \nAssistant Director level (Junior Management) within Human Resource \nAdministration in the public sector. PERSAL Certificate (Introduction to \nPERSAL/Personnel Administration). A valid driver’s license. Knowledge and \nskills. Knowledge and understanding of recruitment and selection prescripts \nand legislations, Human Resource Management methodology, Principles and \nStrategies, HRM systems, DPSA directives, Batho Pele principles, Labour \nRelations Act, E"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-68e7af7afe067a55",
+    "title": "DEPUTY DIRECTOR: HUMAN RESOURCES MANAGEMENT 2026/351",
+    "department": "Department of Public Works And Infrastructure",
+    "province": "National",
+    "location": "Bloemfontein Regional Office",
+    "category": "Human Resources",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/351",
+    "summary": "Manage the Human Resource support services and the implementation of all \nthe Human Resource policies, procedures and relevant prescripts. Manage the \neffective implementation of recruitment and selection policy and procedures. \nManage the effective implementation of Performance Management Policy. \nManage the coordination of Human Resource Development interventions and \nthe implementation of Human Resource Development Policies and Programs. \nManage the administration of service benefits and leave of staff in the province. \nManage the implementation of sound labour relations and matters of mutual \ninterest. Advise line managers and employees o",
+    "requirements": [
+      "A minimum of three-year tertiary qualification (NQF Level 06) / National \nDiploma in Human Resource Management, Human Resource Training and \nDevelopment, Public Management, Public Administration, Management \nServices, Labour Relations or related. A relevant functional experience in the \nHuman Resources Management at a Junior managerial level (Assistant \nDirector equivalent). Valid driver’s licence. Knowledge: Human Resource \nManagement Policies. Human Resources Systems and Procedures. \nPerformance Management. Project Management. Public Service Act, \nRegulations and Resolutions. Recruitment and"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/m.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-47430782a640d11a",
+    "title": "DEPUTY DIRECTOR: LABOUR RELATIONS",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (Qonce)",
+    "category": "Information Technology",
+    "salary": "R932 292 – R1 098 195 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Managing the development of labour relations policies and guidelines. Review \nand quality assure labour relations policies and procedures annually. Research \nbest practices regarding labour relations policies and procedures. Develop and \nimplement labour relations policies, procedures and strategies. Interpret and \nmonitor compliance with applicable labour legislation and collective \nagreements. Provide strategic guidance on labour relations matters for \nmanagement. Managing consultation and negotiation processes. Promoting \nsound employer-employee relations. Represent the department at conciliation \nor arbitration processes. Represent the de",
+    "requirements": [
+      "National Senior Certificate plus a National Diploma (NQF L6) or preferably a B \nDegree (NQF L7) as recognised by SAQA in BCom/Human Resource \nManagement / Labour Relations / Labour Law / Industrial Psychology / BAdmin \n/ Public Management, Industrial Relations / LLB (Law). A minimum of 3 years’ \nrelevant Labour Relations related experience at Assistant Director / Junior \nManagement level. In-depth knowledge of the following legislative prescripts: \nLabour Relations Act, Basic Conditions of Employment Act, Employment \nEquity Act, Disciplinary Code, Public Service Regulations, Public Service Act"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-6f05e2bf0991fc82",
+    "title": "DEPUTY DIRECTOR: PAYMENT ADMINISTRATION",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Johannesburg \n\n152",
+    "category": "Information Technology",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/056646",
+    "summary": "Provide strategic and operational leadership in the management of payment \nadministration systems, policies, procedures, and controls. Oversee the \naccurate capturing, verification, processing, and authorisation of payments \nwithin the Housing Subsidy System (HSS) or relevant payment platforms. \nEnsure compliance with payment administration prescripts, supporting \ndocumentation requirements, and approval protocols. Manage and oversee \npayment adjustments, reversals, and rejections in accordance with prescribed \nregulations and procedures. Investigate and resolve complex payment-related \nqueries, including long-outstanding and disputed payment",
+    "requirements": [
+      "A minimum of Matric plus an undergraduate qualification (NQF level 6/7) as \nrecognised by SAQA in Accounting/Auditing/Financial Management or similar. \nThe incumbent should have 3-5 years relevant experience at Assistant Director \nlevel, or equivalent in accounting/auditing/financial management or similar. \nProven experience in payment processing, verification, reconciliation, and \nauthorisation, preferably within a grant funding environment. Proven \nexperience in managing high-volume payment transactions and dealing with a \nhighly pressurised environment and working under pressure. Possession"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-6559abfda8c2f614",
+    "title": "DEPUTY DIRECTOR: RISK MANAGEMENT–BUSINESS CONTINUITY MANAGEMENT",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "Mbombela",
+    "category": "Information Technology",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DD-BCM/OTP/02",
+    "summary": "Develop and maintain business continuity program. Manage the entity-wide \nbusiness continuity strategies and response arrangements. Provide technical \nadvice to management to carry out business impact analysis and prepare \nbusiness continuity plans. Manage the design, build, test and monitor the \nimplantation of capacity BC planning. Liaise with ICT to ensure integration on \nbusiness continuity plans to the disaster recovery. Develop central source of \ninformation and conduct awareness workshop.",
+    "requirements": [
+      "Bachelor’s degree or equivalent qualification in risk management, or a related \nfield. Professional certifications in business continuity management. Minimum \nof (3) years of experience in business continuity management and 5 years in \nrelated field. Strong knowledge of business continuity management principles, \nmethodologies, and best practices. Knowledge of BCM standards and \nframeworks such as ISO 22301 or NIST SP 800-34. Project management skills, \nwith the ability to manage multiple projects simultaneously and meet tight \ndeadlines. Familiarity with business continuity management softwar"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-be0c8561ae8bb7b9",
+    "title": "DEPUTY DIRECTOR: STRATEGIC MANAGEMENT AND PLANNING REF NO: DD-SMP/OTP/01",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "Mbombela",
+    "category": "Finance",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DD-SMP/OTP/01",
+    "summary": "Facilitate and coordinate operational and strategic planning processes. \nFacilitate the development of a Strategic Plan, Provincial Program of Action \nand Annual Performance Plan. Coordinate the development of the \ndepartmental Annual Operational Plan. Develop, review and coordinate the \nimplementation of departmental Information and Knowledge Management \nstrategies, policies, frameworks, standard operating procedures and \nimplementation plans. Coordinate and support Knowledge Management \nmaturity assessments, compliance assessments, evidence collection, remedial \naction plans and reporting to oversight structures. Align Information and \nKnow",
+    "requirements": [
+      "An appropriate SAQA-recognised undergraduate in Public Administration / \nPublic Affairs / Public Management / Monitoring and Evaluation or relevant \nqualification (NQF Level 07). A minimum (3) years of functional work \nexperience and should be at junior managerial level (Assistant Director level or \nequivalent). Knowledge of strategic management and service delivery \nimprovement frameworks. Understanding of project management and financial \nmanagement. In-depth knowledge and understanding of: Legislation governing \nplanning and reporting. Data Collection. Analysis and report writing. Research "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-84a0cbee1f9015ba",
+    "title": "DEPUTY DIRECTOR: SUB DISTRICT MANAGER",
+    "department": "Department of Health",
+    "province": "North West",
+    "location": "Bojanala District: Moses Kotane Sub District \n\n \nDr Ruth Segomotsi Mompati District \n\n \nGreater Taung Sub District & Sub",
+    "category": "Healthcare",
+    "salary": "R1 101 468 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "04/2026/01",
+    "summary": "Manage key performance health indicators with regard to strategic health \nprogrammes, Human Resources, Financial Management and Supply Chain \nManagement. Overall management of Health facilities and PHC Services at \nSub-District level. Manage the provision of integrated and quality health \nservice. Provide leadership to the Sub-District Management. Manage \nconditional grants and funding provision for special health project. Supervise \nAssistant Managers responsible for administration, community health service \nand local health care management. Co-ordinate health governance, related \nhealth NGO’s and CBO’s within the Sub-District.",
+    "requirements": [
+      "National Diploma / Bachelor’s Degree in Health Sciences. Five (5) year’s \nmanagement experience of which 3 years should be at Assistant Manager \nNursing dealing with Primary Health Care (PHC) activities. A certificate in \nClinical Assessment Diagnosis and Treatment will be added advantage. A valid \ndriver’s license. Knowledge of Constitution, Public Service Act 1994 as \namended, Public Service Amendment Regulations 2023 and applicable health \nlegislation/policies. Knowledge and understanding of Primary Health Care and \nCommunity Base services. District Health System (DHS) development and \nDist"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/z.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-410f6fc2a270416e",
+    "title": "DEPUTY MANAGER NURSING (LEVEL 1 & 2 HOSPITALS) 31/2026 (X1 POST)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Prince Mshiyeni Memorial Hospital",
+    "category": "Healthcare",
+    "salary": "R1 069 215 – R1 201 302 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PMMH",
+    "summary": "Provide strategic leadership and direction to Primary Health Care nursing \nservices. Coordinate, supervise and monitor quality and efficient patient-care \nservices. Monitor implementation of the District Health Plan, PHC indicators, \nnorms, standards and targets, and initiate corrective action where required. \nCoordinate planning, monitoring and evaluation of PHC service delivery within \nthe sub-district. Ensure compliance with Office of Health Standards \nCompliance (OHSC), Ideal Health Facility, clinical governance and nursing \nstandards. Manage human, financial and material resources effectively, \nincluding budget monitoring and audit compl",
+    "requirements": [
+      "Basic R425 Diploma / Degree in Nursing or equivalent qualification allowing \nregistration with SANC as a Professional Nurse with Midwifery. Current South \nAfrican \nNursing \nCouncil \n(SANC) \nregistration \n(2026).9 \nyears’ \nappropriate/recognisable nursing experience after registration, with at least 4 \nyears at Primary Health Care (PHC) management level. Diploma/Degree in \nNursing Administration/Health Service Management will be an added \nadvantage. Computer literacy and a valid driver’s licence. Knowledge, Skills \nTraining and Competencies Required: Knowledge of Primary Health Care \npolicies, "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-6d71bc0b41397cf0",
+    "title": "DEPUTY MANAGER NURSING REF NO ECHEALTH/DMN/APL/ZITH/01/10/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "OR Tambo District, Zithulele Hospital",
+    "category": "Healthcare",
+    "salary": "R1 069 215 – R1 219 323 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ECHEALTH/DMN/APL/ZITH/01/10/2026",
+    "summary": "To manage and provide strategic Nursing leadership and direction to the \nNursing Services. Plan and monitor the objectives of the specialized unit in line \nwith the strategic plan of the institution and Department. Coordinate and \nmaintain conducive/constructive working relationships with Nursing and other \nstakeholders. Ensure compliance with professional and ethical practice. \nMonitor and ensure nursing care is practiced in accordance with the statutory \nlaw, policies and procedures governing the Nursing Profession, Labour and \nHealth Care. Effective management and utilization of Human and Material \nResources. Ensure effective implementatio",
+    "requirements": [
+      "Basic R425 qualification Diploma/Degree in Nursing or equivalent qualification \nthat allows registration with SANC as a Professional Nurse General. A \npostgraduate diploma in Nursing Management/Administration. A minimum of 9 \nyears after registration as a Professional Nurse, at least 4 years’ appropriate \nrecognizable experience must be at Management Level. Demonstrate \nadvanced understanding and application of Nursing legislation and related \nlegal and ethical nursing practices. Knowledge of PFMA, HR Management. \nKnowledge of Public Sector Legislation and relevant Prescript/Regulation, \nBatho"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-bd980915d3b310cd",
+    "title": "DEPUTY REGISTRAR OF DEEDS",
+    "department": "Department of Land Reform And Rural Development",
+    "province": "National",
+    "location": "Western Cape Deeds Registry: Cape Town",
+    "category": "Finance",
+    "salary": "R1 317 384 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/1/1/1/2026/265",
+    "summary": "Oversee the registration section. Oversee the workload, workflow processes \nand standards and implement corrective measures. Provide guidance on \nnoting and withdrawal of interdicts. Oversee correspondence and give \nguidance to clients. Oversee the information section and DOTS services. \nManage the turnaround times for the provision of information to clients. \nManage the deeds tracking system. Manage the turnaround times on DOTS \nenquiries, manage presidential / departmental inquiries and compile a report. \nApprove complaints register action plan. Monitor the completion of client \nsatisfaction surveys report. Approve the Service Delivery Impr",
+    "requirements": [
+      "Minimum requirements: Applicants must be in a possession of Grade 12 \nCertificate and a B Proc (NQF Level 7) / LLB (NQF Level 7) / B Uris (NQF Level \n7) / Advance Diploma: Estate and Trust Administration (NQF Level 7) or related \nequivalent qualification (NQF Level 7) with Diploma in Deeds Registration Law \nand a Nyukela certificate (Pre-entry Certificate to the SMS) submitted prior to \nappointment. Minimum of 5 years’ experience at Middle / Senior Managerial \nlevel / Assistant Registrar of Deeds / Deeds Law Lecturer / Deputy Registrar of \nDeeds in property conveyance. A valid driver’s licence"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/k.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-23eb8091b660ca4a",
+    "title": "DEPUTY REGISTRAR OF DEEDS (X6 POSTS)",
+    "department": "Department of Land Reform And Rural Development",
+    "province": "National",
+    "location": "Eastern Cape Deeds Registry: Mthatha Ref No: 3/1/1/1/2026/259 \n\n \nNorth-West Deeds Registry: Mahikeng Ref No: 3/1/1/1/20",
+    "category": "Finance",
+    "salary": "R1 317 384 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/1/1/1/2026/259",
+    "summary": "Manage the process of examination and the registration of deeds and \ndocuments. Manage examination and register deeds in compliance with Deeds \nRegistries Act of 1937 and Titles Act of 1986 as well as common, statutory and \ncase law and recognized practices and procedures and Chief Registrar of \nDeeds directives. Analyse standards of examination and draft report to \nRegistrar. Grant hearings to Conveyancers with regard to examination matters \nand make rulings. Provide rural development support pertaining to the \nregistration matters. Advise the Courts on request regarding the feasibility of \nthe applications. Comment on Draft Bills and Chief ",
+    "requirements": [
+      "Minimum requirements: Applicants must be in a possession of Grade 12 \nCertificate and a B Proc (NQF Level 7) / LLB (NQF Level 7) / B Uris (NQF Level \n7) / Advance Diploma: Estate and Trust Administration or related equivalent \nqualification (NQF Level 7) with Diploma in Deeds Registration Law and a \nNyukela certificate (Pre-entry Certificate to the SMS) submitted prior to \nappointment. Minimum relevant experience of 5 years at the Middle / Senior \nManagerial level / Assistant Registrar of Deeds / Deeds Law Lecturer / Deputy \nRegistrar of Deeds in property conveyance. A valid driver’s licence. "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/k.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-a2b6cbb13d98ad61",
+    "title": "DIRECTOR COMMUNAL PROPERTY INSTITUTIONS REF NO 3/1/1/1/2026/276",
+    "department": "Department of Land Reform And Rural Development",
+    "province": "National",
+    "location": "Gauteng (Pretoria)",
+    "category": "Information Technology",
+    "salary": "R1 317 384 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/1/1/1/2026/276",
+    "summary": "Register Communal Property Institutions (CPI) (Entities). Review/manage the \nscreening of the submissions for compliance. Approve compliant applications. \nIssue the registration certificate. Ensure the update of the Communal Property \nAssociation (CPA) register. Develop CPI policy, procedures, systems and \nguidelines. Engage with different stakeholders (CPAs, other Government \nDepartments, Municipalities, Community-based organisations, etc.) to identify \npolicy, legislation and implementation gaps. Collate, analyse and consolidate \ninformation into a policy, legislation and implementation proposals. Prepare a \ndraft submission to the policy u",
+    "requirements": [
+      "Minimum requirements: Applicants must be in a possession of Grade 12 \nCertificate and a Bachelor's Degree in Humanities / Social Science / Legal \nQualification (NQF Level 7) or related equivalent qualification and a Nyukela \ncertificate (Pre-entry Certificate to the SMS) submitted prior to appointment. \nMinimum of 5 years' relevant experience at a middle / senior managerial level \nin the management of various legal entities environment. A valid driver's \nlicence. Job related knowledge: Policy development, Communal Property \nAssociation (CPA) Act, Stakeholder management, Conflict resolution and"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/k.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-9128d57e11bd6a7e",
+    "title": "DIRECTOR: AEROTROPOLIS DEVELOPMENT 01/ SEPT 2026",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Head Office: Pietermaritzburg",
+    "category": "Healthcare",
+    "salary": "R1 317 384 - R1 551 807 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DIR-AERO",
+    "summary": "The successful candidate will be required to: Oversee and provide strategic \nleadership for the Implementation of the Durban Aerotropolis Master Plan and \nthe Integrated Aerotropolis Strategy Oversee and provide strategic leadership \nfor the Implementation of the KZN Regional Airport Strategy Oversee and \nprovide strategic leadership for advancing knowledge and skills in the field of \nAerotropolis and Aviation Industry Technical and economic support and source \nof information in the development of Aerotropolis Supervise the Aerotropolis \n\n159 \n\nDevelopment Administration, Risk Management and Budgeting processes and \nmanage human resources.",
+    "requirements": [
+      "An appropriate Bachelor’s Degree in Urban or Regional Planning / Transport \nEconomics / Economic Development / Economics / Policy Development / \nEngineering (Civil, infrastructure), or Transport Logistics at NQF Level 7 as \nrecognised by SAQA. Postgraduate qualifications (highly advantageous) - \nMaster’s Degree in Urban Planning, Economic Development, Economics, \nBusiness Administration/ Business Management. A minimum of five years of \nexperience at a Middle/Senior Managerial level in the Transport and/or Aviation \nSector. Completion of Nyukela Certificate for entry into the SMS (Senior \nManag"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-57ed56594eb6ca04",
+    "title": "DIRECTOR: BUSINESS INTELLIGENCE, ECONOMIC ANALYSIS AND ECONOMETRICS",
+    "department": "Department of Small Business Development",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Finance",
+    "salary": "R1 317 384 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "for",
+    "summary": "Set and drive the Small Business Development Portfolio research agenda to \nsupport sector economic analysis, policy development, and strategic decisionmaking, including the identification of priority research areas and alignment \nwith national and departmental objectives. Lead and oversee economic \nresearch, modelling, forecasting, and scenario analysis through the application \nof advanced econometric methodologies and digital tools, including assessing \nthe impact of policy options and economic shocks on growth, development \nindices (statistical indicators), and MSME sustainability. Produce and deliver \nhigh-quality research and business int",
+    "requirements": [
+      "A Senior Certificate and an advanced diploma or undergraduate qualification \n(NQF level 7) in Economics / Econometrics / Business Analytics / or equivalent \nas recognised by SAQA. NQF level 8 in the same disciplines / Master’s degree \nwill be an added advantage. Possess a minimum of 5 years’ relevant \nexperience at a middle/senior managerial level within an economic research, \nmodel analysis and forecasting-related environment. Experience in managing \na research unit, coordination of research work within an institution and among \nresearch stakeholders, gathering of research or intelligence to "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/n.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-96359eaf74e17514",
+    "title": "DIRECTOR: COMMUNICATIONS & MARKETING SERVICES COMMS- 02/ SEPT 2026",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Head Office: Pietermaritzburg",
+    "category": "Healthcare",
+    "salary": "R1 317 384 - R1 551 807 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DIR-",
+    "summary": "Manage Internal and External Communications. Manage Marketing and \nCommunication Campaigns. Manage Stakeholder and Community Liaison. \nEnsure the development and implementation of policies. Ensure effective \nmanagement of the resources of the office of the Directorate.",
+    "requirements": [
+      "An appropriate Bachelor’s Degree in Communications, Marketing, Public \nRelations or Journalism at NQF level 7 as recognised by SAQA. A \nPostgraduate Degree in Communication and extensive experience will serve \nas an added advantage A minimum of five years relevant experience at Middle \n/ Senior Managerial level in a Communications, Marketing, Public Relations or \nJournalism environment Completion of Nyukela Certificate for entry into the \nSMS (Senior Management Service) before appointment A valid driver’s licence. \nSkills, Training, And Competencies: The successful candidate must have \nadvance"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-82a748a60eb29d7f",
+    "title": "DIRECTOR: DISTRICT HEALTH SERVICES (X2 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Southern/Western Sub-Structure (SWSS) (X1 Post) \n\n \nKlipfontein Mitchell’s Plain Sub-Structure (KMPSS) (X1 Post)",
+    "category": "Healthcare",
+    "salary": "R1 317 384 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/309",
+    "summary": "Manage the implementation of health services (inclusive of district hospitals, \nprimary health care, community-based and specialised services) within the \nSouthern/Western or Klipfontein/Mitchell’s Plain Sub-Structure, in line with the \nrelevant Departmental policies. Provide strategic leadership and direction for \nhealth service within the respective sub-structure. Collaborate with key stake \nholders within the respective sub-structure within the Metro health ecosystem, \nincluding other government departments, community structures, non-profit \norganisations (NPOs) and local government and the private sector. Coordinate the rendering of profe",
+    "requirements": [
+      "Minimum educational qualification: An undergraduate qualification (NQF level \n7) in a Health-related field, Post Graduate Diploma/Degree in Public Health, \nor Management as recognized by SAQA with at least 5 years’ experience at a \nmiddle/senior managerial level. Pre-entry Certificate for the Senior \nManagement Services is a requirement (Candidates not in possession of this \nentry requirement can still apply but are requested to register for the course \nand complete it as no appointment can be made in the absence thereof. The \ncourse is available at the National School of Governance (NSG) unde"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f1f93823a6b13a65",
+    "title": "DIRECTOR: HAST PROGRAMMES IMPLEMENTATION & MMC, HIV PREVENTION",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Head Office: Pietermaritzburg",
+    "category": "Healthcare",
+    "salary": "R1 317 384 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "G52/2026",
+    "summary": "Based on the identified “gaps” develop integrated health policies inclusive of \ntreatment protocols, referral arrangements, quality assurance, norms, \nstandards and monitoring arrangements to enable Institutions to effectively and \nefficiently manage the prevalence of HIV, AIDS, STIs and TB through the \nprimary health care approach. Through the co-opting of specialists from all \nrelevant health care disciplines, ensure that prescribed clinical protocols will \npromote a holistic and integrated approach in the management of HIV, HTS, \nPMTCT, ART, MMC, HTA, STI, PrEP and Comprehensive condom program. \nProgramme/ Project Management: Based on rele",
+    "requirements": [
+      "Matric Certificate (Grade 12). Plus, an undergraduate qualification (NQF Level \n7) in Clinical Health Sciences. Plus, Registration with Health Professions \nCouncil. Plus, 5 years of experience at a middle / senior managerial level. Plus \n\n161 \n\nExtensive (5 – 10 years) experience in HIV, AIDS, TB, STIs. Plus, Valid Driver’s \nLicense. \nPlus, \nComputer \nliteracy. Additional \nRequirements: \nProject \nmanagement certification or equivalent qualification. Plus, Financial \nmanagement certification/qualification/accreditation. Plus, Post graduate \nqualification (Certificate, diploma or degree) in Publ"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ec4234bce4649a76",
+    "title": "DIRECTOR: HEALTH TECHNOLOGY",
+    "department": "Department of Health",
+    "province": "North West",
+    "location": "Provincial Office (Mahikeng)",
+    "category": "Healthcare",
+    "salary": "R1 317 384 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "02/2026/01",
+    "summary": "Direct and manage strategic healthcare technology planning and assessment. \nManage medical equipment acquisition and deployment. Direct and manage \nhealth technology maintenance services. Direct health technology policies, \nnorms and procedures. Manage risk quality improvements. Manage finance. \nManage people.",
+    "requirements": [
+      "Bachelor’s Degree in Health Sciences / Electrical / Mechanical / Clinical \nEngineering (NQF level 7). Five (5) years’ experience at Middle/Senior \nManagement Level preferably in Public Health Setting. Pre-entry Certificate for \nthe Senior Management Services (SMS) as endorsed by the National School \nof Government submitted prior to appointment. A valid driver’s License. \nExtensive experience in Clinical Engineering and/ or Health Technology \nManagement. Knowledge of the functioning of medical equipment and the \nallocation of health technologies and the interface between medical equipment \nand "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/z.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-856e19e3dd67a34c",
+    "title": "DIRECTOR: SOC GOVERNANCE AND LEGAL ASSURANCE DEE2026/019",
+    "department": "Department of Electricity And Energy",
+    "province": "National",
+    "location": "Head Office, Pretoria",
+    "category": "Finance",
+    "salary": "R1 317 384 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DEE2026/019",
+    "summary": "Undertake the development of standardised SOC governance review and \nreporting instruments. Lead or partake in SOC governance assurance projects \nto assess compliance and enable DEE management structures to facilitate \ncorrective action where required. Provide technical advisory services to \nexecutive management and the shareholders on the appointment and \ndismissal of SOC Board Members. Develop and coordinate the implementation \nof the DEE’s legal assurance policy regime and standardised legal instrument \nassurance framework for the SOC Group. Align existing and/or develop legal \ninstruments for the governance of SOCs in the group. Draft leg",
+    "requirements": [
+      "An appropriate degree in LLB or equivalent at NQF level 7 recognised by the \nSouth African Qualifications Authority (SAQA), plus the pre-entry certificate for \nSMS (Nyukela). Additional requirements as an Admitted Attorney or an \nAdvocate. Plus 5 years of experience at the middle/senior managerial level in \nLegal or Corporate Governance. Knowledge of: Legislative and policy \nprescripts relevant to the Department and its SOE’s. Corporate governance as \nit applies to the public and private sector, Company law, PFMA, Project \nManagement, Strategic Planning, Risk Management and a strong legal \nbac"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/c.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-42296b07b7f38eaa",
+    "title": "DRIVER / MESSENGER",
+    "department": "Department of Land Reform And Rural Development",
+    "province": "National",
+    "location": "Western Cape (Cape Town)",
+    "category": "Education",
+    "salary": "R201 093 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/1/1/1/2026/269",
+    "summary": "Drive light and medium vehicles to transport passengers and deliver other \nitems (mail, documents, office equipment). Collect, distribute and control \nmovement of documents. Do routine maintenance on the allocated vehicle and \nreport defects timely. Perform daily pre and post trip vehicle inspection to \nensure that the vehicle is always in the best condition. Complete all the \nrequired and prescribed records and logbooks with regard to the vehicle and \nthe goods handled. Maintain accurate and up to date schedule trip sheets i.e. \nlog official trips, daily mileage. Collect and deliver documentation and related \nitems in the Departmental / Bran",
+    "requirements": [
+      "Minimum requirements: Applicants must be in possession of a Grade 10 \nCertificate / Adult Basic Education and Training (ABET) qualification or related \nequivalent qualification and a valid driver’s licence. Job related knowledge: \nKnowledge of the city in which the function will be performed. Job related skills: \nOrganising, Good communication (written and verbal), Interpersonal relations \nand Basic literacy. A reliable and creative individual who is prepared to work \nunder pressure and as part of a team."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/k.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1df3a283d1dc146b",
+    "title": "DRIVER MESSENGER ADMIN SUPPORT SERVICES REF NO DHS13/09/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Nelson Mandela Bay Region (Gqeberha)",
+    "category": "Other",
+    "salary": "R201 093 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DHS13/09/2026",
+    "summary": "Render transport and driving services. Fairy employees to various destinations. \nTransport material and equipment. Apply road safety and precautionary \nmeasures. Complete logbooks and trip sheets. Conduct basic vehicle checks \nand report faults. Provide transport administrative services. Close daily and \nweekly kilometre readings and facilitate the recording of readings. Complete \nvehicle logbook and trip authorisations. Consolidate monthly vehicle returns. \nLoad and offload goods/equipment. Submit accident reports. Maintenance of \nmotor vehicles. Inspect motor vehicles and report defects. Login calls to \nGovernment Motor Financial Services (",
+    "requirements": [
+      "NQF level 2 as recognised by SAQA with no experience. Valid drivers’ licence \nwith PDP. Knowledge of Road traffic laws and regulations, government \ntransport policies and procedures, geographical knowledge, vehicle \nmaintenance and safety, document handling and records management. Good \ncommunication skills. Confidentiality and ethical conduct. Physical fitness and \nalertness, customer service and time management."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-35b195fc90fdf7af",
+    "title": "DRIVER/MESSENGER ADMIN SUPPORT SERVICES REF NO DHS12/09/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Buffalo City Metro Region (East London)",
+    "category": "Other",
+    "salary": "R201 093 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DHS12/09/2026",
+    "summary": "Render transport and driving services. Fairy employees to various destinations. \nTransport material and equipment. Apply road safety and precautionary \nmeasures. Complete logbooks and trip sheets. Conduct basic vehicle checks \nand report faults. Provide transport administrative services. Close daily and \n\n113 \n\nweekly kilometre readings and facilitate the recording of readings. Complete \nvehicle logbook and trip authorisations. Consolidate monthly vehicle returns. \nLoad and offload goods/equipment. Submit accident reports. Maintenance of \nmotor vehicles. Inspect motor vehicles and report defects. Login calls to \nGovernment Motor Financial Ser",
+    "requirements": [
+      "NQF level 2 as recognised by SAQA with no experience. Valid drivers’ licence \nwith PDP. Knowledge of Road traffic laws and regulations, government \ntransport policies and procedures, geographical knowledge, vehicle \nmaintenance and safety, document handling and records management. Good \ncommunication skills. Confidentiality and ethical conduct. Physical fitness and \nalertness, customer service and time management."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-bc0462f1d3842e93",
+    "title": "DRIVER/MESSENGER: WORK ENVIRONMENT MANAGEMENT DHS11/09/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (East London)",
+    "category": "Other",
+    "salary": "R201 093 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DHS11/09/2026",
+    "summary": "Render transport and driving services. Fairy employees to various destinations. \nTransport material and equipment. Apply road safety and precautionary \nmeasures. Complete logbooks and trip sheets. Conduct basic vehicle checks \nand report faults. Provide transport administrative services. Close daily and \nweekly kilometre readings and facilitate the recording of readings. Complete \nvehicle logbook and trip authorisations. Consolidate monthly vehicle returns. \nLoad and offload goods/equipment. Submit accident reports. Maintenance of \nmotor vehicles. Inspect motor vehicles and report defects. Login calls to \nGovernment Motor Financial Services (",
+    "requirements": [
+      "NQF level 2 as recognised by SAQA with no experience. Valid drivers’ licence \nwith PDP. Knowledge of Road traffic laws and regulations, government \ntransport policies and procedures, geographical knowledge, vehicle \nmaintenance and safety, document handling and records management. Good \ncommunication skills. Confidentiality and ethical conduct. Physical fitness and \nalertness, customer service and time management."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-08b764ec29ee26b4",
+    "title": "EDUCATION PSYCHOLOGIST (GRADE 1) LSPID: INCLUSIVE EDUCATION",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Chris Hani West District Office",
+    "category": "Information Technology",
+    "salary": "R907 617 – R995 592 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DOE02/08/2026",
+    "summary": "As a member of the transversal team, the incumbent will collaborate with team \nmembers in the provision of support to designated schools and care centres \non an itinerant basis. Support to be provided will include: Assessment of LSPID \nenrolled in the schools/ care centres; provision of relevant therapeutic \nintervention to learners and families; monitoring and reporting on these \nlearners’ progress; training caregivers on the learning programme for LSPID; \nmonitoring and reporting caregivers’ implementation of the learning \nprogramme for LSPID; training and supporting teachers on the learning \nprogramme for LSPID; monitoring and reporting on",
+    "requirements": [
+      "Applicants must be in possession of an appropriate qualification and be \nregistered with the HPCSA as an Educational Psychologist. Current \nregistration as an Educational Psychologist with the HPCSA is required, and \nproof of this registration must be provided. The incumbent must be able to \npromote inclusive education which includes promoting access to quality public \nfunded education for learners with disability. They should have experience in \nworking as part of a team and collaborating with stakeholders. They should be \nable to take initiatives, work under pressure and problem-solve if and"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-8a7b531b1ef66fef",
+    "title": "EDUCATION THERAPIST - OCCUPATIONAL THERAPIST (X3 POSTS)",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "ORTC (Sigcau Special School) Ref No: DOE22/08/2026 \n\n \nORTI (Tsolo Special School) Ref No: DOE23/08/2026",
+    "category": "Healthcare",
+    "salary": "R413 121 – R472 359 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DOE22/08/2026",
+    "summary": "To assess the learner’s level of functioning; to identify barriers to learning \nbased on the Occupational Therapy’ scope of practice. To conduct screening \nfor the learners; administer formal and informal assessments. Analyse and \ninterpret information to make decisions regarding the need for therapeutic \nintervention, engage in multi-disciplinary team discussions, and make \nrecommendations and/or referrals. Provide direct and indirect Occupational \nTherapy services based on an Occupational Therapy plan to learners in public \nspecial schools and public ordinary schools; determine individualised and \ngroup Occupational Therapy Services. Prescr",
+    "requirements": [
+      "Degree in Occupational Therapy: A recognized Bachelor's Degree in \nOccupational Therapy from an accredited institution. HPCSA Registration: \nCurrent and valid registration as an Occupational Therapist with the Health \nProfessions Council of South Africa (HPCSA) is mandatory. One Year of \nRelevant Experience: A minimum of one year of experience or relevant clinical \nexperience as an Occupational Therapist. Knowledge: Inclusive Education (IE) \npolicies (White Paper 6); Screening, Identification, Assessment and Support \n(SIAS) policy; Special Schools as Resource Centres; and Integrated School \nHe"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-2d6c3263969f40c0",
+    "title": "EDUCATION THERAPIST - PHYSIOTHERAPIST",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "BCM (Parklands Special School)",
+    "category": "Healthcare",
+    "salary": "R413 121 – R472 359 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DOE24/08/2026",
+    "summary": "Assessment & Identification: Assess learners' physical functioning and mobility \nto identify barriers to learning within the Physiotherapy scope of practice, \nConduct screenings and administer formal/informal physical assessments and \nAnalyse data to determine the necessity of therapeutic intervention or referral. \nTherapeutic Intervention: Provide direct and indirect Physiotherapy services to \nlearners in both Public Special Schools and Public Ordinary Schools, Develop \nand implement individualized and group physical therapy plans, and Focus on \na preventative and developmental approach to support learner wellness. \nAssistive Devices and Res",
+    "requirements": [
+      "A recognized Bachelor’s Degree in Physiotherapy from an accredited \ninstitution. Current, valid registration with the Health Professions Council of \nSouth Africa (HPCSA) as a Physiotherapist is mandatory. A minimum of one \nyear of relevant clinical experience (post-community service). Legislative \n\n92 \n\nKnowledge: Inclusive Education policies (White Paper 6), SIAS Policy \n(Screening, Identification, Assessment, and Support, Integrated School Health \nPolicy and the functionality of SBSTs and DBSTs. Core Skills: Paediatric \ntherapeutic assessment and rehabilitation techniques, Collaborative mult"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-87042d5dd2f98d3e",
+    "title": "EDUCATION THERAPIST - SPEECH AND LANGUAGE (X7 POSTS)",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "ANW (Nolitha Special School) Ref No: DOE13/08/2026 \n\n \nBCM (Khayalethu Special School) Ref No: DOE14/08/2026 \n\n \nBCM (ST",
+    "category": "Healthcare",
+    "salary": "R413 121 – R472 359 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DOE13/08/2026",
+    "summary": "To conduct thorough assessments of learners' speech, language, and \ncommunication difficulties, including evaluation of speech sounds, language \ncomprehension and expression, fluency, and voice in the special schools. To \nconduct outreach services to Full-Service and Public Ordinary Schools to \nextend therapeutic support. Administer formal and informal assessments and \nconduct screenings for learners to identify needs. Develop and implement \nindividualized and group Speech-Language Therapy plans for learners in \npublic special schools and public ordinary schools. Prescribe, issue, and \nmaintain appropriate assistive devices to support communi",
+    "requirements": [
+      "Degree in Speech-Language Therapy: A recognized Bachelor's degree in \nSpeech-Language Pathology/Therapy from an accredited institution. HPCSA \nRegistration: Current and valid registration as a Speech-Language Therapist \nwith the Health Professions Council of South Africa (HPCSA) is mandatory. \nOne Year of Relevant Experience: A minimum of one year of experience or \nrelevant clinical experience as a Speech-Language Therapist. Knowledge of \nInclusive Education (IE) policies (White Paper 6); Screening, Identification, \nAssessment and Support (SIAS) policy; Special Schools as Resource Centres; \nan"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-2e30850e6eefc2fe",
+    "title": "EDUCATION THERAPIST SPECIALIST - OCCUPATIONAL THERAPIST",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "ANW (MT. Frere CMC) Ref No: DOE08/08/2026 \n\n \nSB (Humansdorp CMC) Ref No: DOE09/08/2026 \n\n \nORTC (Lusikisiki CMC) Ref No",
+    "category": "Healthcare",
+    "salary": "R664 410 – R735 930 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DOE08/08/2026",
+    "summary": "Assess the learner’s level of functioning to identify barriers to learning based \non the Occupational Therapists’ scope of practice: Conduct screening for the \nlearners; administer formal and informal assessments. Analyse and interpret \n\n88 \n\ninformation to make decisions regarding the need for therapeutic intervention, \nengage in multi-disciplinary team discussions and make recommendations \nand/or referrals. 2) Provide intervention (direct and indirect therapy) relating to \nbarriers to learning: Provide direct and indirect Occupational Therapy services \nbased on an Occupational Therapy plan to learners in public special schools \nand public o",
+    "requirements": [
+      "RVQ 13/14 qualification in Occupational Therapy recognised by SAQA. \nRegistration with the Health Professions Council of South Africa (HPCSA) as \nOccupational Therapist. Registration with the South African Council for \nEducators (SACE) will be an added advantage. Five-years of relevant \nexperience after registration with the Health Professions Council of South \nAfrica (HPCSA). Knowledgeable about a) National and Provincial Education \nlegislation, policies and regulations (e.g. Health Professions Act, Screening \nIdentification Assessment and Support policy (SIAS), South African Schools \nAct (SA"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-cbf7de12c2eeba08",
+    "title": "EDUCATION THERAPIST SPECIALIST - PHYSIOTHERAPIST DOE07/08/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Chris Hani West District Office",
+    "category": "Healthcare",
+    "salary": "R664 410 – R735 930",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DOE07/08/2026",
+    "summary": "Train educators, parents, and staff in early identification of physical barriers to \nlearning. Implement capacity-building programmes for School-based Support \nTeams (SBSTs). Conduct assessments and provide specialized, short-term \ncurriculum interventions and direct therapeutic support where necessary. Work \nwithin a multi-disciplinary team alongside the District-based Support Team \n(DBST) to support learners with high-level needs. Manage professional \nsupervision of therapists in Special Schools. Ensure all district therapists \ncomply with HPCSA Continuous Professional Development (CPD) policies. \nMonitor and manage the distribution and use",
+    "requirements": [
+      "Qualifications: Bachelor’s Degree in Physiotherapy allowing for registration \nwith the HPCSA. Valid, current registration with the HPCSA as a \nPhysiotherapist (proof of registration required. A minimum of 5 years of relevant \nexperience post-community service. Experience as an Education Therapist will \nbe an added advantage. A valid driver’s license is essential for district-wide \ntravel. Knowledge and Skills: Deep understanding of Inclusive Education \npolicies, including White Paper 6, the SIAS policy, and guidelines for Fullservice and Special Schools as Resource Centres. Familiarity with th"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-70a3898fb49d1689",
+    "title": "EDUCATION THERAPIST SPECIALIST - SPEECH AND LANGUAGE",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "AE (Butterworth) Ref No: DOE03/08/2026 \n\n \nAW (Fort Beaufort) Ref No: DOE04/08/2026 \n\n \nAlfred Nzo West Ref No: DOE05/08",
+    "category": "Healthcare",
+    "salary": "R664 410 – R735 930 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DOE03/08/2026",
+    "summary": "To provide therapeutic and educational services to Public Ordinary and Public \nSpecial Schools within the Education District. Implement therapeutic capacitybuilding programmes for early identification of interventions relating to barriers \nto learning. Train educators, parents and support staff in the early identification \nof learning barriers particularly barriers to accessing the curriculum.; Conduct \nassessments; provide short term curriculum interventions to learners \nexperiencing barriers to learning. Provide specialized therapeutic support to \nstrengthen District and School-based Support Teams (DBSTs/SBSTs). \nCollaborate as multi-discip",
+    "requirements": [
+      "Bachelor's Degree in Speech-Language Therapy that allows for registration \nwith the Health Professional Council of South Africa (HPCSA). Current \nregistration as a Speech-Language Therapist with the HPCSA is required, and \nproof of this registration must be provided. Applicants should have at least 5 \nyears of relevant experience as a Speech-Language Therapist following their \ncommunity service. Experience as an Education Therapist will be considered \nan added advantage. A valid driver's license is required. Knowledge: Inclusive \nEducation (IE) policies (White Paper 6); Screening, Identificati"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-b34b790a7810c686",
+    "title": "EDUCATION THERAPIST – SPEECH-LANGUAGE AND AUDIOLOGIST",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "NMB (Greenwood Primary School)",
+    "category": "Healthcare",
+    "salary": "R413 121 – R472 359 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DOE20/08/2026",
+    "summary": "Assess the learner’s level of functioning to identify barriers to learning based \non the Speech Language Therapy and Audiology’ scope of practice: Conduct \nspeech-language and hearing screening for the learners; administer formal \nassessments. Analyse and interpret results for better decision making for \ntherapeutic intervention, engage in multi-disciplinary team discussions and \nmake recommendations and/or referrals: 2) Provide intervention (direct and \nindirect therapy) relating to barriers to learning: Provide direct and indirect \nservices based on Speech-Language and Audiology plan to learners in public \nspecial schools and public ordinar",
+    "requirements": [
+      "RVQ 13/14 qualification in Speech Language Therapy and Audiology as \nrecognised by SAQA. Registration with the Health Professions Council of \nSouth Africa (HPCSA) as Speech Language Therapist and Audiologist. \nRegistration with the South African Council for Educators (SACE). One-year \nrelevant experience after registration with the Health Professions Council of \nSouth Africa (HPCSA). A valid driver's license is required. Knowledge: Inclusive \nEducation (IE) policies (White Paper 6); Screening, Identification, Assessment \nand Support (SIAS) policy; Guidelines on the development of Fullservice/I"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f3a7dcb8b426c2d4",
+    "title": "EMERGENCY CARE OFFICER",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "ZF Mgcawu District",
+    "category": "Other",
+    "salary": "R194 988 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NCDOH",
+    "summary": "Responsible for the treatment of patient within the scope of practice of Basic \nAmbulance Assistant. Transport patients as part of Planned Patient Transport \nand inter-facility transfer system under Emergency Medical Services. Provide \nemergency medical care and related assistance during special events. \nResponsible for care and proper management of Emergency Medical Services \nresources. Provide emergency medical assistance and other duties required \nby Directorate. Perform any other duties as delegated by the supervisor. \nCandidates are expected to work shift. Candidates are also expected to \nundergo through physical and Medical surveillance",
+    "requirements": [
+      "Grade 1: Successful completion of an appropriate Basic Life Support (BLS) \ncourse that allows registration with the HPCSA as Basic Ambulance Assistant. \nRegistration with the HPCSA as Basic Ambulance Assistant (BAA). Grade 3: \nSuccessful completion of an appropriate Intermediate Life Support (ILS) course \nthat allows registration with the HPCSA as Ambulance Emergency Assistant. \nRegistration with the HPCSA as Ambulance Emergency Assistant (AEA). \nExperience: Grade 1: None after registration with the HPCSA as Basic \nAmbulance Assistant Grade 3: None after registration with the HPCSA as \nAmbulan"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-a97bd5c3f8fe6142",
+    "title": "EMPLOYER AUDIT SERVICE OFFICER",
+    "department": "Department of Employment And Labour",
+    "province": "National",
+    "location": "Provincial Office: Mpumalanga",
+    "category": "Finance",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "HR4/4/7/64",
+    "summary": "Perform Monitor the implementation of UIA and COIDA Programmes, Analyse \nthe systems that provide expert advice on sector specific UIA& COIDA matter, \nCo-ordinate the process that monitors and evaluates impact of UIA & COIDA \nprograms, provide support in the implementation of Advocacy Campaigns on \nUI & COIDA regularly and when there are amendments.",
+    "requirements": [
+      "Three-year relevant qualification in Labour Relations Management/ BCOM \nLAW/LLB/Internal Audit. One (1) year of functional experience in Auditing. \nKnowledge: Departmental Policies and procedures, Batho Pele, Public Service \nAct and Regulations, OHS Act and Regulations, COIDA, UIA, PFMA, BCEA, \nSDLA, LRA, UI Contribution Act, Skills Development Act, Employment Equity \nAct. Skills: Facilitation, Planning and Organising, Computer Literacy, \ninterpersonal, Problem Solving, interviewing skills, Communication, Written \nand Verbal, Innovative, Analytical, Research, Project Management."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/d.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ed66e4acf3ede61e",
+    "title": "ENGINEER PRODUCTION GRADE A TO C (MECHANICAL)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Head Office, Cape Town",
+    "category": "Healthcare",
+    "salary": "R914 517 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/321",
+    "summary": "Development, interpretation and customisation of functional and technical \nnorms and standards Investigate proposals for innovative service delivery \nmechanisms \nand \nundertake \nfeasibility \nstudies; \nCompile \nbriefing \ndocumentation and specifications; Investigate mechanical engineering \ninstallations and equipment, undertake design work and implement corrective \nmeasures, where necessary; Oversee implementation (construction) and \ncommissioning of mechanical engineering installations; Research/literature \nstudies to keep up with new technologies and procedures including interaction \nwith professional Councils/Boards.",
+    "requirements": [
+      "Minimum educational qualification: An appropriate 4-year degree in \nMechanical Engineering (Beng/BScEng). Registration with a professional \ncouncil: Registration with the Engineering Council of South Africa (ECSA) as \na Professional Engineer. Experience: Grade A: At least 3 years \nappropriate/recognisable experience after obtaining the relevant qualification \ne.g. B Eng / BSc (Eng.). Grade B: At least 14 years appropriate/recognisable \nexperience after registration as a Professional Engineer. Grade C: At least 26 \nyears appropriate/recognisable after registration as a Professional Engineer. \nI"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-8e06727c9d373afc",
+    "title": "ENGINEERING TECHNOLOGIST: INFRASTRUCTURE FOR EDUCATION FACILITIES AND OTHER DEPARTMENTS (X2 POSTS)",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Bhisho: \n\n \nRef No: DPWI 04/09/2026 \n\n \nRef No: DPWI 05/09/2026",
+    "category": "Information Technology",
+    "salary": "R471 720 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DPWI",
+    "summary": "Engineering design and analysis effectiveness: Perform final review and \napprovals or audits on new engineering designs according to design principles \nor theory, Co-ordinate design efforts and integration across disciplines to \nensure seamless integration with current technology, Pioneering of new \nengineering services and management methods. Maintain engineering \noperational effectiveness: Manage the execution of maintenance strategy \nthrough the provision of appropriate structures, systems and resources. Set \nengineering maintenance standards, specifications and service levels \naccording to organisational objectives to ensure optimum opera",
+    "requirements": [
+      "National Senior Certificate, Bachelor of Technology in Engineering (B Tech) or \nrelevant qualification with three (3) years’ post-qualification Engineering \nTechnologist experience required. A valid driver's license. Compulsory \nregistration with ECSA as an Engineer Technologist. Knowledge and Skills: \nStrategic capability and leadership, problem-solving and analysis, decisionmaking. Team leadership, Creativity, Financial management, Customer focus \nand responsiveness, Communication, Computer skills, People management, \nPlanning and organising, Conflict management, Negotiation skills, and Chan"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3ec5ef80bff6d5a1",
+    "title": "ENVIRONMENTAL OFFICER - ENVIRONMENTAL EMPOWERMENT MANAGEMENT SERVICES",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Umgungundlovu, Harry Gwala and Ethekwini Districts",
+    "category": "Information Technology",
+    "salary": "R357 597 – R395 352 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "EO",
+    "summary": "The incumbent will be required to: Promote and implement environmental \nawareness programs implement environmental education programs to assist \nwith the implementation of environmental education into formal education \nstructures (such as schools, SETAs, AET, Higher Education, etc). Identify and \nimplement environmental capacity building programs for the general public and \nstakeholders through physical interaction and/or web conferencing Develop \nand implement community-based natural resource management and \nenvironmental action projects for sustainable \ndevelopment Perform \nadministrative support and internal cooperation.",
+    "requirements": [
+      "The ideal candidate must have: An appropriate Bachelor's Degree in \nEnvironmental Management, Environmental Science, Natural Science, or \nGeography at NQF7 as recognized by SAQA. A minimum of one (1) year of \nrelevant experience as an Environmental Management intern, or a \ndemonstration of affinity or passion for environmental education, awareness, \nand capacity building, will serve as an added advantage. A valid driver’s \nlicense. Skills, Training, And Competencies: The successful candidate must \nhave practical knowledge of Environmental Legislation (NEMA), including an \nunderstanding of the "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-7ac0ad1062dec64c",
+    "title": "FACILITY INFORMATION OFFICER",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Prince Mshiyeni Memorial Hospital",
+    "category": "Healthcare",
+    "salary": "R338 106 – R398 277 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PMMH",
+    "summary": "Co-ordinating and managing the collection of quality data and the maintenance \nof the Institutional Health and Management Information at the facility \nCollecting, capturing, validating, analyzing and interpreting facility data \nEnsuring the accuracy, completeness and timeliness of information submitted \nthrough the relevant health information systems. Monitoring data quality and \nidentifying discrepancies for correction. Compiling monthly, quarterly and \nannual statistical reports. Providing information to hospital management for \nplanning, monitoring and evaluation. Providing advice to ward managers and \nHeads of departments with regard to h",
+    "requirements": [
+      "Senior Certificate / Grade 12. National Diploma or Degree in Information \nTechnology, Management Information Systems, Statistics, Computer Science \nor a related field. The following will be an added advantage: Appropriate \nexperience in data management and health information systems, including the \nDistrict Health Information System (DHIS) and Routine Health Information \nSystems. Training and/or previous experience in TIER.Net and/or EDRWeb \ndata capturing and reporting. Certificate in MS Office or demonstrated \nproficiency in the MS Office package. A valid driver's license. Knowledge, Skills "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-a47d9d67a1f0d7f5",
+    "title": "FINANCE CLERK (X4 PPOSTS)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "eThekwini North District Ref No: DSD20/08/2026eThekwini North \n\n \nuMzinyathi District Ref No: DSD21/08/2026uMzinyathi \n\n",
+    "category": "Finance",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD20/08/2026eThekwini",
+    "summary": "Provide Financial Accounting transaction, Perform salary Administration \nsupport services, Perform bookkeeping support services, Provide a budget \nsupport services.",
+    "requirements": [
+      "Qualifications: Matric/ Grade 12, No experience required. Knowledge: - Basic \nknowledge of financial functions, practices as well as the ability to capture data, \noperate computer and collate financial statistics, Basic knowledge and insight \nof the Public Service financial legislations, procedure and treasury regulations \n(PFMA, DORA, PPPFA, Financial Manual). Knowledge of basic financial \noperating systems (PERSAL, BAS, LOGIS etc). Skills: - Interpersonal relations, \nTeamwork, Computer, Planning and Organising, Language, Communication, \nNumeracy."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-920c6c4638d2ca58",
+    "title": "FINANCE CLERK PRODUCTION",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (East London)",
+    "category": "Finance",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DHS05/09/2026",
+    "summary": "Provide clerical support in the management of Human Settlements Conditional \nGrants. Receive payments for capturing. Verify payments for compliance. \nCapture claims on Basic Accounting System. Submit project payments for \nauthorisation. Provide clerical support in the compilation of Compliance \nReports. Compile journals. Capture the journals on Basic Accounting System. \nDraw BAS expenditure reports. File journals after processing. Provide clerical \nsupport in the reconciliation of BAS and project payments. Receive payment \nstubs. Verify the correctness of amounts and banking details. Attach stubs and \nsort in numerical order. Reconcile BAS pa",
+    "requirements": [
+      "National Senior Certificate/NQF level 4 with accounting as a subject and no \nexperience. Knowledge of Public Finance and Grants Frameworks, Human \nSettlements policy and legislative environment. Good communication skills, \nreport writing, financial and analytical as well as the ability to work in a team."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-52fefc9f319586fe",
+    "title": "FORENSIC PATHOLOGY OFFICER GRADE 1 TO 2 (X2 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Worcester And Ceres, Forensic Pathology Service",
+    "category": "Information Technology",
+    "salary": "R225 777 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/374",
+    "summary": "Effective and efficient recovery, storage and processing of deceased. An \neffective forensic autopsy process rendered in accordance with set standards \nand guidelines. -Optimal control of reports and statements during and after the \nForensic Mortuary process. An effective and efficient Management of \nUnknown corpses. An efficient support service to the Manager with regard to \nCorporate and Clinical Governance functions of the Forensic Pathology \nLaboratory.",
+    "requirements": [
+      "Minimum educational qualification: Senior Certificate with having achieved \nmathematics and Life Science and/or Biology as passed subjects. Experience: \nGrade 1: None. Grade 2: 10 year’s appropriate experience. Inherent \nrequirement of the job: Valid Code B/EB driver’s license. Ability to work under \npressure. Willingness to be trained in Forensic Investigation and Dissection. \nAbility to work with and lift corpses, (mutilated, decomposed, infectious \nviruses, obese). Be willing to travelling long distances and working standby \nduties / overtime. Competencies (knowledge/skills): Computer and s"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-a70e36bf45b9969a",
+    "title": "GENERAL ASSISTANT: LOGISTICS SERVICES 23/09/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Amathole District (Ku-Gompo City)",
+    "category": "Other",
+    "salary": "R144 024 – R 169 656 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Assist in receiving, loading, and offloading goods in the district. Assist in stock \ntaking and verification of assets. Ensure prompt delivery of documents to \nprovincial office, other departments and safe keeping of information/documents \nwhilst in transit. Photocopying of documents. Collection of delivery items/ \ncorrespondence to various offices in the district. Ferry officials to departmental \nevents, i.e., workshops and meetings. Collect and deliver mail to registry office. \nPaste notices in the district notice boards. Assist in any general assistant’s \nduties as and when required to do so. Provide cleaning services of offices, \nboardroo",
+    "requirements": [
+      "Abet Level 4 or grade 10. National Senior Certificate will be an added \nadvantage. No experience required. Exposure to the environment will be an \nadded advantage. Prepared to work after hours. Knowledge: Basic knowledge \nof work procedures in terms of the working environment. Interpersonal relations \nand communication skills. A valid (Code 8) driving license."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-b75d3ee5abdec2ae",
+    "title": "GISC TECHNOLOGIST PRODUCTI ON GRADE A",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Johannesburg",
+    "category": "Information Technology",
+    "salary": "R471 720 - R507 000 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/056658",
+    "summary": "Conduct all GISc technical functions. Collect and capture of data from various \nformats and sources. Design and implement a spatial database to store the \nrequired datasets. Data manipulation and analysis including quality assurance. \nCreation and maintenance of spatial data topology and attributes, format \nmanipulation. Apply geo-referencing, datum and projection transformations. \nProviding technical support relating to software and data usage to geographic \ninformation system (GISc) users. Design, develop and create geo-databases, \nmaps and other related project. Promote and participate in stakeholder \nrelations. Maintain GISc unit effectiv",
+    "requirements": [
+      "Grade 12 plus three (3) to four (4) years GIS degree or related bachelor’s \ndegree coupled with 3 years post Technologist experience. Compulsory \nregistration with PLATO. Possession of a valid driver’s licence. Strong GIS \nskills with two or more GIS packages (e.g. ESRI). Ability to use science and \nTechnology effectively and critically. Knowledge of legal compliance. Problem \nsolving and analysis. Conflict management. Decision making. Financial \nmanagement. Team leadership. Conflict management."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-aeecceb4624977c4",
+    "title": "GOVERNMENT INFORMATION TECHNOLOGY OFFICER (GITO) DWYPD/017/2026",
+    "department": "Department of Women, Youth And Persons With Disabilities",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Information Technology",
+    "salary": "R1 317 384 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DWYPD/017/2026",
+    "summary": "ICT Strategy, Government and Digital Transformation: Drive the development \nof \ndepartmental \ntechnology \nstandards, \ngovernance \nprocesses \nand \nperformance metrics to ensure ICT delivers value to the department; Develop \nthe ICT plan linked to the MTEF to prioritise ICT initiatives supporting the \ndepartmental strategic plan; Develop strategic IT plans that satisfy the current \nand ongoing needs of the organisation’s business strategy and current and \nfuture capabilities; Introduce innovative methods and approaches to digitalise \nthe department services; Develop and monitor the implementation of ICT \npolicies, \nprocesses \nand \nprocedures \nt",
+    "requirements": [
+      "Appropriate degree (NQF level 7) qualifications as recognised by SAQA in \nInformation Technology / Computer Science / IT Engineering or related field. \nThe following or other related Certificate will be an added advantage. CGEIT; \nCRISC/ CISM/ CISA; TOGAF; COBIT; ITIL; ISO 38500;31000;27000; and King \nIV. Certificate of successful completion of National School of Government’s \nSMS Pre-Entry programme prior appointment. Minimum of Five (5) years’ \nexperience at (MMS) Middle / senior managerial level in Information \nManagement. \n/Information \nTechnology: \nProgressive \nleadership \nand \nmanagement"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/r.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-0fe1eb5b81ad08c8",
+    "title": "GROUNDSMAN",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Bayworld Museum",
+    "category": "Other",
+    "salary": "R144 024 – R169 656 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Maintain lawns, flowerbeds, trees and pathways around the museum. Water \nplants, remove weeds, prune shrubs and trees, mow grass, and sweep outdoor \nareas. Relocate plants and trees, remove garden refuse, and assist with care \nand pest control of the cycad collection. Clean paved surfaces using highpressure equipment. Keep signage, benches, bins, storerooms, and public \nspaces neat and presentable. Care for gardening tools and equipment; detect \nand report malfunctioning tools or maintenance issues such as leaks or broken \nlights. Assist with moving and setting up exhibition materials, showcases, \nfurniture, and display cases. Help with the c",
+    "requirements": [
+      "Grade 8 certificate / ABET level 4 or NQF leve1 – 3 with no experience. The \nfollowing will be an added advantage: experience in gardening, grounds \nmaintenance or general assistant duties & exposure in the field. Must be able \n\n134 \n\nto read and write. Good interpersonal, verbal and written communication skills. \nSelf-motivated."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ceb3cb3a581d3fac",
+    "title": "HANDYMAN (X2 POSTS)",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "EL Museum Ref No: DSRAC 33/09/2026 \n\n \nAmathole Museum Ref No: DSRAC 34/09/2026",
+    "category": "Other",
+    "salary": "R170 226 – R200 523 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Safeguard all master and spare keys belonging to the institution. Attend to all \ndefects in the building. Assists with emergency situations such as elevator \nbreakdowns; building evacuations etc. Perform a stock take of areas of \nresponsibilities such as keys, office equipment etc. Ensure that all equipment \nis provided with the locking facilities. Binding of Departmental immense \ndocuments.",
+    "requirements": [
+      "Grade 8 certificate / ABET level 4 or NQF leve1 – 3 with no experience. Must \nbe able to write and read. Good interpersonal skills. Good Verbal and written \ncommunication skills. Self – motivated. The following will serve as added \nadvantage: Performing General Assistant duties, exposure in the field will be \nan added advantage and a valid (Code 8) driving licence."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-a98c308797d2b037",
+    "title": "HEALTH AND SAFETY OFFICER",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Madadeni Provincial Hospital",
+    "category": "Healthcare",
+    "salary": "R413 001 – R486 501 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "must",
+    "summary": "Identification of potential situation that could lead to injury/disability/death of \nstaff member/visitor. Proper damage or loss, internal disaster, medico-legal \nclaim and reporting thereof to the Occupational health and safety manager. \nEnsuring the delegate management and administrative functions are carried \nout timely and correctly in order for health and safety to function in the \ninstitution. Assisting in development and compilation of manuals, policies and \nprotocol that will be included in the rolling out of the health and safety training, \norientation and induction programmes. Participate in safety audits for the \ninstitution in com",
+    "requirements": [
+      "Degree / National Diploma in Environmental Health or Safety Management. \nMinimum of 3-5 years’ experience in Safety. Knowledge, Skills and \nCompetencies required: Knowledge of relevant legislations pertaining to \nOccupational Health and Safety. Identification, control, elimination and \nmonitoring of hazards. Health education and administration of the services. \nKnowledge of computer literacy. Accident investigation. Disaster management."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-9b6c5acefa97afa2",
+    "title": "HR CLERK PRODUCTION: HRP INFORMATION SYSTEMS AND HRA SERVICES",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (East London)",
+    "category": "Human Resources",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DHS08/09/2026",
+    "summary": "Administer the recruitment, selection and appointments. Receive and verify \napplications for compliance with advertisement requirements. Maintain and \nupdate recruitment master lists and vacancy tracking systems. Prepare \ndocuments and provide secretariat support for shortlisting and interview \n\n111 \n\nprocesses. Conduct reference checks, qualifications verifications and other \nscreening activities. Prepare appointment and regret letters. Capture and \nprocess approved personnel transaction on PERSAL. Maintain accurate \nrecruitment and appointment records. Administer conditions of service and \nemployee benefits. Process salary structuring, allo",
+    "requirements": [
+      "National Senior Certificate/NQF level 4 with no experience. Knowledge of \ngovernment policies and prescripts, recruitment and selection process, \nconditions of service and employee benefits, personnel administration, \nelectronic HR systems, records and document management and performance \nmanagement. Ability to handle confidential information with discretion. Good \ninterpersonal relationships and ability work in a team. Computer literate and \ntime management."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-4f11942d4d2660a3",
+    "title": "HR OFFICER: HR CLERK PRODUCTION (HRM) (X2 POSTS)",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Alfred Nzo District Ref No: DSRAC 20/09/2026 \n\n \nSarah Baartman District Ref No: DSRAC 21/09/2026",
+    "category": "Human Resources",
+    "salary": "R237 453 – R 279 708 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Monitor leave management in district. Control leave books and leave registers. \nAssist with the implementation of Recruitment and Selection. Assist on \nconfirmation of probationary appointment. Assist in implementing services \ntermination and processing the benefits. Capture appointments, transfers and \npromotion of employees on PERSAL. Assist in the implementation of HR \npolicies. Assist in implementation of service benefits (Housing and personnel \nprovisioning. Must be able to capture personnel information on PERSAL and \non PCM. Provide good administration. Ensure that personnel files meet the \nrequired standard. Monitor leaves in the offic",
+    "requirements": [
+      "National Senior Certificate plus a Diploma (NQF Level 6) or Degree (NQF level \n7) as recognized by SAQA in Human Resource Management or Public \nManagement or Public Administration or Industrial Psychology. Exposure in the \nfield will be an added advantage. Knowledge of PERSAL and Pension Case \nManagement (PCM) will be an added advantage. Sound knowledge of \nConditions of Service and other HR-related prescripts. Good written and verbal \ncommunication. Computer literacy. Ability to ensure maximum level of \nconfidentiality. A valid (Code 8) driving license will be an added advantage."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-7f0a678518d50cba",
+    "title": "HR OFFICER: HR CLERK SUPERVISOR",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Bayworld Museum",
+    "category": "Information Technology",
+    "salary": "R338 106 – R398 277 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Coordinate and monitor leave and PERSAL administration in the museum. \nAssist with the implementation of Recruitment and Selection. Capture \nappointments, \nconfirmation \nof \nprobations, \npromotions \nand \nservices \nterminations on PERSAL. Assist on confirmation of probationary appointment. \nAssist in implementing services termination and processing the benefits. \nCapture appointments and promotion of employees on PERSAL. Assist in the \nimplementation of HR policies. Process employee service benefits (housing \nallowance, S&T, Long services, grade & pay progression, medical and IOD. \nAssist in implementation of service benefits (Housing and pers",
+    "requirements": [
+      "National Senior Certificate Plus National Diploma (NQF Level 6) or B. Degree \nqualification (NQF level 7) as recognised by SAQA in Human Resource \nManagement / Personnel Management /Public Administration / Public \nManagement / Business Management / Industrial Psychology with at least 1 to \n2 years functional experience in a Human Resource Management \nenvironment. Extensive knowledge of the PERSAL and Pension Case \nManagement systems. Human Resource Management Methodology, \nPrinciples and Strategies. COIDA, DPSA Directives, Customer Service \nprinciples (Batho Pele Principles). Budgeting and Fin"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-d4ec5c7ff47fd867",
+    "title": "HR REGISTRY CLERK PRODUCTION: HRP INFORMATION SYSTEMS AND HRA SERVICES",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (East London)",
+    "category": "Administration",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DHS09/09/2026",
+    "summary": "Provide registry counter services. Attend to clients. Handle telephonic and \nother enquiries received. Receive and register hand delivered files. Handle \nincoming \nand \noutgoing \ncorrespondence. \nReceive \nall \nHR \nrelated \ncorrespondence. Sort, register and dispatch correspondence. Render an \neffective filling and record management service. Open and close files \naccording \nto \nrecord \nclassification \nsystem. \nFile/store, \ntrace \n(electronically/manually) and retrieve documents and files. Complete index \ncards for all files. Attend to auditors, internal/external stakeholders request for \ninformation. Process documents for archiving and disposa",
+    "requirements": [
+      "National Senior Certificate/ NQF level 4 with no experience. Knowledge of \nregistry administration, records management and archival practices. \nKnowledge of filing systems, document classification, indexing and retrieval \nprocesses. Ability to maintain confidentiality and handle sensitive information. \nComputer literate and the ability to work under pressure and meet deadlines."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-d6c4e293325c5e66",
+    "title": "ICT SPECIALIST (BUSINESS ANALYST)",
+    "department": "Department of Agriculture (Doa)",
+    "province": "National",
+    "location": "Gauteng (Pretoria)",
+    "category": "Information Technology",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/3/1/85/2026",
+    "summary": "Co-ordinate and manage the analysis of business needs, user requirements, \nobjectives and goals for ICT programmes/projects within the agreed \nframeworks. Prepare for requirements elicitation. Conduct JAD sessions. \nDocuments elicitation. Review /confirm documented requirements. Circulate \ndocument for formal sign-off. Map business processes and audit business \nsystems. Map As-Is business processes. Conduct Gap-Analysis. Map To-Be \nbusiness processes. Review/Confirm documented processes. Prepare \nbusiness cases for systems development programmes/projects. Understand \nBusiness objectives. Conduct business impact analysis/stakeholder analysis. ",
+    "requirements": [
+      "Applicants must be in possession of a Grade 12 certificate and a National \nDiploma in Computer Science / Information Technology (NQF level 6). \nMinimum of 3 years supervisory experience in business case and business \nrequirement specification (BRS) development. Job related knowledge: \nBusiness Process Re-engineering (6 SIGMA). Business System Analysis. \nBusiness Process Modelling (IDEF, BPEL, BPML). Functional design and user \nrequirement specifications (UML). Business case development. Basic finance \n\n4 \n\nand accounting. Understanding of the Application Development Process \n(SDLC). Working kn"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/a.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-4d71ec0294a95092",
+    "title": "INSPECTOR",
+    "department": "Department of Employment And Labour",
+    "province": "National",
+    "location": "Labour Centre: Emalahleni",
+    "category": "Healthcare",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "HR4/4/7/95",
+    "summary": "Plan and independently conduct substantive inspections with the aim of \nensuring compliance with all labour legislation, namely, Basic Conditions of \nEmployment Act (BCEA). Labour Relations Act (LRA), Employment Equity Act \n(EEA), Unemployment Insurance Act (UIA), Compensation for Occupational \nInjuries and Diseases Act (COIDA), Occupational Health and Safety Act \n(OHSA) and UI Contributions Act (UICA). Plan and execute investigations \nindependently on reported cases pertaining to contravention of labour \nlegislation and enforce as and when necessary, including making presentations \nfor and appearing in Court as a State witness. Plan and cond",
+    "requirements": [
+      "Three (3) year tertiary qualification in Labour Relations/ B. Tech Degree in \nLabour Relations/ LLB for BCEA or Electrical / Mechanical Engineering / \nEnvironmental Health / Analytical Chemistry / Chemical Engineering / Civil & \nConstruction Engineering for OHS. Two (2) years of functional experience in \nInspection and Enforcement Services (BCEA)/ OHS. A valid driver’s licence. \nKnowledge: Departmental Policies and procedures. Skills Development Act. \nLabour Relations Act. Basic Conditions of Employment Act. Skills Development \n\n17 \n\nLevies Act. Occupational Health and Safety Act. COIDA. SABS "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/d.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-d52ffde1c66625da",
+    "title": "INTERN: CULTURAL AFFAIRS (ARTS & CULTURE) 37/09/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Joe Gqabi District (Maletswai)",
+    "category": "Administration",
+    "salary": "See official advertisement",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Assist in the development of concept documents. Assist in the development of \nbudget and Implementation of Operational Plan. Assist with Monitoring of Arts \nand Culture funded Projects. Compile project reports. Assist with planning and \ncoordination of arts and culture events, exhibitions or festivals. Compile \nmonthly reports for the section. Implement outreach programmes. Assist with \nprocurement in the section. Assist with administrative tasks such as \nscheduling, drafting correspondence, maintaining database, organize meeting \nand minutes taking. Engage with artists, performers, and community partners \nas needed.",
+    "requirements": [
+      "National Senior Certificate/Matric Certificate/Grade 12 with a three-year \ndegree/National Diploma (NQF 6) as recognized by SAQA in Arts and Culture \nStudies// Arts Management/ Fine Arts/ Performing Arts. Bachelor of Arts /Social \nScience majoring in one of the following or related fields Music, Dance & \nDrama, Visual Arts, Film. majoring in one other following or related fields: \nLangue, Music, Dance, Speech & drama, Visual Arts, Film or any relevant field \nof study. Previous experience in arts administration, event planning, or related \nfields. Knowledge of arts and culture structures and fu"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-e2244d48a7b72f95",
+    "title": "JUDGE’S SECRETARY",
+    "department": "Office of the Chief Justice",
+    "province": "National",
+    "location": "Supreme Court of Appeal: Bloemfontein",
+    "category": "Information Technology",
+    "salary": "R338 106 – R398 277 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/142/OCJ",
+    "summary": "Provide general secretarial/administrative duties to the Judge. Typing (or \nformatting) of draft memoranda decisions, opinions or judgment entries written \nby, or assigned by the Judge. Manage and type correspondence, judgments \nand orders for the Judge (including dictaphone typing). Arrange and diarise \nappointments, meetings and official visits. Make travel and accommodation \narrangements. Store, keep and safeguard all case files and update the case \nfiles with the order made by the Judge. Update files and documents and \nprovide copies of documents to the Registrar. Perform digital recording of court \nproceedings on urgent cases after hours",
+    "requirements": [
+      "Applicants should be in possession of a Grade Twelve (12) Certificate. An LLB \ndegree or a minimum of 20 modules completed towards an LLB, BA Law or \nBCom Law degree or related qualification at NQF level six (6) as recognised \nby SAQA (results must accompany the application). A minimum of two (2) years \nsecretarial experience. A valid driver’s license. Secretarial experience in a \nlegal/court environment will service as an added advantage. Shortlisted \ncandidates will be required to pass a typing test. Knowledge and skills: \nKnowledge of the Constitution of South Africa, relevant legislation, "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/l.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-22b1d53d13ce6f28",
+    "title": "LAND ADMINISTRATIVE OFFICER",
+    "department": "Department of Agriculture (Doa)",
+    "province": "National",
+    "location": "Gauteng (Pretoria)",
+    "category": "Administration",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/3/1/91/2026",
+    "summary": "Facilitate the disposal of Agricultural State Land: Identify the repossessed farm \nby Debt Management. Appoint the caretaker to look after the farm. Facilitate \nthe Evaluation of farm to determine the productive market value. Advertise the \nfarm through local media. Facilitate the appointment of the successful \ncandidate. Prepare the lease agreement. Provide Infrastructure support: \nEnsure the proper maintenance and caretaking of farms. Conduct inspection \non farms to determine the condition. Conduct needs analysis to check the gaps \nand what is needed. Eradication of poisonous plants. Construction of gabions \nand fire breaks. Rehabilitation ",
+    "requirements": [
+      "Applicants must be in possession of a National Diploma in Agriculture (NQF \nLevel 6). Minimum of two (2) years’ relevant experience in Land or Land \nReform Administration. Job Related Knowledge: Computer literacy. Analytical \nskills. PFMA. Planning and organizing. Project Management. Job Related \nSkills: \nFacilitation \nskills. \nProject \nManagement. \nPlanning. \nInitiative. \nInterpersonal skills. Problem solving abilities. Interpretation of findings. \nAnalytical. Computer literacy. Report writing skills. Drivers’ license. Extended \nworking hours."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/a.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-7383383a0692b053",
+    "title": "LEARNERSHIP PROGRAMME 2026/27: BASIC TRAFFIC OFFICERS DIPLOMA",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "Mpumalanga Traffic Training College at Mkhuhlu (Calcutta) in the \nBushbuckridge Local Municipality.",
+    "category": "Healthcare",
+    "salary": "See official advertisement",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DCSSL/05/2026",
+    "summary": "Minimum education qualification of Grade 12 Certificate. At least a Code B \ndriving license. South African citizen. No criminal record. Fit and proper \n(Medical assessment will be conducted for shortlisted candidates as proof for \nstrenuous exercises). Candidates will be subjected to driving and competency \ntests.",
+    "requirements": [
+      "Minimum education qualification of Grade 12 Certificate. At least a Code B \ndriving license. South African citizen. No criminal record. Fit and proper \n(Medical assessment will be conducted for shortlisted candidates as proof for \nstrenuous exercises). Candidates will be subjected to driving and competency \ntests."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-73698f9915b2afad",
+    "title": "LECTURER PND1/ PND2- MENTAL HEALTH NURSING REFS/056714 (X3 POSTS)",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Gauteng College of Nursing (Bonalesedi Campus)",
+    "category": "Healthcare",
+    "salary": "R495 423 – R581 931 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/056714",
+    "summary": "Provide education and training to mental health student nurses, co-ordinate \nclinical learning exposure between campus and clinical facilities. Support vision \nand mission and promote image of the campus and college. Implement \nassessment strategies to determine student’s competencies. Exercise control \nover students. Plan and implement academic programme. Employ variety of \nteaching and learning strategies to reach required outcomes. Accompany \nstudents in clinical areas. Manage student database. Initiate and/or participate \nin nursing research and community engagement. Participate in continuing \nprofessional development in nursing education",
+    "requirements": [
+      "PND 1: Matric/Grade 12 certificate or equivalent. Diploma/Degree in Nursing \n(R.425) or equivalent qualification that allows for registration with SANC as a \nProfessional Nurse, and Psychiatric Nursing. Diploma/degree in Nursing \nEducation qualification registered with SANC. A Post Basic or Postgraduate \nqualification in Psychiatric Nursing or Mental Health Nursing. Current \nregistration with SANC. Master’s degree in nursing/public health (Applicants \nwho are in the data analysis stage of the research may be considered and \nthose who do not have master’s degree in nursing but in possession of "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-59c42df759f13db7",
+    "title": "LECTURER PND1/PND2 DIPLOMA IN ADVANCED MIDWIFERY REFS/056759 (X4 POSTS)",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Chris Hani Baragwanath Campus",
+    "category": "Healthcare",
+    "salary": "R495 423 - R571 161 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/056759",
+    "summary": "The successful candidate will be responsible for, amongst others, the following \nspecific tasks: planning, coordination and implementation of training \nprogrammes; provide theoretical and clinical instructions, and conduct \nevaluations of Midwifery Nursing Science academic programmes; clinical \naccompaniment, supervision and implementation of assessment strategies to \ndetermine student’s competencies; exercise control over students; provide \nstudent guidance and support towards attainment of minimum course \nrequirements as set by SANC; support the mission of the College by serving in \nCommittees, attending and participating in meetings and Co",
+    "requirements": [
+      "Senior Certificate or equivalent qualification. Basic qualifications accredited \nwith South African Nursing Council (SANC) in terms of Government Notice \nR425 (i.e. Diploma/Degree in nursing) or equivalent qualification that allows \nregistration with the SANC as a Registered Nurse and Midwife. Degree in \nNursing Education registered with the SANC. Degree in Nursing Administration \nregistered with the SANC. Post basic qualification in Midwifery and Neonatal \nnursing science registered with the SANC and master’s degree will be an \nadded advantage. Current SANC annual practice certificate. PND1: "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-fbdfbed0c925d404",
+    "title": "LECTURER PND1/PND2 DIPLOMA IN NURSING (X14 POSTS)",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Chris Hani Baragwanath Campus",
+    "category": "Healthcare",
+    "salary": "R495 423 - R571 161 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/056760",
+    "summary": "The successful candidate will be responsible for, amongst others, the following \nspecific tasks: planning, coordination and implementation of nursing \nprogrammes; provide theoretical and clinical instructions, and conduct \nevaluations of Nursing programmes; clinical accompaniment, supervision and \nimplementation of assessment strategies to determine student competencies; \nexercise control over students; provide students’ guidance and support \ntowards attainment of minimum course requirements as set by SANC. Support \nthe mission of the College by serving in Committees, attending, and \nparticipating in meetings and College/Campus activities. Pr",
+    "requirements": [
+      "Senior Certificate or equivalent qualification. Basic qualifications accredited \nwith South African Nursing Council (SANC) in terms of Government Notice \nR425 (i.e., Diploma/Degree in Nursing) or equivalent qualification that allows \nregistration with the SANC as a Registered Nurse and Midwife. Degree in \nNursing which includes midwifery as a qualification. Diploma/Degree in Nursing \nEducation registered with SANC as nurse educator. Master’s degree in nursing \nwill be an added advantage. Applicant must be registered with South African \nNursing Council (SANC) as Professional Nurse and Midwife. "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-8a31ba48847117f1",
+    "title": "LIBRARIAN (X3 POSTS)",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Sarah Baartman District (Loerie Public Library) Ref No: DSRAC 17/09/2026 \n\n \nJoe Gqabi District (Steynsburg Public Libra",
+    "category": "Other",
+    "salary": "R338 106 – R398 277 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Implement awareness campaigns, reading programmes and promotion of \nlibrary use to all communities. Implement stock control of all library material. \nManage, receive & reconcile library material from the district office. Attend to \nuser needs. Compilation of monthly user statistics and report writing. \nParticipate in crafting of the business plan. Management of library assets and \nresources Implement annual recovery of monies. Establish & sustainment of \nlibrary structures. Management of mini-lib services. Supervision of staff.",
+    "requirements": [
+      "National Senior Certificate plus a National Diploma (NQF Level 6) or Bibl. \nDegree / B Tech (NQF Level 7) as recognized by SAQA in Library and \nInformation Science / Studies or Bachelor of Information Sciences with at least \n1 to 2 years working experience in a Library and Information Service field. \nKnowledge of public service legislation, policies, and prescripts. Basic \nknowledge of library and information science procedures and processes. Good \ncomputer, organising, communication, and report writing skills, excellent \nhuman, and interpersonal relations. Sound knowledge of stakeholders. A v"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-051b84af40e50489",
+    "title": "LIBRARY ASSISTANT (X9 POSTS)",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Amathole District (Bezuidenhout Library) Ref No: DSRAC 24/09/2026 \n\n \nOR Tambo District (Ruze Community Library) Ref No:",
+    "category": "Other",
+    "salary": "R201 093 – R236 877 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Perform all circulations duties in the library. Join and assist in renewal library \nmembership. Shelving of all library reading material. Attend to reference \nqueries brought by users. Maintain good public relations with stakeholders. \nAccompany librarian in attending meetings when necessarily. Compile \nstatistics of the library. Assist in organising and/ or be involved in awareness \nprogrammes (Advocacy and Marketing). Assist in the formation/establishment \nof a library structure & book clubs. Responsible for orientation and children’s \nprogrammes. Assist in the management of library donations, and other \nprogrammes in the library including ",
+    "requirements": [
+      "National Senior Certificate. A National Senior Certificate with relevant \nexperience or Diploma/B. Degree (NQF level 6/7) as recognized by SAQA in \nLibrary & Information Science will be an added advantage. Good command of \nat least two (2) official languages will be an added advantage. Knowledge of \nlibrary systems and relevant government prescripts. Exposure in the field will \nbe an added advantage. Computer literacy. Good verbal and written skills. A \nvalid (Code 8) driving licence will an added advantage."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-b4efe47240a01257",
+    "title": "LINEN STORES ASSISTANT",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Head Office, Cape Town (Laundry Services: Tygerberg Laundry)",
+    "category": "Education",
+    "salary": "R144 024 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/382",
+    "summary": "Provide effective, efficient, safe hygiene and cleaning practices within the \nlaundry. Provide a support service to Linen Supervisor. Daily unloading of \nsoiled linen from trucks. Daily loading of trucks. Return of clean linen to linen \nbank. Packing of shelves in Linen bank. Sorting of soiled linen under the \nsupervision of the Linen Supervisor.",
+    "requirements": [
+      "Minimum educational qualification: Basic literacy and numeracy skills. \nExperience: Appropriate Laundry and Linen experience in a Central Laundry \nsetting. Inherent requirement of the job: Physically fit to do manual labour. \nCompetencies (knowledge/skills): Good communication skills."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-990bc9ee73b487c7",
+    "title": "LINEN STORES ASSISTANT",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Swartland Hospital, Swartland Sub-district",
+    "category": "Education",
+    "salary": "R144 024 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/383",
+    "summary": "Collect/ deliver either soiled/ clean linen with a trolley from and to wards. \nEmpty linen bags, sorting, counting, and cleaning area. Load/ off load linen \nbags on and off truck and pack shelves in linen bank as well as packaging of \nlinen for despatching. Render a support service to supervisor/laundry \ncomponent. Assist with relief driver duties when necessary. Wash, dry and iron \nsmall quantities of linen, clothing, and other textiles.",
+    "requirements": [
+      "minimum educational qualification: Basic literacy and numeracy skills. \nExperience: Appropriate experience. Inherent requirements of the job: Valid \n(Code B) driver’s license. Ability to do physical hard work and stand for long \nhours. Competencies (knowledge/skills): Good interpersonal relations with \nsupervisor, colleagues, and the public. Ability to function in a group. Ability to \nread and write. Ability to sort and count linen. Knowledge of using washing \nmachines/ tumble dryers."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-d0e1176557cd6740",
+    "title": "MEDICAL OFFICER",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Leratong Hospital",
+    "category": "Healthcare",
+    "salary": "R1 041 402 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/056642",
+    "summary": "Overall clinical management of CTOP, Contraception and Gynaecology unit. \nSupervision of intern doctors, clinical associates, students, and other clinical \nstaff. Managing patients at CTOP unit, Obstetrics & Gynaecology department \nand function in a multi-disciplinary team. Be part of the hospital clinical \nmanagement team, District Health Service management team and support \nmanagement in the planning and governance of clinical service in the hospital. \nManage Patients effectively and efficiently. Improve patient/ Client care through \nimplementation of appropriate evaluation methods, tools, protocols & \nProcedures. Manage gynae ward and obst",
+    "requirements": [
+      "Appropriate qualification of MBcHB/MBBcH that allows for registration with the \nHPCSA as a Medical doctor. Registration with the HPCSA as an Independent \nMedical officer, and experience working independently in a Choice on \nTermination of Pregnancy (CTOP), Obstetrics & Gynaecology and \nContraception unit. Knowledge And Skills: CTOP Act 92 of 1996 and \nmedicolegal aspects, Good communication and counselling skills. Be able to \nperform a Second trimester termination of pregnancies. Basic Obstetrics and \nGynaecology sonar skills. Knowledge of relevant patient care guidelines and \nregulated norms "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-8b7e9f69ca5737e3",
+    "title": "MEDICAL OFFICER GRADE",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "Kenhardt CHC & Keimoes CHC, ZF Mgcawu District",
+    "category": "Healthcare",
+    "salary": "R1 041 402 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NCDOH",
+    "summary": "The candidate will be expected to Interview, examine, investigate, diagnose \nand oversee the treatment of patients, including chronic medical \nailment/conditions, \nmedical, \nsurgical, \nobstetrics \nand \ngynecological \nemergencies, HIV and TB patients, sick children, antenatal, intrapartum and \npostnatal patients Trauma & Emergency Unit. Ensure comprehensive clinical \nrecord keeping. Manage Clinical services and supervise junior doctors \n(undergraduate’s students, interns and community service doctors). Develop \nsystems for appropriate levels of care, referral pathways, seamless and \nintegrated service delivery system.",
+    "requirements": [
+      "Appropriate qualification that allows registration with the Health Professional \nCouncil of South Africa (HPCSA) as Medical Practitioner. Registration with the \nHPCSA as Medical Practitioner. Experience: Grade 1: None after registered as \nMedical Practitioner with the HPCSA in respect of SA qualified employees 1year relevant experience after registration as Medical Practitioner with \nrecognised Foreign Health Professional Council in respect of foreign qualified \nemployees, of whom is not required to perform Community Service as required \nin South Africa. Grade 2: A minimum of five (5) years ap"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-e80f73785a86720a",
+    "title": "MEDICAL OFFICER GRADE 1",
+    "department": "Department of Employment And Labour",
+    "province": "National",
+    "location": "Provincial Office: Limpopo",
+    "category": "Healthcare",
+    "salary": "R1 041 402 - R1 121 241 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "HR4/4/6/06",
+    "summary": "Manage medical advisory services for all COID services. Manage and monitor \nhealthcare. Manage medical claims processing. Manage and provide support \nto medical service providers. Manage all resources in the sub-directorate.",
+    "requirements": [
+      "MBCHB. 10 years of functional experience in the medical environment. \nAssessment of medical /disability claims will be an added advantage. \nRegistration with the HPCSA. Knowledge: Medical related Legislation & \nRegulatory Knowledge & implementation, Medical aid knowledge (case \nmanagement), \nCompensation \nFund \npolicies, \nProcedures, \nprocesses, \nCompliance Management, Risk Management and Fund Governance, \nBudgeting and Financial Management, Customer Services (Batho Pele \nPrinciples), Technical Knowledge, Medical Anatomy, Medical Terminology, \nAMA guidelines application, Public service Act, Pu"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/d.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-0090786f877cfb96",
+    "title": "MEDICAL OFFICER GRADE 1",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "Ehlanzeni District: \n\n \nTonga Hospital (X1 Post) \n\n \nMapulaneng Hospital (X1 Post) \n\n \nMatikwane Hospital (X1 Post) \n\n \n",
+    "category": "Healthcare",
+    "salary": "R1 041 402 - R1 121 241 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "MPDOH/OCT/26/1626",
+    "summary": "To execute duties and functions with proficiency, to support the aims and \nobjectives of the Institution that consistent with standards of patient care. \nAccept responsibility for the management of patients admitted in a level 2/3 \npackage of service facility. Assist in the preparation and implementation of \nguidelines and protocols. Participate in academic and training programmes. \nSound clinical knowledge with regard to medicine. Ability to deal with all \nmedical emergencies. Knowledge of ethical medical practice. Assist with \nclinical audits actively participate in continuous professional development. \nProvide support to hospital managemen",
+    "requirements": [
+      "MBChB degree (qualification) that allows registration with the HPCSA as a \nMedical Practitioner. Current registration with the HPCSA as a Medical \nPractitioner (2026) (Independent Practice). NB: The appointed Medical Officer \nmust be able to work shifts. A valid work permit will be required from non-South \nAfricans. Sound knowledge of medical ethics. Multidisciplinary management \nand teamwork and experience in the respective medical discipline. Knowledge \nof current Health and Public Service regulations and policies. Skills in terms of \nconsultations, history taking, examination, clinical asse"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-7af189b880c1911e",
+    "title": "MEDICAL OFFICER GRADE 1",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "Nkangala District: \n\n \nWitbank Hospital (X5 Posts) \n\n \nBotleng CHC (X1 Post) \n\n \nSister Mashiteng Clinic (X1 Post)",
+    "category": "Healthcare",
+    "salary": "R1 041 402 - R1 121 241 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "MPDOH/OCT/26/1633",
+    "summary": "To execute duties and functions with proficiency, to support the aims and \nobjectives of the Institution that consistent with standards of patient care. \nAccept responsibility for the management of patients admitted in a level 2/3 \npackage of service facility. Assist in the preparation and implementation of \nguidelines and protocols. Participate in academic and training programmes. \nSound clinical knowledge with regard to medicine. Ability to deal with all \nmedical emergencies. Knowledge of ethical medical practice. Assist with \nclinical audits actively participate in continuous professional development. \nProvide support to hospital managemen",
+    "requirements": [
+      "MBChB degree (qualification) that allows registration with the HPCSA as a \nMedical Practitioner. Current registration with the HPCSA as a Medical \nPractitioner (2026) (Independent Practice). NB: The appointed Medical Officer \nmust be able to work shifts. A valid work permit will be required from non-South \nAfricans. Sound knowledge of medical ethics. Multidisciplinary management \nand teamwork and experience in the respective medical discipline. Knowledge \nof current Health and Public Service regulations and policies. Skills in terms of \n\n228 \n\nconsultations, history taking, examination, clinic"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-c5519654fecd878a",
+    "title": "MEDICAL OFFICER GRADE 1",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "Gert Sibande District: Mayflower CHC (X1 Post) \n\n \nErmelo Hospital (X4 Posts) \n\n \nEvander Hospital (X4 Posts)",
+    "category": "Healthcare",
+    "salary": "R1 041 402 - R1 121 241 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "MPDOH/OCT/26/1642",
+    "summary": "To execute duties and functions with proficiency, to support the aims and \nobjectives of the Institution that consistent with standards of patient care. \nAccept responsibility for the management of patients admitted in a level 2/3 \npackage of service facility. Assist in the preparation and implementation of \nguidelines and protocols. Participate in academic and training programmes. \nSound clinical knowledge with regard to medicine. Ability to deal with all \nmedical emergencies. Knowledge of ethical medical practice. Assist with \n\n229 \n\nclinical audits actively participate in continuous professional development. \nProvide support to hospital ma",
+    "requirements": [
+      "MBChB degree (qualification) that allows registration with the HPCSA as a \nMedical Practitioner. Current registration with the HPCSA as a Medical \nPractitioner (2026) (Independent Practice). NB: The appointed Medical Officer \nmust be able to work shifts. A valid work permit will be required from non-South \nAfricans. Sound knowledge of medical ethics. Multidisciplinary management \nand teamwork and experience in the respective medical discipline. Knowledge \nof current Health and Public Service regulations and policies. Skills in terms of \nconsultations, history taking, examination, clinical asse"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-973f669bf0439962",
+    "title": "MEDICAL OFFICER GRADE 1 -3 FPS/01/10/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Buffalo City Metro Forensic Pathology Services (Ku Gompo)",
+    "category": "Healthcare",
+    "salary": "R1 041 402 – R1 121 241 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ECHEALTH/MO/APL/BCM-",
+    "summary": "To perform medico-legal post-mortem examinations, complete all related \ninvestigations and documentation, and finalise post-mortem reports within a \n12-week turnaround period. Compile and complete post-mortem reports and \nall related medico-legal documentation accurately and timeously. Provide \nconclusion of causes of death based on ancillary investigation reports, as well \nas efficient expert evidence in court related to all autopsied above cases, \nincluding formulating forensic second opinions as requested by the \nDepartment of Justice. Attendance of and examination of incident cases. \nSupport to the Heads: Clinical Unit and Department, Med",
+    "requirements": [
+      "Appropriate qualification that allows registration with the Health Professions \nCouncil of South Africa (HPCSA) as Medical Practitioner. Registration with a \nprofessional council: Registration with the HPCSA as Medical Practitioner. \nExperience: Grade 1: None after registration as Medical Practitioner with \nHPCSA in respect to SA qualified employees. 1-year relevant experience after \nregistration as Medical Practitioner with a recognised foreign Health \nProfessional Council in respect of foreign qualified employees, of whom it is \nnot required to perform Community Service as required in South "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-00e749346add8c61",
+    "title": "MEDICAL OFFICER GRADE 1 TO 3 (ANAESTHESIA)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Mitchells Plain District Hospital",
+    "category": "Healthcare",
+    "salary": "R1 041 402 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/320",
+    "summary": "Administration of anaesthesia and related duties pre-operative assessments \nand resuscitation, intra-operative management and post-operative care in the \nrecovery unit and surgical wards. Ensure fully functional operating theatre \nequipment, including consumable equipment stocks and capital equipment \nfunctionality. General and neuraxial anaesthesia, procedural sedation and \nregional nerve plexus blocks where required. Management and coordination \nof theatre lists in terms of efficient utilisation of operative resources. Proactive \nconsultation with other theatre users and theatre nursing staff on a sharedutilisation surgical platform. Dilige",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) as \nMedical Practitioner. Registration with a professional council: Registration with \nthe HPCSA as Medical Practitioner. Experience: Grade 1: None after \nregistration as Medical Practitioner with the HPCSA in respect of SA qualified \nemployees. 1-year relevant experience after registration as Medical \nPractitioner with a recognized foreign Health Professional Council in respect \nof foreign qualified employees, of whom it is not required to perform "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3e08e39f9cc01d47",
+    "title": "MEDICAL OFFICER GRADE 1 TO 3 (ANAESTHETICS) (X2 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Khayelitsha District Hospital",
+    "category": "Healthcare",
+    "salary": "R1 041 402 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/319",
+    "summary": "Provide meticulous pre-, intra- and post-operative care at the standards \nrequired of a medical officer in Anaesthesiology and Critical care. Participate \nin normal and after hour duties in operating theatres. Teaching and training of \nAnaesthesiology and Critical Care to undergraduate students, interns and \npeers in clinical areas. Achieve Part one FCA (SA) exam and staying abreast \nof latest developments in the field of Anaesthesiology and Critical Care. \nComplete the required CPD activities to maintain registration with the HPCSA. \nMaintain accurate and detailed patient records of acceptable medico-legal \nstandard. Execute administrative d",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) as \nMedical Practitioner. Registration with a professional council: Registration with \nHPCSA as Medical Practitioner. Experience: Grade 1: None after registration \nas Medical Practitioner with the HPCSA in respect of SA qualified employees. \nOne-year relevant experience after registration as Medical Practitioner with a \nrecognised foreign Health Professional Council in respect of foreign qualified \nemployees, of whom it is not required to perform Co"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-8e565faa5641b66e",
+    "title": "MEDICAL OFFICER GRADE 1 TO 3 (ENT) (5/8TH)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Paarl Hospital",
+    "category": "Healthcare",
+    "salary": "R650 877",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/324",
+    "summary": "Provide comprehensive Ear, Nose, and Throat care to patients by diagnosing \nand treating illnesses and other health conditions. Prescribe and manage \ntreatment plans, including medication and therapies. Maintain accurate and \ndetailed patient records. Refer patients to tertiary care or other healthcare \nproviders when necessary. Participation in outreach services that are provided \nby the Ear, Nose, and Throat department. Financial management by effective \nand efficient use of resources. Complete the required CPD activities to \nmaintain registration with the HPCSA. Participate in training and educational \nprograms for healthcare professionals",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professional Council of South Africa (HPCSA) as \nMedical Officer. Registration with a professional council: Registration with the \nHPCSA as Medical Officer. Experience: Grade 3: A minimum of 10 years’ \nappropriate experience as a Medical Practitioner after registration with the \nHPCSA as a Medical Practitioner in respect of SA qualified employees. A \nminimum of 11 years relevant experience after registration as a Medical \nPractitioner with a recognized foreign Health Professional Council in r"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-525e63c708ae86bd",
+    "title": "MEDICAL OFFICER GRADE 2",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "KwaMhlanga Hospital (Nkangala District)",
+    "category": "Healthcare",
+    "salary": "R1 188 255 - R1 297 289 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "MPDOH/OCT/26/1622",
+    "summary": "To execute duties and functions with proficiency, to support the aims and \nobjectives of the Institution that consistent with standards of patient care. \nAccept responsibility for the management of patients admitted in a level 2/3 \npackage of service facility. Assist in the preparation and implementation of \nguidelines and protocols. Participate in academic and training programmes. \nAssist with clinical audits actively participate in continuous professional \n\n227 \n\ndevelopment. Provide support to hospital management towards an efficient \nstandard of patient care and services is maintained.",
+    "requirements": [
+      "MBChB degree (qualification) that allows registration with the HPCSA as a \nMedical Practitioner n Health Professional Council of South Africa (HPCSA) as \na Medical Practitioner (2026) (Independent Practice). A valid work permit will \nbe required from non-South Africans. Sound knowledge of medical ethics. \nMultidisciplinary management and teamwork and experience in the respective \nmedical discipline. Knowledge of current Health and Public Service regulations \nand \npolicies. Additional \nexperience \nin \nObstetrics \n& \nGynaecology, \nNeurosurgery, \nAnaesthesiology, \nUrology \nand \nENT \nwill \nserve \n"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-dee5b1f6d882313e",
+    "title": "MEDICAL OFFICER GRADE 3",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "Themba Hospital (X1 Post) \n\n \nShongwe Hospital (X1 Post) \n\n \nTonga Hospital (X1 Post) \n\n \nMapulaneng Hospital (X2 Posts)",
+    "category": "Healthcare",
+    "salary": "R1 375 245 - R1 713 534 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "MPDOH/OCT/26/1617",
+    "summary": "To execute duties and functions with proficiency, to support the aims and \nobjectives of the Institution that consistent with standards of patient care. \nAccept responsibility for the management of patients admitted in a level 2/3 \npackage of service facility. Assist in the preparation and implementation of \nguidelines and protocols. Participate in academic and training programmes. \nAssist with clinical audits actively participate in continuous professional \ndevelopment. Provide support to hospital management towards an efficient \nstandard of patient care and services is maintained.",
+    "requirements": [
+      "MBChB degree (qualification) that allows registration with the HPCSA as a \nMedical Practitioner n Health Professional Council of South Africa (HPCSA) as \na Medical Practitioner (2026) (Independent Practice). A valid work permit will \nbe required from non-South Africans. Sound knowledge of medical ethics. \nMultidisciplinary management and teamwork and experience in the respective \nmedical discipline. Knowledge of current Health and Public Service regulations \nand \npolicies. Additional \nexperience \nin \nObstetrics \n& \nGynaecology, \nNeurosurgery, \nAnaesthesiology, \nUrology \nand \nENT \nwill \nserve \n"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-607d0893fff87e36",
+    "title": "MEDICAL OFFICER GRADE 3",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "Witbank Hospital (X2 Posts) \n\n \nKwaMhlanga Hospital (X1 Post) (Nkangala District)",
+    "category": "Healthcare",
+    "salary": "R1 375 245 - R1 713 534 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "MPDOH/OCT/26/1620",
+    "summary": "To execute duties and functions with proficiency, to support the aims and \nobjectives of the Institution that consistent with standards of patient care. \nAccept responsibility for the management of patients admitted in a level 2/3 \npackage of service facility. Assist in the preparation and implementation of \nguidelines and protocols. Participate in academic and training programmes. \nAssist with clinical audits actively participate in continuous professional \ndevelopment. Provide support to hospital management towards an efficient \nstandard of patient care and services is maintained.",
+    "requirements": [
+      "MBChB degree (qualification) that allows registration with the HPCSA as a \nMedical Practitioner n Health Professional Council of South Africa (HPCSA) as \na Medical Practitioner (2026) (Independent Practice). A valid work permit will \nbe required from non-South Africans. Sound knowledge of medical ethics. \nMultidisciplinary management and teamwork and experience in the respective \nmedical discipline. Knowledge of current Health and Public Service regulations \nand \npolicies. Additional \nexperience \nin \nObstetrics \n& \nGynaecology, \nNeurosurgery, \nAnaesthesiology, \nUrology \nand \nENT \nwill \nserve \n"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-2e53b22ad213afbf",
+    "title": "MEDICAL OFFICER GRADE 3",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "Ermelo Hospital (Gert Sibande District)",
+    "category": "Healthcare",
+    "salary": "R1 375 245 - R1 713 534 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "MPDOH/OCT/26/1621",
+    "summary": "To execute duties and functions with proficiency, to support the aims and \nobjectives of the Institution that consistent with standards of patient care. \nAccept responsibility for the management of patients admitted in a level 2/3 \npackage of service facility. Assist in the preparation and implementation of \nguidelines and protocols. Participate in academic and training programmes. \nAssist with clinical audits actively participate in continuous professional \ndevelopment. Provide support to hospital management towards an efficient \nstandard of patient care and services is maintained.",
+    "requirements": [
+      "MBChB degree (qualification) that allows registration with the HPCSA as a \nMedical Practitioner n Health Professional Council of South Africa (HPCSA) as \na Medical Practitioner (2026) (Independent Practice). A valid work permit will \nbe required from non-South Africans. Sound knowledge of medical ethics. \nMultidisciplinary management and teamwork and experience in the respective \nmedical discipline. Knowledge of current Health and Public Service regulations \nand \npolicies. Additional \nexperience \nin \nObstetrics \n& \nGynaecology, \n\n226 \n\nNeurosurgery, \nAnaesthesiology, \nUrology \nand \nENT \nwill \n"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-8c44628375e54d12",
+    "title": "MEDICAL OFFICERS GRADE 1, 2 OR 3: POSTS)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Dr Pixley Ka Isaka Seme Memorial Hospital",
+    "category": "Healthcare",
+    "salary": "R1 041 402 – R1 121 241 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DPKISMH",
+    "summary": "Provide safe, high quality clinical care for patients during pre-operative \nassessments, intra-operative regional and general anaesthesia administration \nand post- operative care including pain management. Manage emergency \nresuscitations, urgent medical stabilisation and intensive care needs. Ability to \nidentify the need for and refer appropriately. Work with other clinical care units. \nAbility to manage patients in a holistic manner. Give medical judicial evidence. \nMaintain medical records. Provide training to the members of the \nmultidisciplinary team in theatre. Participate in continued professional \ndevelopment and teaching programmes.",
+    "requirements": [
+      "Appropriate qualification plus registration with HPCSA as Medical Practitioner. \nNo experience required after completion of Community Service. Senior \nCertificate / Grade 12 or equivalent. An appropriate tertiary qualification \n(MBCHB) plus Registration certificate with HPCSA as a Medical Practitioner. \nCurrent registration with the Health Professions Council of South Africa \n(HPCSA) as a Medical Practitioner after completion of community Services \n2025/2026. Persons in possession of a foreign qualification must attach an \nevaluation certificate from the South African Qualifications Authority "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-835c5ae099b0cc43",
+    "title": "MEDICAL PHYSICIST GRADE 1-3 P/FTH/01/10/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Buffalo City Metro, Frere Tertiary Hospital",
+    "category": "Healthcare",
+    "salary": "R844 128 – R935 049 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "ECHEALTH/APL/MED-",
+    "summary": "Routine Medical Physics service delivery activities in Radiotherapy, Nuclear \nMedicine and Diagnostic Radiology Assisting with departmental administration. \nAssistance with equipment tender preparation, evaluation and commissioning. \nResponsibility for the management of the dosimetry, quality assurance and \n\n104 \n\nradiation protection functions of Medical Physics in the Department of \nDiagnostic Radiology, with support to Radiation Oncology. External \nCoordination with other institutions in the province or national on Medical \nPhysics activities. Attending and presenting at meetings, workshops and CPD \nactivities. Operation, monitoring of mai",
+    "requirements": [
+      "An appropriate qualification that allows for registration with the Health \nProfessions Council of South Africa (HPCSA) as a Medical Physicist. \nRegistration with the HPCSA as a Medical Physicist (Independent Practice). \nCurrent and active registration with HPCSA as a Medical Physicist Experience: \nGrade 1: None after registration with HPCSA as a Medical Physicist. Grade 2: \n8 years appropriate experience after registration with the HPCSA as a Medical \nPhysicist. Grade 3: 16 years appropriate after registration with the HPCSA as \na Medical Physicist. Ability to work under pressure and meet dead"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-df512557ce2fd640",
+    "title": "MEDICAL SPECIALIST",
+    "department": "Department of Health",
+    "province": "Gauteng",
+    "location": "Leratong Hospital",
+    "category": "Healthcare",
+    "salary": "R1 139 5528 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "REFS/056644",
+    "summary": "Overall clinical management of Obstetrics and Gynaecology unit. Supervision \nof medical officers, intern doctors, clinical associates, students, registrars and \nother clinical staff. Managing patients in outpatient departments and \nfunctioning in a multi-disciplinary team. Be part of the hospital clinical \nmanagement team, District Health Service in the hospital. Reports to the Head \nof Clinical unit and the Clinical Manager of Leratong Regional Hospital. \nManage, develop, supervise, and implement obstetric treatment protocols, \nguidelines for effective management of Obstetric and Gynae patients. Mentors \nand educates junior doctors with dire",
+    "requirements": [
+      "Appropriate qualification that allows for registration with HPCSA as Medical \nSpecialist in Obstetrics & Gynaecology. No experience required after \nregistration with HPCSA as a Medical Specialist in Obstetric and Gynae. \nKnowledge of relevant patient care guidelines and regulated norms and \nstandards (National core standards) Knowledge of annual performance plan \nobjectives and priorities in relation to programmes e.g. patient experience of \ncare programs to improve clinical services. Good communication and team \nbuilding skills. Human resource policies and labour relations, management of \nsta"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/u.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-68d8f238981e5cf8",
+    "title": "MEDICAL SPECIALIST GRADE 1 TO 3 (GENERAL SURGERY) (SESSIONAL) (8 HOURS PER WEEK)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Knysna Hospital",
+    "category": "Healthcare",
+    "salary": "R671",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/384",
+    "summary": "The successful candidate will report to the Medical Manager / Clinical Manager \nof the District Hospital and support the planning, governance and development \nof surgical services. Provide specialist General Surgery services at the District \nHospital, including outpatient consultations, inpatient care, theatre services, \nminor procedures and management of complex surgical patients. Provide \nclinical leadership and governance for surgical services, including the \ndevelopment and monitoring of clinical protocols, referral pathways, qualityimprovement initiatives and evidence-based standards of care. Provide \nsupervision, mentoring and clinical ",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) as a \nMedical Specialist in General Surgery. Registration with a professional council: \nRegistration with the HPCSA as a Medical Specialist in General Surgery. \nExperience: Grade 1: None after registration with the HPCSA as Medical \nSpecialist in General Surgery. Grade 2: A minimum of 5 years’ appropriate \n\n300 \n\nexperience as Medical Specialist after registration with the HPCSA (or \nrecognised foreign Health Professional Council in respect of forei"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-8fdf5bc3b64481e2",
+    "title": "MEDICAL SPECIALIST GRADE 1 TO 3 (INTERNAL MEDICINE) (SESSIONS) (16 SESSIONS PER WEEK)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Knysna Hospital",
+    "category": "Healthcare",
+    "salary": "R671",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/385",
+    "summary": "The successful candidate will report to the Medical Manager / Clinical Manager \nof the District Hospital and support the planning, governance and development \nof clinical services. Provide specialist Internal Medicine services at the District \nHospital, including ward rounds, outpatient consultations, management of \ncomplex medical patients and specialist support to other clinical disciplines. \nProvide clinical leadership and governance for Internal Medicine services, \nincluding the development and monitoring of clinical protocols, referral \npathways, quality-improvement initiatives and evidence-based standards of \ncare. Provide supervision, ",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) as a \nMedical Specialist in Internal Medicine. Registration with a professional \ncouncil: Registration with the HPCSA as a Medical Specialist in Internal \nMedicine. Experience: Grade 1: None after registration with the HPCSA as \nMedical Specialist in Internal Medicine. Grade 2: A minimum of 5 years’ \nappropriate experience as Medical Specialist after registration with the HPCSA \n(or recognised foreign Health Professional Council in respect of foreig"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-da9008910c1bd744",
+    "title": "MEDICAL SPECIALIST GRADE 1 TO 3 (ORTHOPAEDIC SURGERY)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Red Cross Children's War Memorial Hospital, Rondebosch",
+    "category": "Healthcare",
+    "salary": "R1 395 528 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/312",
+    "summary": "Provision of high-quality outpatient, inpatient and surgical care of paediatric \northopaedic patients. Management of paediatric orthopaedic referral system \nand theatre lists. Supervision of trainees. Teaching and training of all grades \nof staff. Participate in relevant research activities in the department. Effective \nmanagement within the unit to ensuring that equipment is maintained and \northopaedic services are running efficiently. Contribute to the health \necosystem where required.",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professional Council of South Africa (HPCSA) as \nMedical Specialist in Orthopaedic Surgery. Registration with a professional \ncouncil: Registration with the Health Professional Council of South Africa as \nMedical Specialist in Orthopaedic Surgery. Experience: Grade 1: None after \nregistration with HPCSA as a Medical Specialist in Orthopaedic Surgery. \nGrade 2: A minimum of 5 years’ appropriate experience after registration with \nthe HPCSA (or recognized foreign Health Professional Council in "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-be80549ea0d7e3f4",
+    "title": "MEDICAL SPECIALIST GRADE 1 TO 3 (TRAUMA/ ACUTE NEUROSURGERY)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Tygerberg Hospital, Parow Valley",
+    "category": "Healthcare",
+    "salary": "R1 395 528 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/311",
+    "summary": "Provide safe, timely and evidence-informed specialist neurosurgical care for \nemergency, trauma, inpatient, outpatient and operative patients. Participate \nactively in the neurosurgical emergency and after-hours service, including \nassessment, prioritisation and definitive management of acute referrals. \nProvide specialist care for traumatic brain injury, spinal trauma and other acute \ncranial and spinal neurosurgical conditions, including peri-operative and \ncritical care decision-making. Contribute to efficient theatre utilisation, patient \nflow, referral management and multidisciplinary trauma and critical care \npathways. Supervise, mentor",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) as a \nMedical Specialist in Neurosurgery. Registration with a professional council: \nRegistration with the HPCSA as a Medical Specialist in Neurosurgery. \nExperience: Grade 1: No experience required after registration with the \nHPCSA as a Medical Specialist in Neurosurgery. Grade 2: A minimum of 5 \nyears’ appropriate experience after registration with the HPCSA (or a \nrecognised foreign professional council in the case of a foreign-qualified \nemploy"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-e20535df0961f592",
+    "title": "MEDICAL SPECIALIST: EMERGENCY MEDICINE (X1 POST)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Port Shepstone Regional Hospital",
+    "category": "Healthcare",
+    "salary": "R1 395 528 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PSH",
+    "summary": "Provide specialist services in designated area of responsibility within accepted \nguidelines and protocols. Perform, interpret and report procedures and studies \nwithin the designated specialty. Provide appropriate level of care, referral \npathways, seamless and integrative service delivery system. Assist the Head \nClinical Unit in capacity building in district hospitals and provision of outreach \nservices with focus on improving medical services. Conduct audits, morbidity \nand mortality reviews, develop clinical guidelines, protocols, quarterly reports, \nmonitoring inappropriate referrals for specialty. Active participation in \ncontinuing me",
+    "requirements": [
+      "Grade 1: No Experience required. Grade 2: Minimum of 5 years relevant \nexperience after registration with HPCSA as a Medical Specialist in Emergency \nMedicine. Grade 3: Minimum of 10 years relevant experience after registration \nwith HPCSA as a Medical Specialist in Emergency Medicine. Grade 12 / Matric \nor Equivalent. MBChB degree & FCEM(SA). An appropriate qualification that \nallows registration with HPCSA as a Medical Specialist in Emergency \nMedicine. Registration certificate with the HPCSA as a Medical Specialist in \nEmergency Medicine. Current HPCSA Registration card 2026/2027. Registrar"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-0087585846608210",
+    "title": "MEDICAL SPECIALIST: SURGERY",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Port Shepstone Regional Hospital",
+    "category": "Healthcare",
+    "salary": "R1 395 528 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PSH",
+    "summary": "Provide specialist services in designated area of responsibility within accepted \nguidelines and protocols. Provide appropriate level of care, referral pathways, \nseamless and integrative service delivery system. Supervision and training of \njunior staff at clinical and operative level. Facilitation of academic meetings. \nMust be able to provide an afterhours / emergency service as unit \nrequirements. Review and implementation of district health service protocols. \nStatistical analysis to be able to produce relevant journal publications. To \nattend regular interdisciplinary meetings. To facilitate Outreach Programme to \nother hospitals within",
+    "requirements": [
+      "Grade 1: No Experience required. Grade 2: Minimum of 5 years relevant \nexperience after registration with HPCSA as a Medical Specialist in Surgery. \nGrade 3: Minimum of 10 years relevant experience after registration with \n\n163 \n\nHPCSA as a Medical Specialist in Surgery. Grade 12 / Matric or Equivalent. \nMBChB degree & FCS / Surgery. An appropriate qualification that allows \nregistration with HPCSA as a Medical Specialist in Surgery. Current HPCSA \nRegistration card 2026/2027. Registrars who have completed their training \nmay also apply on condition that their appointment will be subject to th"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-9b51150734ea00e3",
+    "title": "MESSENGER /DRIVER",
+    "department": "Department of Community Safety, Roads And Transport",
+    "province": "Free State",
+    "location": "Bloemfontein",
+    "category": "Other",
+    "salary": "R170 226 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PWI",
+    "summary": "To render a messenger services, sort and arrange correspondence inn the \nregistry. Collect, distribute and circulate correspondences (mail, parcel, \ndocuments and files). Sort mail, files, documents and parcels. Ensure that \nitems to collect are sealed and addressed. Collect mail, files, documents and \nparcels form addressor. Deliver mail, files, documents and parcels to \naddresses. To render driver services. Drive light and medium motor vehicles \nto transport passengers and deliver other items (mail and documents). Do \nroutine maintenance on the allocated vehicle and report defects timely. \nComplete all the required and prescribed records an",
+    "requirements": [
+      "NQF3 (Grade10). Ability to read and write. Valid Driver’s Licence 7-12 month’s \nrelevant experience. Knowledge of (procedures and practices regarding \nmessenger services)"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/t.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ffe3cabeb3e49ad6",
+    "title": "MESSENGER/DRIVER",
+    "department": "Department of Traditional Affairs",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Other",
+    "salary": "R170 226 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/23",
+    "summary": "The successful candidate will perform the following duties: Transportation of \nwork teams, documents, materials/equipment’s. Detect and repair minor \nmechanical problems on the vehicle and take steps to have it repaired (check \nlevel and condition of oil, fuel, tyres and water). Inspection of the \nvehicles/equipment and report defects. Complete vehicle logbook, trip \nauthorisation for the vehicle.",
+    "requirements": [
+      "A Grade 10 certificate or equivalent (NQF level 3). A valid driver’s license. Five \n(5) years driving experience. Generic Competencies: Communication, ability to \nread and write Good eyesight. Team work. Technical Competencies: Operation \nof the equipment. Physical inspection of vehicle and interpret instructions for \nproper use of all control for safe operation of vehicles. Interpret and follow \noperating manuals, maintenance manuals and service charts."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/o.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-156b660f820789a2",
+    "title": "NURSING ASSISTANT (NURSING AUXILIARY)",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "Kakamas Hospital, ZF Mgcawu District",
+    "category": "Other",
+    "salary": "R181 230 – R204 156 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NCDOH",
+    "summary": "Assist patients with activities of daily living (physical care), Prove elementary \nclinical nursing care, Maintain professional growth/ethical standards and selfdevelopment.",
+    "requirements": [
+      "Qualification (i.e. diploma/degree in nursing) or equivalent qualification that \nallows registration with the SANC as a Nursing Assistant, Registration with the \nSANC as Nursing Assistant. Experience: Grade 1: None, Grade 2: A minimum \nof 10 years’ experience after registration with the SANC as a nursing assistant, \nGrade 3: A minimum of 20 years of experience after registration with the SANC \nas Nursing Assistant."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3025450d7fcb31e5",
+    "title": "NURSING ASSISTANT GRADE 1 TO 3 (CHRONIC WARD 2)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "ID Hospital, West Coast TB Centre (Malmesbury)",
+    "category": "Healthcare",
+    "salary": "R181 230 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/379",
+    "summary": "Assist patients with activities of daily living (physical care). Provide elementary \nclinical nursing care. Maintain professional growth/ethical standards and selfdevelopment. Effective utilisation of physical and financial resources. Effective \nfunctioning within the multidisciplinary team.",
+    "requirements": [
+      "Minimum educational qualification: Qualification that allows registration with \nSouth African Nursing Council (SANC) as a Nursing Assistant. Registration \nwith a professional council: Registration with the South African Nursing \nCouncil (SANC) as a Nursing Assistant. Experience: Grade 1: None. Grade \n2: A minimum of 10 years’ appropriate/recognisable experience after \nregistration with the SANC as Nursing Assistant. Grade 3: A minimum of 20 \nyears’ appropriate/ recognisable experience after registration with the SANC \nas Nursing Assistant. Inherent requirements of the job: Willingness to work "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3d091c31a6653134",
+    "title": "NURSING ASSISTANT GRADE 1 TO 3 (PAEDIATRIC) (X1 POST) (TRAUMA & EMERGENCY) (X1 POST) (ORTHOPAEDIC) (X1 POST)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Worcester Hospital",
+    "category": "Information Technology",
+    "salary": "R181 230 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/381",
+    "summary": "Assist patients with activities of daily living (physical care). Provide elementary \nclinical nursing care. Effective utilization of physical and financial resources. \nMaintain professional growth / ethical standards and self-development.",
+    "requirements": [
+      "Minimum educational qualification: Qualification that allows registration with \nSouth African Nursing Council (SANC) as a Nursing Assistant. Registration \nwith a professional council: Registration with the South African Nursing \nCouncil (SANC) as a Nursing Assistant. Experience: Grade 1: None. Grade \n2: A minimum of 10 years appropriate/recognizable experience in nursing after \nregistration with the SANC as a Nursing Assistant. Grade 3: A minimum of 20 \nyears’ appropriate/recognizable experience in nursing after registration with \nthe SANC as a Nursing Assistant. Inherent requirements of the j"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-c6ef1b0e0021b2ec",
+    "title": "NURSING ASSISTANT GRADE 1 TO 3 (STATE PATIENTS, MALE HIGH CARE AND WARD 2 MALE PRE-DISCHARGE) (X3 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Valkenberg Hospital \n\n297",
+    "category": "Healthcare",
+    "salary": "R181 230 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/378",
+    "summary": "Assist patients with activities of daily living (physical care). To provide \nelementary clinical nursing care. Effective utilization of physical and financial \nresources. Maintain professional growth/ ethical standards and selfdevelopment.",
+    "requirements": [
+      "Minimum Educational qualification: Appropriate qualification that allows \nregistration with the South African Nursing Council (SANC) as a Nursing \nAssistant. Registration with a professional council: Registration with the South \nAfrican Nursing Council (SANC) as a Nursing Assistant. Experience: Grade 1: \nNone. Grade 2: A minimum of 10 years appropriate/recognizable experience \nin nursing after registration with the SANC as a Nursing Assistant. Grade 3: A \nminimum of 20 years’ appropriate/recognizable experience in nursing after \nregistration with the SANC as a Nursing Assistant. Inherent requi"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-63c18bb90c2be3d1",
+    "title": "NURSING ASSISTANT GRADE 1 TO 3 (X2 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Elsies River CHC (X1 Post) \n\n \nMorning Star CDC (X1 Post)",
+    "category": "Education",
+    "salary": "R181 230 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/380",
+    "summary": "Provide elementary clinical nursing care. Assist patients with activities of daily \nliving which includes patient hygiene, provide nutrition, assist with mobility and \nelimination processes. Monitor patient vital signs and report any abnormal \nfindings. Reporting on patient safety and adverse incidents. Effective \nutilization of resources. Maintain professional growth/ethical standards and \nself-development. Actively participating in in-service training interventions.",
+    "requirements": [
+      "Minimum educational qualification: Qualification that allows registration with \nthe South African Nursing Council (SANC) as a Nursing Assistant. Registration \nwith a professional council: Registration with the SANC as a Nursing Assistant. \nExperience: Grade 1: None after registration with SANC as a Nursing \nAssistant. Grade 2: A Minimum of 10 years appropriate/recognisable \nexperience in nursing after registration as a Nursing Assistant with SANC. \nGrade 3: A Minimum of 20 years appropriate/recognisable experience in \nnursing after registration as a Nursing Assistant with SANC. Inherent \nrequi"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-baff8d7a810c7815",
+    "title": "NURSING ASSISTANT GRADE 1 TO 3 (X9 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Lentegeur Hospital",
+    "category": "Healthcare",
+    "salary": "R181 230 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/377",
+    "summary": "Assist patients with activities of daily living which includes patient hygiene, \nprovide nutrition, assist with mobility, and elimination processes. Provide \nelementary clinical nursing care. Maintain documentation and communication. \nEffective utilization of resources. Maintain professional growth/ethical \nstandards and self-development. Actively participating in in-service training \ninterventions.",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the South African Nursing Council (SANC) as a Nursing \nAssistant. Registration with a professional council: Registration with the SANC \nas a Nursing Assistant. Experience: Grade 1: None. Grade 2: A minimum of \n10 years’ appropriate/recognizable nursing experience after registration with \nthe SANC as Nursing Assistant. Grade 3: A minimum of 20 years’ \nappropriate/recognizable nursing experience after registration with the SANC \nas Nursing Assistant. Inherent requirement of the job: Willingness to work \ns"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-12c00a26745aaf10",
+    "title": "OCCUPATIONAL THERAPIST GRADE 1 TO 3 (5/8TH POST)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Caledon Hospital, Theewaterskloof Sub-district",
+    "category": "Healthcare",
+    "salary": "R258 201 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/363",
+    "summary": "Provide quality care to patients in the Theewaterskloof sub-district including \nCaledon Hospital and surrounding clinics and healthcare facilities. Provide \nOutreach and Support service to PHC facilities in the Theewaterskloof subdistrict. Actively participate in skills transfer, training, and academic \nopportunities relevant to the post. Active involvement in the clinical \ngovernance \nof \nTheewaterskloof \nsub-district \nfacilities \nas \nrequired. \nAdministrative duties and referral to secondary and tertiary hospitals. Support \nto sub-district management while maintaining professional ethics. To render a \nclinical occupational therapy service a",
+    "requirements": [
+      "Minimum educational qualification: An appropriate qualification that allows for \nregistration with the Health Professions Council of South Africa (HPCSA) as \nan Occupational Therapist. Registration with a professional council: \nRegistration with the HPCSA as an Occupational Therapist. Experience: \nGrade 1: None after registration as Occupational Therapist with the HPCSA \nin respect of SA qualified employees. One-year relevant experience after \nregistration as Occupational Therapist with the HPCSA in respect of foreign \nqualified employees, of whom it is not required to perform Community Servic"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-6401b44973da11d1",
+    "title": "OCCUPATIONAL THERAPY TECHNICIAN GRADE 1 TO 2",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Metro TB Hospital Complex",
+    "category": "Healthcare",
+    "salary": "R279 870 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/359",
+    "summary": "Contributes to Occupational Therapy Intervention through planning, \nimplementing and evaluating specified activities and assists OT with OT \nIntervention and programmes in specified OT Area. Execute delegated admin \ntasks related to clinical service as well as departmental requirements Ensure \ncontinued professional development by keeping abreast with the latest \ndevelopments in the field.",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) as \nan Occupational Therapy Technician. Registration with a professional council: \nCurrent registration with the Health Professional Council of South \nAfrica(HPCSA) as an Occupational Therapy Technician. Experience: Grade 1: \n\n287 \n\nNone after obtaining an appropriate qualification or prescribed in-service \ntraining that allows for the required registration with the Health Professions \nCouncil of South Africa (HPCSA) as an Occupational Therapy Techn"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-c87af755338f6482",
+    "title": "OHS INSPECTOR",
+    "department": "Department of Employment And Labour",
+    "province": "National",
+    "location": "Labour Centre: Emaxesibeni",
+    "category": "Healthcare",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "HR4/4/5/100",
+    "summary": "Plan and independently conduct substantive inspections with the aim of \nensuring compliance with the Occupational Health and Safety Act, Act 85 of \n1993. Regulations and incorporated standards. To confirm registration with the \nUnemployment Insurance Act and Compensation for Occupational Injuries and \nDiseases Act. Plan, investigate and finalise independently incidents and \ncomplaints reported pertaining to the OHS Act and the relevant regulations and \nenforce as and when necessary, appear in Court as a State witness. Plan and \nconduct allocated proactive Inspections as per the schedule to monitor \ncompliance with the relevant labour legislat",
+    "requirements": [
+      "Senior Certificate plus a 3-year recognised qualification in the relevant field i.e. \nOccupational Hygiene or Environmental Health. A Valid driver’s licence. No \nexperience required. Departmental policies and procedures, Employment \nServices Act, Labour relations Act, Basic Conditions of Employment Act, \nOccupational Health and Safety Act, COIDA, SABS Codes, Unemployment \nInsurance Act, UI Contribution Act, Employment Equity Act, Immigration Act, \nSkills: Facilitation, Planning, Organizing, Computer Literacy, Interpersonal, \n\n16 \n\nConflict handling, Negotiation, Problem Solving, Interviewing, "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/d.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-24479e1dfe077735",
+    "title": "OHS: INSPECTOR: CIVIL AND CONSTRUCTION ENGINEERING HR 4/4/6/08",
+    "department": "Department of Employment And Labour",
+    "province": "National",
+    "location": "Labour Centre: Lephalale",
+    "category": "Healthcare",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "HR",
+    "summary": "To plan and independently conduct inspection with the aim of ensuring \ncompliance with the Occupational Health and Safety Act, Act 85 of 1993, \nRegulations and incorporated Standard. To confirm registration of with the \nUnemployment Insurance Act and the Compensation for Occupational Injuries \nand Diseases Act. Plan, investigate and finalise independently incidents and \n\n15 \n\ncomplaints reported pertaining to the OHS Act and the relevant regulations and \nenforce as and when necessary, appear in Court as a State witness. Plan and \nconduct allocated proactive inspections as per schedule to monitor compliance \nwith the relevant labour legislatio",
+    "requirements": [
+      "Senior Certificate plus a three (3) year recognised qualification in the relevant \nfield, i.e., Construction Engineering. Valid driver’s License. Registration with \nthe relevant, recognised professional body is an advantage but not compulsory. \nKnowledge: Departmental policies and procedures, Occupational Health and \nSafety Act, as amended, Regulations (21), South African National Standards \n(Codes)- incorporated Codes become regulations, Compensation for \nOccupational Injuries and Diseases Act, Unemployment Insurance Act. Skills: \nPlanning and Organising, Communication skills, Computer Litera"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/d.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-923c8c4d2d9a6799",
+    "title": "OPERATIONAL MANAGER (PRIMARY HEALTH CARE) 80/2026",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "Progress Clinic, ZF Mgcawu District",
+    "category": "Healthcare",
+    "salary": "R720 819 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NCDOH",
+    "summary": "Provision of quality comprehensive community health care, Provision of \nadministrative services, Provision of educational services, Provision of clinical \nservices, Usage of equipment and machinery, Research responsibility.",
+    "requirements": [
+      "Basic R425 qualification (i.e. diploma/degree in nursing) or equivalent \nqualification that allows registration with the SANC as a Professional Nurse. \nRegistration with the SANC as Professional Nurse. Post basic qualification with \na duration of at least 1 year in Curative Skills in Primary Health Care accredited \nwith the SANC. Experience: Grade 1: A minimum of 9 years \nappropriate/recognisable nursing experience after registration as Professional \nNurse with the SANC in General Nursing. At least 5 years of the period referred \nto above must be appropriate/recognisable experience after obtai"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-aeed6548a01e757f",
+    "title": "OPERATIONAL MANAGER GENERAL (TB FOCAL) 81/2026 (X1 POST)",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "Springbok Hospital, Namakwa District",
+    "category": "Healthcare",
+    "salary": "R571 161 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NCDOH",
+    "summary": "Put systems in place for effective Management of Tuberculosis in Hospital \nMonitor and evaluate the impact of interventions at Drug Resistant TB sites \nand Care and support programme Promote integration among programmes \n(partnerships and network with relevant stakeholders) Manage resources \n(financial, physical and human) Capacity Building (Health Professional, \nCoordinators and CHW’s). Manage Infection Prevention Control within the \nHospital. Coordinate the management of TB/HIV co-infection within the \nhospital.",
+    "requirements": [
+      "Basic R425 qualification (i.e. diploma/degree in nursing) or equivalent \nqualification that allows registration with the SANC as a Professional Nurse. \nRegistration with the SANC as Professional Nurse Valid driver’s licence is an \ninherent \nrequirement. \nExperience: \nA \nminimum \nof \n7 \nyears \nappropriate/recognisable experience \nin \nnursing after registration as \nProfessional Nurse with the SANC in General Nursing."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-9300c49b50fa7943",
+    "title": "OPERATIONAL MANAGER NURSING (NAASFARM CLINIC) DANCHC 08/2026 (X1 POST)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Naasfarm Clinic",
+    "category": "Healthcare",
+    "salary": "R720 819 – R821 454 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DANCHC",
+    "summary": "Facilitate provision of comprehensive package of service at PHC level \nincluding priority programme and Quality Improvement Programmes. Develop \nClinic Operational Plan, monitor the implementation and submit progress \nreports. Participate in the implementation of the nursing plan (Clinical \npractice/quality patient care). Participate in clinical audits in the facility and \nensure implementation of the quality improvement plans supported by strong \nwork ethics. Implement standards, practices, criteria and indicators for quality \nnursing (Quality of practice). Practice nursing and health care in accordance \nwith laws and regulations relevant to",
+    "requirements": [
+      "A minimum of 9 years appropriate/ recognisable experience in nursing after \nregistration as Professional Nurse with SANC in General Nursing. At least 5 \nyears of the period referred to above must be appropriate / recognisable \nexperience after obtaining the one-year post basic qualification in Primary \nHealth Care. Grade 12(Senior Certificate), Standard 10/ or National Certificate \nplus basic R425 qualification i.e. Degree/Diploma in nursing or equivalent \nqualification that allows registration with SANC as a Professional Nurse. Post \nBasic qualification with the duration of at least 1 year in"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-687a5df65e7f127b",
+    "title": "OPERATIONAL MANAGER NURSING (PN-B3) PHC REF NO MPDOH/OCT/26/1643",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "Diepdale Clinic (Gert Sibande District)",
+    "category": "Healthcare",
+    "salary": "R720 819 – R821 484 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "MPDOH/OCT/26/1643",
+    "summary": "Manage and provide PHC facility supervisory in line with the PHC Supervision \nGuideline. Ensure clinical nursing practice by the nursing team in the facility in \naccordance with the scope and practice and nursing standard as determined \nby the relevant health facility. Promote quality nursing care as directed by the \nprofessional scope of practice and standard in accordance with the PHC \ndelivery package. Ensure the implementation on National Core Norms and \nStandards including Six Priority Areas. Advocate for patients through ensuring \nadherence to Batho Pele Principles. Coordinate community involvement and \nparticipation. Manage and monitor",
+    "requirements": [
+      "Senior Certificate / Grade 12 or equivalent qualification plus Basic qualification \naccredited with the South African Nursing Council in Terms of Government \nNotice 425, (i.e. Diploma / Degree in Nursing) that allows registration with the \nSANC as a Professional Nurse (2026) plus a post basic nursing qualification, \nwith duration of at least 1 year, accredited with the SANC in terms of \nGovernment Notice No R212 in Primary Health Care. A minimum of nine (09) \nyears appropriate/recognizable experience in nursing after registration as a \nProfessional Nurse with South African Nursing Council (SAN"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f2dbb40a3a288372",
+    "title": "OPERATIONAL MANAGER NURSING GRADE 1 (GENERAL) (X2 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Tygerberg Hospital, Parow Valley",
+    "category": "Healthcare",
+    "salary": "R571 161 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/329",
+    "summary": "The candidate will be responsible for planning, managing, co-ordinating and \nmaintaining an optimal quality Nursing Service as an Operational Manager. \nParticipative management and utilisation of Human Resources to fulfil \noperational and developmental functions in the area. Manage and monitor the \nFinancial Resources of the clinical area. Initiate and participate in training, \ndevelopment and research within the nursing department. Deliver a support \nservice to the Nursing Service and the institution. To maintain ethical standards \nand promote professional growth and development.",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. Or a 4 year Bachelor Degree in Nursing (R174) or \nequivalent qualification (R683 plus R1497 or R171 plus R1497) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. Registration with a professional council: Registration with the SANC as \nProfessional Nurse. Experience: A minimum of 7 years appropriate / \nrecogn"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-c35425cd7d59f333",
+    "title": "OPERATIONAL MANAGER NURSING: GRADE 1 (GENERAL STREAM)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Prince Mshiyeni Memorial Hospital",
+    "category": "Healthcare",
+    "salary": "R571 161 – R644 613 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PMMH",
+    "summary": "Work as part of a multi-disciplinary team to ensure good nursing care that is \ncost effective, equitable and efficient in Medical Outpatient Department \n(MOPD) services. Perform a quality comprehensive clinical nursing practice in \naccordance with the scope of practice and nursing standards as determined \nlegislative framework and national Core Standards and Office of Health \nStandard Compliance. Perform duties within the ambits of legal framework as \nrequired. Ensure compliance to professional and ethical practice. Work \neffectively and amicably at a supervisory level with persons of diverse \nintellectual, cultural, racial or religious diffe",
+    "requirements": [
+      "Basic R425 qualification (i.e. Diploma/ Degree in General Nursing and \nMidwifery) that allows registration with the ‘South African Nursing Council’ \n(SANC) as a Professional Nurse. Certificates of Registration with the SANC \n(General Nursing and Midwifery) Current registration with the SANC (2026) A \nminimum of seven (7) years appropriate/ recognizable experience in nursing \nafter registration as a Professional Nurse with the SANC in General Nursing. \nComputer literacy will be an added advantage. Knowledge, Skills Training and \nCompetencies Required: Demonstrate an in depth understanding of nu"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-fa5c7e750fd12c19",
+    "title": "OPERATIONAL MANAGER- NIGHT DUTY POST)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Port Shepstone Regional Hospital",
+    "category": "Healthcare",
+    "salary": "R571 161 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PSH",
+    "summary": "Diagnose and manage obstetric emergencies in the absence of a doctor (i.e.) \nEclampsia APH etc. Identify high risk clients during ante-partum and postpartum periods, manage them or refer them accordingly to hospital policy. \nDevelop vision and mission and objectives for obstetric unit. Develop, \nimplement and review obstetric policies / SOP. Conduct Perinatal Mortality \nreviews or meetings. Know SANC rules and regulations pertaining to \n\n172 \n\nobstetrics. Develop and implement in-service education and quality \nimprovement programs for the obstetrics department. Act as an advocate for \nclients utilizing Batho Pele principles. Form part of the ",
+    "requirements": [
+      "Grade 12 / Matric or Equivalent. Diploma / Degree in General Nursing Science. \nDiploma / Degree in Midwifery Nursing Science. Diploma / Degree in Health \nService Management. Certificate in computer Course. Current registration with \nSANC as General Nurse, Midwife / Accoucher and Health Service Manager. A \nminimum of 7 years clinical experience in nursing after and Midwife in a hospital \nenvironment as General Nurse in a hospital environment. Current SANC \nreceipt for 2026. Knowledge, Skills, Training and Competencies Required: \nLeadership, management, planning, organizing and co-ordination ski"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-93c9234bb361529a",
+    "title": "OUTREACH TEAM LEADERS (WBPHCOT PROGRAMME)- PROFESSIONAL NURSE (GENERAL NURSING) (X13 POSTS)",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "John Taolo Gaetsewe",
+    "category": "Healthcare",
+    "salary": "R337 359 – R380 031 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NCDOH",
+    "summary": "To lead and manage the WBPHCOT to achieve defined population coverage \nand measurable improvements in community health through prevention, early \nidentification, referral, linkage and follow-up. Provide direction and supervision \nfor the implementation of the nursing plan (clinical practice/quality patient care). \nImplement standards, practices, criteria and indicators for quality nursing \n(quality of practice). Practice nursing and health care in accordance with the \nlaws and regulations relevant to nursing and health care. Maintain a \nconstructive working relationship with other health facilities, strengthening \ncommunity based services. Ob",
+    "requirements": [
+      "Basic R425 qualification (i.e. diploma/degree in nursing) or equivalent \nqualification that allows registration with the SANC as a Professional Nurse. \n\n239 \n\nRegistration with the SANC as Professional Nurse. Driver’s license. \nExperience: Grade 1: None, Grade 2: A minimum of 10 years’ experience \nappropriate /recognisable experience in nursing after registration as a \nProfessional Nurse with the SANC in General Nursing, Grade 3: A minimum of \n20 years’ experience appropriate/recognisable experience in nursing after \nregistration as a Professional Nurse with the SANC in General Nursing."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-22f64abc957173d5",
+    "title": "OUTREACH TEAM LEADERS (WBPHCOT PROGRAMME)- PROFESSIONAL NURSE (GENERAL NURSING) (X15 POSTS)",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "Districts Frances Baard (15)",
+    "category": "Healthcare",
+    "salary": "R337 359 – R380 031 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NCDOH",
+    "summary": "To lead and manage the WBPHCOT to achieve defined population coverage \nand measurable improvements in community health through prevention, early \nidentification, referral, linkage and follow-up. Provide direction and supervision \nfor the implementation of the nursing plan (clinical practice/quality patient care). \nImplement standards, practices, criteria and indicators for quality nursing \n(quality of practice). Practice nursing and health care in accordance with the \nlaws and regulations relevant to nursing and health care. Maintain a \nconstructive working relationship with other health facilities, strengthening \ncommunity-based services. Ob",
+    "requirements": [
+      "Basic R425 qualification (i.e. diploma/degree in nursing) or equivalent \nqualification that allows registration with the SANC as a Professional Nurse. \nRegistration with the SANC as Professional Nurse. Driver’s license. \nExperience: Grade 1: None, Grade 2: A minimum of 10 years’ experience \nappropriate /recognisable experience in nursing after registration as a \nProfessional Nurse with the SANC in General Nursing, Grade 3: A minimum of \n20 years’ experience, appropriate/recognisable experience in nursing after \nregistration as a Professional Nurse with the SANC in General Nursing."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-db0569c890db2a31",
+    "title": "OUTREACH TEAM LEADERS (WBPHCOT PROGRAMME)- PROFESSIONAL NURSE (GENERAL NURSING) (X15 POSTS)",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "Namakwa District",
+    "category": "Healthcare",
+    "salary": "R337 359 – R380 031 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NCDOH",
+    "summary": "To lead and manage the WBPHCOT to achieve defined population coverage \nand measurable improvements in community health through prevention, early \nidentification, referral, linkage and follow-up. Provide direction and supervision \nfor the implementation of the nursing plan (clinical practice/quality patient care). \nImplement standards, practices, criteria and indicators for quality nursing \n(quality of practice). Practice nursing and health care in accordance with the \nlaws and regulations relevant to nursing and health care. Maintain a \nconstructive working relationship with other health facilities, strengthening \ncommunity based services. Ob",
+    "requirements": [
+      "Basic R425 qualification (i.e. diploma/degree in nursing) or equivalent \nqualification that allows registration with the SANC as a Professional Nurse. \nRegistration with the SANC as Professional Nurse. Driver’s license. \nExperience: Grade 1: None, Grade 2: A minimum of 10 years’ experience \nappropriate /recognisable experience in nursing after registration as a \nProfessional Nurse with the SANC in General Nursing, Grade 3: A minimum of \n20 years’ experience appropriate/recognisable experience in nursing after \nregistration as a Professional Nurse with the SANC in General Nursing."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-83d5c41014436e92",
+    "title": "OUTREACH TEAM LEADERS (WBPHCOT PROGRAMME)- PROFESSIONAL NURSE (GENEREAL NURSING) 85/2026 (X14 POSTS)",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "Districts Pixley ka Seme District",
+    "category": "Healthcare",
+    "salary": "R337 359 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NCDOH",
+    "summary": "To lead and manage the WBPHCOT to achieve defined population coverage \nand measurable improvements in community health through prevention, early \nidentification, referral, linkage and follow-up. Provide direction and supervision \nfor the implementation of the nursing plan (clinical practice/quality patient care). \nImplement standards, practices, criteria and indicators for quality nursing \n(quality of practice). Practice nursing and health care in accordance with the \nlaws and regulations relevant to nursing and health care. Maintain a \nconstructive working relationship with other health facilities, strengthening \ncommunity based services. Ob",
+    "requirements": [
+      "Basic R425 qualification (i.e. diploma/degree in nursing) or equivalent \nqualification that allows registration with the SANC as a Professional Nurse. \nRegistration with the SANC as Professional Nurse. Driver’s license. \nExperience: Grade 1: None, Grade 2: A minimum of 10 years’ experience \nappropriate /recognizable experience in nursing after registration as a \nProfessional Nurse with the SANC in General Nursing, Grade 3: A minimum of \n20 years’ experience appropriate/recognizable experience in nursing after \nregistration as a Professional Nurse with the SANC in General Nursing."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-131b4aa7a1906f01",
+    "title": "OUTREACH TEAM LEADERS (WBPHCOT PROGRAMME)- PROFESSIONAL NURSE (GENEREAL NURSING) 85/2026 (X15 POSTS)",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "Namakwa District",
+    "category": "Healthcare",
+    "salary": "R337 359 – R380 031 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NCDOH",
+    "summary": "To lead and manage the WBPHCOT to achieve defined population coverage \nand measurable improvements in community health through prevention, early \nidentification, referral, linkage and follow-up. Provide direction and supervision \nfor the implementation of the nursing plan (clinical practice/quality patient care). \nImplement standards, practices, criteria and indicators for quality nursing \n(quality of practice). Practice nursing and health care in accordance with the \nlaws and regulations relevant to nursing and health care. Maintain a \nconstructive working relationship with other health facilities, strengthening \ncommunity based services. Ob",
+    "requirements": [
+      "Basic R425 qualification (i.e. diploma/degree in nursing) or equivalent \nqualification that allows registration with the SANC as a Professional Nurse. \nRegistration with the SANC as Professional Nurse. Driver’s license. \nExperience: Grade 1: None, Grade 2: A minimum of 10 years’ experience \nappropriate /recognisable experience in nursing after registration as a \nProfessional Nurse with the SANC in General Nursing, Grade 3: A minimum of \n20 years’ experience appropriate/recognisable experience in nursing after \nregistration as a Professional Nurse with the SANC in General Nursing."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-eb62d878c007511b",
+    "title": "PERSAL CONTROLLER: FINANCIAL MANAGEMENT FM/OTP/04",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "Mbombela",
+    "category": "Information Technology",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PC-",
+    "summary": "Register and maintain PERSAL user profile. Register PERSAL user and \nrevisers, ensure orientation and maintain profile through selective allocation of \nfunctions. Facilitate the training of PERSAL users in the Department. Signing \nof monthly RACEF reports and examining of daily RACEF Report. Reset \nrevoked users and restore their access to the salary system when authorised. \nDevelop, review and maintain policy ,procedures and best practices pertaining \nto PERSAL user and system management. Represent the Department on the \nprovincial PERSAL forum. Regularly monitor the audit- and control reports \navailable on PERSAL.",
+    "requirements": [
+      "An appropriate Bachelor’s Degree / National Diploma in Accounting/Financial \nManagement (NQF Level 6) or Financial related Field. Minimum of 3 years’ \nexperience working in financial systems. Computer literacy. The candidate \nmust have passed the PERSAL Controllers Course and extensive knowledge \nof the functionality and capabilities of the PERSAL System. Knowledge of \nPublic Financial Management Act. Basic Accounting System (BAS) and other \nfinancial systems (LOGIS, PERSAL, etc.) Financial reporting. Treasury \nregulations. Essential skills will include the following: Planning and Organising \n"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-0cd34ee6937e1d9c",
+    "title": "PERSONAL ASSISTANT",
+    "department": "Department of Land Reform And Rural Development",
+    "province": "National",
+    "location": "Gauteng (Pretoria)",
+    "category": "Finance",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/1/1/1/2026/266",
+    "summary": "Provide a secretarial / receptionist support service to the manager. Receives \ntelephone calls in an environment where, in addition to the calls for the senior \nmanager, discretion is required to decide to whom the call should be forwarded. \nIn the process the job incumbent should finalise some enquiries. Performs \nadvanced typing work. Operates and ensures that office equipment, e.g. \nprinters and photocopies are in good working order. Record the engagements \nof the senior manager. Utilises discretion to decide whether to accept / decline \nor refer to other employees’ requests for meetings, based on the assessed \nimportance and urgency of th",
+    "requirements": [
+      "Minimum requirements: Applicants must be in a possession of Grade 12 \nCertificate and National Diploma in Secretarial / Office Administration / \nManagement or relevant equivalent qualification. Minimum of 3 years’ \nexperience in rendering a support service to senior management. Job related \nknowledge: Relevant legislation / policies / prescripts and procedures, \nTelephone etiquette, Basic knowledge on financial administration. Job related \nskills: Sound organisational ability. Computer literacy (Microsoft Office). Good \ninterpersonal relations. High level of reliability. Communication (verbal "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/k.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-942768b4b1f440de",
+    "title": "PHARMACIST ASSISTANT (POST BASIC) GRADE 1 TO 3",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Kwanokuthula CDC, Knysna/Bitou Sub-district",
+    "category": "Healthcare",
+    "salary": "R275 340 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/361",
+    "summary": "Working under both direct and indirect supervision of a pharmacist. Manage \ndrug supply within the facilities, including but not limited to correct ordering of \nstock, receiving and checking of stock, appropriate stock control and storage, \nrotation of stock to prevent expiry, accurate handling of expired stock, and \nappropriate temperature control. Dispensing and issuing of acute and chronic \nscripts according to Standard Treatment Guidelines and the WCGHW \nPharmaceutical Code List. Issuing medication prepared by Tertiary Institutions \nand CDU(Chronic Dispensing Unit) and the management thereof. Collection \nof all pharmacy related data, ensu",
+    "requirements": [
+      "Minimum educational qualification: As required by the training facility and the \nSouth African Pharmacy Council (SAPC) plus Post-Basic Pharmacist \nAssistant qualification that allows registration with SAPC as a Pharmacist \nAssistant (Post-Basic) or Pharmacist Assistant (Post-Basic) Institutional. \nRegistration with a professional council: Registration with the South African \nPharmacy Council as Pharmacist’s Assistant (Post- Basic) (Institutional) or \nPharmacist Assistant (Post-Basic). Experience: Grade 1: None after \nregistration with the SAPC as Pharmacist Assistant (Post-Basic). Grade 2: A \n"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-9c791569b8476052",
+    "title": "PHARMACIST ASSISTANT (POST BASIC) POSTS)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Prince Mshiyeni Memorial Hospital",
+    "category": "Healthcare",
+    "salary": "R275 340 – R310 422 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PMMH",
+    "summary": "Assist in the provision of an efficient pharmaceutical service under the \nsupervision of a pharmacist. Dispense medicines according to approved \nStandard Operating Procedures and within the scope of practice of a \nPharmacist Assistant (Post Basic). Receive, store, issue and control \npharmaceutical stock. Monitor stock levels and assist with stock ordering and \nstock rotation. Perform stock counts and assist with inventory management. \nPack and distribute medicines to wards, clinics and departments. Maintain \naccurate pharmaceutical records and documentation. Ensure compliance with \nGood Pharmacy Practice and pharmaceutical legislation. Partic",
+    "requirements": [
+      "Grade 12 (Senior Certificate) or equivalent. Registration with the South African \nPharmacy Council (SAPC) as a Pharmacist Assistant (Post Basic). Current \nregistration with the South African Pharmacy Council (SAPC). Experience \nGrade 1: None. Experience Grade 2: A minimum of 5 years' \nappropriate/recognisable experience as a Pharmacist Assistant (Post Basic) \nafter registration with the South African Pharmacy Council (SAPC) as a \nPharmacist Assistant (Post Basic). Experience Grade 3: A minimum of 13 \nyears' appropriate/recognisable experience as a Pharmacist Assistant (Post \nBasic) after regis"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-018aca4b724564e4",
+    "title": "PHARMACIST ASSISTANT GRADE 1 TO 3 (POST BASIC) (WAREHOUSING)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Cape Medical Depot",
+    "category": "Healthcare",
+    "salary": "R275 340 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/360",
+    "summary": "Helpdesk oversight and management. Customer Care, Supplier, Courier - \nQuery Management. Inventory Management and Warehouse Support. \nGeneral administration, Assistance, legal requirements, staff development.",
+    "requirements": [
+      "Minimum educational qualification: As required by the training facility and the \nSouth African Pharmacy Council (SAPC) plus Post-Basic Pharmacist \nAssistant qualification that allows registration with SAPC as a Pharmacist \nAssistant (Post-Basic) Warehousing. Registration with a professional council: \nCurrent registration with the SAPC as a Pharmacist Assistant Post Basic or \nPharmacist Assistant Post Basic (Warehousing). Experience: Grade 1: None \nafter registration with the SAPC as Pharmacist Assistant (Post-Basic). Grade \n2: A minimum of 5 years appropriate experience as Pharmacist Assistant"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-c7d2a89f7e7482ed",
+    "title": "PHARMACIST ASSISTANT GRADE 1 TO 3 (POST BASIC) (WAREHOUSING)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Oudtshoorn Medical Depot",
+    "category": "Healthcare",
+    "salary": "R275 340 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/362",
+    "summary": "Assist with the receiving and storage of pharmaceutical products from \nsuppliers. Assist with the control of pharmaceutical stock. Assist with the \nIssuing of stock against orders from health facilities within the scope of practice \nof a Post Basic Pharmacist Assistant. Assist with the efficient and secure \npackaging of pharmaceutical products for delivery. Assist with the effective \ncontrol and distribution of completed pharmaceutical orders to facilities. \nCompliance with good pharmacy practice and good warehouse practice. \nSupport and assist the Pharmacy Supervisor with collating statistics.",
+    "requirements": [
+      "Minimum educational qualification: As required by the training facility and the \nSouth African Pharmacy Council (SAPC) plus Post-Basic Pharmacist \nAssistant qualification that allows registration with SAPC as a Pharmacist \nAssistant (Post-Basic) Warehousing. Registration with a professional council: \nCurrent registration with the SAPC as a Pharmacist Assistant Post Basic or \nPharmacist Assistant Post Basic (Warehousing). Experience: Grade 1: None \nafter registration with the SAPC as Pharmacist Assistant (Post-Basic). Grade \n2: A minimum of 5 years appropriate experience as Pharmacist Assistant"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1d2a95901fcc6804",
+    "title": "PHARMACY SUPERVISOR GRADE 1",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Mitchells Plain Community Health Centre",
+    "category": "Healthcare",
+    "salary": "R1 041 402 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/316",
+    "summary": "Take leadership in the pharmacy to establish a value driven pharmacy service \nand implement policies and guidelines in keeping with the Batho Pele, SAPC \nand National Drug policy and National and Provincial treatment guidelines. \nEnsure adherence to minimum standards for dispensing as well as \naccessibility to medication and pharmaceutical care to patients. Manage, \nassess, and monitor compliance w.r.t Good Pharmacy Practice, Ideal Clinic \nand National Core Standards. Effective monitoring of pharmaceutical \nexpenditure, implementation, and evaluation of budgetary control measures. \nHuman Resource Management which includes tutoring of Pharmaci",
+    "requirements": [
+      "Minimum educational qualification: Basic qualification accredited with the \nSouth African Pharmacy Council (SAPC) that allows registration with the \nSAPC as a Pharmacist. Registration with a professional council: Registration \nwith the South African Pharmacy Council (SAPC) as Pharmacist. Experience: \nA minimum of 3 years’ appropriate experience after registration as a \nPharmacist with the SAPC. Inherent requirement of the job: Valid (Code B/EB) \ndriver’s license. To be registered as Responsible Pharmacist with the SAPC \nwhen appointed. Prepared to be registered as a tutor with the SAPC. \nCompe"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-8261e1fa0730eec4",
+    "title": "PRIMARY HEALTH CARE MANAGER",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Beaufort West Sub-District, stationed at Beaufort West Hospital",
+    "category": "Healthcare",
+    "salary": "R1 101 468 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/314",
+    "summary": "Overall strategic management of the PHC facilities in the sub-district/s (Central \nKaroo District). Manage the implementation of the COPC approach and \nsupport the external and internal interface, with all the appropriate Health \nProgramme. Manage/support the health establishment staff to meet the Ideal \nClinic Realisation and Maintenance (ICRM). Ensure efficient financial \nplanning, control and the effective use of all resources. Participate in Human \nResource Management and Skills Development Planning and Labour relations \nof PHC staff within the Sub-district/s (Central Karoo District). Ensure that \nprescribed policies and procedures are im",
+    "requirements": [
+      "Minimum educational qualification: A health-related qualification at NQF level \n7 that allows registration with the Health Professions Council of South Africa \n(HPCSA) or South African Nursing Council (SANC) or South African Pharmacy \nCouncil (SAPC). Experience: Appropriate/recognisable experience in District \nHeath Systems and Management. Inherent requirement of the job: Valid \ndriver’s license (Code B/EB) and willingness to travel. Willingness to attend to \ncommunity needs after hours. Competencies (knowledge/skills): Computer \nliteracy \n(MS \nWord, \nExcel, \nPowerPoint, \nOutlook, \nInternet). "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-59603da7b53f66f6",
+    "title": "PRINCIPAL CADASTRAL OFFICER",
+    "department": "Department of Land Reform And Rural Development",
+    "province": "National",
+    "location": "Western Cape (Cape Town)",
+    "category": "Information Technology",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/1/1/1/2026/271",
+    "summary": "Capture, maintain and update alpha numeric data of simple as well as more \ncomplex cadastral documents. Capture alpha and numeric information from \nnewly submitted cadastral documents (simple and complex) and undertake \nmathematical consistency checks of and data verification of for proposed new \nland parcels. Update cadastral survey databases through the addition or \namendment of every approved document (simple and complex) to maintain an \nelectronic alpha-numeric repository. Capture and verify simple and complex \nhistorical cadastral documents. Attend to complicated maintenance of \ncadastral documents in accordance with legislated processes",
+    "requirements": [
+      "Minimum requirements: Applicants must be in possession of a Grade 12 \nCertificate and a National Certificate in Geomatics or Survey Officer Certificate \n(NQF Level 5). Minimum of 6 years geomatics post qualification experience in \na geomatics or cadastral survey environment. Job related knowledge: \nKnowledge of Geographical Information Systems Software and fundamentals. \nKnowledge of Surveyor-General’s Office Standard Operating Procedures and \nprocesses. Knowledge of Cadastral Surveys. Job related skills: Problem \nsolving and analysis. Decision making. Team leadership. Creativity. Customer \nfo"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/k.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-bacfd1678f305543",
+    "title": "PRINCIPAL CADASTRAL OFFICER",
+    "department": "Department of Land Reform And Rural Development",
+    "province": "National",
+    "location": "Western Cape (Cape Town)",
+    "category": "Information Technology",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/1/1/1/2026/272",
+    "summary": "Capture, maintain and update alpha numeric data of simple as well as more \ncomplex cadastral documents. Capture alpha and numeric information from \nnewly submitted cadastral documents (simple and complex) and undertake \nmathematical consistency checks of and data verification of for proposed new \nland parcels. Update cadastral survey databases through the addition or \namendment of every approved document (simple and complex) to maintain an \nelectronic alpha-numeric repository. Capture and verify simple and complex \nhistorical cadastral documents. Attend to complicated maintenance of \ncadastral documents in accordance with legislated processes",
+    "requirements": [
+      "Minimum requirements: Applicants must be in possession of a Grade 12 \nCertificate and a National Certificate in Geomatics or Survey Officer Certificate \n(NQF Level 5). Minimum of 6 years geomatics post qualification experience in \na geomatics or cadastral survey environment. Job related knowledge: \nKnowledge of Geographical Information Systems Software and fundamentals. \nKnowledge of Surveyor-General’s Office Standard Operating Procedures and \nprocesses. Knowledge of Cadastral Surveys. Job related skills: Problem \nsolving and analysis. Decision making. Team leadership. Creativity. Customer \nfo"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/k.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-a3865f4d561a36a7",
+    "title": "PRINCIPAL COURT INTERPRETER",
+    "department": "Office of the Chief Justice",
+    "province": "National",
+    "location": "Limpopo Division of The High Court: Thohoyandou",
+    "category": "Legal",
+    "salary": "R413 001 – R486 501 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/139/OCJ",
+    "summary": "Render interpreting services in high profile matters, interpret in complex cases, \ninterpret in criminal, civil, and Labour Court, interpret in small claims court, \ninterpret in disciplinary hearing, interpret in Conciliation and Arbitration, \ninterpret in confession, interpret pre-trial proceedings and consultations. \nControl, supervise and attend to personnel administrative aspects of \ninterpreters, provide mentoring and coaching to junior/ senior interpreters, \nmanage performance agreement contracts, draw a schedule for replacement \nof Court Interpreters, control leave of Court interpreters and submit Court hour \nregisters, quarterly submi",
+    "requirements": [
+      "Applicants should be in possession of a National Diploma in Legal Interpreting \nor equivalent qualification at NQF level six (6) with 360 credits as recognised \nby SAQA. A minimum of two (2) years’ experience as a Court Interpreter of \nwhich one (1) year should be at supervisory level. Language proficiency: \nEnglish and either Tshivenda, Xitsonga, Sepedi. Knowledge of Isi-\nZulu/Setswana and a valid driver’s license will serve as an added advantage. \nKnowledge and skills: Knowledge of Batho Pele and the OCJ Principles, Court \nproceedings, Cultural diversity, Knowledge of Policies, Prescripts, a"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/l.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-9af238cfc181381a",
+    "title": "PRINCIPAL COURT INTERPRETER",
+    "department": "Office of the Chief Justice",
+    "province": "National",
+    "location": "KwaZulu-Natal Division of The High Court: Pietermaritzburg",
+    "category": "Legal",
+    "salary": "R413 001 – R486 501 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/140/OCJ",
+    "summary": "Render interpreting services in high profile matters, interpret in complex cases, \ninterpret in criminal, civil, and Labour Court. Interpret in Small claims Court, \ncontrol and attend to personnel administrative aspects of Interpreters, provide \nand coaching to junior Interpreters, manage performance agreement contracts, \ndraw a schedule for replacement of Court Interpreters, translate Legal \ndocuments and exhibits, study and analyse the source documents, conduct \nnecessary research and consult, Check, edit and revise the translated \ndocuments, procure foreign language interpreters and casuals in line with \nPFMA and the relevant policy. Repor",
+    "requirements": [
+      "Applicants should be in possession of a National Diploma in Legal Interpreting \nor equivalent qualification at NQF level six (6) with 360 credits as recognised \n\n61 \n\nby SAQA. A minimum of two (2) years’ practical experience in Court Interpreting \nof which one (1) year should be at supervisory level. A valid driver’s license will \nserve as an added advantage. Knowledge and skills: Knowledge of Batho Pele \nand the OCJ Principles, Court proceedings, Cultural diversity, Knowledge of \nPolicies, Prescripts, and Legislation and Full command of the language. \nSkilled in communication, computer litera"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/l.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-18c53a3c9288a3a7",
+    "title": "PRINCIPAL GEOMATICS OFFICER",
+    "department": "Department of Land Reform And Rural Development",
+    "province": "National",
+    "location": "Western Cape (Mowbray)",
+    "category": "Information Technology",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/1/1/1/2026/273",
+    "summary": "Capture different geospatial data into the Integrated Topographic System. \nInterpret imagery and map the topographical features. Ensure topological rules \nare applied in accordance with the topographic standard. Document the \nprocesses for application of topographical rules. Ensure all topographical \nfeatures metadata is captured. Map the land cover classes in accordance with \nthe defined standard. Perform geospatial data analysis according to the \nrequirements. Quality check the accuracy of mapped land cover classes in \naccordance with requirements. Ensure compliance to the standards in \nmaintaining geospatial in the database. Monitor availa",
+    "requirements": [
+      "Minimum requirements: Applicants must be in a possession of a Grade 12 \nCertificate and a National Certificate in Geomatics or Survey Officer Certificate \n(NQF Level 5). Minimum of 6 years geomatics post qualification experience in \ngeomatics, geospatial information science. Job related knowledge: Knowledge \nof surveying, photogrammetry, cartography, geo-spatial information science. \nGood Geographical Information Science (GIS) knowledge regarding data \ncapture, structuring and manipulation. Knowledge of aerial photo interpretation \nfor topographic mapping. Knowledge including feature identific"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/k.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-b84bc97169f882fa",
+    "title": "PRINCIPAL INSPECTOR: OCCUPATIONAL HEALTH AND HYGIENE REF NO: HR4/4/6/07",
+    "department": "Department of Employment And Labour",
+    "province": "National",
+    "location": "Labour Centre: Groblersdal Labour Centre",
+    "category": "Healthcare",
+    "salary": "R605 742 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "HR4/4/6/07",
+    "summary": "Provide inputs into the development of Health and Hygiene policies and ensure \nimplementation of OHS strategy for the Department of Labour in terms of OHS \nLegislation. Conduct complex inspections for Health and Hygiene regularly as \nper the inspection programme. Conduct technical research on the latest trends \nin Occupational Health and Hygiene within identified sectors. Provide support \nfor enforcement action, including preparation of reports for legal proceedings.",
+    "requirements": [
+      "Three (3) year National Diploma (NQF 6) / Undergraduate bachelor’s degree \n(NQF 7) in Environmental Health / Occupational Health / Hygiene/ Analytical \nChemistry / Chemical Engineering. Valid driver’s License. Four (4) years \nfunctional experience in Health and Hygiene inspection/ services. Knowledge: \nDepartmental policies and procedures, Batho Pele Principles, Public Service \nAct and Regulations, OHS Act and Regulations, OHS standard, OHS \nManagement System. Skills: Facilitation, Planning and Organising, Computer \nliteracy, \nInterpersonal, \nProblem \nSolving, \nInterviewing, \nlistening \nand \no"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/d.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1a87e71cdbda6587",
+    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY NURSING: MOU NURSING) (X2 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Delft CHC and Kraaifontein CHC, Northern/Tygerberg Sub-Structure Office",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/337",
+    "summary": "Responsible for the provision and implementation of comprehensive holistic \nnursing care and treatment to all pregnant clients. Assist with management of \npeople management services within the Department. Effective utilization of \nfinancial resources within the department. Ensure the promotion of Quality \nassurance, Infection Control and Prevention & Occupational Health & Safety \nwithin the department. Deliver a support service to the Operational Manager \nand ensure effective coordination of the nursing division after hours.",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \nDiploma/Degree in Nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with duration of at least \n1 year, accredited with SANC in Advanced Midwifery and Neonatal Nursing \nScience (R212) OR A 4-year bachelor's degree in nursing (R174) or equivalent \nqualification (R683 plus R1497 or R171 plus R1497) that allows registration \nwith the SANC as a Professional Nurse. A Postgraduate Diploma (R635"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-40c55e2c334d6fa4",
+    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY: MENTAL HEALTH) (X4 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Khayelitsha CHC, Nomzamo CDC, Mental Health Roving Team (ACT) and \nMfuleni CDC, Khayelitsha/ Eastern Sub-structure",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/334",
+    "summary": "Actively participate in the clinical duties and nursing care to Mental Health \npatients within the Sub-structure. Provide support and capacity development \nto PHC personnel for Sub-structure level services and students and peers. \nPromote community development and participation in mental healthcare \ndelivery. Liaise with other role players. Utilization of resources within the substructure. Conduct research related to mental health and service delivery.",
+    "requirements": [
+      "minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R880) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at \nleast 1 year accredited with the SANC in Advanced Psychiatric Nursing \nScience (R212). OR A 4 year Bachelor Degree in Nursing (R174) or equivalent \nqualification (R171 plus R1497) that allows registration with the South African \nNursing Council (SANC) as a Professional Nurse. A post graduate diplom"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-8d09836a8d1ccf0e",
+    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY: MENTAL, ACUTE ADULT FEMALE, INTENSIVE REHAB ADULT & STATE PATIENTS) (X4 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Valkenberg Hospital",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/335",
+    "summary": "Provide optimal, holistic specialized psychiatric nursing care within set \nstandards and professional/legal framework. Effective utilization of human, \nfinancial and physical resources (equipment and consumables). Participation \nin appropriate personal /professional development activities: Self, students, \nother categories of staff. Ensure efficient and accurate documentation, \nstatistical data collection capturing and participation in research activities. \nAssist with the development and the implementation of nursing quality \nimprovement plans, policies and standard operating procedures.",
+    "requirements": [
+      "Minimum \nEducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \nDiploma/Degree in Nursing) or equivalent qualification (R683 plus R880) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at \nleast 1 year accredited with the SANC in Advanced Psychiatric Nursing \nScience (R212). OR A 4 year Bachelor Degree in Nursing (R174) or equivalent \nqualification (R171 plus R1497) that allows registration with the South African \nNursing Council (SANC) as a Professional Nurse. A post graduate diplom"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-06dae5c7dfa4bcc2",
+    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY: PSYCHIATRY) (X4 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Lentegeur Hospital",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/339",
+    "summary": "Provide optimal, holistic specialized psychiatric nursing care within set \nstandards and professional/legal framework. Effective utilization of human, \nfinancial and physical resources (equipment and consumables). Participation \nin appropriate personal /professional development activities: Self, students, \nother categories of staff. Ensure efficient and accurate documentation, \nstatistical data collection capturing and participation in research activities. \nAssist with the development and the implementation of nursing quality \nimprovement plans, policies and standard operating procedures.",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R880) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at \nleast 1 year accredited with the SANC in Advanced Psychiatric Nursing \n\n274 \n\nScience (R212). Or a 4-year Bachelor Degree in Nursing (R174) or equivalent \nqualification (R171 plus R1497) that allows registration with the South African \nNursing Council (SANC) as a Professional Nurse. A post graduate"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-693c3a49e0d9ac24",
+    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY: THEATRE)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Oudtshoorn Hospital",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/338",
+    "summary": "Provide comprehensive specialized nursing care provided within a \nprofessional / legal framework. Participate with the multi-disciplinary team to \nprovide holistic health care, provide good documentation, care, planning and \nhealth education. To support and participate in clinical practice development \ninitiatives, educational activities, and research. Effective utilization of human \nand financial resources. Provide support services to Supervisor and Nursing \ndivision.",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \nDiploma/Degree in Nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at \nleast 1 year accredited with the SANC in Medical and Surgical Nursing \nScience: Operating Theatre Nursing (212). OR A 4-year bachelor’s degree in \nnursing (R174) or equivalent qualification (R683 plus R1497 or R171 plus \nR1497) that allows registration with the South African Nursing Council (SANC) "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-5916ee982bba8d35",
+    "title": "PROFESSIONAL NURSE GRADE 1 TO 2 (SPECIALTY: TRAUMA AND EMERGENCY)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Oudtshoorn Hospital",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/341",
+    "summary": "Provide comprehensive specialized nursing care provided within a \nprofessional / legal framework. Participate with the multi-disciplinary team to \nprovide holistic health care, provide good documentation, care, planning and \nhealth education. To support and participate in clinical practice development \ninitiatives, educational activities, and research. Effective implementation of \ninfection control policies and health and safety legislation. Effective utilization \n\n276 \n\nof human and financial resources. Participate in training, development and \nresearch within the nursing department. Provide support services to \nSupervisor and Nursing divisi",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at \nleast one year accredited with the SANC in Medical and Surgical Nursing \nScience: Critical Care Nursing: General or Medical and Surgical Nursing \nScience: Critical Care Nursing: Trauma and Emergency. or A 4-year bachelor’s \ndegree in nursing (R174) or equivalent qualification (R683 plus R1497 or R1"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-32e7f1deb29de435",
+    "title": "PROFESSIONAL NURSE GRADE 1 TO 3 (GENERAL NURSING) (FEMALE/CHILD WARD AND TRAUMA AND OPD) (X2 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Knysna Hospital",
+    "category": "Healthcare",
+    "salary": "R337 359 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/354",
+    "summary": "Provide direction and supervision for the implementation of the nursing plan \n(clinical practice or patient care). Implement standards, practices, criteria, and \nindicators for quality nursing (quality of practice). Practice nursing and health \ncare in accordance with the laws and regulations relevant to nursing and \nhealth care. Maintain constructive working relationship with nursing and other \nstakeholders. Utilize human, material, and physical resources efficiently and \neffectively. Participate in training, development and research within the nursing \ndepartment. Provision of support to nursing services.",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \nDiploma/Degree in Nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. OR A 4 year Bachelor Degree in Nursing (R174) or \nequivalent qualification (R683 plus R1497 or R171 plus R1497) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. Registration with a professional council: Registration with SANC as a \nProfessional Nurse. Experience: Grade 1: None Grade 2: A minimum of 10 \nyear"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-7d2ebf39cc060e0e",
+    "title": "PROFESSIONAL NURSE GRADE 1 TO 3 (GENERAL NURSING: PHC) (X5 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Morning Star (Durbanville) (X1 Post) \n\n \nFisantekraal (X1 Post) \n\n \nBellville South (X1 Post) \n\n \nSymphony Way (X2 Posts",
+    "category": "Healthcare",
+    "salary": "R337 359 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/358",
+    "summary": "Provide direction and supervision for the implementation of quality \ncomprehensive nursing care within the Primary Health Care context. Maintain \nethical practice within legal and regulatory frameworks. Maintain a \nconstructive working relationship with all relevant stakeholders of the Primary \nHealth Care Team. Utilize human, material and physical resources efficiently \nand effectively. Participate in training programmes and research activities. \nMaintain workplace disciplinary of sub-ordinates.",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as \nProfessional Nurse. Or a 4-year bachelor’s degree in nursing (R174) or \nequivalent qualification (R683 plus R1497 or R171 plus R1497) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. Registration with a professional council: Registration with the SANC as \na Professional Nurse. Experience: Grade 1: None after registration as \nPro"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-fa101b4773671ca9",
+    "title": "PROFESSIONAL NURSE GRADE 1 TO 3 (GENERAL) (PRIMARY HEALTH CARE: WELLNESS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Overstrand Sub-district",
+    "category": "Healthcare",
+    "salary": "R337 359 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/353",
+    "summary": "External interface management planning, coordination and implementation of \nwellness initiatives and interventions with support from internal stakeholders \nto implement community orientated primary care. Intersectoral interface \nmanagement with strong organizational linkages and partnerships with outside \n\n283 \n\nstakeholders, sector, departments, NGO’s and community structures. Provide \ndirection and supervision for the implementation of quality comprehensive \ncare within the Primary Health Care context. Maintain ethical practice within \nlegal and regulatory framework. Maintain a constructive working relationship \nwith all relevant stakeholde",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \nDiploma/Degree in Nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. OR A 4 year Bachelor Degree in Nursing (R174) or \nequivalent qualification (R683 plus R1497 or R171 plus R1497) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. Registration with a professional council: Registration with the SANC as \nProfessional Nurse. Experience: Grade 1: None Grade 2: A minimum of 10 \nye"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-d36756281cfb6778",
+    "title": "PROFESSIONAL NURSE GRADE 1 TO 3 (GENERAL: FAMILY MEDICINE, THEATRE, PSYCHIATRY) (X3 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Worcester Regional Hospital",
+    "category": "Healthcare",
+    "salary": "R337 359 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/356",
+    "summary": "Provide direction and supervision for the implementation of the nursing plan \n(clinical practice/quality patient care). Implement standards, practices, criteria \nand indicators for quality nursing (quality of practice). Practice nursing and \nhealth care in accordance with the laws and regulations relevant to nursing \nand health care. Maintain a constructive working relationship with nursing and \nother stakeholders. Utilize human, material and physical resources efficiently \nand effectively. Ensure accurate collection and recording of data. Render \nsupport to the supervisor and colleagues.",
+    "requirements": [
+      "Minimum \nEducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \nDiploma/Degree in Nursing) or equivalent qualification (R683) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse OR a 4-year Bachelor Degree in Nursing (R174) that allows registration \nwith the South African Nursing Council (SANC) as a Professional Nurse OR a \n3-year Diploma in Nursing (R171) that allows registration with the South \nAfrican Nursing Council (SANC) as a General Nurse. Registration with a \nprofessional council: Registration with the SANC as a Professional Nurse o"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-46ca477926b2bb60",
+    "title": "PROFESSIONAL NURSE GRADE 1 TO 3 (GENERAL: MEDICINE MALE WARD)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Khayelitsha District Hospital",
+    "category": "Healthcare",
+    "salary": "R337 359 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/352",
+    "summary": "Provision of optimal, holistic nursing care with set standards and within a \nprofessional/legal framework. Effective utilisation of resources. Maintain \nprofessional growth/ethical standards and self-development. Provision of \nSupport to Nursing Services. Participation in training and research.",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \nDiploma/Degree in Nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse or 4 year Bachelor Degree in Nursing (R174) or equivalent \nqualification (R683 plus R1497 or R171 plus R1497) that allows registration \nwith the South African Nursing Council (SANC) as a Professional Nurse. \nRegistration with a professional council: Registration with the SANC as \nProfessional Nurse. Experience: Grade 1: None Grade 2: A minimum of 10 \nyears"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-0a40380528a39a56",
+    "title": "PROFESSIONAL NURSE GRADE 1 TO 3 (GENERAL: PHC)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Bishop Lavis CHC",
+    "category": "Healthcare",
+    "salary": "R337 359 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/357",
+    "summary": "Provide direction and supervision for the implementation of quality \ncomprehensive nursing care within the Primary Health Care context. Maintain \nethical practice within legal and regulatory frameworks. Maintain a \nconstructive working relationship with all relevant stakeholders of the Primary \nHealth Care Team. Utilize human, material and physical resources efficiently \nand effectively. Participate in training programmes and research activities. \nMaintain workplace disciplinary of sub-ordinates.",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \ndiploma/degree in nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as \nProfessional Nurse. Or a 4-year bachelor’s degree in nursing (R174) or \nequivalent qualification (R683 plus R1497 or R171 plus R1497) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. Registration with a professional council: Registration with the SANC as \na Professional Nurse. Experience: Grade 1: None after registration as \nPro"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3aa6ac6e2342937a",
+    "title": "PROFESSIONAL NURSE GRADE 1 TO 3 (GENERAL: SURGERY AND POST NATAL) (X2 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Worcester Regional Hospital",
+    "category": "Healthcare",
+    "salary": "R337 359 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/355",
+    "summary": "Provide direction and supervision for the implementation of the nursing plan \n(clinical practice/quality patient care). Implement standards, practices, criteria \nand indicators for quality nursing (quality of practice). Practice nursing and \nhealth care in accordance with the laws and regulations relevant to nursing \nand health care. Maintain a constructive working relationship with nursing and \nother stakeholders. Utilize human, material and physical resources efficiently \nand effectively. Ensure accurate collection and recording of data. Render \nsupport to the supervisor and colleagues.",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \nDiploma/Degree in Nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse OR a 4-year Bachelor Degree in Nursing (R174) or \nequivalent qualification (R683 plus R1497 or R171 plus R1497) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \nNurse. Registration with a professional council: Registration with the South \nAfrican Nursing Council as a Professional Nurse. Experience: Grade 1: None. \n"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-d00affdff5e38123",
+    "title": "PROFESSIONAL NURSE GRADE 1/2 – SPECIALTY STREAM PMMH 33/2026 (X1 POST)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Prince Mshiyeni Memorial Hospital",
+    "category": "Healthcare",
+    "salary": "R495 423 – R571 161 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PMMH",
+    "summary": "Provision of optimal, holistic and specialised nursing and midwifery care in the \nAdmission, Antenatal and Labour Ward. Provide antenatal care and monitor \npatients during labour and delivery. Identify and manage obstetric emergencies \nand complications within the scope of practice. Effective utilisation of human, \nfinancial and material resources. Participate in training, research, quality \nassurance and clinical audits. Maintain accurate patient records and promote \nadherence to nursing and midwifery standards. Provide support to nursing \nservices and work effectively as part of a multidisciplinary team. Maintain \nprofessional growth, ethic",
+    "requirements": [
+      "Basic R425 qualification (i.e. Degree/Diploma) in nursing or equivalent \nqualification that allows registration with the South African Nursing Council \n(SANC) as a “Professional Nurse” with Midwifery A post-basic qualification in \nAdvanced Midwifery and Obstetrical Nursing Science with a duration of at least \n\n173 \n\none year, accredited with the SANC. Certificates of Registration with the SANC \n(General Nursing and Midwifery) Current registration with the SANC (2026) \nExperience Grade 1: a minimum of 4 years appropriate/ recognizable \nexperience in nursing after registration as a Professional "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-da713556a4507250",
+    "title": "PROFESSIONAL NURSE GRADE 1/2 – SPECIALTY STREAM PMMH 34/2026 (X1 POST)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Prince Mshiyeni Memorial Hospital",
+    "category": "Healthcare",
+    "salary": "R495 423 – R571 161 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PMMH",
+    "summary": "Provision of optimal, holistic specialised nursing care with set standards and \nwithin a professional/legal framework in the Operating Theatre. Effective \nutilisation of resources. Participation in training and research. Provision of \nsupport to nursing services and multidisciplinary theatre teams. Maintain \nprofessional growth, ethical standards and self-development. Display a \nconcern for patients, promoting and advocating proper treatment and care, \nincluding awareness and willingness to respond to patient needs, requirements \nand expectations. Work as part of a multidisciplinary team to ensure good \nnursing care that is cost-effective, eq",
+    "requirements": [
+      "Basic R425 qualification(i.e. Degree/Diploma)in nursing or equivalent \nqualification that allows registration with the South African Nursing \nCouncil(SANC) as a “Professional Nurse” with Midwifery A post basic \nqualification in ‘Operating Theatre Nursing Science’, with duration of at least 1 \nyear, accredited with the SANC Certificates of Registration with the SANC \n(General Nursing and Midwifery) Current registration with the SANC (2026) \nExperience Grade 1: a minimum of 4 years appropriate/ recognizable \nexperience in nursing after registration as a Professional Nurse with the SANC \nin Gener"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-c2f22e5419e330d0",
+    "title": "PROFESSIONAL NURSE GRADE 1/2 – SPECIALTY STREAM PMMH 35/2026 (X3 POSTS)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Prince Mshiyeni Memorial Hospital",
+    "category": "Healthcare",
+    "salary": "R495 423 – R571 161 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PMMH",
+    "summary": "Render optimal, holistic specialised nursing care to patients as a member of \nthe multidisciplinary team. Train and supervise junior staff and student nurses. \nMaintain accreditation standards by ensuring compliance with National Norms \nand Standards. Co-ordinate clinical activities of the unit. Participate in the \nformulation, analysis, implementation and monitoring of unit objectives, \npolicies and procedures. Ensure compliance with Infection Prevention and \nControl and Occupational Health and Safety policies. Strengthen ethics and \nprofessionalism. Provide a safe and therapeutic environment for patients, staff \nand the public. Advocate for",
+    "requirements": [
+      "Basic R425 qualification (i.e. Degree/Diploma) in nursing or equivalent \nqualification that allows registration with the South African Nursing Council \n(SANC) as a “Professional Nurse” with Midwifery A post basic qualification in \n‘Critical Care Nursing Science’, with duration of at least 1 year, accredited with \nthe SANC Certificates of Registration with the SANC (General Nursing and \nMidwifery) Current registration with the SANC (2026) Experience Grade 1: a \nminimum of 4 years appropriate/ recognizable experience in nursing after \nregistration as a Professional Nurse with the SANC in General"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-fc4424b80d810693",
+    "title": "PROFESSIONAL NURSE GRADE 1–3 – GENERAL STREAM PMMH 37/2026 (X4 POSTS)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Prince Mshiyeni Memorial Hospital",
+    "category": "Healthcare",
+    "salary": "R337 359 – R391 515 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PMMH",
+    "summary": "Provide direction and supervision for the implementation of the nursing plan \nand quality patient care. Implement standards, practices, criteria and indicators \nfor quality nursing care. Practise nursing and healthcare in accordance with \nlaws and regulations relevant to nursing and healthcare. Maintain a \nconstructive working relationship with nursing and other stakeholders. Utilise \nresources efficiently and effectively. Assist with relief duties of the supervisor \nand act as a shift leader on day and night duty when necessary. Provide \nappropriate nursing care to patients in the Admission, Antenatal and Labour \nWard. Promote and advocate p",
+    "requirements": [
+      "Basic R425 qualification (i.e. Diploma/ Degree in General Nursing and \nMidwifery) that allows registration with the ‘South African Nursing Council’ \n(SANC) as a Professional Nurse and Midwife. Current registration with the \nSANC (2026) Experience Grade 1: None Experience Grade 2: a minimum of \n10 years appropriate/ recognizable experience in nursing after registration as \na Professional Nurse with the SANC in General Nursing. Experience Grade 3: \na minimum of 20 years appropriate/ recognizable experience in nursing after \nregistration as a Professional Nurse with the SANC in General Nursing \nK"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-efb22d3b78e161b0",
+    "title": "PROFESSIONAL NURSE- GENERAL (GRADE1) POSTS)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Port Shepstone Regional Hospital- (Various Wards)",
+    "category": "Healthcare",
+    "salary": "R337 359 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PSH",
+    "summary": "To execute duties and functions with proficiency within prescripts of applicable \nlegislation. Provision of quality patient care in a cost-effective and efficient \nmanner. Implementation of policies and procedures, clinical guidelines and \nprotocols and all other legislative requirements for the nursing professions. To \nparticipate in implementation of Quality Improvement Programmes, Infection \nPrevention and Control and occupational health and safety. Uphold Batho Pele \nPrinciples and Patients’ Rights Charter. Provide a safe, therapeutic \nenvironment as laid down by the Nursing Act. Maintain accurate and complete \npatient records according t",
+    "requirements": [
+      "Grade 12 / Matric or Equivalent. Diploma / Degree in General Nursing Science. \nDiploma / Degree in Midwifery Nursing Science. Current registration with \nSANC as General Nurse and Midwife / Accoucher. Current SANC receipt for \n2026. Grade 1: No Experience Required. Knowledge, Skills, Training And \nCompetencies Required: Demonstrate an understanding of nursing legislation \nand related legal and ethical nursing practices. Perform a clinical nursing \npractice in accordance with the scope of practice and nursing standards as \ndetermined by relevant health facility. Demonstrate effective communicati"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-43cf9a5331a03654",
+    "title": "PROFESSIONAL NURSE- SPECIALITY",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Port Shepstone Regional Hospital-Obstetrics & Gynaecology",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PSH",
+    "summary": "Diagnose and manage obstetric emergencies in the absence of a doctor, i.e., \nEclampsia APH, etc. Identify high risk clients during ante-partum and postpartum periods, manage them or refer them according to hospital policy. \nDevelop vision and mission and objectives for obstetric unit. Develop, \nimplement and review obstetric policies / SOP. Conduct Perinatal Mortality \nreviews or meetings. Know SANC rules and regulations pertaining to \nobstetrics. Develop and implement in-service education and quality \nimprovement programs for the obstetrics dept. Act as an advocate for clients \nutilizing Batho Pele principles. Form part of the multi-discipli",
+    "requirements": [
+      "Grade 12 or Matric certificate. Diploma / Degree in General Nursing Science. \nDiploma / Degree in Midwifery Nursing Science. Diploma / Degree in Advanced \nMidwifery Nursing Science. A minimum of 4 years appropriate / recognisable \nexperience in nursing after registration as Professional Nurse with SANC in \nGeneral Nursing. Registration with SANC as General Nurse, midwife and \nAdvanced Midwife. SANC Receipt for 2026. Knowledge, Skills, Training And \nCompetencies Required: Leadership, organizational, decision making, \nsupervisory and problem-solving abilities within the limit of the Public Secto"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-4d703c18c89382d4",
+    "title": "PROFESSIONAL NURSE- SPECIALITY",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Port Shepstone Regional Hospital-Operating Theatre",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PSH",
+    "summary": "Executive professional nurses’ duties and functions with proficiency in support \nof the strategic objectives and operational plan of the Institution. Render an \noptimal holistic specialized nursing care to patients as member of the \nMultidisciplinary team. Display concern for patients, promoting and advocating \nproper treatment and care and willingness to respond to patient’s needs. \nAdvocate for quality care of patients utilizing Batho Pele principles. Maintain \naccurate and complete patient records. Do meaningful rounds and monitor \nclient satisfaction by communicating with patients and relatives. Assist the \nOperational manager with overal",
+    "requirements": [
+      "Grade 12 or Matric certificate. Diploma / Degree in General Nursing science. \nDiploma / Degree in Midwifery Nursing science. Diploma / Degree in \nPerioperative Nursing Science. Registration with SANC as General Nurse, \nMidwifery and perioperative Nursing Science. A minimum of 4 years \nappropriate / recognisable experience in nursing after registration as \nProfessional Nurse with SANC in General Nursing. SANC Receipt for 2026. \nKnowledge, Skills Training and Competencies Required: Leadership, \norganizational, decision making, supervisory and problem-solving abilities \nwithin the limit of the Pu"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-00c72474ed7920a0",
+    "title": "PROFESSIONAL NURSE- SPECIALTY",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Port Shepstone Regional Hospital-Paediatrics Ward",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PSH",
+    "summary": "Implement neonatal and child health care programmes. Develop and \nimplement quality assurance policies & operational plans. Implement \nstandards, practice and indication for Neonatal and Child Health Care. \nParticipate in child PPIP meetings. Manage effective utilization of all resources \nin the unit. Develop and implement strategies for Infection Control and \nPrevention for the unit. Exercise control over discipline and labour relations \nissues. Develop / establish and maintain constructive working relationship with \nnursing and other stake holders. Ensure that the unit complies with Regulated \nNorms and Standards. Support the Mother Baby Fr",
+    "requirements": [
+      "Grade 12 / Matric or equivalent. Diploma / Degree in General Nursing Science. \nDiploma / Degree in Midwifery Nursing Science. 1 year post basic qualification \nin Child Health Nursing Science. A minimum of 4 years appropriate or \nrecognizable experience in nursing after registration as a general nurse. \nRegistration with SANC as General Nurse, Midwife and Child Health Nurse. \nSANC receipt for 2026. Knowledge, Skills, Training and Competencies \nRequired: Leadership, organizational, decision making, supervisory and \nproblem-solving abilities within the limit of the Public Sector and institutional"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-10aa0c0656e0c641",
+    "title": "PROFESSIONAL NURSE- SPECIALTY",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Port Shepstone Regional Hospital-Othopaedics",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PSH",
+    "summary": "Executive professional nurses’ duties and functions with proficiency in support \nof the strategic operational plan of the Institution. Render an optimal holistic \nspecialized nursing care to patients as member of the Multidisciplinary team. \nDisplay concern for patients, promoting and advocating proper treatment and \ncare and willingness to respond to patient’s needs. Advocate for quality care of \npatients utilizing Batho Pele principles. Maintain accurate and complete patient \nrecords. Do meaningful rounds and monitor client satisfaction by \ncommunicating with patients and relatives. Assist the Operational manager \nwith overall management an",
+    "requirements": [
+      "Grade 12 or Matric certificate. Diploma / Degree in General Nursing science. \nDiploma / Degree in Midwifery Nursing science. Diploma / Degree in Advanced \nMidwifery Nursing science. 1 year post basic qualification in orthopaedic \nnursing science. A minimum of 4 years appropriate / recognisable experience \nin nursing after registration as Professional Nurse. Registration with SANC as \nGeneral Nurse, Midwife and Orthopaedic Nurse. SANC Receipt for 2026. \nKnowledge, Skills Training And Competencies Required: Leadership, \norganizational, decision making, supervisory and problem-solving abilities \n"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-c55ff68450c8f4f0",
+    "title": "PROFESSIONAL NURSE- SPECIALTY",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Port Shepstone Regional Hospital-Emergency Department",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PSH",
+    "summary": "Assist in planning / organizing and monitoring of objectives of the specialized \nunit. Provide a safe, therapeutic environment for staff, patient and public. \nProvide direct and indirect supervision of all Nursing Staff and to give them \nguidance and ensure continuity of patient care on all level. Demonstrate \neffective communication patient and families with the multi – disciplinary team, \nother department within the hospital. Assist with allocation /change list, day and \nnight duty rosters and inputs for leave. Assist in record keeping and provide \nstatistical information on training and staffing. To assist in EPMDS evaluation \nof staff and",
+    "requirements": [
+      "Grade 12 or Matric certificate. Diploma / Degree in General Nursing Science. \nDiploma / Degree in Midwifery Nursing Science. 1 year post basic qualification \nin Emergency and Trauma Nursing Science / Critical Care. A minimum of 4 \nyears appropriate / recognisable experience in nursing after registration as \nProfessional Nurse. SANC Receipt for 2026. Knowledge, Skills Training And \nCompetencies Required: Leadership, organizational, decision making, \nsupervisory and problem-solving abilities within the limit of the Public Sector \nand institutional policy framework. Knowledge of nursing care proc"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-52cabe3deec6f068",
+    "title": "PROFESSIONAL NURSE- SPECIALTY",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Port Shepstone Regional Hospital-Critical Care",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PSH",
+    "summary": "Assist in planning/organizing and monitoring of objectives of the specialized \nunit. Provide a therapeutic environment for staff, patients and public. Provide \ncomprehensive quality nursing care. Provide direct and indirect supervision of \nall Nursing Staff / Housekeeping staff and to give them guidance and ensure \ncontinuity of patient care. Demonstrate effective communication patient and \nfamilies with the multi – disciplinary team, other department within the hospital. \nAssist with allocation /change list, day and night duty rosters and inputs for \nleave. Assist in record keeping and provide statistical information on training \nand staffin",
+    "requirements": [
+      "Grade 12 or Matric certificate. Diploma / Degree in General Nursing science. \nDiploma / Degree in Midwifery Nursing science. 1 year post basic qualification \nin Critical Care / Emergency and Trauma Nursing Science. A minimum of 4 \nyears appropriate / recognisable experience in nursing after registration as \nProfessional Nurse. SANC Receipt for 2026. Knowledge, Skills Training and \nCompetencies Required: Leadership, organizational, decision making, \nsupervisory and problem-solving abilities within the limit of the Public Sector \nand institutional policy framework. Knowledge of nursing care proc"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-2c8196058c870f6f",
+    "title": "PROFESSIONAL NURSE: GRADE 1 TO 2 (SPECIALTY: MATERNITY AND NEONATAL)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Knysna Hospital",
+    "category": "Healthcare",
+    "salary": "R495 423 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/336",
+    "summary": "Provision of specialized quality patient care and health service delivery. \nEffective implementation of infection control policies and health and safety \nlegislation. Effective utilization of all human- and physical resources. Assist \nwith Financial management and cost containment. Participate in health \n\n272 \n\nresearch, data collection & quality improvement initiatives. Provision of \nSupport to Nursing Services.",
+    "requirements": [
+      "Minimum \neducational \nqualification: \nBasic \nR425 \nqualification \n(i.e. \nDiploma/Degree in Nursing) or equivalent qualification (R683 plus R254) that \nallows registration with the South African Nursing Council (SANC) as a \nProfessional Nurse. A post-basic nursing qualification with a duration of at \nleast 1 year accredited with the SANC Advance Midwifery and Neonatal \nNursing Science (R212). OR A 4-year bachelor’s degree in nursing (R174) or \nequivalent qualification (R683 plus R1497 or R171 plus R1497) that allows \nregistration with the South African Nursing Council (SANC) as a Professional \n"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-63d65b3e693bf6c7",
+    "title": "PROFESSIONAL NURSES (GENERAL NURSING) 83/2026 (X2 POSTS)",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "Askham CHC, ZF Mgcawu Health District",
+    "category": "Healthcare",
+    "salary": "R337 359 – R380 031 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NCDOH",
+    "summary": "Provide direction and supervision for the implementation of the nursing plan \n(clinical practice/quality patient care, Implement standards, practices, criteria \nand indicators for quality nursing (quality of practice), Practice nursing and \nhealth care in accordance with the laws and regulations relevant to nursing and \nhealth care, Maintain a constructive working relationship with nursing and other \nstakeholders, Utilize human, material and physical resources efficiently and \neffectively.",
+    "requirements": [
+      "Basic R425 qualification (i.e. diploma/degree in nursing) or equivalent \nqualification that allows registration with the SANC as a Professional Nurse, \nRegistration with the SANC as Professional Nurse. Experience: Grade 1: \nNone, Grade 2: A minimum of 10 years’ experience appropriate /recognizable \nexperience in nursing after registration as a Professional Nurse with the SANC \nin General Nursing, Grade 3: A minimum of 20 years’ experience \nappropriate/recognizable experience in nursing after registration as a \nProfessional Nurse with the SANC in General Nursing Skills Profile: Good \nCommunicat"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-b12945877e5f8c87",
+    "title": "PROFESSIONAL NURSES (GENERAL NURSING) 84/2026 (X2 POSTS)",
+    "department": "Department of Health",
+    "province": "Northern Cape",
+    "location": "Wege Hospital, Hopetown",
+    "category": "Healthcare",
+    "salary": "R337 359 – R380 031 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NCDOH",
+    "summary": "Provide direction and supervision for the implementation of the nursing plan \n(clinical practice/quality patient care, Implement standards, practices, criteria \nand indicators for quality nursing (quality of practice), Practice nursing and \nhealth care in accordance with the laws and regulations relevant to nursing and \nhealth care, Maintain a constructive working relationship with nursing and other \nstakeholders, Utilize human, material and physical resources efficiently and \neffectively.",
+    "requirements": [
+      "Basic R425 qualification (i.e. diploma/degree in nursing) or equivalent \nqualification that allows registration with the SANC as a Professional Nurse, \nRegistration with the SANC as Professional Nurse. Experience: Grade 1: \nNone, Grade 2: A minimum of 10 years’ experience appropriate /recognizable \nexperience in nursing after registration as a Professional Nurse with the SANC \nin General Nursing, Grade 3: A minimum of 20 years’ experience \nappropriate/recognizable experience in nursing after registration as a \nProfessional Nurse with the SANC in General Nursing Skills Profile: Good \nCommunicat"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/y.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ea14d0d22d78257e",
+    "title": "PROVINCIAL REGULATORY ENTITY (PRE) 02/2026",
+    "department": "Department of Community Safety, Roads And Transport",
+    "province": "Free State",
+    "location": "Free State Department of Community Safety, Roads and Transport: Head \nOffice (Bloemfontein)",
+    "category": "Finance",
+    "salary": "See official advertisement",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "FS",
+    "summary": "As an Advisory Committee/entity to the Accounting Officer and MEC as \nrequired in terms of the requirements of the National Land Transport \nAmendment Act No 23 of 2023, the Provincial Regulatory Entity will: \nAdjudicate, oversee, advise and decide on the applications received regarding \npublic transport operating licenses (renewals, transfers and amendments). \nAdvise on issues relating to the public transport services in the province, thus \nensuring compliance with the operating license conditions. Monitor and \nregulate public transport operations and route management within the Free \nState province. Assist in ensuring the transformation of t",
+    "requirements": [
+      "Candidates must have at least ten (10) years’ relevant experience in both the \nPublic and Private Sector and any postgraduate degree or equivalent \nqualification in Finance, Transport Logistics or Transport Economics or \nTransport Management (Specialisation in Public Transport). Knowledge of the \nNational Land Transport Amendment Act No 23 of 2023. Technical knowledge \nof the prescripts, regulations, and frameworks governing the Department's \nmandate and the National Land Transport Amendment Act No 23 of 2023. \nCompetencies: Strong leadership, analytical thinking, good communication \nskills, a"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/t.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-6cb61bc95ea87aac",
+    "title": "PROVISIONING ADMIN OFFICER: SCM CLERK SUPERVISOR (SCM- DEMAND & ACQUISITION)",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Nelson Mandela District",
+    "category": "Information Technology",
+    "salary": "R338 106 – R398 277 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Provide for Procurement of goods and services for the district. Ensure \ncompliance with procurement regulations and prescripts. Ensure suppliers \nutilized are properly registered with Central Supplier Database and LOGIS. \nAssist end users in creating requisitions on LOGIS. Ensure requisitions are \nlinked to the procurement memorandums and are accompanied by clear \nspecifications and/or terms of reference. Receive and issue Request for \nQuotations and ensure correct evaluation process of RFQ’s is done in line with \nthe prescripts. Ensure specifications and terms of reference are properly done \nand aligned with the prescripts. Verify and re-cal",
+    "requirements": [
+      "National Senior Certificate plus National Diploma (NQF Level 6) or a B.Degree \n(NQF level 7 as recognized by SAQA) Supply Chain Management, Public \nManagement, Logistics, Purchasing Management, Financial Management. 1 \nto 2 years’ relevant experience within a Supply Chain Management \nenvironment. A good understanding of the relevant government regulatory \nframework. Knowledge of public service legislations, prescripts, procedures \nand processes. Knowledge and understanding of Supply Chain Management \nFramework. Knowledge of BAS and LOGIS systems. Basic knowledge of \nfinancial management. Compu"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-8dd37df1f1e048ca",
+    "title": "PROVISIONING ADMINISTRATIVE OFFICER: LOGISTICS MANAGEMENT",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "Provincial Office, Mbombela (Nelspruit)",
+    "category": "Finance",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "MPDOH/OCT/26/1645",
+    "summary": "Supervise and render demand and acquisition services. Supervise and \nundertake logistical services. Supervise and control the work of sub-ordinate \n(including training) in the supply chain management unit. Deal with more \nadvanced and complicated matters pertaining to provisioning administration. \nManage all aspects of orders such as quotations, purchase and processing of \nrequisitions, authorization of procurement advice and guidance to all clients, \nchief user clerks and responsibility managers. Ensure compliance with \ndepartmental and Treasury Regulations. Evaluate and test compliance of all \npurchasing transactions. Manage all open orders",
+    "requirements": [
+      "Senior Certificate / Grade 12 or equivalent qualification plus three (3) years \nrelevant experience in Supply Chain Management or Diploma / Degree (NQF \nLevel 6/7) in Finance / Logistics / Procurement / Supply Chain Management / \nFinancial / Accounting Management as recognised by SAQA. Knowledge and \nexperience of provisioning administration, main focus in the following areas: \nLOGIS, Preferential Procurement Policy Framework (PPPFA), Public Finance \nManagement Act (PFMA) and Treasury Regulations and general knowledge of \nBasic accounting system (BAS). Computer literacy. Sound interpersonal an"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-52828131690268ee",
+    "title": "QUALITY ASSURANCE MANAGER DISTRICT",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Cape Winelands District Office",
+    "category": "Healthcare",
+    "salary": "R605 742 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/325",
+    "summary": "Effectively coordinate and manage Quality Improvement Systems in the \nDistrict. Support Health Establishment staff and Quality Assurance \ncoordinators with the implementation of the Ideal Clinic Realisation and \nMaintenance (ICRM) and Ideal Hospital requirements in preparation for the \nOffice of Health Standards Compliance (OHSC). Identify, plan and address QA \ntraining needs and liaise with the relevant role players for implementation in \nthe district, maintain and update the Health Establishment training data base. \nEnsure the maintenance of the Infection Prevention and Control (IPC) and \nOccupational Health & Safety (OHS) standards. Ensure",
+    "requirements": [
+      "Minimum educational qualification: A health-related qualification at NQF level \n7 that allows registration with the Health Professions Council of South Africa \n(HPCSA) or South African Nursing Council (SANC) or South African Pharmacy \nCouncil (SAPC). Experience: Appropriate experience in Health Management. \nInherent requirements of the job: Valid code B/EB driver’s license. \nCompetencies (knowledge/skills): Knowledge and experience in quality \nassurance, risk management, OHS and infection prevention control (IPC). \nComputer Literacy (Ms Office: Ms Word, Excel, PowerPoint and Outlook). \nAdvance"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1403aeb3b2fa10c1",
+    "title": "RADIOGRAPHER GRADE 1 TO 3 (DIAGNOSTIC) (X2 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Red Cross War Memorial Children's Hospital, Rondebosch",
+    "category": "Healthcare",
+    "salary": "R413 121 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/344",
+    "summary": "Provide a radiographic service for paediatric patients and produce diagnostic \nimages of high quality. Provide optimal patient care. Perform Imaging of \npaediatric patients in specialized areas. Perform CT Scan imaging, Digital \nRadiography, Fluoroscopy, Theatre, DR Mobiles, Panorex Imaging and Lodox. \nOptimal use and care of equipment and daily quality checks. Participate in \npersonal, departmental and hospital in-service and training programs. Provide \nrelief duty in absence of the colleagues and provide support to supervisor.",
+    "requirements": [
+      "Minimum Educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) as a \nRadiographer in Diagnostic Radiography. Registration with a professional \ncouncil: Registration with the Health Professions Council of South Africa \n(HPCSA) as a Diagnostic Radiographer. Experience: Grade 1: None after \nregistration with the HPCSA as Radiographer in Diagnostic Radiography in \nrespect of RSA qualified employees. 1-year relevant experience after \nregistration with the HPCSA in the relevant profession (where applicable) in \nrespe"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-451b46069aa0d73f",
+    "title": "REGISTERED COUNCILLOR GRADE 1 TO 3",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Witzenberg Sub-district",
+    "category": "Healthcare",
+    "salary": "R741 102 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/323",
+    "summary": "Providing preventative and developmental counselling services to children, \nadults, couples and families including mental health screening of all patients, \npsychoeducation and mental health promotion. Performing supportive \npsychological interventions to enhance mental well-being on an individual \nbasis, group basis and at community level. Work within the multidisciplinary \nteam and form part of the sub district and district mental health teams. Report \nwriting and providing feedback to clients/supervisor(s) on interventions. \nPerform clinical administrative duties as keep accurate statistics and conduct \ntraining and workshops. Provide supe",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa as a \nRegistered Counsellor. Registration with a professional council: Registration \nwith the HPCSA as a Registered Counsellor. Experience: Grade 1: None after \nregistration with the Health Professions Council of South Africa as a \nCounsellor. Grade 2: A minimum of 8 years appropriate experience as a \nCounsellor after registration with Health Professional Council (HPCSA) as a \nCounsellor. Grade 3: A minimum of 16 years appropriate experience as a \nCounsello"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-301b5e2738870277",
+    "title": "REGISTRAR (FAMILY MEDICINE)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Hermanus Hospital, Overstrand Sub-District",
+    "category": "Healthcare",
+    "salary": "R1 041 402 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/318",
+    "summary": "Provide quality health care to patients in the Overstrand sub-district including \nHermanus Hospital and surrounding clinics, healthcare facilities and \ncommunities as part of community oriented primary care. Provide Outreach \nand Support service to PHC facilities and communities in the Overstrand subdistrict. Actively participate in skills transfer, training, teaching and academic \nopportunities relevant to the post. Active involvement in the clinical \ngovernance of Overstrand sub-district facilities as required. -Performing \nadministrative duties. Supporting the Sub-district management team, while \nmaintaining professional ethical standards.",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professionals Council of South Africa (HPCSA) as \na Medical Practitioner. Registration with a professional council: Registration \nwith the HPCSA as Medical Practitioner (Independent Practice). Inherent \nrequirement of the job: Valid (code B/EB/C1) driver’s license. Compulsory \nRemunerated \nCommuted \nOvertime \n(COT) \nduties. \nCompetencies \n(knowledge/skills): Sound knowledge of general medical and surgical \nconditions at district hospital and Primary Health Care level and knowledge. \nComprehen"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f00ea206d5624dcb",
+    "title": "REGISTRAR (MEDICAL)",
+    "department": "Department of Health",
+    "province": "North West",
+    "location": "Klerksdorp/ Tshepong Hospital Complex: Paediatric Surgery (Five Years \nContract) \n\n \nAnaesthesia (Four Years Contract) (",
+    "category": "Healthcare",
+    "salary": "R1 041 402 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "03/2026/01",
+    "summary": "Interview, investigate, diagnose, and oversee the treatment of patients. \nSupervise junior doctors (Undergraduate Students, Interns and Community \nService Doctors). Attend of relevant administrative meetings like mortality \nmeetings, near MISS meetings and completing MEDICO Legal Documents \ntimeously (e.g. Death Certificate). Improve quality of care by providing \nappropriate clinical care. Reduce medical litigation by exercising good clinical \nethos. Implement and monitor adherence to National Core Standards (norms \nand standards). Participate in all activities of the discipline in relation to \nteaching and research. Participate in multidisci",
+    "requirements": [
+      "Paediatric Surgery: This position will be the appointment of the North West \nDepartment of Health and the successful candidate will be sent to Gauteng as \na supernumerary in either of the following academic institutions: University of \nWitwatersrand/ University of Pretoria and/ Sefako Makgatho Health Science \nUniversity. General Surgery: Joint appointment with Faculty of Health \nSciences, University of Witwatersrand, University of Pretoria & Sefako \n\n248 \n\nMakgatho Health Science University. NB: Registrars will be appointed jointly \nbetween the North West Department of Health and the Universit"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/z.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3383b408a3329b49",
+    "title": "REGISTRAR (MEDICAL) (PAEDIATRIC SURGERY) (X3 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Red Cross War Memorial Children’s Hospital, Rondebosch",
+    "category": "Healthcare",
+    "salary": "R1 041 402 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/315",
+    "summary": "Teaching. Leadership. Innovation and Research. Clinical Service: Operative. \nClinical Governance. Clinical Service: Patient Care.",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) as a \nMedical Practitioner. Registration with a professional council: Registration with \nthe HPCSA as a Medical Practitioner (Independent practice). Inherent \nrequirements of the job: Valid Driver’s license. Computer literacy, database \nmanagement. Ability to work in a team. Competencies (knowledge/skills): \nStrong moral and ethical record in surgical practice. The ability to work in a \nbusy tertiary care hospital providing specialist paediatric sur"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-9b7b0b93bfacf2b8",
+    "title": "REGISTRAR (PSYCHIATRY) (X7 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Groote Schuur Hospital, Observatory, Rotation through the UCT training \nplatform – which can include Groote Schuur, Valk",
+    "category": "Healthcare",
+    "salary": "R1 041 402 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/317",
+    "summary": "Clinical and corporate governance duties as pertain to services provided at \ncurrent placement. Contribute to the teaching and training of Health Sciences \nundergraduate students. Fully participate in the academic activities of the \ndesignated university as required per regulations to achieve the MMed (Psych) \n/ FC Psych qualification. To provide psychiatric services to in-and outpatients \nof designated service areas where placement as well as assigned district and \nprimary level clinical duties. To provide supervision and in-service training to \njunior colleagues and other staff. Appropriate clinical experience in psychiatry \nafter registrat",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Profession Council of South Africa (HPCSA) as a \nMedical Practitioner. Registration with a professional council: Registration with \nthe HPCSA as a Medical Practitioner (Independent Practice). Inherent \nrequirement of the job: A valid (code B/EB) driver’s license. It will be expected \nof the successful candidate to participate in a system of remunerated \ncommuted overtime. It will be expected of the successful candidate to perform \nemergency and after-hour call cover. Completed FC Psych Part I"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-c69624f71978c8a7",
+    "title": "REGISTRY CLERK",
+    "department": "Department of Land Reform And Rural Development",
+    "province": "National",
+    "location": "Western Cape (Cape Town)",
+    "category": "Administration",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/1/1/1/2026/268",
+    "summary": "Manage operations to achieve planned outcomes. Provide registry counter \nservices. Attend to clients. Handle telephonic and other enquiries received. \nReceive and register hand delivered mail/files. Handle incoming and outgoing \ncorrespondence. Receive all mail. Sort, register and dispatch mail. Distribute \nnotices on registry issues. Render an effective filing and record management \nservice. Open and close files according to record classification system. \nFiling/storage, tracing (electronically/manually) and retrieval of documents and \nfiles. Operate office machines in relation to the registry function. Process \ndocuments for archiving an/di",
+    "requirements": [
+      "Minimum requirements: Applicants must be in possession of a Grade 12 \nCertificate. Job related knowledge: Knowledge of registry duties, practices as \nwell as the ability to capture data, and operate a computer. Working knowledge \nand understanding of the legislative framework governing the Public Service. \nKnowledge of storage and retrieval procedures in terms of the working \nenvironment. Understanding of the work in registry. Job related skills. Planning \nand organisation. Computer literacy. communication (verbal and written). \nInterpersonal relations. Ability to work within a team."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/k.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-02271429db1ba5c0",
+    "title": "REGISTRY CLERK",
+    "department": "Department of Community Safety, Roads And Transport",
+    "province": "Free State",
+    "location": "Bloemfontein",
+    "category": "Administration",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PWI",
+    "summary": "Provide registry counter services. Attend to clients. Handle telephonic and \nother enquiries received. Receive and register hand delivered mail/files. \nHandle incoming and out coming correspondence. Receive all mail. Sort, \nregister and dispatch mail. Distribute notices on registry issues. Render an \neffective filling and record management service. Opening and close files \naccording \nto \nrecord \nclassification \nsystem. \nFilling/storage, \ntracing \n(electronically/manually) and retrieval of documents and files. Complete index \ncards for all filles. Operate office machines in relation to the registry function. \nOpen and maintain franking machine",
+    "requirements": [
+      "Grade 12 or equivalent (NQF 4) qualification. Computer Literacy."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/t.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-7eef627c494a4740",
+    "title": "SCHOOL SOCIAL WORKER: SPECIAL SCHOOLS (X7 POSTS)",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Tsolo Special School, Ref No: DOE25/08/2026 \n\n \nMT Fletcher Special School, Ref No: DOE26/08/2026 \n\n \nKhanyisa Cala Spec",
+    "category": "Education",
+    "salary": "R338 208 – R397 668 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DOE25/08/2026",
+    "summary": "To provide professional social work services to learners with special \neducational needs, their families, and the school community. The successful \ncandidate will address social, emotional, and behavioural barriers to learning \nto facilitate the holistic development of the child within an inclusive or \nspecialized environment. Psychosocial Support: Provide individual and group \ncounselling to learners with diverse disabilities (physical, intellectual, or \nneurodivergent). Multidisciplinary Collaboration: Work as part of the School-\nBased Support Team (SBST) alongside psychologists, occupational therapists, \nand speech therapists. Home-School ",
+    "requirements": [
+      "A formal 4-year Bachelor’s Degree in Social Work. Current, valid registration \nwith the South African Council for Social Service Professions (SACSSP). \n(Proof of payment for the current year is mandatory on or before the interview \nday). Previous experience in a school environment or working with children \nwith disabilities is highly advantageous. A valid driver’s license. Deep \nunderstanding of the Children’s Act and the South African Schools Act. Strong \ninterpersonal, report-writing, and crisis-management skills."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-2cc4c0af9ea16ae0",
+    "title": "SCM PRACTITIONER LOGISTICS MANAGEMENT REF NO DSD19/08/2026HO",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Head Office",
+    "category": "Finance",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD19/08/2026HO",
+    "summary": "Render effective booking of flights, accommodation and hired vehicle. Ensure \nthe issuing of orders to selected suppliers. Administer the appropriate delivery \nof goods and services by service provider. Supervise human resources.",
+    "requirements": [
+      "Qualifications: National Diploma (NQF Level 6) in Supply Chain Management/ \nFinancial Management/ Public Administration. A valid Driver’s license. A \nminimum of 3 years’ administrative experience in Supply Chain Management \nenvironment. Knowledge: Constitution for the Republic of South Africa, Public \nService Act, Public Finance Management Act, Treasury Regulations, Public \nService Regulations, Basic Accounting System, Employee Performance \nManagement and Development System, National Treasury Instruction Notes, \nProvincial Treasury Practice Notes, Service Delivery frameworks, Broad Based \nBlac"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-dde14f8de5e95f1c",
+    "title": "SECRETARY: COMMISSION ON KHOI-SAN MATTERS",
+    "department": "Department of Traditional Affairs",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Finance",
+    "salary": "R1 317 384 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/19",
+    "summary": "The successful candidate will perform the following duties: Manage secretariat \nand administrative support services for the Commission on Khoi-San leaders; \nManage Secretariat and administrative support and Programmes of the \nCommission on Khoi-San matters. Manage the financial resources of the \nCommission on Khoi-San matters, Manage human resources within the \nSecretariat of the Commission on Khoi-San matters; Manage and oversee \nresearch support to the Commission on Khoi-San matters. Manage and \nsupervision of staff in the Secretariat.",
+    "requirements": [
+      "A Degree or equivalent qualification (NQF level 7) in Law or Public \nAdministration or Social or Business Management Science or Public Policy or \nrelevant qualification. Certificate for entry into the Senior Management \nServices (SMS). At least five years of experience in MMS/SMS management. \nA valid drivers license. Core competencies: Strategic capacity and leadership, \npeople \nmanagement \nand \nempowerment, \nprogramme \nand \nproject \nmanagement, change management and Financial Management. Technical \ncompetencies: Office management, Monitoring and evaluation Process \ncompetencies: Knowledge man"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/o.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3e0dc071c6985889",
+    "title": "SENIOR ADMINISTRATIVE OFFICER GOVERNANCE REF NO 3/3/1/92/2026",
+    "department": "Department of Agriculture (Doa)",
+    "province": "National",
+    "location": "Gauteng (Pretoria)",
+    "category": "Finance",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/3/1/92/2026",
+    "summary": "Pre and post compliance review of payment batches. Conduct compliance \nreview on payment batches. Clear communication of queries to client offices \nwhere discrepancies are identified. Maintain a register of both complainant and \nnon-compliant payment batches. Monthly and quarterly. Coordination of audit \ninputs: Receive, analyse and distribute request for information (RFI) for \nexternal audit. Receive, analyse and distribute audit queries and follow up \ntimeously. Update the RFI and Audit Findings registers. Attend Audit Sterring \nCommittee meetings. Attend to queries from Internal Audit. Monthly and \nquarterly reporting. Render general offic",
+    "requirements": [
+      "Applicants must be in possession of a Grade 12 Certificate and a National \nDiploma in Public Administration / Public Management / Business \nAdministration / Business Management / Financial Accounting / Cost \nAccounting / Financial Management / Internal Auditing. Minimum of 2 years’ \nexperience in finance and governance administrative environment. Job related \nknowledge: Knowledge of Public Service Regulations, Financial procedures, \nTreasury Regulations and Basic Accounting System (BAS). Job related skills: \nComputer literacy, Interpersonal skills, Organising and planning skills, \nCommunicatio"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/a.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-47d6d238aba44268",
+    "title": "SENIOR ADMINISTRATIVE OFFICER SCM (TRAINING AND DEVELOPMENT) (INFRASTRUCTURE)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Head Office, Cape Town",
+    "category": "Finance",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/345",
+    "summary": "Compile various training material and guides for Infrastructure procurement \nprocesses and other needs related to infrastructure procurement. Compile a \ntraining prospectus and ensure distribution thereof to all Procuring Entities. \nDraft SCM Circulars and Instructions to ensure that training guides are \ncirculated to all Procuring Entities that can be used to assist during the \nprocurement process. Ensure that all training material is in line with current \nlegislation and industry’s best practices. Update training material according to \nchanges within the industry and legislation. -Identify training needs related to \ninfrastructure procureme",
+    "requirements": [
+      "Minimum educational qualification: An appropriate National Diploma (NQF 6) \nor equivalent in Procurement and/or Built Environment. Experience: \nAppropriate experience working in an infrastructure-related environment. \nInherent requirement of the job: Valid Code (B/EB) driver’s license and \nwillingness to travel long distances for extended periods. Competencies \n(knowledge/skills): Extensive knowledge of and practical experience in SCM \nsystems such as CIDB, ePS, CSD and WCSEB. Knowledge and experience \nof Infrastructure procurement legislation and various training materials. Ability \nto conduc"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-e8bf76b171571cac",
+    "title": "SENIOR ADMINISTRATIVE OFFICER: FINANCE",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Overberg District Office",
+    "category": "Finance",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/349",
+    "summary": "Coordinate and support Revenue, Non-Patient Income (NPI), expenditure, \nand financial administration functions within the Overberg District. Monitor \nexpenditure against approved budgets and report on variances to support \neffective financial management. Process and verify payments, journals, \nreconciliations, and revenue transactions for compliance and accuracy. \nCompile financial reports and assist with interim and annual financial \nstatement preparations. Maintain and clear asset and liability accounts and \nsupport debt management processes. Monitor revenue and NPI performance \nand investigate financial discrepancies. Supervise finance adm",
+    "requirements": [
+      "Minimum educational qualification: Appropriate three-year national Diploma or \nDegree. Experience: Appropriate expenditure control in finance, Revenue and \nNPI payments and expenditure management. Appropriate experience in \nbudget, Revenue and experience control. Experience in the management of \nAssets & Liability Accounts and Debt management. Appropriate proven \nSupervisory experience. Inherent requirements of the job: Valid (Code B/EB) \ndriver’s license. Competencies (knowledge/skills): Extensive knowledge and \npractical experience in BAS as well as good organisational, management, \nleadersh"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-4a2aa67eae318183",
+    "title": "SENIOR ADMINISTRATIVE OFFICER: HUMAN RESOURCES (PAYROLL AND SERVICE BENEFITS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Groote Schuur Hospital, Observatory",
+    "category": "Information Technology",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/347",
+    "summary": "Provide support in the administration processes of E-Disclosure, Declarations. \nProvide in-service training of personnel within the relevant section. Oversee \npension and housing administration. Management of PERSAL functions. \nManage and supervise the general staff office with a very high workload, which \nare responsible for all personnel and related matters. Interpret and implement \npolicies, regulations and procedures and provide an effective and efficient \nassistance and support to clients, personnel, management and supervisors. \nEnsure efficient and effective quality and risk management in HR, including \naudit compliance, databases and r",
+    "requirements": [
+      "Minimum educational qualification: An appropriate National Diploma (NQF 6) \nor equivalent. Experience: Appropriate experience in the PERSAL system. \nAppropriate supervisory experience. Experience in all aspects of personnel \nand salary administration. Appropriate Human Resource Administration. \nCompetencies (knowledge/skills): Ability to function independently and within \na team context. Computer literacy (MS Word, Excel, PowerPoint, Outlook and \nPERSAL). Good interpersonal and conflict resolution skills. Knowledge of \nrelevant Legislation. Leadership, organization, creative problem-solving an"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-8d3f0af62c986235",
+    "title": "SENIOR ADMINISTRATIVE OFFICER: LABOUR RELATIONS",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Office of the Chief Director: Metro Health Services",
+    "category": "Information Technology",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/346",
+    "summary": "Handle misconduct matters and grievances matters. Implement measures in \norder to prevent labour unrest. Render advice on misconduct and grievance \nmatters. Render a support service and represent the employer in dispute \nmatters. Conduct investigations (misconduct, queries, and disputes). Draft \nsubmissions for mandates and represent the employer in disciplinary hearings \nand arbitrations. Assist with preliminary investigations and preparation for \nconciliations and arbitrations. Facilitate the effective functioning of the IMLC \nand supervision of employees. Compilation of Labour Relations statistics and \nimplementation of appropriate interve",
+    "requirements": [
+      "Minimum educational qualification: An appropriate 3-year tertiary qualification \n(National Diploma/B-Degree) in Labour Relations / Human Resource \nManagement/ Law / Public Administration / Public Management. Experience: \nAppropriate experience in Labour Relations within the Public Service context. \nInherent requirement of the job: A valid code EB driving license. Willingness to \ntravel within the Metro. Competencies (knowledge/skills): Extensive \nknowledge of Public Service Act, Public Service Regulations, prescript, Labour \nRelations, Human Resource Management and Conflict Management. \nKnowle"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-7885207baebf917b",
+    "title": "SENIOR CADASTRAL OFFICER",
+    "department": "Department of Land Reform And Rural Development",
+    "province": "National",
+    "location": "Western Cape (Cape Town)",
+    "category": "Information Technology",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "3/1/1/1/2026/270",
+    "summary": "Capture, maintain and update alpha numeric data of simple as well as more \ncomplex cadastral documents. Capture alpha and numeric information from \nnewly submitted cadastral documents (simple and complex) and undertake \nmathematical consistency checks of and data verification of for proposed new \nland parcels. Update cadastral survey databases through the addition or \namendment of every approved document (simple and complex) to maintain \nand electronic alpha-numeric repository. Capture and verify simple and \ncomplex historical cadastral documents. Attend to complicated maintenance of \ncadastral documents in accordance with legislated processe",
+    "requirements": [
+      "Minimum requirements: Applicants must be in possession of a Grade 12 \nCertificate and National Certificate in Geomatics or Survey Officer Certificate \n(NQF Level 5). Minimum of 3 years geomatics post qualification experience in \na Geomatics / Cadastral survey environment. A valid driver’s licence. Job \nrelated knowledge: Knowledge of Geographical Information Systems Software \nand fundamentals. Knowledge of Surveyor-General’s Office Standard \nOperating Procedures and processes. Knowledge of Cadastral Surveys. Job \nrelated skills: Analysing and report writing. Interpersonal relations. \nCommunica"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/k.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-e084048b630a8e5e",
+    "title": "SENIOR COURT INTERPRETER",
+    "department": "Office of the Chief Justice",
+    "province": "National",
+    "location": "Eastern Cape Division of The High Court: Mthatha",
+    "category": "Legal",
+    "salary": "R338 106 - R398 277 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "2026/141/OCJ",
+    "summary": "Render interpreting services: Interpret in Children’s Act matters, criminal \nproceedings, Civil proceedings, Domestic Violence Act matters, Older Persons \nAct matters, Family, Protection from Harassment Act matters, Labour, \nMaintenance Act matters, Child Justice matters, Inquests, and quasi-judicial \nmatters, interpret in small claims Courts, interpret in disciplinary hearing, \ninterpret in Conciliation and Arbitration, interpret in confession. Interpret in pretrial proceedings and consultations, liaise with the supervisor for foreign \nlanguage interpreters, interpret from source to target language during Court \nproceedings, pre-trial, consu",
+    "requirements": [
+      "Applicants should be in possession of a National Diploma in Legal Interpreting \nor equivalent qualification at NQF level six (6) with 360 credits as recognised \nby SAQA. A minimum of two (2) years’ practical experience in Court Interpreting \nor Grade twelve (12) certificate with at least ten (10) years’ practical experience \nin Court Interpreting. Proficiency in English, isiXhosa Afrikaans, isiZulu or \nSesotho. A valid driver’s license will serve as added advantage. All shortlisted \ncandidates shall undertake a pre-entry practical exercise as part of the \nassessment method to determine the can"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/l.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-853926c76f17ba2d",
+    "title": "SENIOR EDUCATION PSYCHOLOGIST GRADE 1: INCLUSIVE AND RURAL EDUCATION",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Zwelitsha, Head Office",
+    "category": "Healthcare",
+    "salary": "R1 295 388 – R1 436 913 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DOE01/08/2026",
+    "summary": "The Senior Psychologist will facilitate the strategic development and \nimplementation of psychoeducational support services, within the context of \ninclusive education as per relevant policies such as WP6, SIAS, ext. within \nFull-Service Schools, Public Ordinary schools and Special Schools to meet \ninternational standards for specialized support services and inclusivity. Clear \nunderstanding of system transformation variables and processes required to \nestablish and sustain an inclusive education system in order to provide support \nservices. Utilize data-driven approaches to guide planning, monitoring, and \ndecision-making within the inclusiv",
+    "requirements": [
+      "Registration with the Health Professions Council of South Africa (HPCSA) as a \npsychologist in a relevant registration category (Educational or Counselling), \nwith a master’s degree in educational or counselling psychology. A minimum of \nthree (3) years’ experience post-registration as an Independent Psychologist. \nDemonstrated personal attributes: integrity, professionalism, self-motivation, \nand the ability to function effectively within a team. Strong communication \nskills, both written and verbal, with a high level of proficiency in English. Added \nadvantage: Experience in both psychothera"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-6cb3eed2e61bcbc9",
+    "title": "SENIOR EDUCATION SPECIALIST (LSPID): EDUCATION SOCIAL SUPPORT SERVICES",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Chris Hani West District Office",
+    "category": "Information Technology",
+    "salary": "R535 146 – R1 183 578 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DOE12/08/2026",
+    "summary": "As a member of the transversal team, the incumbent will collaborate with team \nmembers in the provision of education support to designated schools and care \ncentres on an itinerant basis. Support to be provided will include: Assessment \nof LSPID enrolled in the schools/ care centres; provision of relevant support to \nlearners and families; monitoring and reporting on these learners’ progress; \ntraining caregivers on the learning programme for LSPID; monitoring and \nreporting caregivers’ implementation of the learning programme for LSPID; \ntraining and supporting teachers on learning programme for LSPID; monitoring \nand reporting on the implem",
+    "requirements": [
+      "Applicants must be in possession of a recognised 3- or 4-year qualification \nwhich includes a professional teacher qualification. They should be registered \nwith the South African Council of Educators (SACE) as professional educator \nand have 5 years’ experience in the educational field. The incumbent must \nhave in-depth knowledge and understanding of education legislation and \npolicies. The incumbent must be able to promote inclusive education which \nincludes promoting access to quality public funded education for learners with \ndisability. They should have experience in working as part of a "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-e80890bda1458ec4",
+    "title": "SENIOR FRAUD INVESTIGATOR",
+    "department": "Department of Employment And Labour",
+    "province": "National",
+    "location": "Provincial Office: Eastern Cape",
+    "category": "Information Technology",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "HR4/4/4/5/101",
+    "summary": "Implement \nFraud \nand \nCorruption \nPrevention \nStrategies, \nConduct, \nInvestigations on reported Fraud and Corruption, analyse system capabilities \nto anti-fraud management programmes. Liaise with appropriate sections within \nthe Department of Employment & Labour and external stakeholders on Fraud \nPrevention measures. Supervise resources.",
+    "requirements": [
+      "Three years' relevant tertiary qualification in Risk Management / Internal Audit \n/ Risk and Security Management / Accounting / Law / Policing / Forensic \nInvestigation/CFE qualification. Two (2) years of functional experience in an \nanti-fraud and corruption environment. ACFE membership will be an added \nadvantage. Prepared to travel nationally (In possession of at least a Code 8 \ndriver's license). Knowledge: Investigative Principles and Practices, \nDepartmental and the Fund's Policies and Procedures, Public Financial \nManagement Act (PFMA), Unemployment Insurance and Unemployment \nInsurance"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/d.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-7e9e8ffabefb9e18",
+    "title": "SENIOR MANAGEMENT INFORMATION SYSTEM OFFICER MIS/17/2026",
+    "department": "Department of Higher Education And Training",
+    "province": "National",
+    "location": "Central Johannesburg TVET College, Central Office",
+    "category": "Education",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "MIS/17/2026",
+    "summary": "Ensure proper management of TVETMIS as well as the capturing and \nextraction of college data. Perform validation of data on a regular basis. Set up \nthe system in readiness for enrolment and support other business processes. \nControl the quality of captured data and report if there are errors. Maintain the \ncollege TVETMIS. Manage student and staff data. Use various tools and \nextract data to facilitate statistical reporting. Interact with the service provider \nregarding upgrades and request for assistance. Capture all the approved \nenrolments / registrations and assessments on the system by the \npredetermined time. Ensure the compilation and",
+    "requirements": [
+      "Grade 12 certificate or equivalent. A recognised three (3) year National \nDiploma (NQF level 6) / Bachelor’s Degree in Information Management / Data \nManagement or equivalent qualification. 3-5 years working experience in Data \nManagement / TVETMIS environment or any relevant knowledge. Computer \nliterate and competent in Word/Excel/PowerPoint/Outlook/Teams. Good verbal \nand written communication skills. Presentation and report writing skills. A valid \ndriver’s licence. Knowledge of policies and governance environment of TVET \nColleges including knowledge of the TVETMIS and annual reporting \n\n"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/h.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-fea931f97d0866d9",
+    "title": "SENIOR PERSONNEL PRACTITIONER (AG QUERIES AND TRANSVERSAL EMPLOYMENT MATTERS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Head Office, Cape Town",
+    "category": "Education",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/348",
+    "summary": "Assist with the co-ordination and administration of the annual People \nManagement and Transversal Matters Auditor General Audits for the \nDepartment. Responsible for the administration of the HR Compliance \nMonitoring Tools and preparation of quarterly response received from \ninstitutions, sub structures, regions and districts for the Western Cape Audit \nCommittee. Handle telephonic and written complaints and enquiries on service \nconditions and benefits such as housing and pension administration. Assist \nwith training and information on Transversal Employment Matters to various \ninstitutions/ districts/ regions and or sub structures. Assist,",
+    "requirements": [
+      "Minimum educational qualifications: An appropriate National Diploma (NQF 6) \nor equivalent in People Management (PM) or related field. Experience: \nAppropriate experience of People Management practices including all \nconditions of service and benefits and other transversal related functions. \nInherent requirement of the job: A valid Code B/EB drivers’ license and \nwillingness to travel. Competencies (knowledge/skills): Ability to identify \nirregularities in the application of People Management policies with the \nDepartment through analytical thinking. Ability to function independently as \nwell"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1d74059ed53e7d47",
+    "title": "SENIOR REGISTRAR (MEDICAL) (CLINICAL HAEMATOLOGY)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Tygerberg Hospital, Parow Valley",
+    "category": "Healthcare",
+    "salary": "R1 395 528 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/310",
+    "summary": "Successful completion of the Cert Clinical Haematology (Phys/Path) (SA) \nwhich includes all the logbook requirements of the College of Medicine, \nincluding a mandatory laboratory training period for physician candidates. \nParticipate fully in clinical and academic activities of the division. Maintain \naccurate medical and chemotherapy records. Conduct research in \nHaematology that is relevant to the South African context with successful \ncompletion of the MPhil (Haematology).",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows for \nregistration with the HPCSA as a Medical Specialist in Internal Medicine or \nHematopathology. Registration with a professional council: Registration with \nthe HPCSA as a Medical Specialist in Internal Medicine or Hematopathology \n(Independent Practice). Inherent requirements of the job: Valid (Code B/EB) \ndriver’s license. Commuted overtime is compulsory. Willingness to work after \nhours. The position will be full- time (40 hours per week). Registration with \nStellenbosch University as a postgraduate student (MPhil H"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f4fd45ce7968eac6",
+    "title": "SENIOR SECRETARY",
+    "department": "Department of Defence",
+    "province": "National",
+    "location": "Pretoria \n\n8",
+    "category": "Other",
+    "salary": "R237 453 – R279 708 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "CDHRM/33/36/26",
+    "summary": "Provide a secretarial support service to the Director. Receive telephone calls \nand refers the calls to the correct role. Record appointments and events in the \ndairy of the Director. Operate office equipment like fax and photocopying \nmachine. Liaises with travelling agencies to make travelling arrangements for \nChief Director. Processes travel and subsistence claims for Director. Follow up \nthe arrangements and discuss with the Chief Director when the relevant \ndocuments are received to ensure that the Director endorsed the \naccommodation prior confirmation. Arrange meetings and events for Director. \nBook venues, invites role player, organi",
+    "requirements": [
+      "A minimum of Grade 12/NQF Level 4. Secretarial experience will be an \nadvantage. Special requirements (skills needed): Language skills and the \nability to communication well with people at different levels. Computer literate \n(MS Word, Excel and Power Point) and good telephone etiquette. Sound \norganisational skills. Good inter-personal skills. High level of reliability. Good \ncommunication skills. Ability to act with tact and discretion."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/b.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-4800e100acfda234",
+    "title": "SENIOR STATE ACCOUNTANT: FINANCE (DICU) (X8 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Head Office, Cape Town; Reporting at Stikland Nursing College (X6 Posts) \n\n \nWest Coast Region (X1 Post) \n\n \nCape Winela",
+    "category": "Finance",
+    "salary": "R397 116 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/350",
+    "summary": "Evaluate Accounting and Supply Chain transactions for correctness and \ncompliance with the legislative framework and financial prescripts. Evaluate \ninventory within the institutions and ensure that all inventory/warehouse items \nreconcile on the Accounting Systems of the department. Evaluate the use and \nmanagement of all assets in the institution and ensure that all assets are \ncorrectly accounted for on accounting systems of the department. Report any \ndiscrepancies found and assist Institutional management to implement \ncorrective measures.",
+    "requirements": [
+      "Minimum educational qualification: An appropriate National Diploma (NQF 6) \nor equivalent in SCM, Finance, Accounting, Auditing, or related field. \nExperience: Appropriate experience in Internal Control, Finance and Supply \nChain Management environment. Inherent requirement of the job: Valid (/Code \nB/EB) manual driver’s license. Willingness to travel across the province. \nCompetencies (knowledge/skills): The ability to interpret and apply financial \nand SCM policies, procedures, and prescripts. Ability to compile reports and \npresentation thereof. Knowledge of inventory, assets, irregular exp"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-9f66634dc5046ae2",
+    "title": "SENIOR STATE ACCOUNTANT: RISK PERFORMANCE AND CONTRACT MANAGEMENT",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "Provincial Office, Mbombela (Nelspruit)",
+    "category": "Finance",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "MPDOH/OCT/26/1644",
+    "summary": "Maintain a database of al concluded contracts. Administering contracts \neffectively in accordance with policy, procedures and compliant with applicable \nlegislative requirement. Maintain contract register in a format provided by \nProvincial Treasury. Interacting with the Project Managers about the signing of \ncontracts and service level agreements for all contracts entered by the \nDepartment. Ensuring that all contracts are accurately recorded on the contract \nRegister and regularly update of the contract register. Reviewing contracts on \nthe contract register to ensure their validity. Co-coordinating and control the \napplication of the proce",
+    "requirements": [
+      "Senior Certificate / Grade 12 plus six (6) years relevant experience in Supply \nChain Management field or Diploma / Degree (NQF Level 6/7) in Supply Chain \nManagement / Financial Management, Public Management / Management \nAccounting. At least three (3) years’ experience in the post of Chief \nAdministration Clerk / Administrative Officer / State Accountant at (Level 7). A \nqualification related to Treasury and competence for Finance officials will be \nan added advantage. Preparedness to security clearance and disclosure of \nfinancial interest. A valid driver’s licence (with exception of people"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-46c02e2dee6179e8",
+    "title": "SENIOR STATE LAW ADVISER: LEGAL ADVISORY SERVICES (OSD) REF NO: SSLALS/OTP/03",
+    "department": "Department of Community Safety, Security & Liaison",
+    "province": "Mpumalanga",
+    "location": "Mbombela",
+    "category": "Finance",
+    "salary": "R1 242 915 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "SSLALS/OTP/03",
+    "summary": "Provision of legal advice and furnishing of oral and written legal opinions and \nassistance to the Mpumalanga Provincial Government. Being responsible for \nthe drafting of Provincial legislation and on a continuous basis, for the \nrationalization of Provincial laws, including old order legislation. Draft \nemployment contracts, service level agreements, memoranda, letters and any \nother documents with a legal bearing. Formulate and scrutinize Provincial \nlegislation, including subordinate legislation, i.e. Proclamations, Notices, \nRegulations, etc . Certify internal documents. Making inputs concerning policy \nformulation and implementation and",
+    "requirements": [
+      "An LLB degree or a recognized 4-year legal qualification equivalent to NQF 8. \nAdmission as an Advocate or Attorney. At least eight (8) years’ appropriate post \n\n232 \n\nqualification litigation/advisory experience. A postgraduate qualification will be \nan advantage; Knowledge of particular aspects of the Law; Knowledge and \nunderstanding of Constitutional Law, Human Rights and the Constitution of \nSouth Africa, practical experience in drafting of Bills; Knowledge of specifically \nthe Public Service Act, Public Finance Management Act and Treasury \nRegulations. Skills and competences: Legal Resea"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/x.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1f472f5b6d909800",
+    "title": "SERVICE OFFICE MANAGER (X4 POSTS)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "uMuziwabantu \nService \nOffice: \nuGu \nDistrict \nRef \nNo: \nDSD01/08/2026UMuziwabantu \n\n \nBabanango \nService \nOffice: \nZulu",
+    "category": "Information Technology",
+    "salary": "R1 101 468 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD01/08/2026UMuziwabantu",
+    "summary": "Provide Social Welfare Services; Provide Community Development Services; \nEnsure the provision of corporate support services; Ensure the implementation \nof Departmental policies and other relevant legislation in the day-to-day \nrunning of the component; Manage resources of the Service Office.",
+    "requirements": [
+      "Bachelor’s Degree (NQF Level 7) in Social Work. Registration with the South \nAfrican Council for Social Services Professions as a Social Worker. Only \nShortlisted candidates will submit proof of current registration with the South \nAfrican Council for Social Services Profession as a Social Worker. A valid \ndriver’s license. A minimum of 3 years junior managerial experience in social \nservices environment. Knowledge: Constitution of the Republic of South Africa, \nSocial Welfare and Community Development Legislation, Policies, Norms and \nStandards, Public Service Act, Public Service Regulations,"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-4036b131abac703d",
+    "title": "SOCIAL WORK MANAGER QUALITY ASSURANCE REF NO DSD05/08/2026ETH SOUTH",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "eThekwini South District Office",
+    "category": "Information Technology",
+    "salary": "R1 009 512 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD05/08/2026ETH",
+    "summary": "Provide a social work service of the highest, most advanced and specialized \nnature within (a) defined area(s) of specialization regarding the care, support, \nprotection and development of vulnerable individuals, groups, families and \ncommunities through the relevant programmes in partnership with \nstakeholders. Facilitate the development and planning of programmes and \ninterventions to render a social work service through the efficient, economical \nand effective utilization of financial resources. Manage a social work unit to \nensure that an efficient and effective social work service is delivered through \nthe efficient and effective utiliza",
+    "requirements": [
+      "Qualifications: Bachelor’s Degree (NQF Level 7) in Social Work. Registration \nwith the South African Council for Social Services Professions as a Social \nWorker. Only Shortlisted candidates will submit proof of current registration \nwith the South African Council for Social Services Profession as a Social \nWorker. A valid driver’s license. A minimum of 10 years’ experience in Social \nWork after registration as a Social Worker with SACSSP. Knowledge: \nConstitution of the Republic of South Africa, Public Service Act, Public Service \n\n195 \n\nRegulations, Labour Relations Act, Research Methodology,"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-d2197cc0bb4253b5",
+    "title": "SOCIAL WORK MANAGER: SOCIAL WELFARE SERVICES (X2 POSTS)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "iLembe District Ref No: DSD 06/08/2026ILembe \n\n \nKing Cetshwayo District Ref No: DSD07/08/2026King Cetshwayo",
+    "category": "Information Technology",
+    "salary": "R1 009 512 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD",
+    "summary": "Provide a social work service of the highest, most advanced and specialized \nnature within (a) defined area(s) of specialization with regard to the care, \nsupport, protection and development of vulnerable individuals, groups, families \nand communities through the relevant programmes in partnership with \nstakeholders. Facilitate the development and planning of programmes and \ninterventions to render a social work service through the efficient, economical \n\n196 \n\nand effective utilization of financial resources. Manage a social work unit to \nensure that an efficient and effective social work service is delivered through \nthe efficient and effec",
+    "requirements": [
+      "Qualifications: Bachelor’s Degree (NQF Level 7) in Social Work. Registration \nwith the South African Council for Social Services Professions as a Social \nWorker. Only Shortlisted candidates will submit proof of current registration \nwith the South African Council for Social Services Profession as a Social \nWorker. A valid driver’s license. A minimum of 10 years’ experience in Social \nWork after registration as a Social Worker with SACSSP. Knowledge: \nConstitution of the Republic of South Africa, Public Service Act, Public Service \nRegulations, Labour Relations Act, Research Methodology, Public"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1a98a192de5ee726",
+    "title": "SOCIAL WORK POLICY DEVELOPER: CARE AND SUPPORT SERVICES TO FAMILIES",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Head Office, Pietermaritzburg",
+    "category": "Information Technology",
+    "salary": "R471 330 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD18/08/2026HO",
+    "summary": "Develop, implement and maintain care and support services to families’ \npolicies; Conduct research and development; Keep up to date with new \ndevelopments in the care and support services to families’ field; Perform the \nadministrative functions required in the unit",
+    "requirements": [
+      "Qualifications: Bachelor’s Degree (NQF Level 7) in Social Work. Registration \nwith the South African Council for Social Services Professions as a Social \nWorker. Only Shortlisted candidates will submit Proof of current registration \nwith the South African Council for Social Services Profession as a Social \nWorker. A valid driver’s license. A minimum of 8 years’ appropriate experience \nin Social Work after registration as a Social Worker with SACSSP. Knowledge: \n- Constitution of the Republic of South Africa, Public Service Act, Public Service \nRegulations, Public Finance Management Act, Treasu"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-6b004bbb5ad121fd",
+    "title": "SOCIAL WORK SUPERVISOR",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Emnambithi Service Office: uThukela District",
+    "category": "Social Services",
+    "salary": "R496 668 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD010/08/2026EMNAMBITHI",
+    "summary": "Ensure that a social work service with regard to the care, support, protection \nand development of vulnerable individuals, groups, families and communities \nthrough relevant programmes is rendered, Supervise and advise Social \nWorkers, Social Auxiliary Workers and Student Social Workers to ensure an \neffective social work service, Keep up to date with the new developments in \nthe social work field, Supervise all administrative functions required in the unit \nand undertake the higher – level administrative functions.",
+    "requirements": [
+      "Qualifications: Bachelor’s Degree (NQF Level 7) in Social Work. Registration \nwith the South African Council for Social Services Professions as a Social \nWorker. Only Shortlisted candidates will submit proof of current registration \nwith the South African Council for Social Services Profession as a Social \nWorker. A valid driver’s license. A minimum of 07 years’ experience in Social \nWork after registration as a Social Worker with the SACSSP. Knowledge:- \nPublic Service Act, Public Service Regulations, Batho-Pele principles, \nKnowledge and understanding of human behaviour and social systems, T"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-febf2eb0c52fcf6c",
+    "title": "SOCIAL WORKER OLDER PERSONS GRADE 3 REF NO DSD14/08/2026ZULULAND",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Zululand District \nQUIREMENTS \n: \nQualifications: Bachelor’s Degree (NQF Level 7) in Social Work. Registration \nwith the",
+    "category": "Social Services",
+    "salary": "R496 668 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD14/08/2026ZULULAND",
+    "summary": "Render a social service with regard to the care, support, protection and \ndevelopment of vulnerable individuals, groups, families and communities \nthrough the relevant programmes; Support Services Offices and Non-Profit \nOrganisations (NPO’s); Keep up to date with new developments in the social \nwork and Social Welfare fields of probation services; Perform all the \nadministrative functions require of the jobs. in the social work and Social \nWelfare fields perform all the administrative functions required of the jobs.",
+    "requirements": [
+      "See the official advertisement."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-6ccdfed98f341cbe",
+    "title": "SOCIAL WORKER: CARE AND FAMILIES: GRADE 3 DSD11/08/2026ILEMBE",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "iLembe District",
+    "category": "Finance",
+    "salary": "R496 668 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD11/08/2026ILEMBE",
+    "summary": "Render a social service with regard to the care, support, protection and \ndevelopment of vulnerable individuals, groups, families and communities \nthrough the relevant programmes; Support Services Offices and Non-Profit \nOrganisations (NPO’s); Keep up to date with new developments in the social \nwork and Social Welfare fields of probation services; Perform all the \nadministrative functions require of the jobs.",
+    "requirements": [
+      "Qualifications: Bachelor’s Degree (NQF Level 7) in Social Work. Registration \nwith the South African Council for Social Services Profession as a Social \nWorker. Only Shortlisted candidates will submit proof of current registration \nwith the South African Council for Social Services Profession as a Social \nWorker. A minimum of 20 years’ appropriate experience in Social Work after \nregistration as a Social Worker with SACSSP; A Valid driver’s license. \nKnowledge: Constitution of the Republic of South Africa; Public Service Act; \nPublic service Regulations; Batho-Pele principles; Labour Relations"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-c5360c80589c25c9",
+    "title": "SOCIAL WORKER: CHILD PROTECTION SERVICES: GRADE 3 DSD12/08/2026UMZINYATHI",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "uMzinyathi District",
+    "category": "Finance",
+    "salary": "R496 668 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD12/08/2026UMZINYATHI",
+    "summary": "Render a social service with regard to the care, support, protection and \ndevelopment of vulnerable individuals, groups, families and communities \nthrough the relevant programmes; Support Services Offices and Non-Profit \nOrganisations (NPO’s); Keep up to date with new developments in the social \nwork and Social Welfare fields of probation services; Perform all the \nadministrative functions require of the jobs. in the social work and Social \nWelfare fields perform all the administrative functions required of the jobs.",
+    "requirements": [
+      "Qualifications: Bachelor’s Degree (NQF Level 7) in Social Work. Registration \nwith the South African Council for Social Services Profession as a Social \nWorker. Only Shortlisted candidates will submit proof of current registration \nwith the South African Council for Social Services Profession as a Social \nWorker. A minimum of 20 years’ appropriate experience in Social Work after \nregistration as a Social Worker with SACSSP; A Valid driver’s license. \nKnowledge: Constitution of the Republic of South Africa; Public Service Act; \nPublic service Regulations; Batho-Pele principles; Labour Relations"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-38eca1d6ba248119",
+    "title": "SOCIAL WORKER: HIV & AIDS SUPPORT: GRADE 3 DSD13/08/2026AMAJUBA",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Amajuba District",
+    "category": "Finance",
+    "salary": "R496 668 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD13/08/2026AMAJUBA",
+    "summary": "Render a social service with regard to the care, support, protection and \ndevelopment of vulnerable individuals, groups, families and communities \nthrough the relevant programmes; Support Services Offices and Non-Profit \nOrganisations (NPO’s); Keep up to date with new developments in the social \nwork and Social Welfare fields of probation services; Perform all the \nadministrative functions require of the jobs. in the social work and Social \nWelfare fields perform all the administrative functions required of the jobs.",
+    "requirements": [
+      "Qualifications: Bachelor’s Degree (NQF Level 7) in Social Work. Registration \nwith the South African Council for Social Services Profession as a Social \nWorker. Only Shortlisted candidates will submit proof of current registration \nwith the South African Council for Social Services Profession as a Social \nWorker. A minimum of 20 years’ appropriate experience in Social Work after \nregistration as a Social Worker with SACSSP; A Valid driver’s license. \nKnowledge: Constitution of the Republic of South Africa; Public Service Act; \n\n199 \n\nPublic service Regulations; Batho-Pele principles; Labour Re"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f3d9261e8ad261ca",
+    "title": "SPEECH THERAPIST GRADE 1, 2 OR 3 POST)",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Dr Pixley Ka Isaka Seme Memorial Hospital",
+    "category": "Healthcare",
+    "salary": "R413 121 – R472 359 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DPKISMH",
+    "summary": "Provision of effective and comprehensive assessment and treatment for \npaediatrics and general speech therapy to services to all patients. Sound \nknowledge of paediatric dysphagia assessments and management. \nComprehensive caregiver training, patient education and related concerns. \nPerform outreach services as needed, conduct group work/ therapy and or \nblock therapy as identified. Confidentiality and ethical multidisciplinary \napproach to treatment of patients. Conduct home and school visits and other \ncommunity visits as needed. Administrative work related to patient care: reportwriting, statistics. Meeting, case conference, legal reports ",
+    "requirements": [
+      "Grade 1: No experience required after registration as Speech Therapist. Grade \n2: Minimum of 10 years relevant experience after registration as Speech \nTherapist. Grade 3: Minimum of 20 years relevant experience after registration \nas Speech Therapist. Other Benefits:13thCheque, Medical Aid (Optional), \nHousing Allowance: Employee must meet prescribed requirements. Senior \nCertificate / Grade 12 plus a National Diploma/Degree in Speech Therapy plus \nCurrent registration with the Health Professions Council of South Africa \n(HPCSA) as a Speech Therapist plus Certificate of service endorsed by HR"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-6ce32eff8cea1185",
+    "title": "STAFF NURSE",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Prince Mshiyeni Memorial Hospital",
+    "category": "Healthcare",
+    "salary": "R229 440 – R256 671",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "PMMH",
+    "summary": "Provide basic nursing care to patients in accordance with the scope of practice. \nAssist Professional Nurses with patient care and nursing procedures. Maintain \npatient hygiene, comfort, dignity and safety. Observe and report changes in \npatients' conditions to the Professional Nurse. Assist with admission, transfer \nand discharge of patients. Maintain accurate patient records and reports. \nEnsure compliance with Infection Prevention and Control and Occupational \nHealth and Safety practices. Assist with the effective utilisation resources. \nParticipate in patient and staff education as directed. Work as part of a \nmultidisciplinary team to en",
+    "requirements": [
+      "Grade 12 Certificate. Enrolled Nurse Certificate. Current registration with the \nSouth African Nursing Council (SANC) 2026 as a Staff Nurse. Experience \nGrade 1: None. Experience Grade 2: A minimum of 10 years \nappropriate/recognizable experience in nursing after registration with the \nSANC as Staff Nurse. Experience Grade 3: A minimum of 20 years \nappropriate/recognizable experience in nursing after registration with the \nSANC as Staff Nurse. Knowledge, Skills Training and Competencies Required: \nKnowledge of Public Service policies, Acts, Regulations, Code of Conduct, \nLabour Relations Act, "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-d8eb47cc402b707c",
+    "title": "STAFF NURSE",
+    "department": "Department of Economic Development, Tourism And Environmental Affairs",
+    "province": "KwaZulu-Natal",
+    "location": "Kwabadala Centre for the Residential Care of Old Persons: King Cetshwayo \nDistrict",
+    "category": "Healthcare",
+    "salary": "R229 440 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD25/08/2026KWABADALA",
+    "summary": "Implement basic residents care plans; Provide basic clinical nursing care; \nMaintain effective utilisation of resources; Maintain professional growth / ethical \nstandards and self-development.",
+    "requirements": [
+      "Qualifications: Grade 12 / Senior Certificate, Certificate in Nursing, Registration \nwith the South African Nursing Council (SANC) as an Enrolled Nurse, Only \nShortlisted candidates will submit proof of Current registration with the South \nAfrican Nursing Council (SANC) as an Enrolled Nurse. Knowledge: \nConstitution of the Republic of South Africa, Public Service Act, Public Service \nRegulations as amended, Public Finance Management Act, Treasury \nRegulations, Knowledge of nursing care processes and procedures, nursing \nstatuses, and other relevant legal frameworks; Nursing Act; Health Act; \nO"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/v.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-cd976dded6592414",
+    "title": "STAFF NURSE GRADE 1 TO 3",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Breede Valley Sub-district (based at De Doorns CHC)",
+    "category": "Healthcare",
+    "salary": "R229 440 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/372",
+    "summary": "Development and implementation of basic patient care. Provide basic clinical \nnursing care. Effective utilization of physical and financial resources. Maintain \nprofessional growth/ethical standards and self-development.",
+    "requirements": [
+      "Minimum educational qualification: Qualification that allows registration with \nthe SANC as a Staff Nurse. Registration with a professional council: \nRegistration with the SANC as a Staff Nurse. Experience: Grade 1: None. \nGrade 2: A minimum of 10 years appropriate/recognisable nursing experience \nafter registration with the SANC as a Staff Nurse. Grade 3: A minimum of 20 \nyears appropriate/recognisable nursing experience after registration with \nSANC as a Staff Nurse. Inherent requirements of the job: Valid (code B/EB) \ndriver’s license. Competencies (knowledge/skills): Good communication, \np"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-fdd19c1a26c07fe9",
+    "title": "STAFF NURSE GRADE 1 TO 3",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Sonstraal Hospital",
+    "category": "Healthcare",
+    "salary": "R229 440 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/373",
+    "summary": "Development and implementation of basic patient care plans. Provide basic \nclinical nursing care. Effective utilization of physical and financial resources. \nMaintain professional growth/ethical standards and self-development.",
+    "requirements": [
+      "Minimum educational qualification: Qualification that allows registration with \nthe SANC as a Staff Nurse. Registration with a professional council: \nRegistration with SANC as Staff Nurse. Experience: Grade 1: None. Grade 2: \nA minimum of 10 years’ appropriate/recognizable experience in nursing after \nregistration with the SANC as a Staff Nurse. Grade 3: A minimum of 20 years’ \nappropriate/recognizable experience in nursing after registration with the \nSANC as a Staff Nurse. Inherent requirements of the job: Willingness to work \nshifts, night and day shifts, weekends, public holidays and overt"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-a3abd5ea9a66c5d5",
+    "title": "STAFF NURSE GRADE 1 TO 3 (X3 POSTS)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Brackengate Transitional Care (TCF)",
+    "category": "Healthcare",
+    "salary": "R229 440 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/371",
+    "summary": "Provide basic clinical nursing care. Development and implementation of basic \npatient care plans. Facilitate the provision of health care and education \naccording to individual needs of patients, family and community. Effective \nutilization of resources. Maintain professional growth/ethical standards and \nself-development. Reporting on patient safety and adverse incidents. Effective \nrecord keeping.",
+    "requirements": [
+      "Minimum educational qualification: Qualification that allows registration with \nthe SANC as a Staff Nurse. Registration with a professional council: \nQualification that allows registration with the SANC as a Staff Nurse. \nExperience: Grade 1: None. Grade 2: A minimum of 10 years \nappropriate/recognizable experience in nursing after registration with the \nSANC as an Enrolled Nurse. Grade 3: A minimum of 20 years appropriate/ \nrecognizable experience in nursing after registration with the SANC as an \nEnrolled Nurse. Inherent requirements of the job: Willingness to work overtime \nwhen necessary. "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-707c57953418d523",
+    "title": "STATE ACCOUNTANT GENERAL PAYMENTS REF NO DSRAC 06/09/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (Qonce)",
+    "category": "Finance",
+    "salary": "R338 106 – R398 277 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Render financial administration. Process and verify general payment \ntransactions accurately and within prescribed timeframes. Ensure all payment \nrequests are supported by valid documentation and approved in accordance \nwith delegated authority. Capture, review, and authorize payment transactions \non the applicable financial management systems. Monitor payment batches to \nensure timely settlement of supplier invoices and other financial obligations. \nRender authorization of electronic transactions for transfers and creditors \npayments. Verification of captured payment details. Render quality assurance \nof payments. Facilitate and solve payme",
+    "requirements": [
+      "National Senior Certificate plus a National Diploma (NQF Level 6) or B. Degree \n(NQF level 7 as recognised by SAQA) in Financial Accounting/ Cost and \nManagement Accounting/ Financial Management/ Internal Audit qualification \nwith at least 1 to 2 years’ experience within the public sector expenditure \nmanagement field. Knowledge of financial systems (LOGIS and BAS). \nKnowledge of Public Service Regulations, Legislations/ policies/ prescripts, \nand procedures. Knowledge of Treasury Regulations, understanding of the \nPublic Finance Management Act (PFMA). Financial Regulations Knowledge of \n\n125 "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-afee0af9231bc51a",
+    "title": "STATE ACCOUNTANT MANAGEMENT ACCOUNTING REF NO DEE2026/022",
+    "department": "Department of Electricity And Energy",
+    "province": "National",
+    "location": "Head Office, Pretoria",
+    "category": "Finance",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DEE2026/022",
+    "summary": "Collate financial supporting information for the annual budget planning purpose \n(MTEF/ENE). In-year Budget process-prepare and capture budget information. \nCash flow management (Drawings and against the NRF). Supervisory \nfunctions.",
+    "requirements": [
+      "An appropriate National Diploma in Government Accounting, Cost Accounting \nor related at NQF Level 6 recognised by the South African Qualification \nAuthority (SAQA), PLUS 1year experience in Finance (Budget). Knowledge of: \nPublic Finance Management Act (PFMA), Treasury Regulations, Departmental \npolicies and procedures. Financial and related transversal systems used in \ngovernment (BAS, Safetyweb, Vulindlela), Financial Administration and \nmanagement \naccounting. \nSkills: \nFinancial \nand \naccounting \nskills, \ncommunication skills, Business letter and report writing skills, computer \nliteracy,"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/c.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-fee171d61c72a4ad",
+    "title": "STATE ACCOUNTANT: BUDGET PLANNING",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "OR Tambo District",
+    "category": "Finance",
+    "salary": "R338 106 – R 398 277 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Monitor the Implementation of expenditure patterns of the department. Prepare \nexpenditure report documents as per responsibility codes of the programmes. \nIdentify misallocations of funds. Facilitate loading and capturing of budget on \nthe system. Collection of inputs from programs for budget in line with the \noperational plans. Preparation of final balancing of budget for each following \nfinancial year. Facilitate submission of budget database from the programs. \nFacilitate consolidation of operational budget. Guide and assist programmes \non budget utilization. Facilitate logistical arrangements for the workshops. \nMinute taking for worksho",
+    "requirements": [
+      "National Senior Certificate plus a National Diploma (NQF level 6) or B. Degree \n(NQF level 7) as recognised by SAQA in Accounting/ Cost & Management \nAccounting/ Financial Management/ Internal Audit qualifications with at least 1 \nto 2 years’ experience within the public sector expenditure management field \nand payment of employee benefits. Public sector finances experience in \nbudgeting and revenue management will be added advantage. Knowledge of \nfinancial systems (LOGIS, PERSAL and BAS) and be able to interpret NERF \nand Standard Chart of Accounts (SCoA). Knowledge of Public Service \nRegula"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-57358cc49af6d4fa",
+    "title": "STATE ACCOUNTANT: CASH & REVENUE MANAGEMENT DSRAC 07/09/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (Qonce)",
+    "category": "Finance",
+    "salary": "R338 106 – R398 277 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Ensure Collection and Deposit of Revenue. Receive and account for all \nrevenue collected by the department. Verify the accuracy and completeness of \nrevenue collection documentation. Ensure that all revenue is deposited into the \nrelevant bank account within prescribed timeframes. Capture and record \nrevenue transactions on the relevant financial management systems. Monitor \noutstanding revenue and follow up on unpaid amounts. Ensure compliance \nwith the Public Finance Management Act (PFMA), Treasury Regulations and \ndepartmental policies relating to revenue collection. Maintain proper records \nand support documentation for all revenue transa",
+    "requirements": [
+      "National Senior Certificate plus a National Diploma (NQF Level 6) or B. Degree \n(NQF level 7 as recognised by SAQA) in Accounting/ Cost & Management \nAccounting/ Financial Management/ Internal Audit qualifications with at least 1 \nto 2 years’ experience within the public sector expenditure management field \nand payment of employee benefits. Public sector finances experience in \nbudgeting and revenue management will be added advantage. Knowledge of \nfinancial systems (LOGIS, PERSAL and BAS) and be able to interpret NERF \nand Standard Chart of Accounts (SCoA). Knowledge of Public Service \nRegula"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-754ffc2e136ee856",
+    "title": "STATE ACCOUNTANT: EXPENDITURE MANAGEMENT 12/09/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "BCM District (Ku Gompo City)",
+    "category": "Finance",
+    "salary": "R338 106 – R398 277 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Render and implement payment services. Facilitate receipt of invoices from \nSupply Chain Management and identify misclassification of commitments on \nisisele and Logis System. Verify authenticity of attachments on both isisele and \nLogis Systems. Laise with internal audit and external stakeholders. Capture \npayments on Logis System. Pre-authorize payments on Logis and Isisele. \nForward pre-authorized payments to internal control for verification and \nauthenticity of the documents on Logis systems. Ensure proper filling of \ndocuments and submit to internal control for safekeeping. Compile weekly and \nmonthly reports. Implementation of expendit",
+    "requirements": [
+      "National Senior Certificate plus a National Diploma (NQF Level 6) or B. Degree \n(NQF level 7 as recognised by SAQA) in Accounting/ Cost & Management \nAccounting/ Financial Management/ Internal Audit qualifications with at least 1 \nto 2 years’ experience within the public sector expenditure management field \nand payment of employee benefits. Public sector finances experience in \nbudgeting and revenue management will be added advantage. Knowledge of \nfinancial systems (LOGIS, PERSAL and BAS) and be able to interpret NERF \nand Standard Chart of Accounts (SCoA). Knowledge of Public Service \nRegula"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-88dacf166f173fef",
+    "title": "STATE ACCOUNTANT: INTERNAL CONTROL (PRE -AUDIT) (X2 POSTS)",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Nelson Mandela (Gqeberha) Ref No: DSRAC 10/09/2026 \n\n \nBCM District (KU Gompo City) Ref No: DSRAC 11/09/2026",
+    "category": "Finance",
+    "salary": "R338 106 – R398 277 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Provide / render internal control services. Ensure compliance with statutory and \nregulatory requirements, governing procurement and expenditure. Monitor \n\n128 \n\ncompliance with government prescripts, policies and procedures. Perform \nadministrative duties for the unit. Provide support in the implementation of \neffective financial management and Internal Control measures within the \ndepartment. Ensure proper filling safekeeping of financial records. Perform \nreconciliations where required and compile weekly and monthly reports. Laise \nwith relevant stakeholders to facilitate timely investigations, corrections and \nresolutions of identified co",
+    "requirements": [
+      "National Senior Certificate plus a National Diploma (NQF Level 6) or B Degree \n(NQF level 7 as recognised by SAQA) in Accounting/ Cost & Management \nAccounting/ Financial Management/ Internal Audit qualifications with at least 1 \nto 2 years’ experience within the public sector expenditure management field \nand payment of employee benefits. Public sector finances experience in \nbudgeting and revenue management will be added advantage. Knowledge of \nfinancial systems (LOGIS, PERSAL and BAS) and be able to interpret NERF \nand Standard Chart of Accounts (SCoA). Knowledge of Public Service \nRegulat"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-c0b0306eb7ecb33f",
+    "title": "STATE ACCOUNTANT: TAX RECONCILIATION 08/09/2026",
+    "department": "Department of Education",
+    "province": "Eastern Cape",
+    "location": "Head Office (Qonce)",
+    "category": "Finance",
+    "salary": "R338 106 – R398 277 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSRAC",
+    "summary": "Render Tax Rebates Services. Receive, assess and process tax rebate \napplications in accordance with relevant legislation, policies and procedures. \nVerify the completeness and -accuracy of supporting documentation submitted \nby taxpayers and stakeholders. Validate taxpayer information against financial \nand tax records. Capture, update and maintain tax rebate information on the \nrelevant financial management systems. Calculate and process approved tax \nrebates accurately and within prescribed turnaround times. Prepare payment \nschedules for approved tax rebates. Resolve tax rebate-related queries from \ntaxpayers and internal stakeholders. Li",
+    "requirements": [
+      "National Senior Certificate plus a National Diploma (NQF Level 6) or B. Degree \n(NQF level 7 as recognised by SAQA) in Accounting/ Cost & Management \nAccounting/ Financial Management/ Internal Audit qualifications with at least 1 \nto 2 years’ experience within the public sector expenditure management field \nand payment of employee benefits. Public sector finances experience in \nbudgeting and revenue management will be added advantage. Knowledge of \nfinancial systems (LOGIS, PERSAL and BAS). Knowledge of Tax \nAdministration Act, Public Service Regulations, Legislations / policies / \nprescripts,"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/s.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-a2bc234f941b0cf1",
+    "title": "TEAM LEADER",
+    "department": "Department of Employment And Labour",
+    "province": "National",
+    "location": "Middelburg Labour Centre",
+    "category": "Healthcare",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "HR",
+    "summary": "Plan and independently conduct substantive inspections with the aim of \nensuring compliance with all labour legislations, namely, Basic Conditions of \nEmployment act, (BCEA), Labour Relations Act (LRA), Employment Equity Act \n(EEA),Unemployment Insurance Act (UIA), Compensation for Occupational \nInjuries and Diseases Act (COIDA), Occupational Health and safety (OHS) and \nUI Contribution (UCA), Plan and execute investigations independently on \nreported cases pertaining to contravention of labour legislation and \nenforcement as and when necessary including making preparations for and \nappearing in Court as State witness, Plan and conduct alloca",
+    "requirements": [
+      "Three (3) year relevant qualification in Labour Relations/Labour Law, \nLLB/BCOM LAW. A Valid driver’s licence. Two (2) years of functional \nexperience in the Inspection and Enforcement Service. Knowledge: \nDepartmental policies and procedures, Labour Relations Act, Basic Conditions \nof Employment Act, Skills Development Levies Act, Occupational Health and \nSafety Act, COIDA, SABS Codes, Unemployment Insurance Act, UI \nContributions Act, Employment Equity Act, Immigration Act. Skills: Facilitation \nskills, Planning and Organising, Computer literacy, Interpersonal skills, Conflict \nhandling skil"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/d.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-7d34e207f239645a",
+    "title": "ULTRASOUND RADIOGRAPHER GRADE 1 TO 3 (SONOGRAPHER)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Khayelitsha CHC",
+    "category": "Healthcare",
+    "salary": "R510 906 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/330",
+    "summary": "Provide a comprehensive diagnostic ultrasound service at an advanced level \nwith the focus on Obstetrics and Gynaecology (OSG) imaging in Khayelitsha \nCHC. General care of patients as part of a multi-disciplinary team. Effective \nadministration within the ultrasound unit regarding patient service, appropriate \nreferral as well as equipment management. Maintain case records and \nstatistics. Actively take part in CPD- program, as a learner as well as In-service \ntraining.",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) in \nUltrasound Radiography. Registration with a professional council: Registration \nwith the Health Professions Council of South Africa (HPCSA) as a \nRadiographer in Ultrasound. Experience: Grade 1: None after registration with \nthe HPCSA in Ultrasound Radiography in respect of RSA-qualified employees. \nOne-year relevant experience after registration with the HPCSA in \nRadiography (Ultrasound) in respect of foreign qualified employees, of whom \nit i"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-e2be87145c5e7c6c",
+    "title": "ULTRASOUND RADIOGRAPHER GRADE 1 TO 3 (SONOGRAPHER)",
+    "department": "Department of Health And Wellness",
+    "province": "Western Cape",
+    "location": "Caledon Hospital, Theewaterskloof Sub-district",
+    "category": "Healthcare",
+    "salary": "R510 906 per annum",
+    "closingDate": "2026-10-23",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/331",
+    "summary": "Perform a full range of obstetric and gynaecological ultrasound scans, \nincluding routine, level II/III, and specialized assessments with adherence to \ndepartmental protocols and the most effective use of human and financial \nresources. Use advanced ultrasound equipment to produce accurate, highquality diagnostic images. Identify normal and abnormal findings, and provide \nclear, structured reports. Adopt responsibility for regular back-up and storage \nof ultrasound images. Deliver compassionate, patient-centered care, ensuring \ncomfort and dignity throughout the imaging process. Maintain continuity of \ncare by undertaking follow-up scans and ",
+    "requirements": [
+      "Minimum educational qualification: Appropriate qualification that allows \nregistration with the Health Professions Council of South Africa (HPCSA) in \nUltrasound Radiography. Registration with a professional council: Registration \nwith the Health Professional Council of South Africa (HPCSA) as a \nRadiographer in Ultrasound. Experience: Grade 1: None after registration In \nUltrasound Radiography with the HPCSA in Ultrasound Radiography in \nrespect of qualified RSA employees. One-year relevant experience after \nregistration with the HPCSA in Ultrasound Radiography in respect of foreign \nqualifie"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/aa.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f5514205a72d9faa",
+    "title": "ADMINISTRATION CLERK PRINTING OUTSOURCING REF NO GPW26/02 (X2 POSTS)",
+    "department": "Department of Government Printing Works",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Finance",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "GPW26/02",
+    "summary": "Render effective and efficient administration support in the process of printing \noutsourcing: Provide administration support in the process of printing \noutsourcing in accordance with all relevant prescripts, policies, and \nprocedures. Check and verify contract printers quotes and invoices are in \naccordance to contract tariffs. Keep record of daily monitoring of printing \ncontracts (working progress, etc). Verify GPW specifications in line with the \nprinting contract. Liaise with external contractors and government departments \n(national and provincial) to ensure smooth-running and correct printing \noutsourcing. Render support with the prep",
+    "requirements": [
+      "A Grade 12 certificate. A three-year Degree in Supply Chain Management, \nNQF5 certificate in contract management plus 2 years’ Experience in Supply \nChain Management field will be an added advantage. Other: Understanding of \nall relevant Supply Chain Management legislative framework, regulations and \nprescripts. Basic understanding of the PFMA, PPPFA, Financial Framework, \nContract Management Framework, Supply Chain Management Framework, \nTreasury Regulations, GRAP, BBBEE) and understanding of all Public Service \nregulations and departmental policies and procedures."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/f.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-480136051490f2eb",
+    "title": "ADMINISTRATION CLERK: ACCOMODATION & AUXILIARY CMS-CT14/2026",
+    "department": "Department of Forestry, Fisheries And The Environment",
+    "province": "National",
+    "location": "Bisho",
+    "category": "Finance",
+    "salary": "R228 321 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "CMS-CT14/2026",
+    "summary": "Provide administrative and logistical support to the Directorate: receive and \nregister incoming and outgoing correspondence. Make photocopies. Assist \nwith petty cash requests and procurement of office stock. Records \nmanagement. Distribution of documents in a prompt and confidential manner. \nMake travel arrangements for the officials. Handle travel claims. Maintain and \noversee the filling system of the Directorate. Assist with the management of \nfinances within the Directorate. Procurement of goods and services using the \ncorrect procedures. Prepare quarterly procurement reports for the Directorate. \nEnsure that orders are created, and inv",
+    "requirements": [
+      "Grade 12 certificate. A post-matric qualification and relevant experience in \nAdministration will be an added advantage. Knowledge of administrative \nprocedure. Knowledge of procurement policies and procedures. Thorough \nknowledge of Financial Management. Computer literacy. Good communication \nskills (written and spoken). Report writing skills. Good interpersonal relations \nskills. Knowledge of public service prescripts and procedures. Sound \norganising and planning skills. Ability to work long hours voluntarily and plan \nunder pressure. Ability to gather and analyse information. Ability to ad"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/e.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-671836fba5738314",
+    "title": "ADMINISTRATION CLERK: CONTRACT MANAGEMENT GPW26/01 (X2 POSTS)",
+    "department": "Department of Government Printing Works",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Finance",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "GPW26/01",
+    "summary": "Provide clerical support in the administering of contract agreements: Prepare \nmotivations for contracts and provide inputs for motivations to the Manager. \nEnsure accurate invoices of contractors for submittance to the Assistant \nDirector for approval of payment by the Director when orders are delivered. \nCompile submissions to Legal for drafting of SLA and addendums. Provide \nclerical support in the monitoring of service level agreements: Ensure that \nservice level agreements are in line with all relevant legislation, regulations and \nGPW prescripts, policies, and procedures. Ensure that contracts are properly \nexecuted, maintained, and upd",
+    "requirements": [
+      "A Grade 12 certificate. A three-year Degree in Supply Chain Management, plus \n2 years’ Experience in Contract Management field will and NQF5 certificate in \ncontract management be an added advantage, knowledge of contract \nManagement framework and administering of contract register will be added \nadvantage. Other: Understanding of all relevant Supply Chain Management \nlegislative framework, regulations and prescripts. Basic understanding of the \nPFMA, PPPFA, Financial Framework, Contract Management Framework, \n\n28 \n\nSupply Chain Management Framework, Treasury Regulations, GRAP, BBBEE) \nand und"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/f.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3d7278a8444f8056",
+    "title": "ADMINISTRATION CLERK: FOREST ENTERPRISE DEVELOPMENT REF NO: FOM69/2026",
+    "department": "Department of Forestry, Fisheries And The Environment",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Information Technology",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "FOM69/2026",
+    "summary": "Render general clerical support services; Record, organise, store, capture and \nretrieve correspondence and information. Update registers and render \nadministrative services. Handle routine enquiries, make photocopies, receive, \nor send emails. Distribute documents/packages to various stakeholders as \nrequired, maintain the filing system for the office. Type documents and/or other \ncorrespondence when required. Keep and maintain the incoming and outgoing \ndocuments register of the office. Provide supply chain clerical support services \nwithin the component; Liaise with internal and external stakeholders in relation \nto procurement of goods an",
+    "requirements": [
+      "Grade 12 (NQF) or equivalent qualification as recognised by SAQA. Exposure \nin Office Administration / Environment will serve as an added advantage. Basic \nknowledge of Public Service Regulation and PFMA. Knowledge of \nprocurement processes, organising, and planning. Computer skills and \ncommunication skills. Good interpersonal relations skills. Ability to work \nindividually and in a team. Ability to work under extreme pressure. Ability to \nwork with difficult people and ability to resolve conflicts. Be responsible and \nloyalty."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/e.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1a1a51ac354ab7ce",
+    "title": "ASSISTANT DIRECTOR AUXILARY AND TELECOMMUNICATION MANAGEMENT SERVICES",
+    "department": "Department of Forestry, Fisheries And The Environment",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Finance",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "CMS55/2026",
+    "summary": "Provide comprehensive Auxiliary Support Services, with a primary focus on \ncleaning and hygiene services, food aid functions and related functions. Ensure \nthe effective delivery and coordination of auxiliary services across Head Office \nand regional offices. Support the management and monitoring of Service Level \nAgreements (SLAs) to ensure compliance and optimal service delivery. Assist \nin the planning, coordination, and implementation of auxiliary service projects. \nConduct regular inspections of facilities and services to ensure adherence to \n\n23 \n\nrequired standards. Compile detailed inspection and compliance reports, \nhighlighting find",
+    "requirements": [
+      "National Diploma in Facilities Management, Property Management, Public \nAdministration (NQF6) or relevant qualification as recognised by SAQA. A \nminimum of 3 years’ experience in Auxiliary and Telecommunication Services. \nKnowledge of administrative procedures. Financial and project management \nor related field. Knowledge of HR practices. Ability to gather and analyse \ninformation. Contract management. Computer literate. Coordination and \nwriting reports. Planning and organising skills. Good communication skills \n(written and verbal). Good interpersonal relations skills. Ability to work \ninde"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/e.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-16fe915c2f84aaec",
+    "title": "ASSISTANT DIRECTOR SHEQ ENVIRONMENTAL RESOURCE MANAGEMENT (X2 POSTS)",
+    "department": "Department of Forestry, Fisheries And The Environment",
+    "province": "National",
+    "location": "Pretoria Ref No: EP25/2026 \n\n \nDurban Ref No: EP26/2026",
+    "category": "Finance",
+    "salary": "R605 742 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "EP25/2026",
+    "summary": "Conduct \nsecond-party \nquality \ncompliance \nassessments \nwithin \nthe \nEnvironmental Programmes. Assess compliance with quality standards, \nindustry requirements and Environmental Programmes operational procedure. \nConduct second-party quality Compliance verification within the Environmental \nProgrammes. Conduct Projects field quality compliance verifications. Assist in \nthe development and review of Environmental Programmes branch quality \nassessment and verification documentation, and SHEQ Procedures. Conduct \nand Coordinate Quality Compliance Support Training Sessions. Monitoring of \nEP Projects quality compliance recommendations.",
+    "requirements": [
+      "National Diploma (NQF6) in Forestry/Nature Conservation/ Environmental \nManagement or relevant qualification as recognised by SAQA. A minimum of \nthree (3) years’ experience in Environmental Management or in the relevant \nfield. Knowledge of environmental legislation and regulation development. \nKnowledge of veld and forest fire legislation including integrated fire \nmanagement, Alien invasive plants including control methods and Indigenous \nplants identification. Understanding of natural resource management. \nUnderstanding of government standard administrative procedures, quality \nstandards a"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/e.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1e94ad69a7ba02e8",
+    "title": "ASSISTANT DIRECTOR: IT GOVERNANCE AND PLANNING SUPPORT",
+    "department": "Department of Forestry, Fisheries And The Environment",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Information Technology",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "CMS54/2026",
+    "summary": "Coordinate GITO compliance and reporting. Participate in the implementation \nof the Corporate Governance of ICT policy. Provide secretarial services to ICT \ngovernance structures. Participate in the development and review of ICT \nrelated policies. Provide stakeholder engagement support. Coordinate various \nGITO Reporting queries and facilitate an appropriate response. Draft and \nconsolidate ICT plans. Facilitate the implementation of ICT Plans... Coordinate \nthe development of the annual ICT risk plan/register. Coordinate the \nimplementation of Audit and Risk plans. Participate in the implementation of \nICT related DPSA determinations and dir",
+    "requirements": [
+      "National Diploma (NQF6) in Information Technology or relevant qualification as \nrecognised by SAQA. A minimum of 3 years’ experience in ICT environment, \nIT governance, IT risk or relevant field, COBIT/ITIL will be an added advantage. \nKnowledge of IT corporate governance frameworks, Public Service Regulatory \nframework, DPSA directives and determinations, Public Finance Management \nAct and Treasury Regulations, IT practice & procedures, administrative \nprocedures, \nproject \nmanagement, \nIT \nPlanning, \nStrategic \nPlanning \nManagement, Audit processes. Knowledge of people management, change \nma"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/e.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-7527bab14b55220d",
+    "title": "ASSISTANT DIRECTOR: SUSTAINABLE FOREST MANAGEMENT REF NO: FOM76/2026",
+    "department": "Department of Forestry, Fisheries And The Environment",
+    "province": "National",
+    "location": "Pretoria \nEQUIREMENTS \n: \nNational Diploma (NQF6) in Forestry or Natural Science or relevant \nqualification within the r",
+    "category": "Other",
+    "salary": "R605 742 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "FOM76/2026",
+    "summary": "Administer, implement, monitor and enforce the provisions of the National \nForests Act (NFA), 1998 (Act No. 84 of 1998). Review, amend and develop \nNFA policies, strategies, guidelines and Standard Operating Procedures \n(SOPs). Provide technical advice in the processing of licences for protected \ntrees, state forests and natural forests. Review and comment on Environmental \nImpact Assessment (EIA) reports and other specialist reports for development \n\n22 \n\nimpacting forests and protected tree species. Review and adjust Forestry \nTariffs for forest products and services annually in compliance with Treasury \nRegulations. Promote compliance and ",
+    "requirements": [
+      "See the official advertisement."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/e.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-e0c8d1227b9efc24",
+    "title": "BIODIVERSITY OFFICER PRODUCTION GRADE A: ISSUING AUTHORITY",
+    "department": "Department of Forestry, Fisheries And The Environment",
+    "province": "National",
+    "location": "Cape Town",
+    "category": "Finance",
+    "salary": "R357 597 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "BC25/2026",
+    "summary": "Administer the process of issuing authorisation of alien and invasive species. \nProcess permit application. Conduct risk assessments for listed invasive \nspecies and alien species with invasive potential. Liaise and advice \nstakeholders on the permitting of alien and invasive species. Co-ordinate and \nparticipate in multi-lateral interactions to facilitate the implementation of the \nAlien and Invasive Species Regulations and associated norms and standards \nCo-ordinate and participate in multi-lateral interactions to facilitate the \nimplementation of the Alien and Invasive Species Regulations and associated \nnorms and standards. Establish and ",
+    "requirements": [
+      "National Diploma (NQF6) in Natural/ Environmental Science or relevant \nqualification within the related field. A minimum of one (1) year experience \nrequired in a relevant field. Knowledge of the application of the relevant \nnational and international prescripts relating to the management of invasive \nalien species. Knowledge on Natural Resources Management policies and \nprocedure; Project management, Financial and Procurement procedures. \nSkills: Research; Planning and organising; Communications skills (Written and \nverbal) Must be Innovative and proactive. Ability to work long hours voluntar"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/e.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-369f43cfa8840d6e",
+    "title": "CHIEF DIRECTOR: INTERNAL AUDIT AND RISK MANAGEMENT NDOH 80/2026",
+    "department": "Department of Health",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Finance",
+    "salary": "R1 554 696 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NDOH",
+    "summary": "Oversee, coordinate and provide strategic capability and leadership to the \nInternal Audit Activities (IAA). Develop, implement and periodically review the \nInternal Audit Strategy, Three-Year Rolling and Risk-Based Internal Audit Plan, \naligned to the Department's strategic objectives (APP), risk profile and \napproved Internal Audit Charter. Provide strategic leadership on compliance \naudit, forensic audit and investigation to strengthen the department’s \ngovernance, compliance and internal control environment. Prepare and \npresent reports on Internal Audit, Compliance, risk and forensic matters. \nPrevent and address fraud, corruption and ot",
+    "requirements": [
+      "Grade 12 certificate and an NQF 7 qualification in Auditing/ Accounting/Risk \nManagement / Forensic Investigation. NQF 8 qualification in the above will be \nan advantage. Registration with the Institute of Internal Auditors as a Certified \nInternal Auditor. At least five (5) years’ experience at a senior managerial level \n\n31 \n\nin managing a complex Internal Audit function and providing assurance to \nsenior management and an audit committee/governance structure as well as \nexperience in developing risk-based audit strategies/plans, managing QAIP, \nand overseeing audit engagements and reporting"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/g.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-424ca0d3122ac53c",
+    "title": "DEPUTY DIRECTOR-GENERAL: OCEANS AND COASTS OC28/2026",
+    "department": "Department of Forestry, Fisheries And The Environment",
+    "province": "National",
+    "location": "Cape Town",
+    "category": "Information Technology",
+    "salary": "R1 885 710 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "OC28/2026",
+    "summary": "Manage overall strategic direction, leadership, management and support within \nthe applicable legislation and policies on integrated coastal management. \nProvide strategic leadership in the formulation and implementation of ocean \nconservation strategies, provision and maintenance of infrastructure for \nSouthern Ocean and Antarctic operations to advance South Africa’s interests, \nensure sustainable geopolitical alliances and effective marine environment \nmonitoring. \nProvide \noverall \nnational \nstrategic \ndirection, \nleadership, \nmanagement and support to ocean coastal research; variability and change \nresponse strategies, and conceptualisati",
+    "requirements": [
+      "A qualification at NQF level 8 in Natural Sciences/ Environmental Sciences or \na relevant equivalent qualification as recognised by SAQA. A minimum of 8 \nyears of relevant experience at a senior managerial level or relevant field. \nSuccessful completion of the Public Service Senior Management Leadership \nProgramme (Pre-entry Programme) as endorsed by the National School of \nGovernment \n(NSG). \nKnowledge \nand \nunderstanding \nof \nscientific \nmethodologies, research and development. Knowledge of Environmental \nManagement/Sciences. Knowledge and understanding of international laws, \nagreements and"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/e.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-50bf8ea5d2ce2c5f",
+    "title": "DEPUTY DIRECTOR: DEBT ISSUANCE AND MANAGEMENT S106/2026",
+    "department": "Treasury",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Finance",
+    "salary": "R1 101 468 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S106/2026",
+    "summary": "Disclose listing requirements in domestic and offshore bond issuance: Initiate \nthe annual filing process of the 18K form with foreign stakeholders like the U.S. \nSecurity Exchange Commission and Japan. Adhere to disclosure and listing \nrequirements associated with domestic and offshore bond issuance. Engage \nstakeholders on general information in the sourcing and exchange of \nprocessing. Verify information for correctness and ensure their accuracy. \nManagement of domestic and foreign currency debt: Monitor the debt portfolio \nand implement strategies in order to reduce the re-financing risk and cos. \nInitiate frequent market and portfolio an",
+    "requirements": [
+      "A Grade 12 is required coupled with a minimum National Diploma (NQF 6)/ B. \nDegree (NQF 7) in Economics/ Finance/ Statistics/ Investment Management/ \nMathematical Sciences. A minimum 4 years’ experience of which 2 years \nshould be at an Assistant director level or equivalent obtained in financial \nmarkets, with fixed income trading or financial research environment. \nKnowledge and experience in quantitative research methodologies. \nKnowledge and experience in market analysis related to information for \nutilisation in the broader business. Knowledge and experience in dealing with \nvarious forei"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/q.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-052d5342f6a1f8a8",
+    "title": "DIRECTOR: BIODIVERSITY RISK MANAGEMENT",
+    "department": "Department of Forestry, Fisheries And The Environment",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Finance",
+    "salary": "R1 317 384 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "BC23/2026",
+    "summary": "Provide strategic leadership, technical guidance and oversight to the \nbiodiversity and climate change policy responses. Provide strategic direction, \ntechnical guidance and oversight for the implementation of bio-safety \nlegislation, ensuring effective guidance, monitoring, and governance of alien \nand invasive species. Develop and coordinate a national response strategy for \nmanagement of Alien and invasive species and GMOs in South Africa. Develop \nand implement policies, legislation, regulations and risk assessment \nframeworks, including the provision of issuing authority functions for alien \ninvasive species. Develop positions and lead n",
+    "requirements": [
+      "An undergraduate qualification (NQF7) in Environmental Science / \nEnvironmental Management or a relevant qualification within the related field \nas recognised by SAQA. A minimum of five (5) years’ experience at \nMiddle/Senior managerial level within the relevant field. Successful completion \nof the Senior Management Pre-entry Programme as endorsed by the National \nSchool of Government (NSG) submitted prior to appointment. Knowledge on \nNatural resource management planning and implementation; Natural resource \nmanagement or Natural resource-based rural development; Programmebased natural resour"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/e.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-03254468e5f2665d",
+    "title": "DIRECTOR: DEBT ISSUANCE AND MANAGEMENT",
+    "department": "Treasury",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Finance",
+    "salary": "R1 317 384 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S111/2026",
+    "summary": "Finance borrowing requirement in domestic and international capital markets: \nDevelop and implement a domestic and foreign borrowing strategy for the \nNational Treasury. Initiate the issuing of government securities in the domestic \nand international capital markets. Implement benchmark bonds in the domestic \nand international capital markets. Determine the finance measures of \ngovernment’s borrowing requirements in the domestic and international capital \nmarkets. Stakeholder Engagement: Develop and implement tools that will \nimprove the investor base. Develop and implement an investor website to \nimprove stakeholder engagement. Engage domest",
+    "requirements": [
+      "A Grade 12 is required coupled with a minimum Bachelor’s. degree (equivalent \nto NQF level 7) in Economics or Finance or Actuarial science or Commerce or \nInvestment Management or International Economics pertaining to the money \nand capital markets. A minimum 5 years’ experience obtained at a middle or \nsenior management level in financial markets operations. Knowledge and \nexperience of different research methodologies. Knowledge and experience of \nmarket analyses related to information for utilisation in the broader business. \nKnowledge and experience of dealing with various foreign interest"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/q.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ce66db09a4b88861",
+    "title": "FORESTY SERVICE AID WOODLANDS INDIGENIOUS FOREST MANAGEMENT",
+    "department": "Department of Forestry, Fisheries And The Environment",
+    "province": "National",
+    "location": "KZN- Mzimkhulu Estate",
+    "category": "Other",
+    "salary": "R144 024 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "BC16/2026",
+    "summary": "Render Silviculture functions within plantations and indigenous forests. \nRehabilitate degraded sites. Conduct the marking of plots, counting and \nmarking of trees, coppice reduction. Update the variety of registers regarding \nthe \naspects \nof \nwork, \nplanting, \nweeding/manual/chemical, \nmaintain \nconservation zones, removal of alien species. Perform fire protection and \n\n26 \n\nsuppression duties. Control pest/ weed infection, protect infrastructure. \nInfrastructure maintenance. Render harvesting services: conduct log marking \nand pole measuring. Propagate plants and trees: conduct record keeping of \nplants/trees. Produce and process poles: cu",
+    "requirements": [
+      "Grade 9 or ABET Level 1 or 2 Certificate. Knowledge of planting, firefighting, \ncoppice reduction Communication skills, interpersonal skills and listening skills. \nPlanning and execution, Interpersonal relations, acceptance of responsibility, \nteamwork and self-discipline."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/e.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-66c3b5046e7dd209",
+    "title": "HOUSEKEEPING EXECUTIVE REFERENCE",
+    "department": "Department of Forestry, Fisheries And The Environment",
+    "province": "National",
+    "location": "Cape Town",
+    "category": "Other",
+    "salary": "R144 024 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "CMS/CT15/2026",
+    "summary": "Provide cleaning service in the department, Cleaning of offices, boardrooms, \nkitchen, and passages, Clean the computer printer and cabinets, Provide \nsupport for meetings in the department, washing cups and filling up water \nbottles removing waste and disposing of the main dustbin, handling cleaning \nmaterial, using the cleaning material and equipment in a prescribed manner, \nprepare tea and water for meetings, removing and washing cups after the \nmeeting, maintain and update stock levels. Keep stock (cutlery, crockery, \ncleaning equipment, refill beverage) list and levels of cutlery and crockery. \nReceive and pack stock, and report faults, ",
+    "requirements": [
+      "Grade 9 or ABET Level 1 or 2 Certificate. Experience in rendering cleaning \nservices will be an added advantage. Understanding one of the official \nlanguages used in the Department. Ability to work individually and in a team. \nSkills required: Good interpersonal relations, Communication, Sound \norganizing, and planning skills. Have a sense of responsibility and loyalty. \nAbility to work long hours voluntarily."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/e.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ee34d6406792c889",
+    "title": "INTERNSHIP",
+    "department": "Department of Health",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Other",
+    "salary": "See official advertisement",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "NDOH",
+    "summary": "Coordinate the import and export permit programme as per Regulations No. R. \n181. Audit Microbiology laboratories for registration with the Department of \nHealth and monitoring them on biosafety and biosecurity as per Regulations \nNo. R. 178. Register and conduct audit of Tissue Banks and Stem Cell Banks \nas per Regulations R. 182. And Regulations No. R. 183 respectively. Respond \nto queries from clinical trial industry, Health Research, post graduate student \nin health sciences, tissue banks and stem cell banks.",
+    "requirements": [
+      "A Grade 12 certificate, National Diploma or degree (NQF 6) in Microbiology / \nBiotechnology. Good communication (written and verbal), interpersonal, \n\n32 \n\nattention to detail, scientific analytic in relation to Chapter 8 Regulations and \nApplications, and computer literacy skills."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/g.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-a9a3a82e65f7626d",
+    "title": "LEGAL ADMINISTRATION OFFICER (MR5): MINING APPEALS RCSM39/2026",
+    "department": "Department of Forestry, Fisheries And The Environment",
+    "province": "National",
+    "location": "Pretoria",
+    "category": "Information Technology",
+    "salary": "R464 634 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "RCSM39/2026",
+    "summary": "Coordinate and administer appeals in terms of the relevant legislation and \nguidelines, with a specific focus on Oceans and Coasts-related appeals. \nReceive and respond to all appeals-related queries from stakeholders, \nincluding the appellants and applicants. Convene the appeals committee \nmeeting to discuss the appeals, depending on the complexity of the appeal. \nAttend the filing of finalised appeals in terms of internal filing policies and \nguidelines. Coordinate and administer permitting appeals. Draft ministerial \nsubmission and appeal decisions in respect of oceans and coastal appeals. \nEnsure that all grounds of appeal, responding sta",
+    "requirements": [
+      "LLB Degree or relevant qualification as recognised by SAQA. A minimum of \neight (8) years’ experience post qualification within the relevant field. An \nextensive understanding of law administration, Public Services and \nDepartmental procedures. Applicant must have a broad knowledge of strategic \ncoordination, policy development, risk management and audit procedures. \nUnderstand the facilitation of project management, research methodologies \nand presentation. Have good reporting / professional writing, policy formulation \nand negotiation skills. Ability to gather and analyse information, and ad"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/e.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-4284ae81fa4028b8",
+    "title": "SENIOR ADMINISTRATIVE OFFICER ACCOMMODATION AND AUXILIARY SERVICES",
+    "department": "Department of Forestry, Fisheries And The Environment",
+    "province": "National",
+    "location": "Cape Town",
+    "category": "Information Technology",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "CMS-CT11/2026",
+    "summary": "The incumbent will have to provide accommodation support services. Assist \nwith the compilation of accommodation needs assessments. Facilitate the \n\n24 \n\nrelocation of offices. Ensure facilities compliance to all building regulations. \nReconciliation of invoices against commitment register. Draft Service Level \nAgreements- legal related matters and office accommodation Bids. Provide \nmonthly report on maintenance and office inspection. Administer auxiliary \nservices, the provision of hygiene services and food aid services. Ensure \nprovision of effective cleaning and hygiene services in Coastal Region. \nProcess all the logistics and invoices f",
+    "requirements": [
+      "National Diploma (NQF6) in Public Management or relevant equivalent \nqualification. A minimum of two years (2) relevant experience in relevant field. \nKnowledge of Administrative procedures. Financial Management, Project \nManagement, HR Practices Extensive Administrative experience. Knowledge \nof Contract Management, monitoring and control, Public Service and \nDepartmental procedures. Skills, Communicate skills (written and spoken), \nLeadership and management skills. Coordination, organising and planning \nskills, Administrative and report writing. Have planning and organising, problem \nsolving"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/e.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-229512af6693b228",
+    "title": "SENIOR FORESTRY DEVELOPMENT OFFICER",
+    "department": "Department of Forestry, Fisheries And The Environment",
+    "province": "National",
+    "location": "Northern Cape (Kimberley)",
+    "category": "Information Technology",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-10-26",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "FOM48/2026",
+    "summary": "Provide technical advice and support in terms of greening programs or \ninitiatives for institutional development. Render support on the implementation \nof livelihood development programs or projects. Render support on the \nimplementation of forestry enterprise development initiatives. Ensure the \nimplementation of Substantiable Forest Management in line with National \nForest Act and National Veld and Forest Fire Act. Proactive mitigation of audit \nrisk, develop and implement interventions. Stakeholder Liaison within the \nProvince.",
+    "requirements": [
+      "National Diploma (NQF6) in Forestry / Development Studies or relevant \nqualification within the related field as recognised by SAQA. A minimum of two \n(2) years ‘experience in Forestry Development and Foresty extension or \nrelated field. Knowledge of the National Forest Act 1998 (Act 84 of 1998) the \nNational Veld and Forest Fire Act, 1996(Act 101 of 1996), PFMA and other \nrelated environmental legislations. Good presentation skills, excellent verbal \nand written communication, analytical and problem-solving skills, programme \nand project management. Good interpersonal relations, and negotiati"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/e.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-b270b328bc0a5a0e",
+    "title": "INDEPENDENT CORRECTIONAL CENTRE VISITOR",
+    "department": "Department of Judicial Inspectorate For Correctional Services",
+    "province": "National",
+    "location": "Kwa-Zulu Natal Management Region: \n\n \nEbongweni C-Max Correctional Centre Ref No: JI 55/2026 \n\n \nEastern Cape Management",
+    "category": "Other",
+    "salary": "R89 046 per annum",
+    "closingDate": "2026-10-30",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "JI",
+    "summary": "The incumbent will be responsible for conducting site visits and reporting on \nurgent matters. To conduct regular interviews and consultations with inmates \nand DCS officials regarding complaints and mandatory matters. Receiving and \ncapturing all complaints/requests on the database. Opening and maintenance \nof case files. Make follow-ups on outstanding complaints. Submission of \nmonthly reports. Provide statistical analysis of all complaints received. Attend \nto enquiries. Carry out all reasonable instructions by the supervisor/ Regional \nManager. \n\n43",
+    "requirements": [
+      "Applicants must be in possession of a Grade 12/Senior Certificate. Computer \nliterate and accurate. A recommendation for nomination as an ICCV by a \ncommunity organisation (not older than six (6) months). Ability to work \nindependently and as a team. Public spirited and sound knowledge of the \nBatho Pele principles. Assertiveness and ability to work under pressure. Ability \nto communicate (verbally and in writing). Driver’s licence will be an added \nadvantage. Preference will be given to qualifying applications received from \nindividuals residing in communities which are in the vicinity of the"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/j.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-0b009fb7affb0c70",
+    "title": "ACCOUNTING CLERK: EXPENDITURE AND ACCOUNTS DSD/2026/168 (X1 POST)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Sekhukhune District Office",
+    "category": "Finance",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/168",
+    "summary": "Archiving of payment vouchers. Process and handle payment enquiries. Attend \nto client queries on payments. Assist in performing creditor’s reconciliation. \nReceive goods on the system after they have been received manually. Maintain \npayment register. Update registers daily.",
+    "requirements": [
+      "An appropriate qualification at NQF level 4/Matric (Grade 12) or equivalent \nqualification as recognised by SAQA Knowledge And Skills: Good \ncommunication and listening skills, Good interpersonal relationship, Ability to \nhandle pressure. Problem analysis and analytical thinking. Honesty and \nconfidentiality, customer care skills. Knowledge of PERSAL and BAS system, \nBasic financial management skills, understanding of PFMA and Batho Pele \nprinciples, Filing and record management skills, Computer literacy in Microsoft \nExcel, Microsoft Word and Microsoft Outlook."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1c196fa4ed17aff6",
+    "title": "ADMINISTRATION CLERK",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Vhembe District: Makhado Municipality",
+    "category": "Legal",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/169",
+    "summary": "Render a variety of administrative duties. Provide SCM clerical services. \nProvide financial admin support. Assist in collecting statistic. Intake client \ninformation. Filling records. Distribute food parcels. Update client register.",
+    "requirements": [
+      "An appropriate recognized NQF level 4 (Grade 12) or equivalent qualifications \nas recognised by SAQA. Valid motor vehicle driver’s licence (with the exception \nof persons with disabilities) Knowledge and Skills: Computer literacy skills. \nGood verbal and written communication skills. Interpersonal relations. \nPlanning and organising. Teamwork. Knowledge of legal framework governing \nthe Public Service. Interpersonal skills. Report"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1a560bfa26f8e94a",
+    "title": "ADMINISTRATIVE OFFICER AUXILIARY SERVICES REF NO DSD/2026/159 (X1 POST)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Capricorn District Office \nMREQUIREMENTS \n: \nGrade 12 plus an appropriate qualification at NQF 06 in Logistics / Public ",
+    "category": "Administration",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/159",
+    "summary": "Provide administration support services. Co-ordinate office and housing \naccommodation for staff. Maintenance and updating of accommodation and \nmachinery lease / rental register. Provider support on cleaning services to the \ndepartment. Manage help desk and switchboard operations.",
+    "requirements": [
+      "See the official advertisement."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-020f7ef88da92bd8",
+    "title": "ASSISTANT COMMUNITY DEVELOPMENT MANAGER GRADE 1 SUSTAINABLE LIVELIHOOD",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Sekhukhune District Office",
+    "category": "Information Technology",
+    "salary": "R626 454 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/142",
+    "summary": "Coordinate the identification, facilitation and implementation of integrated \ndevelopment interventions in partnership with other relevant stakeholders \nthrough efficient, effective and economical utilisation of resources by the \nservice delivery area(s). Coordinate and manage community development \nservice delivery area(s) to ensure that an efficient and effective community \ndevelopment service is delivered through the proper utilization of human, \nfinancial and physical resources. Keep up to date with new developments in \nthe community development and management fields to enhance service \ndelivery. Plan and ensure that research on community",
+    "requirements": [
+      "Grade 12 plus an appropriate qualification at NQF 6 in Development Studies \n/ Diaconiology / Social Sciences / Community Development / Sociology / \nPopulation Studies / Demography or equivalent qualification in the relevant \nfield or area as recognised by SAQA. A minimum of eight (08) years’ \nappropriate experience in Community Development after obtaining the \nrequired qualification. A valid motor vehicle driver’s licence (with the exception \nof persons with disabilities). Knowledge and Skills: Knowledge and \nunderstanding of individual and group behaviour, its inter-relations within \ncommunit"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-914b94d457850501",
+    "title": "ASSISTANT DIRECTOR HUMAN RESOURCE TRAINING & DEVELOPMENT",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Head Office: Polokwane",
+    "category": "Information Technology",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/144",
+    "summary": "Coordinate training and capacity development initiatives. Manage institutional \nrelationship and stakeholder collaboration. Coordinate learnership and \ninternship programmes. Facilitate bursary management services. Monitor \ncompliance with applicable prescripts.",
+    "requirements": [
+      "Grade 12 plus an appropriate qualification at NQF level 6 in Human Resource \nManagement / Development or equivalent qualification in the relevant field or \narea as recognised by SAQA. A minimum of 3 years relevant experience on \nlower management / supervisory in HRT&D or PMDS. Valid motor vehicle \ndriver’s licence (with the exception of persons with disabilities). Knowledge and \nSkills: Knowledge of Public Service Regulations, Acts, policies and \nprocedures. Knowledge of Public Finance Management Act (PFMA). \nKnowledge of The White Paper on the Transformation of the Public Service of \n1997. Go"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-bb4a80ced1cfaad4",
+    "title": "ASSISTANT DIRECTOR: AUXILIARY SERVICES (X1 POST)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Sekutupu Old Age Home",
+    "category": "Information Technology",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/",
+    "summary": "Render office administration services. Coordinate catering services. Manage \nlaundry services. Facilitate the provision of records management. Monitor and \nmanage office supply inventories and coordinate timely procurement. Ensure \nimplementation of occupational health and safety protocols in the workplace. \nEnsure quality control and compliance with health and food safety regulations. \nEnsure compliance with service-level agreements or contracts with catering \nproviders. Conduct regular file audits and ensure timely archiving and disposal \nof obsolete records. Manage HRM and Finance sections. \n\n212",
+    "requirements": [
+      "Grade 12 plus an appropriate qualification at NQF level 6 in Logistics / Public \nAdministration / Public Management or equivalent qualification in the relevant \nfield or area as recognised by SAQA. A minimum of 3 years relevant \nexperience on lower management / supervisory. A valid motor vehicle \ndriver’s license (with the exception of persons with disabilities). Knowledge And \nSkills: Knowledge of Public Service Regulations, Acts, policies and procedures. \nKnowledge of Public Finance Management Act (PFMA). Good communication \nand listening skills, Good interpersonal relationship, Ability to h"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-e9d114ad11c878db",
+    "title": "ASSISTANT DIRECTOR: SUPPLY CHAIN COMPLIANCE DSD/2026/146 (X1 POST)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Head Office: Polokwane \n\n213",
+    "category": "Information Technology",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/146",
+    "summary": "Provide capacity building to supply chain management. Identify capacity gaps \nthrough monitoring of policy implementation. Provide capacity building to \nSupply Chain Management Practitioners. Provide capacity building to Bid \nSpecification, Evaluation and Adjudication committees. Provide capacity \nbuilding to departmental end users. Facilitate provision of accredited \nSupply Chain Management courses. Provide support to institutions bid \ncommittee \nstructures \nand \nSupply \nChain \nManagement \nofficials. \nManagement of departmental contracts. Provide regular status/ progress \nreports to management highlighting trends, problems, risks, deviation,",
+    "requirements": [
+      "Grade 12 plus an appropriate qualification at NQF level 6 in Supply Chain \nManagement / Logistics / Purchasing Management or equivalent qualification \nin the relevant field or area as recognised by SAQA. A minimum of 3 years \nrelevant experience at Supervisory /Junior Management level. Valid motor \nvehicle driver’s license (with the exception of persons with disabilities). \nKnowledge And Skills: Knowledge of Public Finance Management Act \n(PFMA). Knowledge of Public Service Regulations, Policies and \nprocedures. Knowledge of Preferential Procurement Policy Framework Act \n(PPPFA). Leadership & "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-385626de31d48dac",
+    "title": "ASSISTANT DIRECTOR: SYSTEMS CONTROL POST)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Head Office: Polokwane",
+    "category": "Information Technology",
+    "salary": "R487 197 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/145",
+    "summary": "Ensure proper security control in all financial systems (Transversal \nsystems). Implement and enforce segregation of duties in the financial \nsystems. Reviews of user’s access rights. Provide helpdesk facilities to all \nfinancial systems users. Develop and ensure implementation of procedure \nmanuals or standard operating procedures (SOP’s). Maintain departmental \nstandard chart of accounts and security profile. Monitor the interface and \ntransversal system on banks, LOGIS, PERSAL and BAS. Download and \nprepare payment within 30 days report from Vulindlela. Facilitate closure of \nbooks and monitor clearance of suspense accounts. Ensure proper ",
+    "requirements": [
+      "Grade 12 plus an appropriate qualification at NQF level 6 in Financial \nManagement / Accounting / Auditing / Cost / Management Accounting or \nequivalent qualification in the relevant field or area as recognised by SAQA. A \nminimum of 3 years’ relevant experience at supervisory level. Valid motor \nvehicle driver’s license (with exception of persons with disabilities). Knowledge \nAnd Skills: Knowledge of Public Finance Management Act (PFMA). \nKnowledge of Public Service Regulations, Policies and procedures. \nKnowledge of transversal systems specifically related to system controlling. \nLeadership"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ba2cf52f28725d66",
+    "title": "CHIEF REGISTRY CLERK: PERSONNEL RECORD (X1 POST)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Head Office: Polokwane",
+    "category": "Human Resources",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/158",
+    "summary": "Supervise and provide personnel registry counter services. Supervise the \nhandling of incoming and outgoing correspondence. Supervise and render an \neffective filing and record management service. Supervise the operation and \noperate office machines in relation to the personnel registry function. Supervise \nthe processing of documents for archiving and/disposal. Supervise human \nresources/staff.",
+    "requirements": [
+      "An appropriate recognised NQF level 4 (Grade 12) or equivalent qualifications \nas recognised by SAQA. Qualifications/Certificate in Records and Archives will \nbe an added advantage. A minimum of 3-5 years’ experience in Personnel \nRecords/Registry. Valid motor vehicle driver’s licence. (with the exception of \npersons with disabilities). Knowledge And Skills: Knowledge of registry duties, \npractices as well as the ability to capture data, and operate computer. Working \nknowledge and understanding of the legislative framework governing the \nPublic Service. Knowledge of storage, retrieval, archiv"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-af1e35a95cf21583",
+    "title": "CHILD AND YOUTH CARE WORKER",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Polokwane Welfare Complex Ref No: DSD/2026/173 (X1 Post) \n\n \nVhembe District: Thohoyandou Child & Youth Care Centre Ref ",
+    "category": "Other",
+    "salary": "R191 694 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/173",
+    "summary": "Receive children and youth to the care facility after admission. Provide \norientation for the child to the center. Provide care and development of \nchildren and youth where their needs are protected. Ensure that \nchildren/youth receive medical services. Facilitate independent living and \nrecreational programmes. Organize family visits and contacts. Escort \nchildren to external services. Assist with implementation of developmental \nand therapy programmes. Perform administration duties.",
+    "requirements": [
+      "An appropriate recognized NQF level 4 (Grade 12) or equivalent \nqualification as recognised by SAQA and Basic qualification in Child Care. \nCurrent registration with the South African Council for Social Service \nProfessions [SACSSP] as auxiliary child and youth care worker. Knowledge \nAnd Skills: Knowledge and understanding of the legislative framework \n(Children’s Act, Child Care Act, Child Justice Act) governing the Secure \nCare \nCenters. \nGood \ncommunication \nskills, \nGood \ninterpersonal \nrelationships, Ability to handle pressure. Honesty and confidentiality, \ncustomer care skills."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-bf9642c3147b2473",
+    "title": "CLEANER",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Polokwane Welfare Complex Ref No: DSD/2026/176 (X1 Post) \n\n \nWaterberg District: Thabazimbi Ref No: DSD/2026/177 (X1 Pos",
+    "category": "Other",
+    "salary": "R144 024 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/176",
+    "summary": "Provide cleaning services. Keep and maintain cleaning materials and \nequipment. Request and manage the supply of cleaning materials and \nequipment. Implement and maintain hygiene and infection prevention \nmeasures. \n\n222",
+    "requirements": [
+      "Junior Certificate or STD 8 / Grade 10 / AET / ABET, or equivalent qualification. \nKnowledge and Skills: Knowledge of Batho Pele Principles. Knowledge of \nbasic safety and hygiene practices. Knowledge of infection control and \nhazard monitoring. Interpersonal skills. Communication skills. Time \nmanagement."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ce1b0e9a4e980d04",
+    "title": "COMMUNITY DEVELOPMENT PRACTITIONER GRADE 1",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Waterberg District: Thabaleshoba Ref No: DSD/2026/161(X2 Posts) \n\n \nMokopane Ref No: DSD/2026/162 (X1 Post) \n\n \nVhembe D",
+    "category": "Finance",
+    "salary": "R289 296 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/161",
+    "summary": "Identify and facilitate the implementation of integrated community development \ninterventions in partnership with the community and other relevant \nstakeholders. Collaborate and liaise with pertinent role players and \nstakeholders to establish partnerships to ensure the sustainability of \ndevelopment actions within the community. Support communities and perform \nadministrative support on community development and related activities. Keep \nabreast of new developments in the community development field to enhance \nservice delivery.",
+    "requirements": [
+      "Grade 12 plus an appropriate qualification at NQF 6 or equivalent \nqualification in Development Studies / Diaconiology / Social Sciences / \nCommunity Development / Sociology / Population Studies / Demography or \nequivalent qualification in the relevant field or area as recognized by SAQA. \nValid motor vehicle driver’s licence (with the exception of persons with \ndisabilities). Knowledge And Skills: Knowledge of community development \nwork, skills, attitudes and values of communities. Knowledge and \nunderstanding of human behaviour, social systems and relevant legislations. \nThe ability and com"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-a321ef0df57099b5",
+    "title": "COMMUNITY DEVELOPMENT SUPERVISOR GRADE 1 DSD/2026/147 (X1 POST)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Sekhukhune District: Elias Motsoaledi",
+    "category": "Information Technology",
+    "salary": "R471 330 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/147",
+    "summary": "Manage community development structures and projects. Supervise the \nidentification, facilitation and implementation of integrated community \ndevelopment interventions in partnership with the community and other \nrelevant stakeholders. Supervise and support community development \npractitioners to ensure that there is communication and coordination with \nall the relevant role players, internal and external. Perform administrative \nsupport on community development and related activities. Keep up to date \nwith the new developments in the community development field to enhance \nservice delivery.",
+    "requirements": [
+      "Grade 12 plus an appropriate qualification at NQF 6 in Development Studies \n/ Diaconiology / Social Sciences / Community Development / Sociology / \nPopulation Studies / Demography or equivalent qualification in the relevant \nfield or area as recognized by SAQA. A minimum of seven (07) years’ \nappropriate experience in Community Development after obtaining the \nrequired qualification. Valid motor vehicle driver’s licence (with the exception \nof persons with disabilities) Knowledge and Skills: Knowledge and \nunderstanding of individual and group behaviour, inter relations within \ncommunity struc"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1a16956a17e6fa7a",
+    "title": "DATA CAPTURE",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Capricorn District: Botlokwa One Stop Centre",
+    "category": "Other",
+    "salary": "R201 093 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/171",
+    "summary": "Capture data into quarterly and annual report. Verification and review of \ncaptured data for completeness. Validation of means of verification. Identify \nand correct duplication of captured data. Maintain Departmental Data System. \nPerform system verification to ensure high data quality.",
+    "requirements": [
+      "An appropriate recognized NQF level 4 (Grade 12) or equivalent qualification \nas recognized by SAQA. Knowledge and Skills: Proficiency in Microsoft office. \nTyping skills. Computer literacy. Communication skills. Problem solving skills. \nPlanning and organizing skills. Ability to work independently or in a team. Good \ninterpersonal skills."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-7db7df4ebdc3337c",
+    "title": "DEPUTY DIRECTOR: FINANCIAL MANAGEMENT (X1 POST)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Capricorn District Office",
+    "category": "Information Technology",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/139",
+    "summary": "Manage the provision of Supply Chain Management. Manage demand and \nacquisition, Purchasing and inventory management. manage and \ncoordinate asset management services. Manage transportation Services. \nManage the provision of financial planning and budgeting. Manage the \nprovision of Financial Accounting Services. Manage physical facility \nMaintenance and Repairs. Manage audit processes.",
+    "requirements": [
+      "Grade 12 plus an appropriate qualification at NQF level 6 in Financial \nManagement or equivalent qualification in the relevant field or area as \nrecognised by SAQA. A minimum of five (05) years of proven experience of \nwhich 3 years must be at Junior / Assistant Director level. A valid motor vehicle \ndriver’s licence (with the exception of persons with disabilities). Core And \nProcess Competencies: Strategic Capability and Leadership, Programme and \nProject Management, Change Management, Financial Management, People \nManagement and Empowerment, Knowledge Management, Problem solving \nand analys"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-a4afc3b015ad05ac",
+    "title": "DEPUTY DIRECTOR: HOI: SEKUTUPU OLD AGE HOME DSD/2026/140 (X1 POST)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Capricorn District: Sekutupu Old Age Home \n\n210",
+    "category": "Finance",
+    "salary": "R932 292 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/140",
+    "summary": "Implement Older Persons Amendment Act 1 of 2025. General and overall \nmanagement and administration of the Specialized Welfare Facility. \nExperienced leader to implement policies, supervising staff and managing \nbudgets, assets, and infrastructure in line with Treasury regulations. Provide \nstrategic direction, strategic management, service delivery, and financial \noversight for the institution. Strengthen compliance for care facility in terms \nof obligations for reporting abuse and related mandates on older persons \nabuse register. Monitor compliance with Norms and Standards for Older \nPersons. Manage and facilitate recreational, social, and",
+    "requirements": [
+      "Grade 12 plus a Bachelor of Social Work as recognised by SAQA. Current \nregistration with the South African Council for Social Service Professions \n[SACSSP]. A qualification in Public Management/ Public Administration will be \nan added advantage. A minimum of five (05) years of proven experience of \nwhich 3 years must be at Junior / Assistant Director level. Valid motor vehicle \ndriver’s license (with exception of persons with disabilities). Core And Process \nCompetencies: Strategic Capability and Leadership, Programme and Project \nManagement, Change Management, Financial Management, People \nM"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-a62ec4c41cf27cdd",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 INFRASTRUCTURE MANAGEMENT (X3 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Capricorn District (03 Posts",
+    "category": "Engineering",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/1/2",
+    "summary": "Study Field: N Dip/Degree in Civil Engineering/ Electrical Engineering/ Building \nScience/ Construction Management.",
+    "requirements": [
+      "Study Field: N Dip/Degree in Civil Engineering/ Electrical Engineering/ Building \nScience/ Construction Management."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-4eb5950bd1919c88",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 INFRASTRUCTURE MANAGEMENT (X3 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Mopani District",
+    "category": "Engineering",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/1/3",
+    "summary": "Study Field: N Dip/Degree in Electrical Engineering/ Civil Engineering",
+    "requirements": [
+      "Study Field: N Dip/Degree in Electrical Engineering/ Civil Engineering"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-4a29a42fc7b72b4e",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 INFRASTRUCTURE MANAGEMENT (X3 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Sekhukhune District",
+    "category": "Engineering",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/1/4",
+    "summary": "Study Field: N Dip in Civil Engineering",
+    "requirements": [
+      "Study Field: N Dip in Civil Engineering"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-1b3767feb958d658",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 INFRASTRUCTURE MANAGEMENT (X5 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Head Office",
+    "category": "Engineering",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/1/1",
+    "summary": "Study Field: B.Eng. in Electrical Engineering/ Construction Management/ \nArchitectural Studies \n\n207",
+    "requirements": [
+      "Study Field: B.Eng. in Electrical Engineering/ Construction Management/ \nArchitectural Studies \n\n207"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-d2a5c2d4f9637439",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 PROPERTIES & FACILITIES",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Head Office Properties & Facilities Properties and Facilities Unit (X3 Posts) \n\n \nGeographic Information Systems (GIS) U",
+    "category": "Other",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/3/1",
+    "summary": "Study Field: N Dip/Degree in Real Estate/ B.Eng. Property Science and N \nDip/Degree in Geographic Information Systems (GIS)",
+    "requirements": [
+      "Study Field: N Dip/Degree in Real Estate/ B.Eng. Property Science and N \nDip/Degree in Geographic Information Systems (GIS)"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-e24be948fbc4bbe9",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 PROPERTIES & FACILITIES (X3 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Capricorn District",
+    "category": "Other",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/3/2",
+    "summary": "Study Field: N Dip/Degree in Real Estate/ Property Studies/ LLB and N Dip/ \nDegree in Horticulture",
+    "requirements": [
+      "Study Field: N Dip/Degree in Real Estate/ Property Studies/ LLB and N Dip/ \nDegree in Horticulture"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-9d1f182a068c0e71",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 PROPERTIES & FACILITIES (X3 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Mopani District",
+    "category": "Other",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/3/3",
+    "summary": "Study Field: N Dip/Degree in Real Estate/ Property Science and N Dip/Degree \nin Horticulture",
+    "requirements": [
+      "Study Field: N Dip/Degree in Real Estate/ Property Science and N Dip/Degree \nin Horticulture"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-b70bcdd67d373daa",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 PROPERTIES & FACILITIES (X3 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Sekhukhune District",
+    "category": "Other",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/3/4",
+    "summary": "Study Field: N Dip/Degree in Real Estate/ Property studies and N Dip/Degree \nin Horticulture",
+    "requirements": [
+      "Study Field: N Dip/Degree in Real Estate/ Property studies and N Dip/Degree \nin Horticulture"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f552dde3d817f50b",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 PROPERTIES & FACILITIES (X3 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Vhembe District",
+    "category": "Other",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/3/5",
+    "summary": "Study Field: N Dip/Degree in Property Management/ Real Estate/ Property Law",
+    "requirements": [
+      "Study Field: N Dip/Degree in Property Management/ Real Estate/ Property Law"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-5b07b2c9d4a1fafd",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 PROPERTIES & FACILITIES (X3 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Waterberg District",
+    "category": "Other",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/3/6",
+    "summary": "Study Field: N Dip/Degree in Real Estate/ Property Studies/ Property \nManagement and N Dip/Degree in Horticulture / Landscaping",
+    "requirements": [
+      "Study Field: N Dip/Degree in Real Estate/ Property Studies/ Property \nManagement and N Dip/Degree in Horticulture / Landscaping"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-5ed91fff0a461b88",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 REF NO S.5/8/1/1/5NINFRASTRUCTURE MANAGEMENT (X3 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Vhembe District",
+    "category": "Engineering",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/1/5NINFRASTRUCTURE",
+    "summary": "Study Field: N Dip/Degree in Building Science",
+    "requirements": [
+      "Study Field: N Dip/Degree in Building Science"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-dbeb204e1b01c479",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 ROADS MAINTAINANCE (X5 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Head Office",
+    "category": "Engineering",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/10/1",
+    "summary": "Study Field: B.Eng. in Civil Engineering",
+    "requirements": [
+      "Study Field: B.Eng. in Civil Engineering"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-a70856dd8b37d956",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 ROADS MAINTENANCE (X3 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Capricorn District",
+    "category": "Engineering",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/10/2",
+    "summary": "Study Field: N Dip/Degree in Mechanical Engineering/ Civil Engineering",
+    "requirements": [
+      "Study Field: N Dip/Degree in Mechanical Engineering/ Civil Engineering"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-27bb55f9d38f31f0",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 ROADS MAINTENANCE (X3 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Mopani District",
+    "category": "Engineering",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/10/3",
+    "summary": "Study Field: N Dip/Degree in Mechanical Engineering/Civil Engineering",
+    "requirements": [
+      "Study Field: N Dip/Degree in Mechanical Engineering/Civil Engineering"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-3853e1662e11077e",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 ROADS MAINTENANCE (X3 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Sekhukhune District",
+    "category": "Engineering",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/10/4",
+    "summary": "Study Field: N Dip/Degree in Civil Engineering/ Mechanical Engineering",
+    "requirements": [
+      "Study Field: N Dip/Degree in Civil Engineering/ Mechanical Engineering"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-0cb62e165134a560",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 ROADS MAINTENANCE (X3 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Vhembe District",
+    "category": "Engineering",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/10/5",
+    "summary": "Study Field: N Dip/Degree in Civil Engineering",
+    "requirements": [
+      "Study Field: N Dip/Degree in Civil Engineering"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-6141733caa821ffa",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029 ROADS MAINTENCE (X3 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Waterberg District",
+    "category": "Engineering",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "S.5/8/1/10/6",
+    "summary": "Study Field: N Dip/Degree in Civil Engineering/ Construction Management/ \nEnvironmental Management",
+    "requirements": [
+      "Study Field: N Dip/Degree in Civil Engineering/ Construction Management/ \nEnvironmental Management"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ae05437cad744012",
+    "title": "GRADUATE INTERNSHIP PROGRAMME 2027/2029: REF: S.5/8/1/1/6 INFRASTRUCTURE MANAGEMENT (X3 POSTS)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Waterberg District",
+    "category": "Engineering",
+    "salary": "See official advertisement",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "36/241",
+    "summary": "Study Field: N Dip/Degree in Electrical Engineering/ Quantity Surveying/ \nArchitectural Studies",
+    "requirements": [
+      "Study Field: N Dip/Degree in Electrical Engineering/ Quantity Surveying/ \nArchitectural Studies"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-e8033eed9afecd8b",
+    "title": "HRM CLERK",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Mopani District Office",
+    "category": "Information Technology",
+    "salary": "R237 453 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/170",
+    "summary": "Facilitate recruitment and selection of employees. Administration of conditions \nof services and benefits. Facilitation of transfers.",
+    "requirements": [
+      "An appropriate recognized NQF level 4 (Grade 12) or equivalent qualifications \nas recognised by SAQA. Knowledge and Skills: Knowledge of Public Service \nRegulations, Acts, policies and procedures. Knowledge of PFMA. Good \nCommunication and listen skills. Good Interpersonal relations. Ability to handle \npressure. Conflict management. Policy analysis and interpretation. Report \nwriting skills. Problem analysis and analytical thinking. Honesty and \nconfidentiality. Customer care skills. Knowledge of PERSAL. Computer literacy \nskills. \n\n220"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-7dd2022d1bd08f90",
+    "title": "LEGAL ADMINISTRATION OFFICER",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Head Office: Polokwane",
+    "category": "Finance",
+    "salary": "R262 968 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/167",
+    "summary": "Draft, edit and/or review legal documents including contracts, memoranda, \nopinions, and correspondence. Provide legal support in the interpretation and \napplication of relevant legislation, including the Constitution, the Children’s Act, \nthe Older Persons Act, and the Social Assistance Act. Assist in the preparation \nof legal opinions and advice for departmental units. Manage and maintain legal \ncase files and records. Assist in handling of litigation matters involving the \nDepartment in liaison with the State Attorney’s office. Support labour relations \ncases and disciplinary hearings by preparing documentation and assisting with \nprocedur",
+    "requirements": [
+      "Grade 12 plus a Bachelor’s degree in Law (LLB) or equivalent relevant \nqualification in the related field or area as recognized by SAQA. A minimum of \n5 years’ experience after obtaining the degree. Valid motor vehicle driver’s \nlicense (with the exception of persons with disabilities). Knowledge And Skills: \nSound knowledge of South African legal system and applicable legislation \nrelevant to social development. Knowledge of Public Finance Management \nAct. Legal drafting and interpretation skills. Strong administrative and \norganizational skills. Excellent written and verbal communication. Co"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-9f0dd8c9d420e0cb",
+    "title": "NURSING ASSISTANT GRADE 1",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Seshego Treatment Centre",
+    "category": "Healthcare",
+    "salary": "R181 230 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/175",
+    "summary": "Key Performance Areas: Provide quality basic nursing care. Provide \nelementary clinical nursing care. Practice nursing in accordance with laws \nand regulations relevant to nursing. Maintain professional growth, ethical \nstandards and self- development. Utilise human, material and physical \nresources efficiently and effectively. Report writing and updating client \nregister. Filling of records. Transferring patients to other health facilities.",
+    "requirements": [
+      "Qualification that allows registration with the South African Nursing Council \n(SANC) as Nursing Assistant or Auxiliary nurse. Current registration with \nthe South African Council Nursing Council as enrolled nursing assistant. \nKnowledge: Skills And Competencies: Knowledge of nursing care \nprocesses and procedure, nursing statutes and other relevant legal \nframework such as Nursing Act, OHSA, Patient Right Charter etc. Good \nCommunication skills. Facilitation skills. Liaison and networking skills. \nInformation Management. Computer literacy."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-b4f018f70e1dfa7a",
+    "title": "PHOTOCOPY OPERATOR",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Sekhukhune District Office",
+    "category": "Other",
+    "salary": "R144 024 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/181",
+    "summary": "Rendering photocopy services. Use and keep all photocopy machines properly. \nReport photocopier faults for repair. Maintain recording of photocopier. \nMaintain photocopier registers.",
+    "requirements": [
+      "Junior Certificate or STD 8/Grade 10/AET/ABET, or equivalent qualification. \nKnowledge and Skills: Knowledge of Batho Pele Principles. Knowledge of \nbasic safety and hygiene pracandes. Knowledge of infection control and \nhazard monitoring. Interpersonal skills. Communication skills. Time \nmanagement."
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-05cec03371984c57",
+    "title": "PROVISIONING ADMINISTRATIVE OFFICER: DEMAND & ACQUISITION",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Mopani District Office",
+    "category": "Finance",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/160",
+    "summary": "Provide regular status/progress reports to management highlighting trends, \nproblems, \nrisks, \ndeviations, \ndelays \nand \nmake \nappropriate \nrecommendations for improvement. Determine possible future need for \nservice by conducting a gap analysis. Manage and maintain the database \n\n218 \n\nof all suppliers. Ensure quality reporting on sourcing of goods and services. \nConsolidate procurement plan based on inputs from various units. Capacity \nbuilding to all users on new procedures or systems implemented for the \npurpose of needs and market analysis. Assist with the development of \nacquisition plan or strategy. Purchase goods and services that mee",
+    "requirements": [
+      "Grade 12 plus an appropriate qualification at NQF 6 in Financial Management \n/ SCM / Procurement Management / Logistics or equivalent qualification in \nthe relevant field or area as recognised by SAQA. A minimum of 1-2 years \nexperience in Supply Chain Management. Valid motor vehicle driver’s \nlicense (with exception of persons with disabilities). Knowledge And Skills: \nKnowledge of the Supply Chain Management framework, Public Finance \nManagement Act (PFMA), Preferential Procurement Policy Framework Act \n(PPPFA), Treasury Regulation, Broad Based Black Economic Empowerment \nAct (B-BBEE) and ot"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-af3d7acb9e005fbd",
+    "title": "PSYCHOLOGIST GRADE 1",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Seshego Treatment Centre",
+    "category": "Healthcare",
+    "salary": "R907 617 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/141",
+    "summary": "Perform medical case assessment. Coordinate and facilitate the referral \nprocess for obtaining medical opinions. Assist in monitoring and supporting the \nadjudication process. Prepare reports. Liaise with medical and health \nprofessionals. After hours clinical participation in the call roster. Management \nof child and youth care information management system. \n\n211",
+    "requirements": [
+      "Grade 12 plus an appropriate qualification at NQF 7 in Social Science \n(qualification that allows registration with Health Professions Council of South \nAfrica (HPCSA) as Clinical Psychologist. Current registration with HPCSA as a \nPsychologist. Valid motor vehicle driver’s licence (with the exception of persons \nwith disabilities). Core And Process Competencies: Strategic Capability and \nLeadership, Programme and Project Management, Change Management, \nFinancial Management, People Management and Empowerment, Knowledge \nManagement, Problem Solving and analysis, Client orientation and customer "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-54ffe6c96d0c39e2",
+    "title": "SENIOR INFORMATION TECHNOLOGY TECHNICIAN REF NO DSD/2026/149 (X1 POST)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Head Office: Polokwane",
+    "category": "Information Technology",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/149",
+    "summary": "Provide day-to-day technical support to end users on hardware, software, and \nnetwork-related incidents. Install, configure, maintain and troubleshoot servers, \ndesktops, laptops, printers and peripheral devices. Support and maintain \nnetwork infrastructure, including switches, routers, Wi-Fi, and structured \ncabling. Administer user accounts, permissions and access on Active Directory \nand Microsoft 365 tenant. Support and monitor ICT systems, servers, endpoint \nprotection and backup solutions. Conduct routine system maintenance and \napply approved updates and patches. Assist with the implementation of ICT \nprojects, infrastructure upgrades,",
+    "requirements": [
+      "Grade 12 plus an appropriate qualification at NQF 6 in Computer Science / \nInformation Technology or equivalent qualification in the field or area as \nrecognised by SAQA. A minimum of 2-3 years’ relevant experience. Valid motor \nvehicle driver’s licence (with the exception of persons with disabilities). \nKnowledge And Skills: Good knowledge of Microsoft Windows desktop and \nserver environments, including Microsoft 365. Knowledge of network \ninfrastructure: LAN/WAN, TCP/IP, routing, switching and Wi-Fi. Knowledge of \nActive Directory, user account administration and Group Policy. Hardware and \n"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-fcad737fe39c17b0",
+    "title": "SENIOR ORGANISATIONAL DEVELOPMENT PRACTITIONER DSD/2026/150 (X1 POST)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Head Office: Polokwane",
+    "category": "Information Technology",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/150",
+    "summary": "Assist with the development and review of organizational structure. Provide job \nevaluation services. Facilitate the development and review of job descriptions. \nImplement operations management framework interventions.",
+    "requirements": [
+      "Grade 12 plus an appropriate qualification at NQF 6 in Operations \nManagement/ Management Services/ Production Management/ Industrial and \nOrganisational Psychology or equivalent qualification in the relevant field or \narea as recognized by SAQA. A minimum of 2- 3 years’ relevant experience. \nValid motor vehicle driver’s licence (with the exception of persons with \ndisabilities). Knowledge And Skills: Knowledge of organisational design, \nrestructuring and development principles. Knowledge of Work Study \nTechniques. Knowledge of change management principles, strategies, and \nmodels. Knowledge o"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-b294636e2b9188c8",
+    "title": "SENIOR PERSONNEL PRACTITIONER: HUMAN RESOURCES PRACTICE AND ADMINISTRATION",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Polokwane Welfare Complex Ref No: DSD/2026/151 (X1 Post) \n\n \nSekhukhune District Office Ref No: DSD/2026/152 (X1 Post)",
+    "category": "Human Resources",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/151",
+    "summary": "Facilitate \nrecruitment \nand \nselection \nof \nemployees. \nFacilitate \ntransfer/secondment/placement. Facilitate conditions of services and benefits. \nSupervise staff. Additional key Result area for PWC post: Perform auxiliary \nservices, HRD and PMDS activities.",
+    "requirements": [
+      "Grade 12 plus an appropriate qualification at NQF level 6 in Human Resource \nManagement or Development or equivalent qualification in the relevant field or \narea as recognised by SAQA. PERSAL Literacy. A minimum of 2-3 years’ \nrelevant experience. Valid motor vehicle driver’s license (with the exception of \npersons with disabilities. Knowledge And Skills: Knowledge of legislative \nmandates governing the public service. Interpretation of policies. Knowledge \nof E-Recruitment. Computer literacy Good Communication skills. Report \nwriting skills. Basic Conditions of Employment Act, Public Service "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ca6d207d4ceecf3c",
+    "title": "SENIOR PROVISIONING ADMINISTRATIVE OFFICER: DEMAND & ACQUISITION MANAGEMENT",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Capricorn District Office",
+    "category": "Information Technology",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/148",
+    "summary": "Facilitate the requisition of quotations. Receive approved specifications / Terms \nof References (TORs) for advertisement of bids and invitation of quotations. \nIssue out requests for quotations. Closing of the bids and price quotations. \nRecord bids & quotations in the receipt registers and compilation of the \nchecklists. Facilitate bid specification and evaluation processes. Compile the \nappointment letters for bid evaluation and specification committee members. \nServe as the secretariat of the bid evaluation and specification committees. \nFacilitate compliance with SCM prescripts. Facilitate departmental supplier \ndatabase or CSD (Central ",
+    "requirements": [
+      "Grade 12 plus an appropriate qualification at NQF 6 in Financial Management \n/ SCM / Procurement Management / Logistic or equivalent qualification in the \nrelevant field or area as recognised by SAQA. A minimum of 2-3 years relevant \nexperience. Valid motor vehicle driver’s licence (with the exception of persons \nwith disabilities). Knowledge and Skills: Knowledge of Public Service \nRegulations, Acts, policies and procedures. Knowledge of Public Finance \nManagement Act (PFMA). Good communication and listening skills, Good \ninterpersonal relationship, Government financial systems (e.g., BAS and"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-f6b8e368f6898038",
+    "title": "SENIOR STATE ACCOUNTANT: SALARY ADMINISTRATION DSD/2026/153 (X1 POST)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Vhembe District Office",
+    "category": "Finance",
+    "salary": "R413 001 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/153",
+    "summary": "Administer the processing of salaries and allowances. Maintain payroll records \nand conduct reconciliation. Facilitate compliance of payroll administration with \nfinancial regulations. Provide payroll related financial information and reports. \nSupervise staff.",
+    "requirements": [
+      "Grade 12 plus an appropriate NQF 6 in Financial Management / Cost and \nManagement Accounting / Auditing / Commerce or equivalent qualification in \nthe relevant field or area as recognized by SAQA. PERSAL and BAS Literacy. \nA minimum of 2- 3 years’ relevant experience. Valid motor vehicle driver’s \nlicense (with exception of person with disabilities). Knowledge And Skills: \nKnowledge of Public Service Regulations, Acts, policies and procedures. \nKnowledge of Public Finance Management Act (PFMA). Good communication \nand listening skills, Knowledge of GRAP, GAAP and International financial \nrepor"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-01e708498827d584",
+    "title": "SOCIAL AUXILIARY WORKER GRADE 1 POST)",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Capricorn District: Botlokwa One Stop Centre",
+    "category": "Finance",
+    "salary": "R200 691 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/172",
+    "summary": "Provide assistance and support to social workers with the rendering of a social \nwork service with regard to the care, support, protection and development of \nvulnerable individuals, groups, families and communities through the relevant \ndepartmental programmes. Assist social workers to attend to any other matters \nthat could result in, or stem from, social instability in any form. Keep abreast \nwith new developments in the social work and social services field. Perform \nadministrative support functions in support of social workers as required of the \njob.",
+    "requirements": [
+      "An appropriate recognized NQF level 4 (Grade 12) or equivalent qualification \nas recognised by SAQA and Social Auxiliary Certificate. Current registration \nwith the South African Council for Social Service Professions (SACSSP) as \nSocial auxiliary worker. Knowledge And Skills: Demonstrate basic \nunderstanding of the South African social welfare context, the policy and \npractice of development social welfare services also the role of social auxiliary \nworker within this context. Define and demonstrate understanding of the \npurpose of social auxiliary work also with the role and functions of a s"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-bd972e4469e7a814",
+    "title": "SOCIAL WORKER GRADE 1",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Mopani District: Rotterdam One Stop",
+    "category": "Social Services",
+    "salary": "R338 208 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/154",
+    "summary": "Render social work services with regard to care, protection and development \nof vulnerable individuals, group, families and communities. Provide individual \nand group counselling. Conduct advance and specialized assessment aimed \nat identifying condition and justify relevant intervention. Implement the \nrecommendations on the appropriate intervention required to address the \nneeds and provide continuous support. Produce and maintain records of social \nwork interventions, processes and outcomes. Undertake social work research \nand development, contribute to and assist with the development of policies. \nPerform all the administrative functions ",
+    "requirements": [
+      "Grade 12 plus a Bachelor’s degree in Social Work as recognised by SAQA. \nCurrent registration with the South African Council for Social Service \nProfessions [SACSSP]. Valid motor vehicle driver’s license (with exception \nof persons with disabilities).Knowledge And Skills: Assessment skills, \nevaluation methods and processes; Supervision Framework for Social \nWorkers; Social Work legislation; Social work theory and interventions; \nInformation and Knowledge Management; Protocol and professional ethics; \nCommunication (written and verbal) skills; Proven computer literacy; \nOrganising and planning"
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
+  },
+  {
+    "id": "dpsa-ad8cab36e3d899a6",
+    "title": "STATE ACCOUNTANT: EXPENDITURE AND ACCOUNTS",
+    "department": "Department of Public Works, Roads And Infrastructure",
+    "province": "Limpopo",
+    "location": "Sekhukhune District Office Ref No: DSD/2026/155 (Re-advert) (X1 Post) \n\n \nWaterberg District Office Ref No: DSD/2026/156",
+    "category": "Information Technology",
+    "salary": "R338 106 per annum",
+    "closingDate": "2026-11-06",
+    "publishedDate": "2026-10-09",
+    "circular": "Circular 36 of 2026",
+    "reference": "DSD/2026/155",
+    "summary": "Assist in providing financial budgeting. Assist in processing of payments. Assist \nin performing creditor’s reconciliation. Maintaining payment register. \nAdminister salary matters. Rendering of general financial administration.",
+    "requirements": [
+      "Grade 12 plus an appropriate qualification at NQF 6 in Financial Management \n/ Accounting / Auditing or equivalent qualification in the relevant field or area as \nrecognised by SAQA. A minimum of 1-2 years’ relevant experience. Valid motor \nvehicle driver’s license (with exception of persons with disabilities). Knowledge \nAnd Skills: Knowledge of Public Service Regulations, Acts, policies and \nprocedures. Knowledge of Public Finance Management Act (PFMA). Good \ncommunication and listening skills, Good interpersonal relationship, Ability to \nhandle pressure. Conflict management. Leadership and "
+    ],
+    "sourceUrl": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/2026/36/w.pdf",
+    "circularPageUrl": "https://www.dpsa.gov.za/newsroom/psvc/circular-36-of-2026/"
   }
 ];
